@@ -1,0 +1,361 @@
+# Copyright (C) 2008 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+peaje {m} :: Maut {f}; Straßengebühr {f} \Verkehr
+peatonal {m} :: Fußgängerzone {f} \Verkehr
+peatón {m} | peatona {f} :: Fußgänger {m} | Fußgängerin {f} \Verkehr
+pecador {m} | pecadora {f} :: Sünder {m} | Sünderin {f} \Religion
+peca {f} :: Sommersprosse {f} \Personenbeschreibung \Körper
+pecaminoso {adj} :: sündig \Religion
+pecar {v} :: sündigen \Religion
+pecera {f} :: Aquarium {n} 
+pecho {m} :: Brust {f} \Körper
+pecho {m} :: Busen {m} \Körper
+pechuga {f} :: Brust {f} \Körper
+pechuga {f} :: Brust {f} (Fleisch) \Essen
+pecoso {adj} :: mit Sommersprossen; sommersprossig \Personenbeschreibung
+peculiar {adj} :: besonders
+peculiar {adj} :: eigentümlich
+peculiar {adj} :: speziell
+peculiaridad {f} :: Besonderheit {f}
+peculiaridad {f} :: Eigenart {f}
+pedagogía {f} :: Pädagogik {f}; Erziehungswissenschaft {f}
+pedagógico {adj} :: pädagogisch
+pedagogo {m} |pedagoga {f} :: Pädagoge {m} | Pädagogin {f} \Berufe
+pedalear {v} :: treten (in die Pedale)
+pedal {m} :: Pedal {n} \Technik \Verkehr
+pedante {adj} :: besserwisserisch; schulmeisterlich
+pedante {adj} :: pedantisch
+pedante {m} | pedante {f} :: Besserwisser {m} | Besserwisserin {f}
+pedante {m} | pedante {f} :: Pedant {m} | Pedantin {f}
+pedantería {f} :: Besserwisserei {f}
+pedantería {f} :: Pedanterie {f}; Kleinlichkeit {f}
+pedantesco {adj} :: pedantisch
+pedazo {m} :: Bruchstück {n}
+pedazo {m} :: Stück {n}
+pedestal {m} :: Sockel {m}
+pediatra {m} | pediatra {f} :: Kinderarzt {m} | Kinderärztin {f} \Medizin \Berufe
+pediatría {f} :: Pädiatrie {f}; Kinderheilkunde {f} \Medizin
+pedicura {f} :: Pediküre {f}; Fußpflege {f}
+pedicuro {m} | pedicura {f} :: Fußpfleger {m} | Fußpflegerin {f} \Berufe
+pedido {m} :: Auftrag {f}
+pedido {m} :: Bestellung {f}
+pedido {m} :: Einkauf {f}
+pedigrí {m} :: Stammbaum {m} (Tiere) \Tiere
+pedigüeña {adj} :: zudringlich; bettelnd; schnorrend
+pedigüeño {m} | pedigüeña {f} :: Quengler {m} | Quenglerin {f}
+pedigüeño {m} | pedigüeña {f} :: Schnorrer {m} | Scnorrerin {f}
+pedir perdón {v} :: entschuldigen
+pedir prestado {v} :: ausleihen
+pedir {v} :: beantragen
+pedir {v} :: betteln
+pedir {v} :: bitten
+pedir {v} :: fordern
+pedo; peo {adj} [coloq.] :: breit (unter Drogen) \Drogen
+pedo; peo {m} :: Furz {m}
+pedregoso {adj} :: steinig
+pedrisco {m} :: Hagel {m} \Wetter
+pedrisquero {m} :: Hagelschlag {m} \Wetter
+peer {v} :: furzen
+pegadizo {adj} :: aufdringlich
+pegadizo {adj} :: klebrig
+pegado {adj} :: anklebend; anhaftend
+pegado {adj} :: geklebt
+pegado {adj} :: klebend
+pega {f} [coloq.] :: Arbeit {f} \Arbeit
+pegajoso {adj} :: ansteckend
+pegajoso {adj} :: aufdringlich
+pegajoso {adj} :: klebrig
+pegajoso {adj} :: lästig
+pegamento {m} :: Klebstoff {m}; Kleber {m} \Technik
+pegamiento {m} :: Kleben {n}
+pegar {v} :: anheften
+pegar {v} :: ankleben
+pegar {v} :: anstecken (Krankheit)
+pegar {v} :: haften
+pegar {v} :: hauen; schlagen; prügeln; verprügeln
+pegar {v} :: kleben
+pegatina {f} :: Aufkleber {m} \Medien
+peinado {m} :: Frisur {f} \Personenbeschreibung
+peinar {v} :: frisieren
+peineta {m} :: Kamm {m}
+peladero {m} :: kahle Landschaft {f}; Wüste {f}
+pelado {adj} :: geschält
+pelado {adj} :: kahl
+pelador {adj} [coloq.] [Chile] :: klatschend; tratschend
+pelaje {m} :: Behaarung {f}
+pelaje {m} :: Fell {n} \Tiere
+pelambre [coloq.] [Chile] {m} :: Klatsch {m}
+pelar {v} :: enthaaren
+pelar {v} :: herziehen über; klatschen über
+pelar {v} :: pellen
+pelar {v} :: scheren
+peldaño {m} :: Sprosse {f}
+peldaño {m} :: Stufe {f} \Haus
+peleador {adj} :: streitsüchtig
+pelea {f} :: Kampf {m}
+pelea {f} :: Streit {m}
+pelear {v} :: kämpfen
+pelear {v} :: streiten
+peletería {f} :: Pelzgeschäft {n}
+peli- (+ Adjektiv) :: (Adjektiv +) -haarig \Personenbeschreibung
+pelícano {m} :: Pelikan {m} \Tiere
+pelicorto {adj} :: kurzhaarig \Personenbeschreibung
+película {f} :: Film {m} \Medien
+película {f} :: Folie {f} \Technik
+peligrar {v} :: in Gefahr sein
+peligro {m} :: Gefährdung {f}
+pelirrojo :: rothaarig \Personenbeschreibung
+pellejo {m} :: Fell {n}
+pellejo {m} :: Haut {f}
+pellizcar {v} :: kneifen
+pellizcar {v} :: zwicken
+pellizcón {m} :: Kniff {m}; Kneifen {n}
+pelo {m} :: Haar {n} \Körper \Personenbeschreibung
+pelotas {f} {pl} [coloq.] :: Hoden {m} {pl}; Eier {f} {pl}
+pelotón {m} :: Haufen {m}
+pelotón {m} :: Trupp {m}
+peltre {m} :: Zinn {n} \Elemente
+peluca {f} :: Perücke {f}
+peluche {m} :: Plüsch {m}
+peluche {m} :: Plüschtier {n}
+peludo {adj} :: behaart
+peludo {adj} :: haarig
+peludo {adj} :: pelzig
+peluquería {f} :: Friseur {m}; Friseurladen {m}
+peluquero {m} | peluquera {f} :: Frisör {m} | Frisörin {f}; Frisöse {f} \Berufe
+peluquín {m} :: Toupet {n} \Personenbeschreibung
+pelusa {f} :: Flaum {m}
+pelusa {f} :: Fluse {f}
+pelvis {f} :: Becken {n} \Körper
+pena de muerte {f} :: Todesstrafe {f}
+penado {adj} :: bestraft
+pena {f} :: Bestrafung {f}
+peña {f} :: Fels {m}
+peña {f} :: Freundeskreis {m}
+pena {f} :: Mitleid {n} \Gefühle
+pena {f} :: Mühe {f}
+pena {f} :: Schmerz {m} \Gefühle
+peña {f} :: Stammtisch {m}
+penal {adj} :: Straf-
+penalizar {v} :: bestrafen
+penalti {m} :: Strafstoß {m} \Sport
+peñasco {m} :: Felsen {m}; Fels {m}; Felsbrocken {m}
+peñascoso {adj} :: felsig
+penas {f} {pl} :: Kummer {m}
+penca {adj} [coloq.] [Chile] :: mies; schlecht
+penca {f} :: Rettich {m}
+penco {m} :: Gaul {m}
+pendejo [coloq.] [Am.] {m} :: Schamhaar {n} \Körper
+pendejo {m} :: Angsthase {m}
+pendejo {m} :: kleiner Junge {m}
+pender {v} :: hängen; herab hängen
+pendiente {adj} :: ausstehend; unerledigt
+pendiente {adj} :: hängend
+pendiente {f} :: Abhang {m}; Hang {m}
+pendiente {f} :: Gefälle {n}; Neigung {f}
+pendiente {f} :: Steigung {f}
+pendiente {m} :: hängender Ohrring {m} \Schmuck
+péndulo {m} :: Pendel {n} \Technik
+pene {m} :: Glied {n}; Penis {m} \Körper
+penetración {f} :: Durchdringung {f}
+penetración {f} :: Eindringen {n}
+penetración {f} :: Penetration {f}
+penetrador {adj} :: scharfsinnig
+penetrante {adj} :: durchdringlich
+penetrante {adj} :: penetrant
+penetrante {adj} :: scharf
+penetrante {adj} :: schrill
+penetrar {v} :: durchdringen
+penetrar {v} :: durchstoßen
+penetrar {v} :: eindringen
+penetrar {v} :: penetrieren
+península {f} :: Halbinsel {f} \Geographie
+penique {m} :: Penny {m}; Pfennig {m} \Geld
+penitencia {f} :: Bestrafung {f}
+penitencia {f} :: Buße {f} \Religion
+penitencia {f} :: Fasten {n} \Religion
+penitencia {f} :: Sühne {f}
+penitenciaría {f} :: Zuchthaus {n}; Strafanstalt {f}
+penitenciería {f} [Am.] :: Gefängnis {n}; Strafanstalt {f}
+penitente {adj} :: reuig
+penitente {mf} :: Büßer {m} | Büßerin {f}
+peñón {m} :: Felsblock {m}
+penoso {adj} :: anstrengend; beschwerlich; mühsam
+penoso {adj} :: schmerzlich; leidvoll
+pensador {m} :: Denker {m}
+pensamiento {m} :: Gedanke {m}
+pensamiento {m} :: Stiefmütterchen {n} \Pflanzen
+pensar (+ Verb) {v} :: vorhaben (zu +Verb)
+pensar {v} :: glauben; meinen
+pensar {v} :: nachdenken; überlegen
+pensativo {adj} :: nachdenklich
+pensionado {adj} :: pensioniert
+pensionado {m} :: Rentner {m}
+pensión {f} :: Pension {f}
+pensión {f} :: Rente {f}
+pensionista {f} :: Pensionsgast {m}
+pentágono {m} :: Fünfeck {n} \Mathematik
+Pentecostés {m} :: Pfingsten {n} \Feste \Religion
+penúltima {adj} :: vorletzte
+penumbra {f} :: Halbdunkel {n}
+penuria {f} :: Mangel {m}; Not {f}
+peonaje {m} :: Hilfsarbeit {f} \Arbeit
+peón {m} (ajedrez) :: Bauer {m} (Schach) \Spiele
+peón {m} [Am.] :: Tagelöhner {m} \Arbeit
+peón {m} :: Arbeiter {m}; Hilfsarbeiter {m}; Handlanger {m} \Berufe
+peón {m} :: ungelernte Arbeiter {m} \Berufe
+peonza {f} :: Kreisel {m} \Technik
+peor {adj} :: schlechter
+peor {adj} :: schlimmer
+peoría {f} :: Verschlechterung {f}
+peoría {f} :: Verschlimmerung {f}
+peor {m} :: Schlechteste {n}
+peor {m} :: Schlimmste {n}
+pepa {f} [Am.] [coloq.] :: Pille {f}
+pepa {f} [Am.] :: Kern {m} (Obst)
+pepa {f} [Am.] :: Nugget {n}
+pepinillo {m} :: eingelegte Gürkchen {n} \Essen
+pepita {f} :: Kern {m} (Obst)
+pepita {f} :: Nugget {m}
+pequeñeces {f} {pl} :: Kleinigkeiten {f} {pl}
+pequeñez {f} :: Kleinheit {f}
+pequeñez {f} :: Kleinigkeit {f}
+pequeñez {f} :: Lappalie {f}
+pequeñín :: winzig; ganz klein
+pequeño {adj} :: gering
+pequeño {adj} :: klein
+pera [Am.] {f} :: Kinn {n} \Körper
+pera {f} :: Birne {f} \Essen
+peral {m} :: Birnbaum {m} \Planzen
+perca {f} :: Barsch {m} \Tiere
+percance {m} :: Missgeschick {n}
+percance {m} :: Widrigkeit {f}
+percance {m} :: Zwischenfall {m}
+percán {m} [Chile] :: Schimmel {m}
+percatar {v} :: bemerken
+percebe {m} :: Seepocke {f} \Essen \Tiere
+percepción {f} :: Wahrnehmung {f}
+perceptible {adj} :: erkennbar
+perceptible {adj} :: wahrnehmbar; spürbar
+perceptivo {adj} :: Wahrnehmungs-
+percha {f} :: Bügel {m}; Kleiderbügel {m} \Kleidung
+percha {f} :: Kleiderstange {f}
+percha {f} :: Stange {f} (Sitzstange für Vögel)
+perchero {m} :: Garderobe {f}; Kleiderständer {m} \Haus
+percibir {v} :: empfinden
+percibir {v} :: erkennen
+percibir {v} :: fühlen
+percibir {v} :: wahrnehmen
+percudir {v} :: beschmutzen
+percusión {f} :: Perkussion {f}
+percusión {f} :: Schlag {m}; Stoß {m}
+percutir {v} :: schlagen; klopfen
+perdedor {adj} :: Verlierer-; verlierend
+perdedor {m} | perdedora {f} :: Verlierer {m} | Verliererin {f}
+perdedor {m} | perdedora {f} :: Versager {m} | Versagerin {f}
+perder {v} :: verlieren
+perdición {f} :: Untergang {m}
+perdición {f} :: Verhängnis {n}
+pérdida {f} :: Verlust {m}
+perdido {adj} :: verirrt
+perdido {adj} :: verloren
+perdiz {f} :: Rebhuhn {n} \Tiere
+perdonable {adj} :: verzeihlich
+perdonar {v} :: entschuldigen
+perdonar {v} :: verzeihen
+perdón {m} :: Entschuldigung {f}
+perdón {m} :: Vergebung {f}
+perdón {m} :: Verzeihung {f}
+¡perdón! :: Pardon!; Entschuldigung!: Verzeihung!
+perdurable {adj} :: dauerhaft
+perdurar {v} :: bestehen; bestehen bleiben
+perdurar {v} :: dauern
+perdurar {v} :: fortbestehen; fortwähren
+perdurar {v} :: währen
+perecer {v} :: sterben; umkommen
+perecer {v} :: zugrunde gehen
+peregrinaje {m}; peregrinación {f} :: Pilgerfahrt {f}; Wallfahrt {f} \Religion
+peregrinar {v} :: pilgern \Religion
+peregrinar {v} :: wandern (zu Fuß gehen)
+peregrino {adj} :: Pilger-
+peregrino {adj} :: seltsam
+peregrino {m} | peregrina {f} :: Pilger {m} | Pilgerin {f} \Religion
+perenne {adj} :: mehrjährig
+perenne {adj} :: andauernd; dauerhaft
+perentorio {adj} :: dringlich
+pereza {f} :: Faulheit {f}
+pereza {f} :: Trägheit {f}
+perezoso {adj} :: träge
+perezoso {m} :: Faulenzer {m}
+perezoso {m} :: Faultier {n} \Tiere
+perfeccionamiento {m} :: Perfektionierung {f}
+perfeccionamiento {m} :: Verbesserung {f}
+perfeccionar {v} :: perfektionieren
+perfeccionar {v} :: weiterentwickeln
+perfección {f} :: Perfektion {f}
+perfección {f} :: Vollendung {f}
+perfección {f} :: Vollkommenheit {f}
+perfeccionismo {m} :: Perfektionismus {m}
+perfeccionista {adj} :: perfektionistisch
+perfeccionista {m} | perfeccionista {f} :: Perfektionist {m} | Perfektionistin {f}
+perfectamente {adv} :: vollkommen; völlig
+perfecto {adj} :: perfekt
+perfecto {adj} :: vollendet
+perfecto {adj} :: vollkommen
+perfecto {adj} :: vorzüglich; meisterhaft
+pérfido {adj} :: perfide; heimtückisch; niederträchtig
+perfilar {v} :: profilieren
+perfilar {v} :: umreißen
+perfil {m} :: Profil {n}
+perfil {m} :: Umriss {m}; Kontur {f}; Silhouette {f}
+perforación {f} :: Durchbruch {m}
+perforación {f} :: Durchstechung {f}
+perforación {f} :: Lochung {f}
+perforación {f} :: Perforierung {f}
+perforado {adj} :: durchbohrt
+perforado {adj} :: gelocht
+perforador {m} :: Locher {m}
+perforar {v} :: durchbohren
+perforar {v} :: durchstechen
+perforar {v} :: lochen
+perforar {v} :: perforieren
+perfumar {v} :: parfümieren
+perfume {m} :: Duft {m}
+perfume {m} :: Parfüm {n}
+poner en peligro {v} :: gefährden
+ser una pena {v} :: schade sein
+tirarse pedos {v} :: furzen
+valer la pena {v} :: sich lohnen
+

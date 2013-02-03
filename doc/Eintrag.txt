@@ -1,0 +1,323 @@
+Anmerkung: Diese Datei wird derzeit überarbeitet.
+           Informationen, die sich wahrscheinlich ändern werden, sind mit
+	   drei Fragezeichen ("???") gekennzeichnet.	   
+
+Allgemein
+---------
+Der spanische Eintrag steht links, der deutsche rechts.
+Trennzeichen sind ein oder mehrere Tabulatoren.
+
+Synonyme Bedeutungen werden immer mit Semikolon (;) getrennt.
+Hat ein Wort mehrere Bedeutungen, so sollten auch verschiedene Einträge
+dafür erstellt werden (zumal es wahrscheinlich ist, dass die unterschiedlichen
+Bedeutungen auch eine Zuordnung zu verschiedenen Wortfeldern bedingen).
+
+Kommentare beginnen mit "#".
+
+Zwischenüberschriften, die eine Datei noch einmal thematisch gliedern,
+sind Kommentare, die in Großbuchstaben geschrieben werden.
+
+Allgemeine Anmerkungen stehen in runden Klammern: "(...)"
+
+Wortarten werden in geschweiften Klammern vermerkt.
+
+Adjektive
+---------
+Spanisch (linke Seite)
+<männliche Form>; <weibliche Form> (darüber bin ich mir noch nicht ganz sicher)
+oder
+<allgemeine Form>
+
+Nomen
+-----
+jeweils mit Genus
+
+Hinweis auf eine Pluralform {pl} nach dem Genus
+Wenn nur {pl}, aber kein Genus angegeben ist, ist gemeint, dass das Nomen
+in dieser Form sowohl männlich als auch weiblich sein kann:
+parientes {m} {pl}	Verwandte {pl}
+
+Reihenfolge bei gleichen Wörtern
+--------------------------------
+<Nomen>
+<Adjektiv>
+<Verb>
+<Verbformen>
+<reflexives Verb>
+<Verb mit Präpositionen>
+
+Reihenfolge innerhalb eines Eintrages:
+Bei verschiedenen Schreibweisen sollte die häufigere bzw. korrektere
+nach vorne, ggf. sollte eine Quelle/Begründung für diese Maßnahme als
+Kommentar eine Zeile später angegeben werden.
+
+
+Abkürzungen
+-----------
+z.B.
+
+EG : Europäische Gemeinschaft
+
+
+Anmerkungen
+-----------
+Kontext und Anmerkungen ist in runden Klammern, z.B.
+???ponerse		anziehen (Kleidung)
+
+Sprachebene, Regioneninformationen und  Fachgebiet stehen in eckigen Klammern.
+
+z.B.
+vos [Arg.] [Par.] [Ur.] [MA]		du
+
+regionale Varianten:
+[Esp.]		Spanien			wie RAE
+?[Can.]		Kanarische Inseln
+[Ext.]		Extremadura		wie RAE
+[Mad.]		Madrid			wie RAE
+
+[Am.]		Lateinamerika		wie RAE
+[Am. Mer.]	Südamerika		wie RAE
+[Arg.]		Argentinien		wie RAE
+[Bol.]		Bolivien		wie RAE
+[Chile]		Chile			wie RAE
+[Col.]		Kolumbien		wie RAE
+[Cuba]		Kuba			wie RAE
+[C. Rica]	Costa Rica		wie RAE
+[Ecuad.]	Ecuador			wie RAE
+[El Salv.]	El Salvador		wie RAE
+[Hond.]		Honduras		wie RAE
+[Méx.]		Mexiko			wie RAE
+???[MA]		Mittelamerika
+[Nic.]		Nicaragua		wie RAE
+[Par.]		Paraguay		wie RAE
+[Perú]		Peru			wie RAE
+[Ur.]		Uruguay			wie RAE
+[Ven.]		Venezuela		wie RAE
+
+[Schweiz]
+[Österreich]			ding-en: [Ös.]
+[Süddeutschland]
+[Bayern]
+[Norddeutschland]
+[Ostdeutschland]
+[alte Rechtschreibung]
+
+Abkürzungen:
+ABK : Abkürzung
+
+Sprachebenen, Stil:
+[pey.] [abwertend]
+[amtlich]
+???[inkorrekt]		nach Angaben der RAE inkorrekte Form
+???[modern]		nicht unbedingt RAE-konformes Spanisch, z.B. gewisse weibl. Formen
+[veraltet]
+[vulg.]			ding-en: [vulg.] [slang]
+?[coloquial] [ugs.]	RAE: [coloq.] ding-en: [coll.] [ugs.]
+[fig.]			wie RAE
+
+Fachsprachen (nur wenn zur Unterscheidung notwendig, sonst zur Erläuterung ...):
+[Anatomie]		ding-en: [anat.]
+???[Anrede]
+[Architektur]		ding-en: [arch.]
+[Astrologie]
+[Astronomie]		ding-en: [astron.]
+[Ballsport]
+[Basketball]
+[Billard]
+[Biologie]
+[Botanik]		ding-en: [bot.]
+[Chemie]
+[Computer]		ding-en: [comp.]
+[Eisenbahn]
+[Elektronik]
+[Element]
+[Essen]			ding-en: [cook.]
+[Film]
+???[Finanzwesen]	stattdessen nur [Geld]?
+[Fußball]
+[Gastronomie]		ding-en: [cook.]
+[Geld]			RAE: Com.
+			ding-en: [geogr.]
+[Grammatik]
+[Informatik]
+???[Internet]
+[Kampfkunst]
+[Kartenspiel]
+???[Kind]
+[Kleidung]
+[Klima]
+[Küche]			ding-en: [cook.]
+[Kunst]
+[Linguistik]
+[Literatur]
+[Mannschaftssport]
+[math.]			ding-en: [math.]
+[Medizin]		ding-en: [med.], RAE: [Med.]
+[Militär]		ding-en: [mil.]
+[Musik]			ding-en: [mus.]
+[Mythologie]
+[Optik]		
+			ding-en: [ornith.]
+???[Person]
+[Pflanze]		ding-en: [bot.]
+[Physik]		RAE: [Fís.]
+[Politik]		ding-en: [pol.]
+[Post]
+[Religion]
+[Schach]
+[Schuhe]
+[Schwimmen]
+[Sport]			ding-en: [sport] (ein Vorkommen)
+[Stoff]
+[Technik]
+[Telekommunikation]
+[Tennis]
+[Theater]
+[Typographie]
+[Wetter]
+[Zoologie]		ding-en: [zool.]
+
+ding-en: [Sprw.]/[prov.]
+ding-en: [naut.] [ornith.]
+
+{s}     Singular
+{pl}	Plural - wenn nur oder hauptsächlich die Pluralform üblich ist, bzw.
+                 wenn die Übersetzung im Singular ist
+
+Wortarten
+{adj}	Adjektiv
+{adv}	Adverb
+{prep}	Präposition
+{v}	Verb
+	TODO: wie werden Verben mit Präp. usw. gekennzeichnet?
+
+???Fälle
+{Nominativ}
+{Dativ}
+{Geniv}
+{Akkusativ}
+
+Genera
+{f}
+{m}
+{n}
+
+BEISPIELE
+
+anteojos {pl} {m} [Am.]	Brille {f}
+coger			nehmen
+coger [Am.]		ficken [vulg.]
+
+Themenlisten
+------------
+
+Die Themenlisten sollen demnächst automatisch aus Tags der Form 
+\Thema erzeugt werden. Ein oder mehrere Tags können an das Zeilenende 
+zu den Einträgen angefügt werden.
+Beispiel:
+
+facho {m} [coloq.] :: Faschist {m} \Politik \Schimpfwörter
+
+Bisher gibt es folgende Tags:
+
+Adel
+Alphabet
+Arbeit
+Architektur
+Astronomie
+Auto
+Berufe
+Bildung
+Biologie
+Chemie
+Computer
+Drogen
+Einheiten
+Einkauf
+Elemente
+Essen
+Familie
+Farben
+Feste
+Feuer
+Film
+Fische
+Gastronomie
+Gefühle
+Geld
+Geographie
+Geschichte
+Gewürz
+Grammatik
+Haus
+Humor
+Hygiene
+Informatik
+Kleidung
+Kommunikation
+Körper
+Kosmetik
+Kräuter
+Küche
+Kunst
+Länder
+Landwirtschaft
+Licht
+Linguistik
+Literatur
+Märchen
+Mathematik
+Medien
+Medizin
+Meteorologie
+Militär
+Möbel
+Musik
+Personenbeschreibung
+Pflanzen
+Philosophie
+Physik
+Pilze
+Politik
+Pronomen
+Recht
+Redewendungen
+Reisen
+Reiten
+Religion
+Schimpfwörter
+Schlafen
+Schmuck
+Schreiben
+Schuhe
+Sexualität
+Spiele
+Sport
+Sprachen
+Städte
+Stierkampf
+Technik
+Theater
+Tiere
+Tod
+Trinken
+Urlaub
+Verbrechen
+Verkehr
+Vögel
+Waffen
+Werkzeug
+Wetter
+Wirtschaft
+Zahlen
+Zeit
+
+OFFENE FRAGEN
+-------------
+
+ - Erläuterungen/Erklärungen auch in geschweiften Klammern?
+   ding-en: runde Klammern, z.B. Eintrag zu Bern
+ - Was ist der Gültigkeitsbereich der verschiedenen Anmerkungen?
+ - Einträge für die korrekte Verwendung von Präpositionen in einem
+   bestimmten Kontext?
+ - Bildungsvorschriften für Verben

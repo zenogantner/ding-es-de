@@ -1,0 +1,154 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# Arbeit, Büro usw.
+
+# geprüft: 02.07.2003 (Elena)
+
+# siehe auch: Geld
+
+carrera {f} :: Laufbahn {f}; Karriere {f}
+cliente {m} :: Kunde {m}
+cliente {f}; clienta {f} [modern] :: Kundin {f}
+comida de trabajo {f} :: Arbeitsessen {n}
+contrata {f} :: Vertrag {m} (für Schauspieler und Sänger)
+contrato {m} :: Vertrag {m}; Arbeitsvertrag {m}
+contratación {f} :: Abschluss {m}; Vertragsabschluss {m}; Einstellung {f}
+contratar :: einstellen; anstellen; engagieren; abmachen; abschließen
+convocatoria {f} :: Ausschreibung {f}
+departamento de recursos humanos {m} :: Personalabteilung {f}
+desempleado {m} :: Arbeitslose {m}
+desempleada {f} :: Arbeitslose {f}
+desempleo {m} :: Arbeitslosigkeit {f}
+despacho {m} :: Büro {n}
+despedir :: kündigen; entlassen
+despedir a alguien :: jemandem kündigen; jemanden entlassen
+despido {m} :: Kündigung {f}
+director {m} :: Direktor {m}
+director ejecutivo {m} :: Geschäftsführer {m}; CEO {m}
+empleado {m} :: Angestellte {m}
+empleo {m} :: Stelle {f}; Anstellung {f}
+emprendedor {m} :: Unternehmer {m}
+empresa {f} :: Unternehmen {n}
+empresa de exportación {f} :: Exportfirma {f}; Exportunternehmen {n}
+empresario {m} :: Unternehmer {m}
+escribir a máquina :: maschinenschreiben; tippen
+esquirol {m} :: Streikbrecher {m}
+estanco {m} :: Monopol {n}
+explotación {f} :: Ausbeutung {f}
+fábrica {f} :: Fabrik {f}
+fabricante {m} :: Hersteller {m}
+fabricar :: herstellen; anfertigen; machen; fabrizieren; erzeugen
+factura {f} :: Rechnung {f}; Abrechnung {f}
+gerente {m} :: Geschäftsführer {m}
+huelga {f} :: Streik {m}
+huelgista {m} :: Streikende {m}
+huelgista {f} :: Streikende {f}
+jefe {m} :: Chef {m}
+jubilado {m} :: Rentner {m}
+jubilada {f} :: Rentnerin {f}
+laboral :: arbeits-
+máquina de escribir {f} :: Schreibmaschine {f}
+mecanografiar :: maschinenschreiben
+de media jornada :: halbtags
+mensualidad {f} :: Monatslohn {m}; Monatsgehalt {n}; Monatsrate {f}
+mercado {m} :: Markt {m}
+minuta {f} :: Rechnung {f}; Honorarabrechnung {f}
+negocio {m} :: Geschäft {n}; Handel {m}; Laden {m}
+nombramiento {m} :: Ernennung {f}
+oficina {f} :: Büro {n}
+oficina de empleo {f} :: Arbeitsamt {n}
+oposición {f} :: Ausschreibung {f}
+parado {m} :: Arbeitsloser {m}
+parada {f} :: Arbeitslose {f}
+paro {m} :: Arbeitslosigkeit {f}
+paro forzoso {m} :: Arbeitslosigkeit {f}
+patrón {m} :: Chef {m}
+producción industrial {f} :: industrielle Produktion {f}
+producción en serie {f} :: Serienproduktion {f}; Serienherstellung {f}
+producto {m} :: Produkt {n}; Erzeugnis {n}
+puesto {m} :: Stelle {f}; Arbeitsstelle {f}
+puesto de trabajo {m} :: Arbeitsplatz {m}; Arbeitsstelle {f}
+ramo {m} :: Branche {f}
+rango {m} :: Rang {m}; Stufe in der Hierarchie {f}
+rentabilidad {f} :: Rentabilität {f}
+salario {m} :: Gehalt {n}; Verdienst {m}; Einkommen {n}
+solicitar :: sich bewerben
+taller {m} :: Werkstatt {f}
+tasa de paro {f} :: Arbeitslosenquote {f}; Arbeitslosenzahl {f}
+trabajar :: arbeiten
+trabajar en equipo :: in der Gruppe arbeiten; Gruppenarbeit machen
+trabajo {m} :: Arbeit {f}
+trabajo {m} :: Job {m} [ugs.]
+vida laboral {f} :: Arbeitsleben {n}
+
+# BERUFE
+profesión {f} :: Beruf {m}
+
+abogado {m} :: Anwalt {m}
+abogada {f} :: Anwältin {f}
+albañil {m} :: Maurer {m}
+arquitecto {m} :: Architekt {m}
+artesano {m} :: Handwerker {m}
+artesano; artesana :: Handwerks-; handwerklich
+cantante {m} :: Sänger {m}
+cantante {f} :: Sängerin {f}
+cantero {m} :: Steinmetz {m}
+carpintero {m} :: Zimmermann {m}; Zimmerer {m}
+comerciante {m} :: Kaufmann {m}
+criada {f} :: Dienstmädchen {n}; Bedienstete {f}
+criado {m} :: Bedienstete {m}
+ebanista {m} :: Tischler {m}; Schreiner {m}
+electricista {m} :: Elektriker {m}
+fontanero {m} :: Klempner {m}
+fotógrafa {f} :: Fotografin {f}
+fotógrafo {m} :: Fotograf {m}
+jurista {m} :: Jurist {m}; Rechtsgelehrte {m}
+jurista {f} :: Juristin {f}; Rechtsgelehrte {f}
+mecánico {m} :: Mechaniker {m}
+mendigo {m} :: Bettler {m}
+minero {m} :: Bergarbeiter {m}; Kumpel {m}
+modelo {m} :: Modell {n}
+muchacha {f} :: Dienstmädchen {f}
+mueblista {m} :: Tischler {m}; Schreiner {m}
+obrero {m} :: Arbeiter {m}
+objetor {m} :: Zivildienstleistender {m}; Zivi {m}; Zivildiener {m} [Österreich]; Verweigerer {m}
+pintor {m} :: Maler {m}
+pintora {f} :: Malerin {f}
+secretaria {f} :: Sekretärin {f}
+secretario {m} :: Sekretär {m}
+técnico {m} :: Techniker {m}
+vidente {f} :: Hellseherin {f}
+vidente {m} :: Hellseher {m}
+

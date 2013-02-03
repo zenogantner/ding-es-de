@@ -1,0 +1,286 @@
+# Copyright (C) 2007 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+a largo plazo :: langfristig
+a lo largo de {adv} :: entlang
+a lo largo de {adv} :: im Laufe (+Genitiv); während
+dar lástima {v} :: Leid tun
+de mala leche {f} [coloq.] [Esp.] :: schlecht gelaunt; mies drauf
+detergente lavaplatos {m} :: Spülmittel {n}; Geschirrspülmittel {n} 
+detergente lavavajillas {m} :: Spülmittel {n}; Geschirrspülmittel {n}
+laberinto {m} :: Labyrinth {n} 
+labio {m} :: Lippe {f} \Körper
+laboral {adj} :: Arbeits-; Berufs-
+labor {f} :: Werk {n}
+laborista {adj} :: Labour- \Politik
+labor {m} :: Arbeit {f} 
+labrador {m} :: Feldarbeiter {m} \Berufe \Landwirtschaft
+labrador {m} :: Landwirt {m} \Berufe \Landwirtschaft
+labranza {f} :: Feldarbeit {f} \Landwirtschaft
+labrar {v} :: bearbeiten (Feld)
+labrar {v} :: pflügen \Landwirtschaft
+lacado {m} :: Lackierung {f} \Technik 
+laca {f} :: Haarlack {m}
+laca {f} :: Lack {m} \Technik
+lacar {v} :: lackieren
+laceración {f} :: Schädigung {f} 
+lacho {m} [Chile]  :: Frauenheld {m} 
+lacho {m} [Chile]  :: Liebhaber {m} 
+lacio {adj} :: kraftlos 
+lacio {adj} :: schlaff [ugs.] 
+lacio {adj} :: welk
+lacrimógeno {adj} :: Tränen- 
+lactante {adj} :: stillend
+lactante {m} :: Säugling {m} 
+lácteo {adj} :: Milch-
+ladeado {adj} :: geneigt
+ladearse {v} :: sich neigen
+ladear {v} :: neigen 
+ladilla {f} ::  Filzlaus {f} \Tiere \Medizin
+ladrido {m} :: Bellen {n}; Gebell {n}  
+ladrillo {m} :: Ziegel {m}; Ziegelstein {m} 
+ladrona {f} :: Diebin {f} \Verbrechen
+ladrón {m} :: Dieb {m} \Verbrechen
+la :: es (sächliches Akkusativpronomen in bestimmten Ausdrücken, z.B. la sabe, la sufre la caga)
+la :: sie (weibliches Akkusativpronomen)
+lagaña {f} :: Schlaf {m} (getrocknetes Augensekret)
+lagartija {f} :: Eidechse {f} \Tiere
+lagarto {m} :: Echse {f} \Tiere
+lago {m} :: See {m} 
+lagrimear {v} :: tränen
+laguna {f} :: Lagune {f} 
+laguna {f} :: Lücke {f}
+laguna {f} :: Teich {m}
+la lealtad :: die Ehrlichkeit {f}
+lamentar {v} :: Leid tun
+lamentar {v} :: beklagen
+lamer {m} :: Lecken {n}
+lamer {v} :: ablecken
+lamer {v} :: lecken
+lamido {adj} :: geleckt
+lamido {adj} :: glatt
+lamido {m} :: Lecken {n} 
+laminado {adj} :: in Scheiben
+laminado {adj} :: laminiert
+lámina {f} :: Blatt {n}
+lámina {f} :: Folie {f} 
+lámina {f} :: Platte {f}
+laminar {v} :: in Scheiben schneiden
+laminar {v} :: laminieren
+lampiño {adj} :: bartlos \Personenbeschreibung
+lampiño {adj} :: haarlos; unbehaart \Personenbeschreibung
+lancha {f} :: Barkasse {f}
+lancha {f} :: Kutter {m} 
+langosta {f} :: Heuschrecke {f} \Tiere
+langostino {m} :: Garnele {f} \Tiere \Essen
+lánguido {adj} :: schlaff; matt
+lanzado {adj} :: draufgängerisch; tatkräftig
+lanza {f} :: Speer {m}; Lanze {f} 
+lanzamiento {m} :: Abwurf {m}; Wurf {m} 
+lanzamiento {m} :: Markteinführung {f} 
+lanzamiento {m} :: Start {m} (Rakete)
+lanzarse {v} :: sich werfen (auf)
+lanzar {v}  :: lancieren; einführen; auf den Markt bringen
+lanzar {v} :: werfen; schleudern; schmeißen [ugs.] 
+lapa {f} :: Napfschnecke {f} \Tiere \Essen
+lápida {f} :: Grabstein {m} \Tod
+lápiz pasta {m} :: Kugelschreiber {m}; Kuli {m}
+lapso {m} :: Zeitspanne {f}; Zeitraum {m}  
+largarse {v} :: weggehen; abhauen [ugs.] 
+largar {v} :: entfernen
+largar {v} :: losmachen; loslassen
+largar {v} :: verraten (Geheimnis)
+largo {adj} :: lang; Lang-
+largo {adj} :: weit (Entfernung)
+¡largo!; ¡largo de aquí! :: weg!; geh weg!
+largo {m} :: Länge {f} 
+laringe {f} :: Kehlkopf {m} \Körper
+laringitis {f} :: Kehlkopfentzündung {f} \Medizin
+larva {f} :: Brut {f} (frischgeschlüpftes Tier) \Tiere
+larva {f} :: Larve {f} \Tiere
+la sabe toda :: er/sie weiß (es) alles
+láser {m} :: Laser {m} \Technik
+lastimarse {v} :: sich verletzen
+lastimarse {v} :: sich weh tun [ugs.]
+lastimar {v} :: verletzen
+lastimar {v} :: weh tun [ugs.] 
+lata {f} :: Blech {n} 
+latente {f} :: verborgen; latent
+lateral {adj} :: seitlich; Seiten-
+latido {m} :: Pochen {n} (Schmerz)
+latido {m} :: Pulsieren {n} 
+latido {m} :: Schlagen {n}; Schlag {m} (Herz)
+latifundio {m} :: Großgrundbesitz {m} 
+latigazo {m} :: Peitschenhieb {m} 
+latiguillo {m} :: Ableger {m} (Pflanzen)
+latina {f} :: Lateinamerikanerin {f}
+latín {m} :: Latein {n} 
+latino {adj} :: lateinisch
+latinoamericana {f} :: Lateinamerikanerin {f}
+latinoamericano {adj} :: lateinamerikanisch
+latinoamericano {m} :: Lateinamerikaner {m}
+latino {m} :: Lateinamerikaner {m}
+latir {v} :: pochen (Schmerz)
+latir {v} :: pulsieren
+latir {v} :: schlagen (Herz)
+latitud {f} :: Breite {f}; Ausdehnung {f}
+latitud {f} :: Breitengrad {m} 
+latoso {adj} :: langweilig
+latoso {adj} :: langwierig
+latoso {adj} :: lästig; leidig
+latoso {adj} :: nervig [ugs.]	
+latoso {m} [coloq.] :: Nervensäge {f} [ugs.] 
+laurel {m} :: Lorbeerblätter {n} {pl} \Essen
+lavado {m} :: Wäsche {f} 
+lavamanos {m} :: Waschbecken {n} 
+lavanda {f} :: Lavendel {m} 
+lavandera {f} :: Wäscherin {f}
+lavandería {f} :: Wäscherei {f} 
+lavaplatos {m} :: Geschirrspülmaschine {f} 
+lavaplatos {m} :: Tellerwäscher
+lavar {v} :: abwaschen
+lavavajillas {m} :: Geschirrspülmaschine {f} 
+laxante {m} :: Abführmittel {n} 
+lazo {m} :: Bindung {f} 
+lazo {m} :: Lasso {n} 
+lazo {m} :: Schlaufe {f}; Schlinge {f} 
+leal {adj} :: aufrichtig; ehrlich
+leal {adj} :: loyal
+leal {adj} :: treu; getreu
+lealtad {f} :: Loyalität {f} 
+lección {f} :: Belehrung {f} 
+lección {f} :: Lehre {f} 
+lección {f} :: Lektion {f} 
+lección {f} :: Unterrichtsstunde {f} 
+¡leche! [coloq.] [Esp.] :: Mist!; verdammt!; Scheiße!
+leche {f} [Esp.] [vulg.] :: Wichse {f} [vulg.] 
+lechera {f} :: Milchkanne {f} 
+lechero {adj} :: Milch-
+lechero {m} :: Milchmann {m} 
+lecho {m} :: Grund {m} (Fluss, See, Meer)
+lecho {m} :: Lager {m}; Bett {n}  
+lecho {m} :: Lagerstätte {f} 
+lechón {m} :: Ferkel {n} \Tiere
+lechón {m} :: Spanferkel {n} \Essen
+lechoso {adj} :: milchig
+lechuga {f} :: Salat {f}; Blattsalat {m}; Kopfsalat {m}   
+lechuza {f} :: Kauz {m}; Eule {f}  
+lechuza {f} [pey.] :: hässliche Frau {f} \Schimpfwörter
+lectora {f} :: Lektorin {f}
+lector {m} :: Lektor {m} 
+lectura {f} :: Lektüre {f}
+lectura {f} :: Lesen {n} 
+lectura {f} :: Lesung {f} 
+leer {v} :: ablesen
+leer {v} :: lesen
+leer {v} :: vorlesen
+legado {adj} :: anvertraut 
+legado {m} :: Vermächtnis {n}; Hinterlassenschaft {f}
+legal {adj} :: gesetzlich
+legal {adj} :: legal; gesetzmäßig; rechtmäßig
+legalidad {f} :: Legalität {f}; Rechtmäßigkeit {f}
+legalizar {v} :: legalisieren
+legalmente {adv} :: legal
+legendario {adj} :: legendär
+legible {adj} :: lesbar
+legionela {f} :: Legionelle {f} \Medizin
+legislativo {adj} :: gesetzgebend; legislativ \Politik
+legislatura {f} :: Legislative {f} \Politik 
+legislatura {f} :: Legislaturperiode {f} \Politik
+legista {m} :: Rechtsgelehrte {m} 
+legitimar {v} :: legitimieren
+legitimidad {f} :: Legitimität {f} 
+legítimo {adj} :: legitim
+legua {f} :: spanische Meile {f} (5,57 km)
+legumbre {m} :: Hülsenfrucht {f} \Essen
+lejano {adj} :: fern; weit entfernt
+lejía {f} :: Bleichmittel {n} 
+lejía {f} :: Lauge {f}
+lejos {adv} :: entfernt; weit; weit weg 
+lema {m} :: Grundsatz {m}; Leitsatz {m} 
+lema {m} :: Kennwort {n}
+lencería {f} :: Wäsche {f}; Unterwäsche {f} (für Frauen)
+lengua {f} :: Zunge {f} \Körper
+lentamente {adv} :: langsam
+lenteja {f} :: Linsen {f} {pl} \Essen 
+lente {m} :: Linse {f}
+lentes {m} {pl} :: Brille {f} 
+lentitud {f} :: Langsamkeit {f}; Gemächlichkeit {f} 
+leñador {m} :: Holzfäller {m}
+leña {f} :: Brennholz {n} 
+leña {f} :: Holz {n} 
+leona {f} :: Löwin {f} \Tiere
+león {m} :: Löwe {m} \Tiere
+leopardo {m} :: Leopard {m} \Tiere
+lepra {f} :: Lepra {f} \Medizin
+leproso {adj} :: leprös; leprakrank
+lesbiana {adj} :: lesbisch \Sexualität
+lesionado {adj} :: geschädigt
+lesionado {adj} :: verletzt
+lesionar {v} :: verletzen; schädigen 
+lesión {f} :: Schaden {m}; Fehler {m} 
+lesión {f} :: Wunde {f}
+leso {adj} [coloq.] [Chile] :: blöd [ugs.]; bekloppt [ugs.] 
+letal {adj} :: tödlich
+letárgico {adj} :: lethargisch
+letrado {adj} :: gebildet
+letrado {m} [Méx.] :: Anwalt {m} \Berufe
+letrado {m} :: Schriftgelehrter {m} \Berufe
+letra {f} :: Buchstabe {m} 
+letra {f} :: Liedtext {m} 
+letra {f} :: Rate {f}  
+letra {f} :: Wechsel {m}; Schuldschein {m} 
+letrero {m} :: Wegweiser {m} 
+leucemia {f} :: Leukämie {f} \Medizin
+levadura {f} :: Hefe {f} \Essen \Trinken
+levantamiento {m} :: Aufstand {m} \Politik
+levantamiento {m} :: Erhebung {f} 
+levantar {v} :: anheben
+levantar {v} :: aufbauen; errichten
+levantar {v} :: aufheben
+levantar {v} :: aufwirbeln (Staub)
+levantar {v} :: hoch heben
+levantar {v} :: verursachen
+levante {m} :: Morgenland {n} 
+levante {m} :: Sonnenaufgang {m}
+leve {adj} :: harmlos
+leve {adj} :: leicht; gering; geringfügig
+levemente {adv} :: leicht
+leyenda {f} :: Legende {f} 
+ley {f} :: Gesetz {n} 
+médico legista {adj} :: Amtsarzt {m} 
+¡que lástima! :: wie schade!
+¡que lata! [coloq.] [Chile] :: wie schade!
+suelo laminado {m} :: Laminatfußboden {m}
+vaca lechera {f} :: Milchkuh {f} \Landwirtschaft

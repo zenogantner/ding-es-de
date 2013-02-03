@@ -1,0 +1,118 @@
+# Copyright (C) 2003, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+A lo que íbamos ... :: Wo war ich stehen geblieben?
+
+Así de pronto ... :: So auf die Schnelle ...
+
+Claro que si. :: Na klar.
+
+¿Cómo dice? :: Wie bitte?
+
+¿Cómo estás? :: Wie geht es Dir?
+
+¿Cómo estás? :: Wie geht's?
+
+¿Cómo se llama usted? :: Wie heißen Sie?
+
+Con mucho gusto. :: Gerne.
+
+Encantada. :: Angenehm.
+
+Encantado. :: Angenehm.
+
+Gracias. :: Danke.
+
+Hasta luego. :: Bis später.
+
+Hasta mañana. :: Bis morgen.
+
+Hasta pronto. :: Bis bald.
+
+Más despacio, por favor. :: Bitte etwas langsamer.
+
+No lo entiendo. :: Ich verstehe nicht.
+
+No, lo siento. :: Nein, tut mir leid.
+
+Oye. :: Hör zu. Hör mir zu.
+
+¿Puede repetir, por favor? :: Würden Sie das bitte wiederholen?
+
+¿Puedes repetir, por favor? :: Würdest du das bitte wiederholen?
+
+¿Quieres que te lleve a mi casa? :: Willst du mit zu mir kommen?
+
+Sólo un poquito. :: Nur ein bisschen.
+
+Te invito a una copita. :: Ich lade Dich zu einem Gläschen ein.
+
+Ya era hora. :: Das war höchste Zeit.
+
+
+
+¿Qué quiere decir "zapato"? :: Was bedeutet "zapato"?
+
+¿Se puede decir "..."? :: Kann man "..." sagen?
+
+Llegas a punto. :: Du kommst gerade richtig.
+
+¿Que haces tú por aquí? :: Was machst Du denn hier?
+
+Tengo que irme. :: Ich muss gehen.
+
+Quiero dar un paseo, ¿vienes conmigo? :: Ich will einen Spaziergang machen, kommst du mit?
+
+Se lo diré. :: Ich werde es ihm sagen.
+
+¿Qué hacéis? :: Was machst du?
+
+¿Qué estáis haciendo? :: Was machst du gerade?
+
+No hace falta. :: Es ist nicht nötig.
+
+¿Qué pasó? [Méx.] :: Was ist los?
+
+¿Qué tal? :: Wie geht's?
+
+¿Qué tal está usted? :: Wie geht es Ihnen?
+
+¿Dónde está? :: Wo ist er/sie/es?
+
+¿Cuándo empezaste? :: Wann hast Du (damit) angefangen?
+
+¿Cómo te va? :: Wie geht es Dir?
+
+Depende. :: Das kommt darauf an.
+

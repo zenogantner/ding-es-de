@@ -1,0 +1,244 @@
+# Copyright (C) 2008 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+oasis {m} :: Oase {f} \Geographie
+obedecer {v} :: befolgen
+obediencia {f} :: Gehorsam {m}
+obelisco {m} :: Obelisk {m} \Architektur
+obesidad {f} :: Fettleibigkeit {f} \Medizin
+obeso {adj} :: fettleibig \Medizin
+obeso {adj} :: korpulent
+obispado {m} :: Bistum {n} \Religion
+objeción {f} :: Einwand {m}
+objetar {v} :: einwenden
+objetar {v} :: widersprechen
+objetividad {f} :: Sachlichkeit {f}
+objetividad {f} :: Objektivität {f}
+objetivo {adj} :: sachlich
+objetivo {adj} :: objektiv
+objetivo {m} :: Objekt {n}
+objetivo {m} :: Objektiv {n}
+objetivo {m} :: Ziel {n}
+objetivo {m} :: Zweck {m}
+objeto {m} :: Objekt {n}; Gegenstand {m}; Sache {f}
+objeto {m} :: Absicht {f}
+objeto {m} :: Ziel {n}
+objeto {m} :: Zweck {m}
+oblicuo {adj} :: schräg; schief
+obligación {f} :: Pflicht {f}
+obligación {f} :: Zwang {m}
+obligado {adj} :: genötigt; gezwungen
+obligar {v} :: nötigen
+obligatorio {adj} :: obligatorisch
+obligatorio {adj} :: Pflicht-
+oblongo {adj} :: länglich
+obra {f} :: Baustelle {f}
+obra {f} :: Bau {m}
+obra {f} :: Werk {n}; Tat {f}; Arbeit {f}
+obra {f}; obra de arte {f} :: Kunstwerk {n}
+obra maestra {f} :: Meisterwerk {n}
+obrar {v} :: arbeiten
+obrar {v} :: bauen
+obrar {v} :: wirken
+obrera {f} :: Arbeiterin {f} \Berufe
+obrera {f} :: Bauarbeiterin {f} \Berufe
+obrero {m} :: Bauarbeiter {m} \Berufe
+obscenidad {f} :: Obszönität {f}
+obsceno {adj} :: unanständig
+obsceno {adj} :: obszön
+oscurecer {v} :: dunkel werden
+oscurecer {v} :: verdunkeln
+oscurecer {v} :: verschleiern
+oscuridad {f} :: Dunkelheit {f}; Dunkel {n}
+oscuridad {f} :: Finsternis {f}
+oscuridad {f} :: Verborgenheit {f}; Verborgene {n}
+oscuro {adj} :: dunkel
+oscuro {adj} :: unklar
+oscuro {adj} :: finster; düster
+obsequiar {v} :: beschenken
+obsequio {m} :: Geschenk {n}; Gabe {f}
+observación {f} :: Bemerkung {f}
+observación {f} :: Überwachung {f}
+observación {f} :: Beobachtung {f}
+observador {adj} :: beobachtend
+observador {m}| observadora {f} :: Beobachter {m}| Beobachterin {f}
+observar {v} :: betrachten
+observar {v} :: überwachen
+observatorio {m} :: Warte {f}
+observatorio {m} :: Observatorium {n}
+obsesión {f} :: Besessenheit {f}
+obsesión {f} :: fixe Idee {f}
+obsesivo {adj} :: obsessiv
+obsesionado {adj} :: besessen
+obsoleto {adj} :: veraltet; obsolet
+obstáculo {m} :: Hürde {f}
+obstinación {f} :: Dickköpfigkeit {f}
+obstinación {f} :: Störrigkeit {f}
+obstinado {adj} :: dickköpfig; eigensinnig
+obstrucción {f} :: Verstopfung {f}; Obstruktion {f}; Blockade {f}
+obstruir {v} :: blockieren
+obstruir {v} :: verstopfen
+obtención {f} :: Beschaffung {f}
+obtención {f} :: Erhalt {m}
+obtener {v} :: erhalten; bekommen
+obtener {v} :: kriegen
+obtener {v} :: erreichen; erzielen
+obtenible {adj} :: erhältlich
+obvio {adj} :: offensichtlich
+obvio {adj} :: klar
+ocasional {adj} :: gelegentlich
+ocasional {adj} :: zufällig
+ocasionar {v} :: bewirken; verursachen
+ocasión {f} :: Anlass {m}
+ocasión {f} :: Versuchung {f}
+occidental {adj} :: West-
+occidental {adj} :: westlich
+occidente {m} :: Abendland {n}
+occidente {m} :: Westen {m}
+océano {m} :: Ozean {m}; Meer {n} \Geographie
+ocio {m} :: Freizeit {f}
+ocio {m} :: Muße {f}
+ociosidad {f} :: Müßiggang {m}
+ociosidad {f} :: Untätigkeit {f}
+ocioso {adj} :: müßig
+ocioso {adj} :: untätig
+ocluir {v} :: verschließen
+ocluir {v} :: verdecken
+octógono {m} :: Achteck {n}
+ocular {adj} :: Augen-
+ocular {m} :: Okular {n}
+oculista {mf} :: Augenarzt {m}| Augenärztin {f} \Medizin
+ocultar {v} :: geheim halten
+ocultar {v} :: verheimlichen
+ocultar {v} :: verdecken
+ocultar impuestos :: Steuern hinter ziehen
+ocultismo {m} :: Okkultismus {m} \Religion
+oculto {adj} :: geheim
+ocupación {f} :: Arbeit {f}
+ocupación {f} :: Beschäftigung {f}
+ocupación {f} :: Besatzung {f} \Politik
+ocupación {f} :: Besetzung {f}
+ocupación {f} :: Auslastung {f}
+ocupado {adj} :: beschäftigt
+ocupado {adj} :: besetzt
+ocupa {m} {f} [coloq.] :: Hausbesetzer {m}| Hausbesetzerin {f}
+ocupa {m} {pl} :: Hausbesetzer {m} {pl}
+ocupante {m} :: Insasse {m}
+ocupante {m} :: Fahrgast {m} \Verkehr
+ocupante {m} :: Besetzer {m}
+ocupar {v} :: beschäftigen
+ocupar {v} :: besetzen
+ocuparse de {v} :: sich kümmern um
+ocurrencia {f} :: Einfall {m}; Idee {f}
+ocurrencia {f} :: Vorfall {m}
+ocurrir {v} :: geschehen; sich ereignen
+ocurrir {v} :: einfallen
+ocurrir {v} :: vorkommen
+odiar {v} :: hassen
+odioso {adj} :: verhasst
+odioso {adj} :: lästig
+odioso {adj} :: gemein; gehässig
+odisea {f} :: Odyssee {f}
+odontología {f} :: Zahnmedizin {f} \Medizin
+odontólogo {m} | odontóloga {f} :: Zahnarzt {m} | Zahnärztin {f} \Medizin
+ofender {v} :: beleidigen; kränken; verletzen
+ofendido {adj} :: beleidigt; gekränkt \Gefühle
+ofensa {f} :: Beleidigung {f}
+ofensivo {adj} :: beleidigend; verletzend
+ofensivo {adj} :: angriffslustig
+ofensivo {adj} :: Angriffs-
+ofensivo {adj} :: offensiv
+oferta {f} :: Angebot {n}; Offerte {f}
+oficial {adj} :: amtlich; behördlich
+oficial {adj} :: Amts-
+oficial {adj} :: Dienst-
+oficial {adj} :: dienstlich
+oficial {adj} :: offiziell
+oficiar {v} :: amtieren
+oficina {f} :: Agentur {f}
+oficina {f} :: Behörde {f}
+oficinista {mf} :: Büroangestellte {m} | Büroangestellte {f} \Berufe
+oficio {m} :: Amt {n}
+oficio {m} :: Beruf {m}
+oficio {m} :: Berufung {f}
+oficioso {adj} :: geschäftig
+ofrecer {v} :: anbieten
+ofrecer {v} :: bieten
+ofrecimiento {m} :: Angebot {n}
+ofrenda {f} :: Opfer {n} \Religion
+oftalmólogo {m} :: Augenarzt {m} \Medizin
+ofuscar {v} :: trüben (Verstand)
+ofuscar {v} :: verdunkeln
+ogro {m} :: Scheusal {n}; Unhold {m}
+ogro {m} :: Oger {m} (Märchen)
+oído {m} :: Gehör {n} \Körper
+oído {m} :: Gehörsinn {m}
+oír {v} :: anhören
+oír {v} :: hören
+ojalá {adv} :: hoffentlich
+ojal {m} :: Knopfloch {n} \Kleidung
+ojal {m} :: Öhr {n}
+ojeada {f} :: kurzer Blick {m}
+ojear {v} :: beäugen
+ojera {f} :: Augenring {m} \Personenbeschreibung
+ojeroso {adj} :: mit Ringen unter den Augen \Personenbeschreibung
+ojo clínico {m} :: scharfe Blick {m}
+¡Ojo! :: Vorsicht!; Achtung!
+ojo {m} :: Öffnung {f}; Loch {n}
+ojo {m} :: Öhr {n}
+ola {f} :: Welle {f}
+ola {f} :: Woge {f}
+oleada {f} :: Welle {f}
+oleaje {m} :: Wellengang {m}; Seegang {m}
+oleaje {m} :: Brandung {f}
+óleo {m} :: Ölgemälde {n} \Kunst
+oler {v} :: riechen
+oler mal {v} :: stinken
+olfato {m} :: Geruchssinn {m}; Geruch {m}
+olfato {m} :: Gespür {n}; Spürsinn {m}; Riecher {m}
+olfatorio {adj} :: Geruchs-
+olimpiada {f} :: Olympiade {f} \Sport
+olímpico {adj} :: olympisch \Sport
+olivo {m} :: Ölbaum {m}; Olivenbaum {m} \Pflanzen
+olla {f} :: Kochtopf {m}
+olla {f} :: Topf {m}
+olla a presión {f} :: Schnellkochtopf {m}
+olor {m} :: Duft {m}
+olor {m} :: Geruch {m}
+oloroso {adj} :: wohlriechend
+olvidadizo {adj} :: vergesslich
+olvidado {adj} :: vergessen
+olvidar {v} :: verlernen
+olvido {m} :: Vergessen {n}
+

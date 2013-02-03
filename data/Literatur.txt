@@ -1,0 +1,81 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2004 Simon Kmiecik
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+antihéroe {m} :: Antiheld {m}
+antología {f} :: Anthologie {f}; Zusammenstellung {f}
+autobiografía {f} :: Autobiographie {f}
+autobiográfico; autobiográfica {adj} :: autobiographisch
+autor {m}; escritor {m} :: Autor {m}; Verfasser {m}
+autora {f}; escritora {f} :: Autorin {f}; Verfasserin {f}
+ciencia ficción {f} :: Science-Fiction {f}
+cita {f} :: Zitat {n}
+citar :: zitieren
+cómic {m} :: Comic {m}
+cuento {m} :: Erzählung {f}; Geschichte {f}
+escribir :: schreiben
+escritor {m} :: Schriftsteller {m}; Autor {m}
+escritora {f} :: Schriftstellerin {f}; Autorin {f}
+ficticio; ficticia {adj} :: fiktiv; erfunden; frei erfunden
+héroe {m} :: Held {m}
+heroína {f} :: Heldin {f}
+lector {m} :: Leser {m}
+lectora {f} :: Leserin {f}
+librería {f} :: Buchhandlung {f}
+libro {m} :: Buch {n}
+lírica {f} :: Lyrik {f}
+lírico; lírica {adj} :: lyrisch
+literatura {f} :: Literatur {f}
+narrador {m} :: Erzähler {m}
+narradora {f} :: Erzählerin {f}
+narrativo; narrativa {adj} :: erzählend; narrativ
+novela {f} :: Roman {m}
+novela policíaca {f}; novela policiaca {f} :: Krimi {m}; Kriminalroman {m}
+novedad {f} :: Neuerscheinung {f} [Literatur]
+novelista {m} :: Romanautor {m}; Romancier {m}
+novelista {f} :: Romanautorin {f}
+poema {m} :: Gedicht {n}; Dichtung {f}
+poeta {m} :: Dichter {m}
+poético; poética {adj} :: poetisch; Dichter-
+prologar :: das Vorwort schreiben
+prosa {f} :: Prosa {f}
+protagonista {m} :: Protagonist {m}; Hauptperson {f}
+protagonista {f} :: Protagonistin {f}; Hauptperson {f}
+ratón de biblioteca {m} :: Bücherwurm {m}
+soneto {m} :: Sonett {n}
+título literario {m} :: literarische Auszeichnung {f}; Literaturpreis {m}
+trilogía {f} :: Trilogie {f}
+verso {m} :: Vers {m}; Gedicht {n}
+yambo {m} :: Jambus {m}
+

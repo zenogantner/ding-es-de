@@ -1,0 +1,80 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+acordeón {m} :: Akkordeon {n}
+arpa {f} :: Harfe {f}
+bailar :: tanzen
+baile {m} :: Tanz {m}
+balada {f} :: Ballade {f}
+bis {m} :: Zugabe {f} [Musik]
+bisar :: ein Stück wiederholen [Musik]
+cantar :: singen; besingen
+cantar {m} :: Lied {n}
+canto {m} :: Lied {n}
+chinesco {m} :: Schellenbaum {m} [Musik]
+concierto {m} :: Konzert {n}
+danza {f} :: Tanz {m}
+danzar :: tanzen
+dúo {m} :: Duo {n} [Musik]
+gong {m} :: Gong {m}
+guitarra {f} :: Gitarre {f}
+guitarrista {m} :: Gitarrist {m}; Gitarrenspieler {m}
+guitarrista {f} :: Gitarristin {f}; Gitarrenspielerin {f}
+himno {m} :: Hymne {f}
+metrónomo {m} :: Metronom {n} [Musik]
+modo mayor {m} :: Dur {n} [Musik]
+modo menor {m} :: Moll {n} [Musik]
+música {f} :: Musik {f}
+música clásica {f} :: klassische Musik {f}
+pianista {m} :: Pianist {m}; Klavierspieler {m}
+pianista {f} :: Pianistin {f}; Klavierspielerin {f}
+piano {m} :: Klavier {n}; Piano {n}
+revista musical {f} :: Musikzeitschrift {f}
+rock {m} :: Rock {m}; Rockmusik {f}
+rock :: Rock- [Musik]
+segunda {f} :: Sekunde {f} [Musik]
+semitono {m} :: Halbton {m} [Musik]
+sinfonía {f} :: Sinfonie {f}; die Symphonie {f}
+sonata {f} :: Sonate {f}
+teclado {m} :: Tastatur {f} [Musik]
+tienda de discos {f} :: Plattenladen {m}
+tocar :: spielen [Musik]
+tono {m} :: Ton {m}; Tonart {f} [Musik]
+viola {f} :: Viola {f} [Musik]
+violín {m} :: Violine {f} [Musik]
+voz {m} :: Stimme {f} [Musik]
+a cuatro voces :: vierstimmig [Musik]
+xilófono {m} :: Xylophon {n} [Musik]
+zampoña {m} :: Hirtenflöte {f}
+

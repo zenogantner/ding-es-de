@@ -1,0 +1,458 @@
+# Copyright (C) 2012 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+barrio residencial {m} :: Wohnviertel {n}
+carne de res {f} :: Rindfleisch {n} \Essen
+nariz respingada {adj} :: Spitznase {f} \Personenbeschreibung
+reparación {f} :: Behebung {f}
+reparación {f} :: Reparatur {m}
+reparación {f} :: Wiedergutmachung {f}
+reparar {v} :: ausbessern
+reparar {v} :: beheben
+reparar {v} :: reparieren
+reparar {v} :: wiedergutmachen
+repartición {f} :: Aufteilung {f}
+repartición {f} :: Verteilung {f}
+repartidor {m} :: Austräger {m}
+repartidor {m} :: Verteiler {m}
+repartir {v} :: aufteilen
+repartir {v} :: austeilen
+repartir {v} :: verteilen
+repartir {v} :: zustellen
+reparto {m} :: Ausgabe {f}
+reparto {m} :: Besetzung ({f} (Film)
+reparto {m} :: Lieferung {f}
+reparto {m} :: Zustellung {f}
+repasar {v} :: durchgehen
+repasar {v} :: durchlesen
+repasar {v} :: durchsehen
+repasar {v} :: kontrolllesen
+repasar {v} :: korrekturlesen
+repasar {v} :: überprüfen
+repasar {v} :: wiederholen (Stoff)
+repaso {m} :: Durchlesen {n}
+repaso {m} :: Durchsicht {f}
+repaso {m} :: Überprüfung {f}
+repaso {m} :: Wiederholung {f} (Stoff)
+repatriar {v} :: zurückführen (ins Heimatland)
+repelente {adj} :: abstoßend; widerlich
+repelente {adj} :: abweisend
+repeler {v} :: abstoßen
+repeler {v} :: abweisen
+repeler {v} :: zuwider sein
+repentinamente {adv} :: plötzlich
+repentino {adj} :: plötzlich
+repercusión {f} :: Rückstoß {m}
+repercusión {f} :: Widerhall {m}
+repercutir {v} :: nachwirken
+repercutir {v} :: sich auswirken
+repertorio {m} :: Register {n}
+repertorio {m} :: Repertoire {n}
+repetición {f} :: Wiederholung {f}
+repetidamente {adv} :: wiederholt; mehrmals
+repetido {adj} :: mehrmalig; wiederholt
+repetir {v} :: Nachschlag nehmen
+repetir {v} :: nochmal machen
+repisa {f} :: Fensterbrett {n}
+repisa {f} :: Sims {m}
+repisa {f} :: Wandbrett {n}
+replantear {v} :: überdenken
+replantear {v} :: wieder aufwerfen
+replegar {v} :: zusammenfalten
+repleto {adj} :: überfüllt
+repleto {adj} :: voll
+réplica {f} :: Antwort {f}; Erwiderung {f}
+réplica {f} :: Nachbeben {n}
+réplica {f} :: Replik {f}
+replicar {v} :: antworten; entgegnen; erwidern
+replicar {v} :: widersprechen
+repliegue {m} :: Falte {f}
+repoblación {f} :: Wiederbesiedelung {f}
+repollo {m} :: Kohl {m}
+reponer {v} :: auswechseln
+reponer {v} :: ersetzen
+reponer {v} :: wieder auffüllen; auffüllen
+reponer {v} :: zurücksetzen
+reportaje {m} :: Reportage {f}
+reportar {v} :: berichten
+reportar {v} :: melden
+reporte {m} :: Bericht {m}
+reporte {m} :: Zeugnis {n}
+reportero {m} :: Berichterstatter {m}; Reporter {m} 
+reposado {adj} :: abgelagert
+reposar {v} :: ablagern
+reposar {v} :: ausruhen
+reposar {v} :: ruhen
+reposar {v} :: sich erholen
+reposición {f} :: Auffüllung {f}; Auffüllen {n}; Wiederauffüllung {f}
+reposición {f} :: Ersatz {m}; Ersetzung {f}
+reposo {m} (en cama) :: Bettruhe {f} \Gesundheit
+reposo {m} :: Erholung {f}
+reposo {m} :: Ruhe {f}
+repostería {f} :: Gebäck {n} (Konditoreiware) \Essen
+repostería {f} :: Konditorei {f}
+repostero {m} :: Konditor {m} \Beruf
+reprender {v} :: rügen; schelten; tadeln
+reprensión {f} :: Tadel {m}; Rüge {f}
+represa {f} :: Staudamm {f}
+represalia {f} :: Repressalie {f}
+represalia {f} :: Repressalie {f}
+represalia {f} :: Vergeltung {f}
+represalia {f} :: Vergeltung {f}
+represar {v} :: aufhalten
+represar {v} :: hemmen
+representación {f} :: Aufführung {f}
+representación {f} :: Darstellung {f}
+representación {f} :: Repräsentation {f}
+representación {f} :: Vertretung {f}
+representante {m} | representante {f} :: Repräsentant {m} | Repräsentantin {f}
+representante {m} | representante {f} :: Stellvertreter {m} | Stellvertreterin {f}
+representante {m} | representante {f} :: Vertreter {m} | Vertreterin {f}
+representar {v} :: bedeuten
+representar {v} :: darstellen
+representar {v} :: repräsentieren
+representar {v} :: verkörpern
+representar {v} :: vertreten
+representativo {adj} :: repräsentativ
+representativo {adj} :: wichtig
+represión {f} :: Repression {f}
+represión {f} :: Unterdrückung {f}
+represión {f} :: Verdrängung {f}
+represión {f} :: Verweis {m}
+represivo {adj} :: repressiv; Unterdrückungs-; Straf-
+reprimenda {f} :: Rüge {f}
+reprimenda {f} :: Verweis {m}
+reprimir {v} :: bekämpfen
+reprimir {v} :: unterdrücken
+reprimir {v} :: verdrängen
+reprobar {v} :: rügen
+reprobar {v} :: tadeln
+reprochar {v} :: vorwerfen
+reproche {m} :: Tadel {m}
+reproche {m} :: Vorwurf {m}
+reproducción {f} :: Fortpflanzung {f}
+reproducción {f} :: Kopie {f}
+reproducción {f} :: Nachbildung {f}
+reproducción {f} :: Nachdruck {m}
+reproducción {f} :: Reproduktion {f}
+reproducción {f} :: Vervielfältigung {f}
+reproducción {f} :: Wiedergabe {f}
+reproducir {v} :: abspielen
+reproducir {v} :: fortpflanzen
+reproducir {v} :: nachbilden
+reproducir {v} :: vervielfältigen
+reproducir {v} :: wiedergeben
+reproductor {m} :: Abspielgerät {n}; Wiedergabegerät {n}
+reptar {v} :: kriechen
+reptil {m} :: Echse {f} \Tiere
+reptil {m} :: Reptil {n} \Tiere
+repuesto {m} :: Ersatz {m}
+repuesto {m} :: Ersatzteil {n}
+repuesto {m} :: Vorrat {m}
+repugnancia {f} :: Abneigung {f}
+repugnancia {f} :: Ekel {m}
+repugnante {adj} :: ekelhaft; widerlich; abstoßend
+repugnar {v} :: abstoßen
+repugnar {v} :: anekeln; anwidern
+repulsar {v} :: zurückstoßen
+repulsar {v} :: zurückweisen
+repulsión {f} :: Abneigung {f}
+repulsión {f} :: Abstoßung {f}
+repulsión {f} :: Ekel {m}
+repulsivo {adj} :: abstoßend
+repulsivo {adj} :: ekelhaft; widerlich
+reputación {f} :: Ruf {m}; Ansehen {n}; Reputation {f}
+reputado {adj} :: namhaft; bekannt; angesehen
+reputar {v} :: achten
+reputar {v} :: schätzen
+reputar {v} :: würdigen
+requebrar {v} :: zerspringen; zerbrechen; brechen
+requemar {v} :: versengen
+requerimiento {m} :: Bitte {f}; Anforderung {f}; Aufforderung {f}
+requerir {v} :: beanspruchen
+requerir {v} :: beantragen
+requerir {v} :: erfordern; verlangen; notwendig machen; bedürfen
+requerir {v} :: ersuchen
+requerir {v} :: mahnen
+requesón {m} :: Frischkäse {m}; Quark {m} \Essen
+requetebién [coloq.]  {adj} :: ausgezeichnet; hervorragend
+requisa {f} :: Untersuchung {f}; Inspektion {f}; Überprüfung {f}
+requisición {f} :: Forderung {f}
+requisito {m} :: Auflage {f}
+requisito {m} :: Bedingung {f}
+requisito {m} :: Voraussetzung {f}; Anforderung {f}
+resabido {adj} :: besserwisserisch; neunmalklug
+resaca {f} :: Brandung {f}
+resaca {f} [coloq.] (de alcohol) :: Kater {m} (vom Alkohol)
+resaltar {v} :: abprallen
+resaltar {v} :: hervorstechen; sich abheben
+resaltar {v} :: vorstehen; vorspringen
+resalto {m} :: Vorsprung {m} (Gebäude)
+resarcir {v} :: entschädigen; ersetzen
+resbaladizo {adj} :: glatt; rutschig; glitschig; schlüpfrig
+resbalar {v} :: ausrutschen
+resbalar {v} :: rutschen
+resbalón {m} :: Fehltritt {m}; Entgleisung {f}
+resbaloso {adj} :: rutschig
+rescatar {v} :: befreien
+rescatar {v} :: bergen
+rescatar {v} :: retten
+rescatar {v} :: wiedergewinnen
+rescatar {v} :: zurückkaufen
+rescate {m} :: Ablösesumme {f}
+rescate {m} :: Befreiung {f}
+rescate {m} :: Bergung {f}
+rescate {m} :: Lösegeld {n}
+rescate {m} :: Rettung {f}
+rescindir {v} :: kündigen; aufheben (Vertrag)
+rescisión {f} :: Kündigung {f} (Vertrag)
+rescoldo {m} :: Glut {f}; glühende Kohle {f}
+resecar {v} :: austrocknen
+reseco {adj} :: ausgetrocknet; ausgedorrt
+resentido {adj} :: nachtragend
+resentido {adj} :: verbittert
+resentimiento {m} :: Ressentiment {n}; Groll {m}; Verbitterung {f} \Gefühle
+reseña {f} :: Beschreibung {f}
+reseña {f} :: Buchbesprechung {f}
+reseña {f} :: Personenbeschreibung {f}
+reseña {f} :: Rezension {f}
+reseñar {v} :: beschreiben (Person)
+reseñar {v} :: rezensieren
+reservación {f} :: Reservierung {f}
+reservación {f} :: Vorbehalt {m}
+reservado {adj} :: reserviert
+reservado {adj} :: verschwiegen; geheim
+reservado {adj} :: zurückhaltend
+reserva {f} :: Ersatzspieler {m} \Sport
+reserva {f} :: Reservat {n}
+reserva {f} :: Reserve {f}; Vorrat {m}
+reserva {f} :: Reservierung {f}
+reserva {f} :: Rücklage {f}
+reserva {f} :: Zurückhaltung {f}
+reservar {v} :: aufbewahren
+reservar {v} :: buchen
+reservar {v} :: reservieren
+reservar {v} :: sparen
+reservar {v} :: zurücklegen
+res {f} [Am.] :: Wild {n} \Tiere \Essen
+resfriado {m} :: Schnupfen {m} [coloq.]
+res {f} :: Rind {n} \Tiere \Landwirtschaft \Essen
+resfrío [Am.] {m} :: Schnupfen {m} [coloq.]
+res {f} :: Vieh {n} \Landwirtschaft
+resguardar {v} :: bewahren; verwahren
+resguardar {v} :: schützen
+resguardo {m} :: Beleg {m}; Quittung {f}; Schein {m}
+resguardo {m} :: Sicherheit {f}
+resguardo {m} :: Sicherstellung {f}
+resguardo {m} :: Verwahrung {f}
+residencia de ancianos {f} :: Altenheim {n}
+residencia {f} :: Residenz {f}
+residencia {f} :: Sitz {m}
+residencia {f} :: Wohnheim {n}; Heim {n}
+residencia {f} :: Wohnsitz {m}; Aufenthaltsort {m}
+residencial {adj} :: Wohn-
+residente {adj} :: wohnhaft
+residir {v} :: wohnen; ansässig sein
+residual {adj} :: Abfall; Rest-
+residual {adj} :: übrig; übrigbleibend
+residuo {m} :: Abfall {m}; Müll {m}
+residuo {m} :: Ablagerung {f}
+residuo {m} :: Bodensatz {m}
+residuo {m} :: Residuum {n}
+residuo {m} :: Rest {m}
+residuo {m} :: Rückstand {m}
+resignación {f} :: Resignation {f}
+resignación {f} :: Verzicht {m}
+resignado {adj} :: resigniert
+resina sintética {f} :: Kunstharz {n} \Technik
+resinoso {adj} :: harzig
+resistencia {f} :: Festigkeit {f}; Reißfestigkeit {f}
+resistencia {f} :: Haltbarkeit {f}
+resistencia {f} :: Stehvermögen {n}; Ausdauer {f}
+resistencia {f} :: Widerstand {m}
+resistente a {adj} :: -fest; -beständig, -resistent
+resistente {adj} :: ausdauernd
+resistente {adj} :: haltbar
+resistente {adj} :: resistent
+resistente al agua {adj} :: wasserfest
+resistente a la luz {adj} :: lichtbeständig
+resistente al fuego {adj} :: feuerfest
+resistir {v} :: aushalten; ertragen; verkraften
+resistir {v} :: sich wehren; Widerstand leisten; sich sträuben; sich widersetzen
+resistir {v} :: widerstehen
+resollar {v} :: schnaufen; schnauben
+resoluble {adj} :: auflösbar
+resolución {f} :: Beschluss {m}
+resolución {f} :: Entscheidung {f}
+resolución {f} :: Entschlossenheit {f}
+resolución {f} :: Lösung {f} (Frage, Problem)
+resoluto {adj} :: entschlossen
+resolver {v} :: auflösen
+resolver {v} :: entscheiden; beschließen
+resolver {v} :: klären; lösen (Problem; Frage)
+resonancia {f} :: Echo {n}; Hall {m}
+resonancia {f} :: Resonanz {f}
+resonar {v} :: dröhnen
+resonar {v} :: hallen
+resonar {v} :: schallen; tönen; klingen
+resonar {v} :: widerhallen
+resoplar {v} :: fauchen
+resoplar {v} :: schnaufen; schnauben, pusten
+resoplido {m} :: Schnauben {n}; Schnauben {n}
+resorber {v} :: resorbieren
+resorción {f} :: Resorption {f}
+resorte {m} :: Feder {f} \Tiere
+resorte {m} :: Mittel {n}
+respaldar {v} :: anlehnen
+respaldar {v} :: decken
+respaldar {v} :: stützen
+respaldar {v} :: unterstützen
+respaldo {m} :: Lehne {f}; Rückenlehne {f}
+respaldo {m} :: Rückendeckung {f}
+respaldo {m} :: Stütze {f}
+respaldo {m} :: Unterstützung {f}
+respectivamente {adv} :: beziehungsweise
+respectivamente {adv} :: jeweils; jeweilig
+respectivo {adj} :: betreffend; jeweilig
+respectivo {adj} :: diesbezüglich
+respecto a {adv} :: hinsichtlich; bezüglich; in Bezug auf
+respecto {m} :: Bezug {m}
+respetable {adj} :: angesehen; geachtet
+respetable {adj} :: geehrt; verehrt; achtbar; ehrbar
+respetable {adj} :: respektabel; ansehnlich; beachtlich
+respetar {v} :: beachten; achten (Regeln)
+respetar {v} :: respektieren
+respetar {v} :: Rücksicht nehmen auf
+respetar {v} :: verehren; ehren
+respeto {m} :: Achtung {f}; Ansehen {n}
+respeto {m} :: Ehrfurcht {f}; Verehrung {f}
+respeto {m} :: Respekt {m}
+respeto {m} :: Rücksicht {f}
+respetuosa {adj} :: respektvoll
+respetuosa {adj} :: rücksichtsvoll
+respingón {adj} :: bockig; rebellisch
+respiración {f} :: Atem {m}
+respiración {f} :: Atmung {f}
+respirador {m} :: Atemgerät {n} \Medizin
+respirador {m} :: Schnorchel {m} \Sport
+respirar {v} :: atmen
+respirar {v} :: aufatmen
+respirar {v} :: einatmen
+respirar {v} :: verschnaufen; sich erholen; sich ausruhen
+respiratorio {adj} :: Atem-
+resplandecer {v} :: blitzen; funkeln
+resplandecer {v} :: glänzen
+resplandecer {v} :: schimmern
+resplandecer {v} :: strahlen
+resplandor {m} :: Glanz {m}
+resplandor {m} :: Schein {m}
+responder {v} :: ansprechen
+responder {v} :: antworten; erwidern; entgegnen
+responder {v} :: beantworten
+responder {v} :: entsprechen
+responder {v} :: Leistung bringen
+responder {v} :: nachkommen; gerecht werden
+responsabilidad {f} :: Haftung {f}
+responsabilidad {f} :: Verantwortung {f}
+restablecer {v} :: wiederherstellen
+restablecimiento {m} :: Wiederherstellung {f}
+resta {f} :: Subtrahieren {n}; Subtraktion {f}
+restallar {v} :: knallen; krachen
+restante {adj} :: Rest-; restlich; übrigbleibend
+restar {v} :: subtrahieren; abziehen
+restar {v} :: übrig bleiben
+restar {v} :: vermindern; verringern
+restauración {f} :: Renovierung {f}
+restauración {f} :: Restaurierung {f}
+restauración {f} :: Wiederherstellung {f}
+restaurador {m} :: Restaurator {m}
+restaurante {m} :: Restaurant {n}; Gaststätte {f}
+restaurar {v} :: renovieren
+restaurar {v} :: restaurieren
+restaurar {v} :: wieder einführen
+restaurar {v} :: wieder herstellen
+restitución {f} :: Ersatz {m}
+restitución {f} :: Erstattung {f}; Rückerstattung {f}
+restitución {f} :: Rückgabe {f}
+restituir {v} :: ersetzen
+restituir {v} :: erstatten; zurückerstatten
+restituir {v} :: vergüten
+restituir {v} :: wiederherstellen
+restituir {v} :: zurückgeben
+resto {m} :: Rest {m}
+resto {m} :: Überrest {m}; Überbleibsel {n}
+restregar {v} [coloq.] :: unter die Nase reiben; herumreiten auf
+restregar {v} :: reiben; scheuern; schrubben
+restricción {f} :: Beschränkung {f}
+restricción {f} :: Einschränkung {f}
+restricción {f} :: Restriktion {f}
+restrictivo {adj} :: einschränkend
+restrictivo {adj} :: restriktiv
+restringible {adj} :: einschränkbar
+restringido {adj} :: beschränkt; eingeschränkt
+restringir {v} :: begrenzen
+restringir {v} :: beschränken
+restringir {v} :: einschränken
+resucitación {f} :: Wiederbelebung {f}
+resucitar {v} :: genesen
+resucitar {v} :: wiederauferstehen
+resucitar {v} :: wiederbeleben
+resuello {m} :: Keuchen {n}; Schnaufen {n}
+resuelto {adj} :: entschieden
+resuelto {adj} :: entschlossen; bestimmt; tatkräftig; resolut
+resuelto {adj} :: erledigt
+resuelto {adj} :: gelöst (Problem, Konflikt)
+resuelto {adj} :: schlüssig
+resuelto {adj} :: zielstrebig
+resultado {m} :: Folge {f}; Ergebnis {n}
+resultado {m} :: Resultat {n}; Ergebnis {n}
+resulta que :: nämlich
+resultar en {v} :: führen zu
+resultar ser {v} :: sich herausstellen, sich entpuppen; sich erweisen
+resultar {v} :: ergeben
+resultar {v} :: folgen
+resultar {v} :: gelingen; funktionieren
+resultar {v} :: herausstellen
+resultar {v} :: resultieren
+resumen {m} :: Inhaltsangabe {f}
+resumen {m} :: Resümee {n}
+resumen {m} :: Überblick {m}
+resumen {m} :: Zusammenfassung {f}
+resumir {v} :: resümieren
+resumir {v} :: zusammenfassen
+resurgimiento {m} :: Aufbruch {m}
+resurgimiento {m} :: Erwachen {n}
+resurgimiento {m} :: Wiedererscheinen {n}; Wiederauftauchen {n}
+resurgir {v} :: wiedererscheinen
+resurrección {f} :: Auferstehung {f} \Religion
+

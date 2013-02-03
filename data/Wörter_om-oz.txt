@@ -1,0 +1,328 @@
+# Copyright (C) 2008 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+ombligo {m} :: Bauchnabel {m} \Körper
+ominoso {adj} :: unheilvoll
+omisión {f} :: Unterlassung {f}
+omisión {f} :: Lücke {f}
+omisión {f} :: Auslassung {f}
+omiso {adj} :: nachlässig
+omitir {v} :: unterlassen
+omnipotencia {f} :: Allmacht {f}
+omnipotente {adj} :: allmächtig
+omnipresencia {f} :: Allgegenwart {f}
+omnipresente {adj} :: allgegenwärtig
+omnisciente {adj} :: allwissend
+omniscio {adj} :: allwissend
+once {f}; onces {f} {pl} :: Snack {m}; Brot mit Tee oder Kaffee \Essen
+onda {f} :: Welle {f}
+buena onda {adj} [Am.] [coloq.] :: gut drauf [ugs.]
+mala onda {adj} [Am.] [coloq.] :: schlecht drauf [ugs.]
+¿que onda? [Am.] [coloq.] :: Was ist los ?
+ondina {f} :: Nixe {f}
+ondulación {f} :: Wellenbewegung {f}
+ondulado {adj} :: gewellt; wellig
+ondular {v} :: wehen; flattern
+ondular {v} :: (sich) wellen
+ondulatorio {adj} :: wellenförmig
+onomatopeya {f} :: Lautmalerei {f} \Liguistik
+onza {f} :: Unze {f} \Einheiten
+opacidad {f} :: Undurchsichtigkeit {f}
+opaco {adj} :: dunkel
+opaco {adj} :: undurchsichtig
+opaco {adj} :: matt
+ópalo {m} :: Opal {m} \Schmuck
+opción {f} :: Option {f}
+opción {f} :: Wahl {f}; Auswahlmöglichkeit {f}
+opcional {adj} :: optional
+operación {f} :: Aktion {f}
+operación {f} :: Geschäft {n}
+operadora {f} :: Telefonistin {f}
+operador {m} :: Operator {m} \Mathematik
+operador {m} :: Betreiber {m}
+ópera {f} :: Oper {f} \Musik
+operar {v} :: wirken
+operar {v} :: operieren
+operativo {adj} :: tätig
+operativo {adj} :: funktionstüchtig
+operativo {adj} :: operativ
+opinar {v} :: finden; meinen; glauben
+opinar {v} :: (Meinung) äußern; sich äußern
+oponente {m} | oponente {f} :: Gegner {m} | Gegnerin {f}
+oponerse {v} :: dagegen sein
+oponerse {v} :: sich widersetzen; sich wehren
+oporto {m} :: Portwein {m} \Trinken
+oportunidad {f} :: Gelegenheit {f}
+oportunismo {m} :: Opportunismus {m}
+oportunista {m} | oportunista {f} :: Opportunist {m} | Opportunistin {f}
+oportuno {adj} :: günstig; gelegen
+oportuno {adj} :: opportun
+oposición {f} :: Einwendung {f}; Widerspruch {m}
+oposición {f} :: Widerstand {m}
+opresión {f} :: Beklemmung {f}; Druck {m}
+opresión {f} :: Verdrängung {f}
+opresivo {adj} :: bedrückend
+opresivo {adj} :: beklemmend
+opresor {m} | opresora {f} :: Unterdrücker {m} | Unterdrückerin {f}
+opresor, opresora {adj} :: unterdrückerisch
+oprimir {v} :: bedrücken; beklemmen
+oprimir {v} :: unterdrücken
+optar (por) {v} :: auswählen; wählen
+optar (por) {v} :: sich entscheiden (für)
+optativo {adj} :: optativ; wählbar; Wahl-
+óptica {f} :: Optik {f}
+óptico {m} | óptica {f} :: Augenoptiker {m} | Augenoptikerin {f}
+óptica {f} :: Augenoptik {f}
+óptico {adj} :: optisch; Seh-
+optimismo {m} :: Optimismus {m}
+optimista {adj} :: optimistisch; zuversichtlich
+optimista {m} | optimista {f} :: Optimist {m} | Optimistin {f}
+óptimo {adj} :: optimal
+óptimo, óptima {adj} :: ausgezeichnet
+óptimo {adj} :: beste
+óptimo {m} :: Optimum {n}
+opuesto {adj} :: gegensätzlich
+opuesto {adj} :: Gegen-
+opuesto {adj} :: gegenüberliegend
+opulencia {f} :: Üppigkeit {f}; Reichtum {n}
+opulento {adj} :: ausgiebig; üppig
+opulento {adj} :: luxuriös
+oración {f} :: Gebet {n} \Religion
+oración {f} :: Rede {f}
+oráculo {m} :: Orakel {n} \Religion
+orador {m} | oradora {f} :: Redner {m} | Rednerin {f}
+oral {adj} :: mündlich
+oral {adj} :: oral
+orar {v} :: beten \Religion
+orar {v} :: reden
+oratoria {f} :: Redekunst {f}
+oratorio {m} :: Oratorium {n}
+oratorio {adj} :: rednerisch
+orbe {m} :: Zirkel {m}; Sphäre {f}
+órbita {f} :: Umlaufbahn {f}
+órbita {f} :: Bahn {f}
+órbita {f} :: Bereich {m}; Umkreis {m}
+orca {f} :: Killerwal {m} \Tiere
+ordenación {f} :: Anordnung {f}
+ordenación {f} :: Sortierung {f}
+ordenado {adj} :: aufgeräumt
+ordenado {adj} :: geordnet
+ordenado {adj} :: ordentlich
+ordenado {adj} :: sortiert
+ordenador {m} :: Computer {m} \Technik
+ordeñador {m} | ordeñadora {f} :: Melker {m} | Melkerin {f} \Landwirtschaft
+ordeñadora {f} :: Melkmaschine {f} \Landwirtschaft
+ordeñar {v} :: melken \Landwirtschaft
+ordeñar {v} :: pflücken \Landwirtschaft
+ordeñar {v} :: melken \Landwirtschaft
+ordeñar {v} :: pflücken \Landwirtschaft
+ordenar {v} :: veranlassen
+ordenar {v} :: anordnen; befehlen; bestimmen
+ordenar {v} :: aufräumen
+ordenar {v} :: ordnen
+ordenar {v} :: sortieren
+orden {f} :: Befehl {m}; Order {f}
+orden {f} :: Orden {m}
+orden {f} :: Kommando {n}
+orden {f} :: Anweisung {f}
+orden {m} :: Kategorie {f}
+orden {m} :: Klasse {f}
+orden {m} :: Ordnung {f}
+orden {m} :: Reihenfolge {f}
+ordeño {m} :: Pflücken {n} \Landwirtschaft
+ordeño {m} :: Melken {n} \Landwirtschaft
+ordinal {adj} :: Ordnungs-
+ordinal {m} :: Ordnungszahl {f}
+ordinariez {f} :: Gewöhnlichkeit {m}; Ordinärität {f}
+ordinario {adj} :: ordinär
+ordinario {adj} :: gemein; gewöhnlich
+orégano {m} :: Oregano {m} \Kräuter
+orégano {m} :: Majoran {m} \Kräuter
+oreja {f} :: Henkel {m}; Lasche {f}
+oreja {f} :: Ohrmuschel {f} \Körper
+oreja {f} :: Eselsohr {n}
+orejear {v} :: horchen; lauschen
+orejera {f} :: Ohrenschützer {m} \Kleidung
+orejón {adj} :: mit großen Ohren
+orfanato {m} :: Waisenhaus {n}
+orfebre {m} :: Goldschmied {m} \Berufe
+orfebrería {f} :: Goldschmiedehandwerk {f}
+orgánico {adj} :: organisch
+orgánico {adj} :: Organ-
+organillo {m} :: Drehorgel {f} \Musik
+organismo {m} :: Körperschaft {f}
+organismo {m} :: Lebewesen {n}
+organismo {m} :: Gremium {n}
+organista {m} | organista {f} :: Organist {m} | Organistin {f} \Musik \Berufe
+organización {f} :: Organisation {f}
+organización {f} :: Einrichtung {f}
+organización {f} :: Verband {m}; Verein {m}
+organización {f} :: Struktur {f}; Gliederung {f}
+organización {f} :: Durchführung {f}
+organizado {adj} :: organisiert
+organizador {m} | organizadora {f} :: Veranstalter {m} | Veranstalterin {f}
+organizador {adj} :: organisierend
+organizar {v} :: veranstalten
+organizar {v} :: gliedern
+organizar {v} :: gestalten
+organizar {v} :: ordnen
+organizar {v} :: planen
+órgano {m} :: Organ {n} \Körper
+órgano {m} :: Orgel {f} \Musik
+órgano {m} :: Werkzeug {n}
+órgano {m} :: Einrichtung {f}
+orgasmo {m} :: Orgasmus {m} \Sexualität
+orgía {f} :: Orgie {f} \Sexualität
+orgiástico {adj} :: zügellos
+orientación {f} :: Orientierung {f}; Ausrichtung {f}
+orientación {f} :: Orientierung {f}; Ortssinn {m}
+orientación {f} :: Übersicht {f}
+orientación {f} :: Beratung {f}
+orientación {f} :: Ortung {f}; Peilung {f}
+orientador {adj} :: richtungsweisend
+oriental {adj} :: orientalisch
+oriental {adj} :: Ost-
+oriental {adj} :: östlich
+orientarse {v} :: sich orientieren
+orientar {v} :: ausrichten; richten
+orientar {v} :: beraten
+orientarse {v} :: sich zurechtfinden
+Oriente {m} :: Morgenland {n
+Oriente Próximo {m} :: Naher Osten {m} \Geographie
+Oriente Medio {m} :: Mittlerer Osten {m} \Geographie
+Oriente Lejano {m} :: Ferner Osten {m} \Geographie
+orificio {m} :: Öffnung {f}
+orificio {m} :: Loch {n}
+origen {m} :: Ursprung {m}
+origen {m} :: Abstammung {f}
+origen {m} :: Herkunft {f}
+origen {m} :: Ursache {f}
+origen {m} :: Quelle {f}
+original {adj} :: Original-
+original {adj} :: originell
+original {adj} :: echt; original
+originalidad {f} :: Echtheit {f}
+originalidad {f} :: Originalität {f}
+originalmente {adv} :: ursprünglich
+original {m} :: Original {n}
+originario (de) {adj} :: gebürtig (aus)
+originar {v} :: bewirken; hervorrufen; herbeiführen
+originar {v} :: verursachen
+orilla {f} :: Saum {m} \Kleidung
+orilla {f} :: Rand {m}
+orilla {f} :: Ufer {n}
+orina {f} :: Urin {m}; Harn {m}
+orinar {v} :: urinieren
+orín {m} :: Rost {m}
+orla {f} :: Saum {m}; Umrandung {f}
+orlar {v} :: einsäumen; einfassen
+orlo {m} :: Alphorn {n} \Musik
+ornamento {m} :: Ornament {n}
+ornamento {m} :: Verzierung {f}
+ornar {v} :: schmücken
+ornar {v} :: verzieren
+ornitología {f} :: Vogelkunde {f}; Ornithologie {f}
+ornitólogo {m} | ornitóloga {f} :: Ornithologe {m} | Ornithologin {f}
+ornitorrinco {m} :: Schnabeltier {n} \Tiere
+orozuz {m} :: Süßholz {n} \Essen
+orozuz {m} :: Lakritze {m} \Essen
+orquesta {f} :: Orchester {n} \Musik
+orquesta {f} :: Kapelle {f} (Musik) \Musik
+ortega {f} :: Birkhuhn {n} \Tiere
+ortiga {f} :: Brennnessel {f} \Planzen
+ortodoxo {adj} :: orthodox
+ortografía {f} :: Rechtschreibung {f}
+ortopedia {f} :: Orthopädie {f} \Medizin
+ortopédico :: orthopädisch \Medizin
+ortopedista {m} :: Orthopäde {m} \Medizin
+oruga {f} :: Raupe {f} \Tiere
+osa {f} :: Bärin {f} \Tiere
+osadía {f} :: Mut {f}; Waghalsigkeit {f}
+osado {adj} :: wagemutig; gewagt
+osar {v} :: wagen; sich trauen
+oscilación {f} :: Schwingung {f} \Technik
+oscilación {f} :: Schwankung {f}
+oscilación {f} :: Oszillation {f} \Technik
+oscilador {m} :: Oszillator {m} \Technik
+oscilar {v} :: schwingen
+oscilar {v} :: schwanken
+oscilar {v} :: oszillieren \Technik
+oscilar {v} :: pendeln
+oscilatorio {adj} :: schwingend
+oscurecerse {v} :: dunkel werden
+oscurecer {v} :: verdunkeln
+oscurecerse {v} :: sich verfinstern
+oscuridad {f} :: Dunkel {n}
+oscuridad {f} :: Finsternis {f}
+oscuridad {f} :: Unklarheit {f}
+oscuridad {f} :: Verborgenheit {f}
+oscuro {adj} :: dunkel
+oscuro {adj} :: finster; düster
+oscuro {adj} :: unbekannt
+oscuro {adj} :: obskur
+óseo {adj} :: Knochen-
+osmio {m} :: Osmium {n} \Elemente
+oso polar {m} :: Eisbär {m} \Tiere
+ostensible {adj} :: offensichtlich; auffällig
+ostentación {f} :: Protzerei {f}; Prahlerei {f}
+ostentar {v} :: prahlen
+ostentar {v} :: zur Schau stellen
+ostentar {v} :: aufweisen
+ostentoso {adj} :: protzig
+ostentoso {adj} :: auffällig
+ostentoso {adj} :: imposant
+ostral {m} :: Austernbank {f} \Landwirtschaft
+otorgamiento {m} :: Bewilligung {f}
+otorgar {v} :: bewilligen
+otorgar {v} :: verleihen
+otorrinolaringólogo {m} | otorrinolaringóloga {f} :: HNO-Arzt {m} | HNO-Ärztin {f} \Berufe \Medizin
+otra vez {adv.} :: erneut
+otra vez {adv.} :: ein anderes mal
+otro {adj} :: noch ein
+ovación {f} :: Beifall {m}; Ovation {f}
+ovalado {adj} :: oval
+óvalo {m} :: Oval {n}
+ovario {m} :: Eierstock {m}
+ovejero {adj} :: Schaf-; Schafs-; Schäfer-
+óvolo {m} :: Eizelle {f}; Ei {n}
+ovulación {f} :: Eisprung {m}
+oxidado {adj} :: rostig; oxidiert
+oxidación {f} :: Oxidierung {f}; Rosten {n}
+oxidar {v} :: rosten
+óxido {m} :: Oxid {n}; Rost {m}
+oxigenar {v} :: blondieren
+oxígeno {m} :: Sauerstoff {m} \Elemente
+oyente {m} :: Hörer {m}; Zuhörer {m}
+ozono {m} :: Ozon {n}
+

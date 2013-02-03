@@ -1,0 +1,366 @@
+# Copyright (C) 2008 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+al menos {adv} :: wenigstens
+a mediados del/de la (mes, semana) :: Mitte der/des (Monat, Woche) \Zeit
+a mí {prn} :: mir
+desmesurado; desmesurada {adj} :: übermäßig; maßlos
+desmesurado; desmesurada {adj} :: unverschämt; frech; maßlos
+edad media {f} :: Mittelalter {n} \Geschichte
+más o menos :: ungefähr
+meada {f} :: Pisse {f} [ugs.]
+meadero {m} :: Pinkelecke {f} [ugs.]
+mear {v} :: urinieren; pinkeln [ugs.]; pissen [vulg.]
+meca {f} [coloq.] :: Scheiße {f}; Kacke {f} [ugs.]
+meca {f} :: Mekka {n} \Religion
+mecánica {f} :: Maschinenbau {m}
+mecánica {f} :: Mechanikerin {f} \Berufe
+mecánica {f} :: Mechanik {f} \Technik
+mecánicamente {adv} :: mechanisch
+mecánico; mecánica {adj} :: maschinell \Technik
+mecánico; mecánica {adj} :: mechanisch \Technik
+mecanismo {m} :: Gerät {n}; Vorrichtung {f}
+mecanismo {m} :: Mechanismus {m}
+mecedora {f} :: Schaukelstuhl {m} \Möbel
+mecer {v} :: schaukeln; wiegen
+mechado; mechada {adj} :: gebraten \Essen
+mecha {f} :: Docht {m} \Feuer
+mecha {f} :: Haarsträhne {f} \Körper \Personenbeschreibung
+mecha {f} :: Zündschnur {f} \Feuer
+mechar {v} :: braten \Essen
+mechas {f} {pl} [coloq.] :: Haare {f} \Körper
+mechero {m} :: Feuerzeug {f} \Feuer
+mechón {m} :: Haarbüschel {m} \Körper
+medalla {f} :: Medaille {f} \Sport
+medallón {m} :: Medaillon {n} \Schmuck
+mediación {f} :: Fürbitte {f} \Religion
+mediación {f} :: Schlichtung {f} \Recht
+mediador {m} :: Schlichter {m} \Recht
+mediador {m} :: Vermittler {m}
+media {f} :: Damenstrumpf {f} \Kleidung
+media {f} :: Durchschnitt {m}
+media {f} :: Mittel {n} \Mathematik
+mediano; mediana {adj} :: mittlerer; mittelgroß
+mediante {prp} :: durch; mittels
+media panty {f} :: Strumpfhose {f} \Kleidung
+mediar {v} :: vermitteln
+medicación {f} :: verordnete Arznei {f} \Medizin
+medicamento {m} :: Medikament {n}; Arznei {f} \Medizin
+medicar {v} :: (Arznei) verordnen \Medizin
+medicina {f} :: Medizin {f}; Arzneimittel {n} \Medizin
+medicinal {adj} :: medizinisch; Heil- \Medizin
+medición {f} :: Vermessung {f} \Technik
+medicucho {m} [coloq.] [pey.] :: Quacksalber {m}
+medida {f} :: Maßnahme {f}
+medida {f} :: Maß {n}; Größe {f}
+medidor {m} :: Messgerät {n}
+medieval {adj} :: mittelalterlich \Geschichte
+mediocre {adj} :: mittelmäßig; durchschnittlich
+mediocridad {f} :: Mittelmäßigkeit {f}
+medio; media {adj} :: halb
+medio; media {adj} :: mittle
+medio {m} :: Hälfte {f}
+medio {m} :: Milieu {n}
+medio {m} :: Mittel {n}
+medirse {v} :: sich zügeln
+medir {v} :: messen; ausmessen; abmessen
+meditación {f} :: Meditation {f} \Religion
+meditar {v} :: meditieren \Religion
+meditativo; meditativa {adj} :: meditativ \Religion
+mediterráneo; mediterránea {adj} :: Mittelmeer- \Geographie
+mediterráneo {m} :: Mittelmeer {n} \Geographie
+médula {f} :: Knochenmark {n} \Körper \Essen
+megáfono {m} :: Megafon {n}
+megalomanía {f} :: Größenwahn {m}
+megalómano; megalómana {adj} :: größenwahnsinnig
+megalómano {m} :: Größenwahnsinnige {m}
+mejicano; mejicana {adj} :: Mexikanisch \Geographie
+mejicano {m} :: Mexikaner {m} \Geographie
+mejorable {adj} :: verbesserungsfähig
+mejor {adj} :: besser
+mejor {adv} :: besser
+mejoramiento {m} :: Verbesserung {f}
+mejorar {v} :: bessern
+mejoría {f} :: Besserung {f}
+mejor {m,f} :: Beste {m,f}
+melancólico; melancólica {adj} :: melancholisch \Gefühle
+melaza {f} :: Zuckersirup {m}; Melasse {f} \Essen
+melena {f} :: Mähne {f} \Tiere
+melenudo; melenuda {adj} :: langhaarig \Personenbeschreibung
+melisa {f} :: Melisse {f} \Pflanzen
+mellizo; melliza {adj} :: Zwillings-
+melocotón {m} [Esp.] :: Pfirsich {m} \Essen
+melodía {f} :: Melodie {f} \Musik
+melódico; melódica {adj} :: melodisch \Musik
+melodioso; melodiosa {adj} :: melodisch \Musik
+melodrama {m} :: Melodrama {n}
+melodramático; melodramática {adj} :: melodramatisch
+membrana {f} :: Membran {f} \Technik
+memorable {adj} :: denkwürdig
+memorándum {m} :: Memorandum {n}
+memoria {f} :: Andenken {n}
+memorizar {v} :: sich merken
+mendiga {f} :: Bettlerin {f}
+mendigo {m} :: Bettler {m}
+menear {v} :: schütteln
+menear {v} :: schwenken
+menear {v} :: wedeln
+menguante {adj} :: abnehmend (Mond)
+menguar {v} :: abnehmen (Mond)
+menguar {v} :: schwinden; zurückgehen
+menhir {m} :: Menhir {m}
+meninge {f} :: Hirnhaut {f} \Körper
+menor {adj} :: geringster
+menor {adj} :: kleinster
+menor {adv} :: kleiner
+menor; menora {adj} :: geringer
+menor {m,f} :: Minderjährige {m,f}
+menos {adv} :: am wenigsten
+menospreciar {v} :: gering schätzen
+menospreciar {v} :: verachten
+menosprecio {m} :: Geringschätzung {f}
+mensaje {m} :: Nachricht {f}; Mitteilung {f}
+menso; mensa {adj} [Am.] :: dumm
+menso; mensa {adj} [Am.] :: einfältig
+menstruar {v} :: seine Tage haben
+mensual {adj} :: monatlich; Monats- \Zeit
+mensualidad {f} :: Gehalt {n} \Geld
+mensualidad {f} :: (monatliche) Unterhaltszahlung {f}; Unterhalt {m} \Geld
+mensualidad {f} :: Monatsrate {f}; monatliche Zahlung {f} \Geld
+mensualmente {adv} :: monatlich \Zeit
+mental {adj} :: geistig
+mentalidad {f} :: Mentalität {f}
+mentalizar {v} :: verinnerlichen
+mentalmente {adv} :: geistig
+mente {f} :: Geist {m}
+mente {f} :: Verstand {m}
+mentiroso; mentirosa {adj} :: lügnerisch
+mentol {m} :: Menthol {n}
+mentor {m} :: Mentor {m}
+menudo; menuda {adj} :: unbedeutend
+menudo; menuda {adj} :: winzig
+menudo {m} [Méx.] :: Innereien {f} {pl} \Essen
+menudo :: welch ein; was für ein
+menú {m} :: Menü {n} \Essen
+meona {f} [coloq.] :: Bettnässerin {f}; Pinklerin {f} [ugs.]
+meón {m} [coloq.] :: Bettnässer {m}; Pinkler {m}
+meón, meona {adj} :: pinkelnd [ugs.]
+me {prn} :: mich
+meramente {adv} :: nur; bloß; lediglich
+mercadería {f} :: Ware {f} \Einkauf
+mercadero {m} :: Marktverkäufer {m} \Berufe
+mercancía {f} :: Ware {f} \Einkauf \Wirtschaft
+mercante {adj} :: Handels- \Wirtschaft
+mercante {m} :: Händler {m} \Berufe \Wirtschaft
+merced {f} :: Gnade {f}; Güte {f}
+merecido; merecida {adj} :: verdient
+merendar {v} :: essen (Snack, kleine Mahlzeit) \Essen
+merengue {m} :: Baisee {n} \Essen
+merengue {m} :: Eischnee {m} \Essen
+meridiano {m} :: Meridian {m}; Längenkreis {m} \Geographie
+meridional {adj} :: mittäglich \Zeit
+meridional {adj} :: südländisch \Geographie
+merienda {f} :: Mittagessen {n} \Essen
+merienda {f} :: Snack {m}; Zwischenmahlzeit {f} \Essen
+mérito {m} :: Leistung {f}; Verdienst {m}
+mero; mera {adj} :: bloß; rein
+mero {m} :: Seebarsch {m} \Fische \Essen
+mesera {f} :: Kellnerin {f} \Berufe
+mesero {m} :: Kellner {m} \Berufe
+mesías {m} :: Messias {m} \Religion
+mestizaje {m} :: Mischung {f} (Kultur, Rassen)
+mestizo {m} :: Mestize {m} (Person mit gemischt Indianisch-Europäischer Abstammung)
+mestizo {m} :: Mischling {m}; Bastard {m} [abwertend]
+mesurado; mesurada {adj} :: gemäßigt; maßvoll
+mesura {f} :: Mäßigung {f}
+mesura {f} :: Maß {n}
+mesurar {v} :: mäßigen
+mesurar {v} :: messen
+metabólico; metabólica {adj} :: Stoffwechsel- \Körper
+metabolismo {m} :: Stoffwechsel \Körper
+metafísico; metafísica {adj} :: metaphysisch \Philosophie
+metáfora {f} :: Metapher {f}
+metafórico; metafórica {adj} :: metaphorisch; bildlich; im übertragenen Sinn
+metalurgia {f} :: Metallurgie {f}; Hüttenwesen {n} \Technik \Wirtschaft
+metalúrgico; metalúrgica {adj} :: metallurgisch; Hütten- \Technik
+metamórfico; metamórfica {adj} :: metamorph
+metamorfosis {f} :: Verwandlung {f}; Metamorphose {f}
+metástasis {f} :: Metastase {f} \Medizin
+meteorito {m} :: Meteorit {m} \Astronomie
+meteoróloga {f} :: Meteorologin {f} \Berufe
+meteorología {f} :: Meteorologie {f} \Wetter
+meteorológico; meteorológica {adj} :: meteorologisch \Wetter
+meteorólogo {m} :: Meteorologe {m} \Berufe
+meteoro {m} :: Meteor {m} \Astronomie
+meterse {v} :: sich einmischen
+meter {v} :: hinein tun; tun
+meter {v} :: platzieren
+meter {v} :: stecken; hineinstecken
+metete {m,f} [coloq.] [Chile] :: Wichtigtuer {m}| Wichtigtuerin {f}
+metiche [coloq.]; metete [coloq.]; metido {adj} :: aufdringlich
+metódico; metódica {adj} :: methodisch
+metodología {f} :: Methodik {f}
+método {m} :: Methode {f}
+metralleta {f} :: Maschinenpistole {f} \Waffen
+métrico; métrica {adj} :: metrisch
+metropolitano; metropolitana {adj} :: großstädtisch; hauptstädtisch \Geographie
+metropolitano {m} :: Metropolit {m}; Großstädter {m}
+mezclable {adj} :: mischbar
+mezclado; mezclada {adj} :: gemischt
+mezcla {f} :: Mischung {f}
+mezclar {v} :: mischen; vermischen
+mezcolanza {f} [pey.] :: Gemisch {n}; Mischmasch {n}
+mezcolanza {f} [pey.] :: Mischung {f}
+mezquindad {f} :: Armseligkeit {f}
+mezquindad {f} :: Knauserigkeit {f}; Geiz {m}
+mezquino; mezquina {adj} :: ärmlich; armselig
+mezquino; mezquina {adj} :: geizig; knauserig
+micra {f} :: Mikrometer {m}; Mikron {n} \Einheiten
+microbio {m} :: Mikrobe {f} \Tiere
+microficha {f} :: Mikrofilm {m} \Medien
+micrófono {m} :: Mikrofon {n} \Technik
+micrómetro {m} :: Mikrometer {m}; Mikron {n} \Einheiten
+microscópico; microscópica {adj} :: mikroskopisch
+microscopio {m} :: Mikroskop {n} \Technik
+miel {f} :: Honig {m} \Essen
+miembro {m} :: Gliedmaße {f} \Körper
+miembro {m} :: Glied {n} \Körper
+miembro {m} :: Teil {m}
+mies {f} :: Ernte {f} \Landwirtschaft
+mies {f} :: geerntetes Getreide {n}; Getreidegarbe {f} \Landwirtschaft
+miga {f} :: Krümel {m}; Krume {f} \Essen
+migajas {f} {pl} :: Rest {m}; Essensreste {f} {pl} \Essen
+migración {f} :: Migration {f}; Völkerwanderung {f} \Politik
+migración {f} :: Wanderung {f} \Politik
+migra {f} [coloq.] :: Ausländerpolizei {f} (in den USA)
+migraña {f} :: Migräne {f} \Medizin
+migrar {v} :: wandern; migrieren
+migratorio; migratoria {adj} :: Wander-
+mijo {m} [coloq.] [Chile] (mi hijo) :: mein Liebling {f}; mein Schatz {m}
+milagrosamente {adv} :: auf wundersame Weise
+milagroso; milagrosa {adj} :: Wunder-
+milagroso; milagrosa {adj} :: wunderbar
+milagroso; milagrosa {adj} :: wundersam
+milagroso; milagrosa {adj} :: wundertätig \Religion
+milanesa {f} [Am.] :: paniertes Schnitzel {n} \Essen
+milanés; milanesa {adj} :: Mailändisch \Geographie
+milano {m} :: Milan {m} \Tiere
+milenario; milenaria {adj} :: tausendjährig \Zeit
+milenio {m} :: Jahrtausend {n} \Zeit
+milésima {f} :: Tausendstel {n} \Zahlen
+milésimo; milésima {adj} :: tausendstel {n} \Zahlen
+milhojas {m} :: Blätterteig {m} \Essen
+milicia {f} :: Militär {n} \Militär
+milicia {f} :: Wehrdienst {m} \Militär
+miliciano {m} :: Milizionär {m} \Militär
+mili {f} [coloq.] :: Militär {n} \Militär
+milimétrico; milimétrica {adj} :: millimeterklein
+militante {adj} :: militant
+militar {adj} :: Militär- \Militär
+militarismo {m} :: Militarismus {m}
+militar {m} :: Militär {n} \Militär
+millar {m} :: Milliarde {f} \Zahlen
+millonario; millonaria {adj} :: Millionen- \Zahlen
+millonario {m} :: Millionär {m} \Geld
+milpiés {m} :: Tausendfüsser {m} \Tiere
+mimado; mimada {adj} :: verwöhnt; behätschelt
+mimar {v} :: verwöhnen; bemuttern; hätscheln; verpäppeln \Familie
+mimbre {m} :: Korb {n} (Material)
+mímica {f} :: Mimik {f}
+mímico; mímica {adj} :: mimisch
+mina {f} [coloq.] [Chile] :: tolles Mädchen
+mineral {adj} :: mineralisch; Mineral-
+mineral {m} :: Mineral {n} \Wirtschaft
+minería {f} :: Bergbau {m} \Wirtschaft
+minero {m} :: Bergmann {m} \Berufe
+miniatura {f} :: Miniatur {f}; Miniarturbild {n}
+minimizar {v} :: minimieren
+mínimo; mínima {adj} :: minimal; Mindest-
+mínimo {m} :: Minimum {n}; Mindestmaß
+mínimum {m} :: Mindestmaß
+minino {m} [coloq.] | minina {f} [coloq.] :: Kater {m} | Katze {f} \Tiere
+ministerio {m} :: Ministerium {n} \Politik
+mino {m} [coloq.] [Chile] :: toller Typ {m}
+minorista {m,f} :: Einzelhändler {m} \Einkauf \Wirtschaft
+minoritario; minoritaria {adj} :: Minderheiten-; Minoritäts- \Politik
+minuciosidad {f} :: Genauigkeit {f}; Gründlichkeit {f}; Kleinlichkeit {f}
+minucioso; minuciosa {adj} :: minutiös; penibel; gründlich; eingehend
+minúscula {f} :: Kleinbuchstabe {m}; Minuskel {f}
+minúsculo; minúscula {adj} :: winzig
+minuta {f} :: Durchschrift {f}
+minuta {f} :: Entwurf {m}
+mi {prn} :: mich
+mi {prn} :: mir
+miradero {m} :: Aussichtspunkt {m}
+mirador {m} :: Aussichtspunkt {m}
+mirador {m} :: Aussichtsturm {m}
+mirar {v} :: schauen; gucken
+mirasol {m} :: Sonnenblume {f} \Pflanzen
+mirlo {m} :: Amsel {f} \Vögel
+mirón; mirona {adj} :: schaulustig; gaffend
+mirón {m} | mirona {f} :: Gaffer {m} | Gafferin {f}
+mirón {m} | mirona {f} :: Spanner {m} | Spannerin {f}
+misántropo; misántropa {adj} :: Menschenfeind {m}; Misanthrop {m}
+misceláneo; miscelánea {adj} :: vermischt
+miserable {adj} :: elend; ärmlich
+miserable {adj} :: miserabel
+miseria {f} :: Misere {f}
+miseria {f} :: Not {f}; Elend {n}
+misericordia {f} :: Barmherzigkeit {f} \Religion
+misericordia {f} :: Mitleid {n}; Erbarmen {n}
+misericordioso; misericordiosa {adj} :: barmherzig \Religion
+mísero; mísera {adj} :: ärmlich
+mísero; mísera {adj} :: armsehnlich
+mísero; mísera {adj} :: elend
+misionar {v} :: missionieren \Religion
+misionero; misionera {adj} :: Missions- \Religion
+misionero {m} | misionera {f} :: Missionar {m} | Missionarin {f} \Religion
+misión {f} :: Mission {f} \Religion
+mismísimo; mismísima {adj} :: selbst; genau
+mismo; misma {adj} :: genau; gleich; selbe
+misógino {m} :: Frauenfeind {m}; Frauenhasser {m}; Misogyn {m}
+misógino; misógina {adj} :: frauenfeindlich
+misterio {m} :: Mysterium {n}; Geheimnis {n}
+misterioso; misteriosa {adj} :: mysteriös; geheimnisvoll; rätselhaft
+mística {f} :: Mystik {f} \Religion
+místico; mística {adj} :: mystisch \Religion
+mistral {m} :: Mistral {m} (Wind) \Meteorologie
+mítico; mítica {adj} :: mythisch
+mitología {f} :: Mythologie {f}
+mitológico; mitológica {adj} :: mythisch
+mitológico; mitológica {adj} :: mythologisch
+mito {m} :: Mythos {m}
+mixto; mixta {adj} :: gemischt; vermischt
+mixtura {f} :: Mischung {f}
+

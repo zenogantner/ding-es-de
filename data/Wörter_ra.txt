@@ -1,0 +1,249 @@
+# Copyright (C) 2010 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+buena racha {f} :: Glückssträhne {f}
+mala racha {f} :: Pechsträhne {f}
+rabanito {m} :: Radieschen {n}  \Essen
+rábano {m} :: Rettich {m}; Radi {m} \Essen
+rábano picante {m} :: Meerrettich {m} \Essen
+rabia {f} :: Tollwut {f} \Medizin
+rabiar {v} :: toben; wüten; wütend sein
+rabioso {adj} :: tollwütig \Medizin
+rabioso {adj} :: wütend
+racha {f} :: Böe {f}; Bö {f} \Wetter
+racha {f} :: Serie {f}; Reihe {f}
+racial {adj} :: ethnisch
+racimo de uvas {m} :: Weintraube {f} \Essen
+racimo {m} :: Büschel {n}
+racimo {m} :: Schar {f}
+racimo {m} :: Schwarm {m}
+racimo {m} :: Traube {f} \Essen
+raciocinio {m} :: Urteilsfähigkeit {f}
+racional {adj} :: rational
+racional {adj} :: vernünftig
+racional {adj} :: zweckmäßig
+racionalidad {f} :: Rationalität {f}; Vernünftigkeit {f}
+racionalismo {m} :: Rationalismus {m} \Philosophie
+racionalista {adj} :: rationalistisch
+racionalista {m} | racionalista {f} :: Rationalist {m} | Rationalistin {f}
+racionalización {f} :: Rationalisierung {f} \Wirtschaft
+racionalizar {v} :: rationalisieren \Wirtschaft
+racionar {v} :: portionieren
+racionar {v} :: rationieren
+ración {f} :: Ration {f}
+racismo {m} :: Rassismus {m} \Politik
+racista {adj} :: rassistisch \Politik
+racista {m} | racista {f} :: Rassist {m} | Rassistin {f} \Politik
+radar {m} :: Radar {n} \Technik
+radiación {f} :: Bestrahlung {f} \Technik
+radiación {f} :: Strahlung {f} \Technik
+radiactividad {f} :: Radioaktivität {f} \Physik
+radiactivo {adj} :: radioaktiv \Physik
+radiador {m} (calefacción) :: Heizkörper {m} \Technik \Haus
+radiador {m} (coche) :: Kühler {m} (Auto) \Verkehr
+radial {adj} :: radial
+radial {adj} :: strahlenförmig
+radiante {adj} :: glänzend
+radiante {adj} :: strahlend
+radiar {v} :: funken
+radiar {v} :: glänzen
+radiar {v} :: strahlen
+radical {adj} :: Grund-
+radical {adj} :: radikal; gründlich
+radical {adj} :: Stamm-
+radical {adj} :: Wurzel-
+radicalismo {m} :: Extremismus {m} \Politik
+radical {m} | radical {f} :: Radikaler {m} | Radikale {f} \Politik
+radical {m} :: Radikal {n} \Chemie
+radical {m} :: Wortstamm {m} \Linguistik
+radical {m} :: Wurzel {f} \Mathematik
+radicar {v} :: liegen (an); beruhen (auf)
+radicar {v} :: wurzeln
+radioactivo {adj} :: radioaktiv \Physik
+radio de alcance {m} :: Reichweite {f} \Technik
+radiodifusión {f} :: Funk {m} \Technik
+radiodifusión {f} :: Rundfunk {m} \Medien
+radio {f} :: Funkgerät {n} \Technik
+radio {f} :: Hörfunk {m}; Radio {n} \Medien
+radio {f} :: Radio {n}; Radiogerät {n} \Technik \Medien
+radiografía {f} :: Röntgenaufnahme {f} \Medizin
+radiografía {f} :: Röntgenbild {n} \Medizin
+radiografiar {v} :: röntgen \Medizin
+radiología {f} :: Radiologie {f}; Röntgen {n} \Medizin
+radiólogo {m} :: Radiologe {m}; Röntgenarzt {m} \Medizin
+radio {m} :: Radium {n} \Elemente
+radio {m} :: Radius {m} \Mathemathik
+radio {m} :: Speiche {f} \Technik
+radio {m} :: Umkreis {m}
+ráfaga {f} :: Böe {f}; Windböe {f} \Wetter
+raído {adj} :: abgeschabt
+raíl {m} :: Schiene {f}; Eisenbahnschiene {f} \Verkehr \Technik
+raíz {f} :: Zahnwurzel {f} \Medizin
+raja {f} [coloq.] :: Arsch {m} \Körper
+raja {f} :: Riss {m}
+raja {f} :: Schlitz {m} 
+raja {f} :: Sprung {m}
+rajarse {v} :: aufreißen
+rajarse {v} [coloq.] :: einen ausgeben; einladen
+rajarse {v} :: reißen
+rajarse {v} :: springen; zerspringen
+rajar {v} :: aufschlitzen
+raja [vulg.] {f} :: Fotze [vulg.] {f}
+rallador {m} :: Reibe {f}; Reibeisen {n} \Küche
+rallar {v} :: aufreiben
+rama {f} :: Branche {f} \Wirtschaft
+rama {f} :: Sektor {m}
+rama {f} :: Sparte {f}
+ramera {f} [vulg.] :: Nutte {f}
+ramo {m} :: Ast {m}; Zweig {m} \Pflanzen
+ramo {m} :: Blumenstrauß {m}
+ramo {m} :: Branche {f}; Fach {n}; Gebiet {n}
+rampa {f} :: Rampe {f} \Technik
+rana {f} :: Frosch {m} \Tiere
+rancho {m} :: Hütte {m} \Architektur
+rancho {m} :: Ranch {f} \Landwirtschaft
+rancho {m} :: Schuppen {m} \Landwirtschaft
+rancio {adj} :: altmodisch
+rancio {adj} :: ranzig \Essen
+rancio {adj} :: uralt
+ranura {f} :: Furche {f}
+ranura {f} :: Kerbe {f}
+ranura {f} :: Nut {f} \Technik
+ranura {f} :: Schlitz {m}
+rapado {adj} :: kahlgeschoren \Personenbeschreibung
+rapar {v} :: kahl scheren; abrasieren
+rapaz {adj} :: räuberisch; Raub-
+rapaz {f}; ave rapaz {f} :: Raubvogel {m} \Vögel
+rapaz {m} :: Junge {m}
+rape {m} :: Kahlrasur {f} \Personenbeschreibung
+rápidamente {adv} :: schnell
+rapidez {f} :: Schnelligkeit {f}
+rápido {adj} :: rasch
+rápido {adj} :: schnell
+rapiña {f} :: Raub {m} \Verbrechen
+rapiñar {v} :: rauben \Verbrechen
+rapo {m} :: Steckrübe {f}; Kohlrübe {f} \Pflanzen \Essen
+raptar {v} :: rauben \Verbrechen
+rapto {m} :: Raub {m} \Verbrechen
+raqueta {f} :: Schläger {m} \Sport
+raqueta {f} :: Tennisschläger {m} \Sport
+raquítico {adj} :: rachitisch \Medizin
+raquítico {adj} :: verkümmert
+raquitismo {m} :: Rachitis {f} \Medizin
+raramente {adv} :: selten
+rareza {f} :: Rarität {f}
+rareza {f} :: Seltenheit {f}
+rareza {f} :: Seltsamkeit {f}
+raro {adj} :: kurios
+raro {adj} :: merkwürdig
+raro {adj} :: selten; rar
+raro {adj} :: seltsam; komisch; absonderlich; sonderbar
+raro {adj} :: wenig; spärlich
+rascacielos {m} :: Wolkenkratzer {m} \Architektur
+rascar {v} :: aufrauen
+rascar {v} :: kratzen
+rascar {v} :: schaben
+rasgar {v} :: aufschlitzen
+rasgar {v} :: reißen
+rasgar {v} :: zerreißen
+rasgo {m} :: Merkmal {n}; Zug {m} \Personenbeschreibung
+rasguñar {v} :: kratzen: zerkratzen
+rasguño {m} :: Kratzer {m}
+raso {adj} :: eben
+raso {adj} :: flach
+raso {adj} :: glatt
+raso {adj} :: kahl
+raspado {m} :: Ausschabung {f}
+raspar {v} :: abkratzen
+raspar {v} :: abschaben
+raspar {v} :: abschürfen
+raspar {v} :: aufrauen
+raspar {v} :: kratzen
+raspar {v} :: raspeln
+raspón {m} :: Abschürfung {f}
+rastra {f} :: Harke {f} \Landwirtschaft \Werkzeug
+rastrear {v} :: durchkämmen
+rastrear {v} :: durchsuchen
+rastrear {v} :: harken
+rastreo {m} :: Absuchen {f}; Durchsuchung {f}; Suchaktion {f}
+rastreo {m} :: Fahndung {f}; Rasterfahndung {f}
+rastrillar {v} :: eggen \Landwirtschaft
+rastrillo {m} :: Egge {f} \Landwirtschaft \Werkzeug
+rastrillo {m} :: Harke {f} \Landwirtschaft \Werkzeug
+rastrillo {m} :: Rechen {m} \Landwirtschaft \Werkzeug
+rastro {m} :: Flohmarkt {m} \Einkauf
+rastro {m} :: Rechen {m} \Landwirtschaft \Werkzeug
+rastro {m} :: Spur {f}; Fährte {f}
+ratero {m} :: Taschendieb {m} \Verbrechen
+ratificar {v} :: genehmigen
+ratificar {v} :: ratifizieren \Politik
+ratito {m} :: Weilchen {n}
+rato {m} :: Augenblick {m}
+rato {m} :: Moment {m}
+rato {m} :: Weile {f}
+rauco {adj} :: heiser \Personenbeschreibung
+rayado {adj} [coloq.]  :: durchgedreht; verrückt
+rayado {adj} :: gestreift
+rayado {adj} :: gestrichelt
+rayado {adj} :: liniert
+rayado {adj} :: verkratzt
+raya {f}; manta raya :: Rochen {m} \Fische
+raya {f} :: Streifen {m}
+raya {f} :: Streifen {m}
+raya {f} :: Strich {m}
+rayarse [coloq.] :: verrückt werden; durchdrehen
+rayar {v} :: durchstreichen
+rayar {v} :: linieren
+rayar {v} :: vollkritzeln
+rayar {v} :: zerkratzen; verkratzen; verschrammen
+rayo {m} :: Blitz {m} \Wetter
+rayo {m} :: Speiche {f} \Technik
+rayo {m} :: Strahl {m} \Technik
+raza {f} :: Volk {n} \Politik
+razonable {adj} :: angemessen
+razonable {adj} :: sinnvoll
+razonable {adj} :: vernünftig
+razonamiento {m} :: Argumentation {f}
+razonamiento {m} :: Erläuterung {f}: Erörterung {f}
+razonamiento {m} :: Überlegung {f}
+razonar {v} :: argumentieren
+razonar {v} :: begründen
+razonar {v} :: nachdenken
+razón {f} :: Firma {f} \Wirtschaft
+razón {f} :: Grund {m}; Ursache {f}
+razón {f} :: Proportion {f}; Verhältnis {n} \Mathematik
+razón {f} :: Räson {f}
+razón {f} :: Recht {n}
+razón {f} :: Vernunft {f}; Verstand {m} \Philosophie
+razón social {f} :: Firmenname {m} \Wirtschaft
+

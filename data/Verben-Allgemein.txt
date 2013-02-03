@@ -1,0 +1,431 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# Verben, die nicht einem speziellen Wortfeld zugeordnet wurden.
+
+abandonar {v} :: verlassen
+abanicar {v} :: fächern
+abarcar {v} :: umfassen; abdecken
+abastecer {v} :: versorgen
+abjurar {v} :: widerrufen; abschwören; aufgeben
+ablandar {v} :: weich machen
+abobar {v} :: verblöden
+abofetear {v} :: ohrfeigen
+abolir {v} :: abschaffen
+abollar {v} :: verbeulen; einbeulen
+abonar {v} :: düngen; zahlen; abonnieren
+abordar {v} :: entern; ansprechen
+abrasar {v} :: verbrennen; versengen
+abrir {v} :: öffnen; eröffnen
+abrillantar {v} :: zum glänzen bringen; aufwerten
+abrochar {v} :: zuschnallen
+abrogar {v} :: aufheben (ein Gesetz)
+abrumar {v} :: erdrücken; zerdrücken
+absolver {v} :: vergeben
+absorber {v} :: absorbieren
+abstenerse de {v} :: sich enthalten
+abstener {v} :: vorenthalten; entziehen; enthalten
+acabar {v} :: beenden; abschließen; fertig stellen
+acabar {v} :: aufessen
+acabar de + Inf. {v} :: eine Handlung vor kurzem vollendet haben
+acceder {v} :: zugreifen
+acercarse {v} :: sich nähern
+aclimatarse {v} :: sich einleben
+acompañar {v} :: begleiten
+acordarse {v} :: sich erinnern
+acordarse de {v} :: sich erinnern an
+acostumbrar {v} :: gewohnt sein
+acostumbrarse {v} :: sich gewöhnen; sich eingewöhnen
+acostumbrarse a {v} :: sich gewöhnen an
+acudir {v} :: kommen; herbeieilen; sich einfinden; sich begeben; hingehen
+acumular {v} :: aufhäufen; anhäufen; ansammeln
+administrar {v} :: verwalten; administrieren
+admirar {v} :: bewundern
+afamar {v} :: berühmt machen
+agotar {v} :: verbrauchen; aufbrauchen; erschöpfen; (Waren) ausverkaufen
+agotarse {v} :: verdorren; zunichte machen
+agusanarse {v} :: wurmstichig werden
+ahondar {v} :: vertiefen
+ahondarse {v} :: sich vertiefen
+ahoyar {v} :: aushöhlen
+ahuecar {v} :: aushöhlen; lockern; auflockern
+alcanzar {v} :: erreichen
+alejarse {v} :: sich entfernen
+alquilar {v} :: mieten; vermieten
+anclar {v} :: verankern
+andar {v} :: gehen; wandern
+andar lento {v} :: langsam gehen
+apagar {v} :: ausschalten
+aparecer {v} :: erscheinen
+aparecerse {v} :: erscheinen; sich zeigen
+apartarse {v} :: sich trennen; sich abwenden
+apoyar {v} :: unterstützen
+apremiar {v} :: bedrängen; (gerichtlich) mahnen
+aprender a {v} :: lernen zu
+apretar {v} :: drücken
+arreglar {v} :: aufräumen; reparieren
+arriesgar {v} :: riskieren
+atraer {v} :: anziehen; anlocken; für sich einnehmen
+aumentar {v} :: vermehren; vergrößern; erhöhen
+ayudar {v} :: helfen
+
+bajar {v} :: hinuntergehen
+bastar {v} :: genügen
+beneficiarse de {v} :: profitieren von; Nutzen ziehen aus
+buscar {v} :: suchen
+buscar {v} :: holen
+
+caer {v} :: fallen
+caerse {v} :: (aus Versehen) fallen
+se le cae {v} :: es fällt ihm herunter
+cambiar {v} :: vertauschen; umtauschen; austauschen; eintauschen; wechseln; tauschen; verändern
+cerrar {v} :: schließen
+chapotear {v} :: plätschern
+chocar {v} :: stoßen; anstoßen; zusammenstoßen
+al chocar {v} :: beim Zusammenstoß
+coger {v} :: nehmen
+colaborar {v} :: zusammenarbeiten; mitarbeiten; kooperieren; mitwirken
+colocar {v} :: stellen; legen
+comenzar {v} :: anfangen; beginnen
+completar {v} :: vervollständigen; komplettieren; ergänzen
+comprender {v} :: verstehen; begreifen
+comprimir {v} :: komprimieren; zusammendrücken
+comprobar {v} :: bestätigen; überprüfen; nachweisen
+concluir {v} :: abschließen; fertig stellen
+concurrir {v} :: sich versammeln; zusammenkommen
+confundir {v} :: verwechseln; durcheinander bringen
+conocer {v} :: kennen; kennen lernen
+conozco {v} :: ich kenne
+conservar {v} :: konservieren; aufbewahren
+constar {v} :: bestehen; feststehen
+constar de {v} :: bestehen aus
+construir {v} :: bauen
+contaminar {v} :: verschmutzen
+contar {v} :: rechnen
+contar con {v} :: rechnen mit
+contemplar {v} :: betrachten; anschauen; erwägen; vorsehen
+continuar {v} :: weitermachen; fortsetzen; weitergehen; weiterlaufen
+contribuir {v} :: beitragen
+controlar {v} :: kontrollieren; überwachen
+convencer de {v} :: überzeugen von
+convivir {v} :: zusammenleben
+correr {v} :: schnell fahren; laufen
+costar {v} :: kosten
+crear {v} :: schaffen; erschaffen
+cruzar {v} :: kreuzen
+culebrear {v} :: sich schlängeln
+culminar {v} :: vollenden; den Höhepunkt erreichen
+cumplir {v} :: erfüllen; ausführen; (Versprechen) halten; (Dienst) ableisten; (Frist) ablaufen
+cumplirse {v} :: in Erfüllung gehen
+cundir {v} :: sich ausbreiten; sich verbreiten
+currar {v} :: arbeiten; hart arbeiten; malochen
+
+dar {v} :: geben
+darse cuenta {v} :: bemerken
+dar un paseo {v} :: einen Spaziergang machen
+deber {v} :: müssen; sollen
+decidir {v} :: entscheiden; beschließen
+dedicarse {v} :: sich widmen
+definir {v} :: definieren
+definir como {v} :: definieren als
+dejar {v} :: lassen; verlassen; liegen lassen; zulassen; überlassen; aufgeben
+dejar de {v} :: aufhören zu
+demostrar {v} :: beweisen; zeigen
+depender {v} :: abhängig sein; abhängen
+depender de {v} :: abhängen von; abhängig sein von
+desagradar {v} :: missfallen
+desalojar {v} :: räumen
+desarrollar {v} :: entwickeln
+descansar {v} :: ausruhen; ruhen
+descansarse {v} :: sich ausruhen
+despedir {v} :: verabschieden; (Duft) ausströmen
+descubrir {v} :: entdecken
+desear {v} :: wünschen
+devolver {v} :: zurückgeben; zurückzahlen
+devolverse [Am.] {v} :: zurückkehren; zurückkommen
+dirigirse {v} :: sich begeben; sich wenden
+diseñar {v} :: entwerfen; planen
+disminuir {v} :: verkleinern; verringern; zurückgehen; vermindern; abnehmen; nachlassen
+disponer de {v} :: zur Verfügung stehen
+disponerse a ... {v} :: ... vorhaben
+dudar {v} :: zweifeln
+
+echar {v} :: hinein geben; dazu geben; wegwerfen; (Brief) einwerfen
+edificar {v} :: bauen
+elevarse {v} :: sich erheben
+eludir {v} :: umgehen; ausweichen; vermeiden
+empeorar {v} :: verschlechtern
+empezar {v} :: anfangen
+empezar a {v} :: anfangen zu
+emplear {v} :: einsetzen; verwenden
+emprender {v} :: unternehmen
+encaminarse {v} :: sich auf den Weg machen
+encantar {v} :: begeistern
+encargar {v} :: bestellen; in Auftrag geben
+encender {v} :: anschalten
+encontrar {v} :: treffen; finden
+engañar {v} :: täuschen; trügen; betrügen; überlisten
+engañarse {v} :: sich täuschen
+enloquecer {v} :: verrückt werden; durchdrehen; dement werden
+yo enloquezco {v} :: ich werde verrückt
+entrar {v} :: hineingehen; betreten; eindringen
+entrar en {v} :: hingehen in
+entregar {v} :: geben; übergeben
+equivocarse {v} :: sich täuschen; sich irren
+envolver {v} :: einhüllen; einpacken
+esconder {v} :: verstecken
+esconderse {v} :: sich verstecken
+esperar {v} :: warten; erwarten; hoffen; erhoffen
+estar {v} :: sein (für Zustände)
+estar a disposición {v} :: zur Verfügung stehen
+estar fatal {v} :: in sehr schlechtem Zustand sein
+estar harto de {v} :: etwas satt haben
+estar sentado {v} :: sitzen
+estar supeditado a {v} :: ausgesetzt sein
+exagerar {v} :: übertreiben
+existir {v} :: existieren
+exportar {v} :: exportieren; ausführen
+
+faltar {v} :: fehlen
+fechar {v} :: datieren
+fijar {v} :: befestigen; festlegen; festsetzen; festmachen
+fijarse {v} :: Acht geben; bemerken
+fundar {v} :: gründen; stiften; unterstützen
+
+igualar {v} :: angleichen
+imaginar {v} :: ausdenken; sich ausdenken
+imaginarse {v} :: sich vorstellen; sich ausdenken
+impedir {v} :: behindern; hindern
+implantar {v} :: (etwas neues) einführen
+importar {v} :: wichtig sein; von Bedeutung sein
+improvisar {v} :: improvisieren
+incluir {v} :: einschließen
+intentar {v} :: versuchen
+intentar + Inf. {v} :: versuchen zu
+intervenir {v} :: eingreifen
+inventar {v} :: erfinden
+ir {v} :: gehen; kommen
+ir a ver {v} :: besuchen (gehen)
+ir a + Inf. {v} :: (zusammengesetzte Zukunft, für Pläne und Vorhaben)
+
+jugar {v} :: spielen
+
+lamerse {v} :: sich lecken; sich ablecken
+lanzarse a {v} :: sich in ... hinein stürzen
+largarse {v} :: abhauen
+levitar {v} :: schweben
+liberar {v} :: befreien; freilassen
+llegar {v} :: ankommen; eintreffen
+llegar a ser {v} :: werden (z.B. Beruf)
+llenar {v} :: füllen; (Formular) ausfüllen
+llevar {v} :: bringen; hinbringen; tragen; führen; mitbringen
+llevar en sí {v} :: in sich tragen
+le lleva un rato {v} :: es kostet ihn einige Zeit
+lograr {v} :: erreichen
+lograr {v} :: es fertig bringen; schaffen; erreichen
+
+madrugar {v} :: früh aufstehen
+malograr {v} :: verderben
+mandar {v} :: schicken; abschicken; losschicken
+manejar {v} :: handhaben; bedienen
+marcar {v} :: kennzeichnen; markieren; bezeichnen
+mencionar {v} :: erwähnen
+mendigar {v} :: betteln; erbetteln
+mejorar {v} :: verbessern; sich verbessern
+merecer {v} :: verdienen
+meter {v} :: hineinstecken
+mezclar {v} :: mischen
+mirar {v} :: anschauen; ansehen; anblicken; schauen
+molestar {v} :: belästigen
+molestarse {v} :: sich die Mühe machen
+montar {v} :: montieren; aufstellen; zusammenbauen; (Pferd) reiten
+mover {v} :: bewegen
+mudarse {v} :: umziehen
+
+nacer {v} :: geboren werden
+naufragar {v} :: scheitern
+necesitar {v} :: brauchen
+notar {v} :: bemerken
+
+obedecer {v} :: gehorchen
+obligar a {v} :: zwingen zu; verpflichten zu
+observar {v} :: beobachten
+ocultar {v} :: verbergen; verheimlichen; verschweigen
+ocurrir {v} :: geschehen
+ofrecer {v} :: anbieten; bieten; geben
+olvidar {v} :: vergessen
+olvidarse de ... {v} :: ... vergessen
+omitir {v} :: auslassen; weglassen
+opinar {v} :: meinen
+ordenar {v} :: ordnen; bestellen; aufräumen; anordnen
+organizar {v} :: organisieren
+osar {v} :: wagen
+
+parecer  {v} {v} :: scheinen; erscheinen
+pasar  {v} {v} :: vorbeigehen; passieren; verbringen
+pautar  {v} {v} :: linieren
+pegarse  {v} {v} :: sich schlagen
+pelear  {v} {v} :: kämpfen; streiten; raufen
+pelearse  {v} {v} :: sich streiten; sich bekämpfen; sich prügeln
+penar  {v} {v} :: bestrafen; leiden
+penetrar  {v} {v} :: eindringen
+pensar  {v} {v} :: denken; nachdenken
+pensar + Inf.  {v} {v} :: zu tun gedenken
+pensar en ...  {v} {v} :: an ... denken
+perder  {v} {v} :: verlieren; verpassen
+perder la práctica  {v} {v} :: aus der Übung kommen
+perderse  {v} {v} :: sich verirren
+permitir  {v} {v} :: erlauben
+pertenecer  {v} {v} :: gehören
+pertenecer a  {v} {v} :: gehören zu; angehören
+pintar  {v} {v} :: malen
+planear  {v} {v} :: planen
+planificar  {v} {v} :: planen
+poder  {v} {v} :: können
+poner  {v} {v} :: stellen
+poner libre  {v} {v} :: freilassen
+predecir  {v} {v} :: vorhersagen; voraussagen
+preferir  {v} {v} :: vorziehen; bevorzugen; lieber tun
+preocupar  {v} {v} :: beschäftigen
+preocuparse de  {v} {v} :: sich kümmern um; sich beschäftigen mit
+presentar  {v} {v} :: vorlegen; vorstellen; präsentieren
+probar  {v} {v} :: versuchen; beweisen
+probar suerte  {v} {v} :: sein Glück versuchen
+producir  {v} {v} :: produzieren; herstellen
+privar de  {v} {v} :: die Möglichkeit nehmen
+proponerse  {v} {v} :: sich vornehmen; vorhaben
+
+quedar {v} :: bleiben
+quedar [coloq.] {v} :: sich verabreden; verbleiben
+quedar {v} :: übrig bleiben
+quedarse {v} :: bleiben
+quedar clavado {v} :: wie angenagelt sein
+quedar con ... {v} :: sich mit ... verabreden
+quedar mal {v} :: schlecht dastehen
+quemar {v} :: verbrennen
+querer {v} :: wollen; mögen; lieben
+
+rechazar {v} :: abweisen; ablehnen; zurückweisen
+recibir {v} :: erhalten; bekommen
+recibir regalos {v} :: beschenkt werden; Geschenke bekommen; Geschenke erhalten
+recoger {v} :: abholen
+recordar {v} :: an etwas erinnern
+recorrer {v} :: (Text) durchlesen; (Text) durchsehen
+recorrer {v} :: durchlaufen; durcheilen; durchwandern; bereisen; (Strecke) zurücklegen
+reducir {v} :: reduzieren; verringern
+reforzar {v} :: verstärken
+regatear {v} :: handeln; feilschen
+relacionar {v} :: in Verbindung bringen
+relajar {v} :: lockern; entspannen
+relajarse {v} :: sich entspannen
+relucir {v} :: leuchten; glänzen; schimmern
+remontarse {v} :: sich empor schwingen
+remontarse a {v} :: zurückgehen auf; sich belaufen auf
+renunciar a {v} :: verzichten auf
+repetir {v} :: wiederholen
+representar {v} :: repräsentieren; vertreten
+respetar {v} :: achten; respektieren; Rücksicht nehmen
+resultar {v} :: sich erweisen als; sein
+retirar {v} :: wegnehmen
+reunir {v} :: vereinen; versammeln
+revolver {v} :: umdrehen; durchwühlen
+romperse {v} :: zerbrechen
+
+saber {v} :: wissen
+salir {v} :: herausgehen; weggehen; ausgehen
+salgo {v} :: ich gehe aus
+salir bien {v} :: gut gelingen
+saltar {v} :: springen
+saltarse un obstáculo {v} :: ein Hindernis überspringen
+secar {v} :: trocknen
+seguir {v} :: folgen; weitermachen
+señalar {v} :: hinweisen; zeigen auf; kennzeichnen
+sentarse {v} :: sich setzen; sich hinsetzen
+sentir {v} :: bedauern
+sepultar {v} :: begraben
+ser {v} :: sein
+sobornar {v} :: bestechen
+sobrar {v} :: übrig bleiben
+sobrevivir {v} :: überleben
+solicitar {v} :: beantragen
+soportar {v} :: aushalten
+subir {v} :: steigen; aufwärts gehen
+suceder {v} :: folgen; nachfolgen; die Nachfolge antreten
+sufrir {v} :: leiden
+supo {v} :: er erfuhr; sie erfuhr
+surgir {v} :: hervor sprudeln; auftauchen; erscheinen
+sustituir {v} :: ersetzen; vertreten
+sustituir por {v} :: einsetzen für
+
+temer {v} :: fürchten
+tener {v} :: haben
+tener ganas de {v} :: Lust haben auf; Lust haben zu
+tener mal genio {v} :: schlecht gelaunt sein
+tener que {v} :: müssen
+tener planes {v} :: Pläne haben
+terminar {v} :: aufhören
+tirar {v} :: schießen; werfen; wegwerfen
+tocar {v} :: berühren
+tomar {v} :: nehmen
+tomar contacte {v} :: Kontakt aufnehmen
+tomarse {v} :: (zu sich) nehmen; trinken
+tómate {v} :: nimm (Imperativ von tomarse)
+tomar el sol {v} :: sich sonnen
+traer {v} :: bringen
+traer a ... {v} :: ... (eine Person) mitbringen; herbringen
+trasladar {v} :: transportieren
+trasladarse {v} :: umziehen
+tratar {v} :: behandeln
+
+unir {v} :: vereinen
+usar {v} :: verwenden; benutzen; anwenden; gebrauchen
+
+valer {v} :: wert sein; taugen
+valer la pena {v} :: sich lohnen; die Mühe wert sein
+vencer {v} :: besiegen; überwinden
+venir {v} :: kommen
+ven {v} :: (2. Person Singular Imperativ von venir)
+ver {v} :: sehen
+vino {v} :: (pret. indef. von venir)
+venir a ver {v} :: besuchen (kommen)
+vigilar {v} :: überwachen
+visitar {v} :: besuchen
+visitar a ... {v} :: ... besuchen
+vivir {v} :: leben; wohnen
+vivir a gusto {v} :: zufrieden leben
+volar {v} :: fliegen
+yo vuelo {v} :: ich fliege
+volver {v} :: zurückkommen; zurückkehren; zurückgehen; drehen; umdrehen
+
+

@@ -1,0 +1,253 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+abdominal {f} :: Situp {f}; Sit-Up {f} [Sport]
+# TODO: Genus prüfen
+aficionada {f} :: Fan {m} [Sport]
+aficionado {m} :: Fan {m} [Sport]
+ala {f} :: Außenstürmer {m}; Außenstürmerin {f}
+alpinismo {m} :: Bergsport {m}; Alpinismus {m}
+alpinista {adj} :: alpinistisch
+alpinista {f} :: Bergsteigerin {f}
+alpinista {m} :: Bergsteiger {m}
+árbitra {f} :: Schiedsrichterin {f}; Unparteiische {f}
+árbitro {m} :: Schiedsrichter {m}; Unparteiischer {m}
+asistencia {f} :: Vorlage {f} [Mannschaftssport]
+ataque {m} :: Angriff {m}; Sturm {m} [Sport]
+ataque {m} :: Angriff {m}; Vorstoß {m} [Sport]
+atleta {f} :: Athletin {f}
+atleta {m} :: Athlet {m}
+atlético; atlética :: athletisch
+atletismo {m} :: Leichtathletik {f}
+bádminton {m}; badminton {m} :: Badminton {n}; Federballspiel {n}
+balón {m} :: Ball {m} [Sport]
+baloncesto {m} :: Basketball {m}
+balonmano {m} :: Handball {m}
+balonvoley {m} :: Volleyball {m}
+bate {m} :: Baseballschläger {m}
+béisbol {m} :: Baseball {m}
+billar {m} :: Billard {n}
+billar americano {m} :: Poolbillard {n}
+bucear :: tauchen
+caminar :: wandern
+camiseta {f} :: Trikot {n} [Sport]
+campeón {m} :: Meister {m}; Champion {m}; Sieger {m} [Sport]
+campeona {f} :: Meisterin {f}; Champion {m}; Siegerin {f} [Sport]
+campeonato {m} :: Meisterschaft {f}
+campeonato mundial {m}; campeonato del mundo {m} :: Weltmeisterschaft {f}
+campo {m} :: Spielfeld {n}
+campo de golf {m} :: Golfplatz {m}
+canoa {f} :: Kanu {n}
+carambola {f} :: Karambolage {f} [Billard]
+carrera {f} :: Rennen {n}
+una veloz carrera :: ein schnelles Rennen
+cesta {f} :: Korb {m} [Basketball]
+ciclismo {m} :: Radsport {m}; Radrennsport {m}
+ciclista :: Rad-; Radsport-
+ciclista {m} :: Radfahrer {m}
+ciclista {f} :: Radfahrerin {f}
+crol {m} :: Kraulen {n} [Schwimmen]
+nadar a crol :: kraulen [Schwimmen]
+culturismo {m} :: Bodybuilding {n}
+culturista {m} :: Bodybuilder {m}
+culturista {f} :: Bodybuilderin {f}
+delantera {f}; línea delantera {f} :: Sturm {m} [Sport]
+delantero {m} :: Stürmer {m}
+delantera {f} :: Stürmerin {f}
+delantero centro {m} :: Mittelstürmer {m}
+deporte {m} :: Sport {m}; Sportart {f}
+deporte blanco {m} :: Wintersport {m}
+deporte de invierno {m} :: Wintersport {m}; Wintersportart {f}
+deportes de invierno {m} {pl} :: Wintersport {m}; Wintersportarten {f} {pl}
+deporte náutico {m} :: Wassersport {m}
+deportista {m} :: Sportler {m}
+deportista {f} :: Sportlerin {f}
+deportista :: sportlich (Person)
+deportividad {f} :: Sportlichkeit {f}
+deportivo; deportiva :: sportlich
+derrota {f} :: Niederlage {f}
+descanso {m} :: Halbzeit {f}; Halbzeitpause {f}; Pause {f} [Sport]
+empatar :: unentschieden ausgehen; unentschieden enden; unentschieden spielen [Sport]
+empate {m} :: Unentschieden {n}; Gleichstand {m} [Sport]
+gol de empate {m} :: Ausgleich {m} [Sport]
+en el minuto 68 :: in der 68. Minute
+entrenador {m} :: Trainer {m}
+entrenamiento {m} :: Training {n}; Übung {f}
+equipo {m} :: Mannschaft {f}
+esquí {m} :: Ski {m}; Skifahren {n}; Skisport {m}
+esquí acuático {m} :: Wasserski {m}
+esquiar :: Ski fahren
+etapa {f} :: Etappe {f}; Abschnitt {m}; Streckenabschnitt {m}
+expulsar :: vom Platz verweisen; des Platzes verweisen; vom Platz stellen [Sport]
+extrema {f} :: Außenstürmerin {f}
+extremo {m} :: Außenstürmer {m}
+falta {f} :: Foul {n}; Foulspiel {n}
+recibir una falta :: gefoult werden [Sport]
+cometer una falta :: foulen [Sport]
+disparar; disparar a puerta :: aufs Tor schießen [Sport]
+forofo {m} :: Fan {m}
+fuera de juego {m} :: Abseits {n}; Abseitsposition {f} [Sport]
+fútbol {m} :: Fußball {m}; Leder {n}
+hacer deporte :: Sport machen; Sport treiben
+JJ OO : Juegos Olímpicos {m} {pl} :: - : Olympische Spiele {n} {pl}
+juez de línea {m} :: Linienrichter {m}
+jugador {m} :: Spieler {m}
+líder {m} :: Tabellenführer {m}
+liga {f} :: Liga {f}
+liga {f} :: Meisterschaft {f}; Landesmeisterschaft {f}
+marcador {m} :: Anzeigetafel {f}
+marcar :: ein Tor schießen
+marcar un gol :: ein Tor schießen
+marcar a un jugador :: einen Spieler decken
+marcar a alguien :: jemanden decken [Sport]
+mariposa {f} :: Schmetterlingsstil {m} [Schwimmen]
+mascota {f} :: Maskottchen {n}
+meter un gol :: ein Tor schießen
+minigolf {m} :: Minigolf {n}
+montar en bicicleta :: Fahrrad fahren
+nadador {m} :: Schwimmer {m}
+nadar a crol :: kraulen
+parapente {m} :: Gleitschirm {m}; Paraglider {m}
+parapente {m} :: Gleitschirmfliegen {n}
+partido {m} :: Spiel {n}; Partie {f}
+pelota {f} :: Ball {m} [Sport]
+penalty {m} :: Elfmeter {m}; Strafstoß {m}; Penalty {m} [Österreich]
+perdedor {m} :: Verlierer {m}
+perder con alguien :: gegen jemanden verlieren
+portería {f} :: Tor {n} [Ballsport]
+portero {m} :: Torhüter {m}; Torwart {m}; Tormann {m}
+profesional {m} :: Profi {m}; Profi-Sportler {m}; Profi-Spieler {m}
+profesional {f} :: Profi {m}; Profi-Sportlerin {f}; Profi-Spielerin {f}
+punto {m} :: Punkt {m} [Basketball]
+rebote {m} :: Rebound {m} [Basketball]
+relevo {m} :: Staffel {f}
+remate {m} :: Torschuss {m}; Schuss {m}; Abschluss {m}
+rematar :: aufs Tor schießen
+seleccionador {m} :: Trainer {m}
+seleccionadora {f} :: Trainerin {f}
+slalom {m} :: Slalom {m}
+temporada {f} :: Saison {f}
+tenis de mesa {m} :: Tischtennis {n}
+terreno de juego {m} :: Spielfeld {n}
+tiro {m} :: Schuss {m}; Wurf {m} [Ballsport]
+tiro con arco {m} :: Bogenschießen {n}
+tiro libre {m} :: Freiwurf {m} [Basketball]
+tiro de tres {m} :: Dreier {m}; Drei-Punkte-Wurf {m} [Basketball]
+tongo {m} :: Schiebung {f}
+torneo {m} :: Turnier {n}; Wettkampf {m}; Wettbewerb {m} [Sport]
+volea {f} :: Flugball {m}; Volley {m}
+voleibol {m} :: Volleyball {m}
+voleo {m} :: Schlag {m} [Ballsport]
+voley-playa {m} :: Beachvolleyball {n}
+waterpolo {m} :: Wasserball {n}
+
+# FUSSBALL
+centrocampista {m} :: Mittelfeldspieler {m} [Fußball]
+centrocampista {f} :: Mittelfeldspielerin {f} [Fußball]
+córner {m} :: Ecke {f}; Eckstoß {m}; Eckball {m} [Fußball]
+córner {m} :: Corner {m} [Fußball] [Österreich]
+Eurocopa {f} :: Fußball-Europameisterschaft {f}
+fútbol {m} :: Fußball {m}
+fútbol sala {m} :: Hallenfußball {m}
+futbolín {m} :: Tischfußball {m}; Kicker {m}
+futbolista {m} :: Fußballspieler {m}
+jugar al fútbol :: Fußball spielen
+líbero {m} :: Libero {m} [Fußball]
+medio {m} :: Mittelfeldspieler {m} [Fußball]
+meta {f} :: Tor {n} [Fußball]
+meta {m} :: Torwart {m}
+Mundial {m} :: Fußball-Europameisterschaft {f}
+parte {f} :: Spielabschnitt {m}; Halbzeit {f} [Fußball]
+primera parte {f} :: erste Halbzeit {f} [Fußball]
+segunda parte {f} :: zweite Halbzeit {f} [Fußball]
+saque {m} :: Anstoß {m} [Fußball]
+saque de banda {m} :: Einwurf {m} [Fußball]
+saque de esquina {m} :: Ecke {f}; Eckstoß {m}; Eckball {m} [Fußball]
+saque de puerta {m} :: Abstoß {m} [Fußball]
+saque libre {m} :: Freistoß {m} [Fußball]
+
+# SCHACH
+alfil {m} :: Läufer {m} [Schach]
+
+
+# TENNIS
+campo de tenis {m} :: Tennisplatz {m}
+empate {m} :: Einstand {m} [Tennis]
+fuera :: aus [Tennis]
+línea de fondo {f} :: Grundlinie {f} [Tennis]
+juego {m} :: Spiel {n} [Tennis]
+juez de silla {m} :: Schiedsrichter {m} [Tennis]
+jugar al tenis :: Tennis spielen
+partido {m} :: Spiel {n}; Partie {f}; Match {n} [Tennis]
+pelota {f} :: Tennisball {m}
+pista de tenis {f} :: Tennisplatz {m}
+punto {m} :: Punkt {m}; Ball {m} [Tennis]
+quince iguales :: fünfzehn beide [Tennis]
+sacar :: aufschlagen [Tennis]
+saque {m}; servicio {m} :: Aufschlag {m} [Tennis]
+set {m} :: Satz {m} [Tennis]
+tenis {m} :: Tennis {n}
+tie-break {m} :: Tiebreak {m} [Tennis]
+ventaja {f} :: Vorteil {m} [Tennis]
+
+
+# KAMPFSPORT UND KAMPFKUNST
+aikido {m} :: Aikido {n}
+boxeador {m} :: Boxer {m}
+boxeadora {f} :: Boxerin {f}
+boxear :: boxen
+boxeo {m} :: Boxen {n}; Boxsport {m}
+cinturón negro {m} :: schwarzer Gürtel {m} [Kampfkunst]
+cinturón {m} :: Gürtel {m} [Kampfkunst]
+florete {m} :: Florett {f}
+esgrima {f} :: Fechten {n}; Fechtkunst {f}; Fechtsport {m}
+esgrima de espada {f} :: Degenfechten {n}
+esgrima de florete {f} :: Florettfechten {n}
+esgrimidor {m} {m} :: Fechter {m}
+esgrimidora {f} :: Fechterin {f}
+esgrimir :: fechten; die Waffe schwingen
+esgrimista {m} :: Fechter {m}; Fechtsportler {m}
+esgrimista {f} :: Fechterin {f}; Fechtsportlerin {f}
+espada {f} :: Degen {m}
+golpe bajo {m} :: Tiefschlag {m}
+judo {m} :: Judo {n}
+judoka {m} :: Judoka {m}
+ki {m} :: Ki {n} [Kampfkunst]
+púgil {m} :: Boxer {m}
+pugilato {m} :: Boxkampf {m}
+sable {m} :: Säbel {m}
+
+# JAGEN UND FISCHEN
+fusil acuático {m} :: Harpune {m}
+

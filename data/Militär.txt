@@ -1,0 +1,192 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2004 Simon Kmiecik
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+acorazado {m} :: Schlachtschiff {n}
+acorazar :: panzern
+acorazarse :: sich wappnen
+aguerrido; aguerrida {adj} :: kampferfahren; kriegserfahren; kampferprobt
+almirante {m} :: Admiral {m}
+alzamiento {m} :: Aufstand {m}
+ametralladora {f} :: Maschinengewehr {n}
+ametrallar :: erschießen (mit dem Maschinengewehr)
+anillo defensivo {m} :: Verteidigungsring {m}
+apto; apta {adj} :: tauglich [Militär]
+arma {m} {f} :: Waffe {f}
+armas {f} {pl} :: Waffen {f} {pl}
+arma de fuego {m} {f} :: Feuerwaffe {f}
+arma química {m} {f} :: chemische Waffe {f}; Chemiewaffe {f}
+armado; armada {adj} :: bewaffnet
+armisticio {m} :: Waffenstillstand {m}
+artillería {f} :: Artillerie {f}
+asedio {m} :: Belagerung {f}
+ataque {m} :: Attacke {f}; Angriff {m}
+ataque suicido {m} :: Selbstmordangriff {m}; Kamikaze-Attacke {f}
+avanzar :: vorrücken
+avión de caza {m}; caza {m} :: Jagdflugzeug {n}; Jäger [Militär] {m}
+bajo fuego :: unter Feuer [Militär]
+base aérea {f} :: Luftwaffenstützpunkt {m}; Airbase {f}; Fliegerhorst {m}
+base naval {f} :: Kriegshafen {m}; Flottenstützpunkt {m}
+batalla {f} :: Schlacht {f}
+batería {f} :: Batterie {f} [Militär]
+bazoka {f}; bazuca {f} :: Panzerfaust {f}
+bomba {f} :: Bombe {f}
+bomba atómica {f} :: Atombombe {f}
+bombardero {m} :: Bomber {m}
+brigada {f} :: Brigade {f} [Militär]
+búnker {m} :: Bunker {m} [Militär]
+buque de guerra {m} :: Kriegsschiff {n}
+campamento militar {m} :: Militärlager {n}
+campo {m} :: Schlachtfeld {n}
+campo de batalla {m} :: Schlachtfeld {n}
+carro de asalto {m} :: Panzer {m}
+carro de combate {m} :: Panzer {m}
+certero; certera {adj} :: treffend; treffsicher; zuverlässig; genau
+charretera {f} :: Achselstück {n}; Epaulette {f}
+coche bomba {f} :: Autobombe {f}
+combate {m} :: Kampf {m}; Gefecht {n}
+consejo de guerra {m} :: Kriegsgericht {n}
+convocar :: einberufen [Militär]
+crimen de guerra {m} :: Kriegsverbrechen {n}
+criminal de guerra {m} :: Kriegsverbrecher {m}
+criminal de guerra {f} :: Kriegsverbrecherin {f}
+Cruz Roja {f} :: Rotes Kreuz {n}
+cuartel {m} :: Kaserne {f}; Quartier {n}
+cuartel general {m} :: Hauptquartier {n}
+cuerpo {m} :: Korps {n}
+cumplir el servicio :: den Wehrdienst ableisten; dienen [Militär]
+cumplir :: den Wehrdienst beenden; aus dem Wehrdienst ausscheiden [Militär]
+declarar la guerra :: den Krieg erklären
+derribar :: abschießen
+derrotar :: schlagen; besiegen; ruinieren
+deserción {f} :: Fahnenflucht {f}
+desertar :: desertieren; fahnenflüchtig werden
+desertor {m} :: Deserteur {m}; Fahnenflüchtige {m}; Überläufer {m}
+desfile {m}; parada {f} :: Militärparade {f}; Parade {f}
+desplegar :: ausschwärmen lassen; aufstellen; stationieren [Militär]
+desplegarse :: ausschwärmen [Militär]
+destrucción {f} :: Zerstörung {f}
+dinamita {f} :: Dynamit {n}
+dinamitar :: in die Luft sprengen
+dinamitero {m} :: Sprengmeister {m}; Sprengstoffattentäter {m}
+dispersar :: zerstreuen
+división {f} :: Division {f} [Militär]
+dominio {m} :: Herrschaft {f}; Herrschaftsgebiet {n}
+ejército {m} :: Armee {f}; Streitkräfte {f}
+enemigo; enemiga {adj} :: feindlich
+enfrentamiento {m} :: Konfrontation {f}
+al estallar la guerra :: bei Kriegsausbruch
+estallido de la guerra {m} :: Kriegsausbruch {m}
+estrategia {f} :: Strategie {f}
+explosivos {m} {pl} :: Sprengstoff {m}
+flecha {f} :: Pfeil {m}
+fragata {f} :: Fregatte {f}
+frente {m} :: Front {f} [Militär]
+fuego {m} :: Feuer {n}; Beschuss {m} [Militär]
+fuerza aérea {f} :: Luftwaffe {f}; Luftstreitkräfte {f} {pl}
+fuerza naval {f} :: Seestreitkräfte {f} {pl}; Marine {f}
+fuerza terrestre {f} :: Landstreitkräfte {f} {pl}; Bodenstreitkräfte {f} {pl}; Heer {n}
+fusil {m} :: Gewehr {n}
+fusil ametrallador {m} :: Maschinengewehr {n}
+fusil de asalto {m} :: Sturmgewehr {n}
+fusilamiento {m} :: Erschießung {f}; standrechtliche Erschießung {f}
+fusilar :: erschießen; standrechtlich erschießen
+insurgente {adj} :: aufständisch
+invadir :: einfallen; einmarschieren; eindringen
+lanzacohetes {m} :: Raketenwerfer {m}
+lucha {f} :: Kampf {m}
+mandar :: befehlen
+marcha {f} :: Marsch {m}
+masacrar :: massakrieren; niedermetzeln
+masacre {f} :: Massaker {n}; Blutbad {n}
+máscara antigás {f} :: Gasmaske {f}
+mercenario {m} :: Söldner {m}
+Media Luna Roja {f} :: Roter Halbmond {m}
+milicia {f} :: Miliz {f}
+militar {adj} :: militärisch
+militar :: dienen [Militär]
+militares {m} {pl} {pl} :: Militär {n}
+misil {m} :: Rakete {f}
+misil antiaéreo {m} :: Flugabwehrrakete {f}
+mortero {m} :: Mörser {m}
+objetor de conciencia {m} :: Kriegsdienstverweigerer {m}; Wehrdienstverweigerer {m}
+obús {m} :: Granate {f}; Haubitze {f}
+ofensiva {f} :: Offensive {f}
+orden {f} :: Befehl {m}
+pacifismo {m} :: Pazifismus {m}
+pacifista {f} :: Pazifistin {f}; Kriegsgegnerin {f}
+pacifista {m} :: Pazifist {m}; Kriegsgegner {m}
+pacifista {adj} :: pazifistisch
+paz {f} :: Frieden {m}
+Pentágono {m} :: Pentagon {n}
+pieza {f} :: Geschütz {n}
+pieza de artillería {f} :: Geschütz {n}
+pistola {f} :: Pistole {f}
+pistola ametralladora {f} :: Maschinenpistole {f}
+portaaviones {m} :: Flugzeugträger {m}
+prebélico; prebélica {adj} :: Vorkriegs-; vor dem Krieg
+prisionera de guerra {f} :: Kriegsgefangene {f}
+prisionero de guerra {m} :: Kriegsgefangener {m}
+pronunciamiento militar {m} :: Militärputsch {m}; Revolte {f}
+pronunciarse :: sich erheben; revoltieren; sich auflehnen [Militär]
+rebelde {m} :: Rebell {m}; Aufständische {m}
+rebelde {adj} :: aufständisch; rebellisch; meuternd
+rechazar :: abwehren
+reforzar :: verstärken
+refuerzo {m} :: Verstärkung {f}; Nachschub [Militär] {m}
+refugiado de guerra {m} :: Kriegsflüchtling {m}
+refugiarse :: fliehen
+refugio {m} :: Bunker {m}
+refugio antiaéreo {m} :: Luftschutzbunker {m}; Luftschutzraum {m}
+refugio atómico {m} :: Atombunker {m}
+saludar :: salutieren
+sargento {m} :: Wachtmeister {m}; Sergeant {m}
+servicio militar {m} :: Militärdienst {m}
+soldado {m} :: Soldat {m}
+sometimiento {m} :: Unterwerfung {f}
+táctica de guerra {f} :: Kriegsführung {f}
+tanque {m} :: Panzer {m}
+tiro {m} :: Wurf {m}; Schuss {m}
+tomar :: einnehmen [Militär]
+transporte {m} :: Transporter {m}; Transportschiff [Militär] {n}
+tregua {f} :: Waffenruhe {f}
+tripulante {m} :: Besatzungsmitglied {n}
+tropa {f} :: Truppe {f}
+tropas aerotransportado {f} {pl} :: Luftlandetruppen {f} {pl}
+velar :: wachen
+velar las armas :: sich vorbereiten
+vencedor {m} :: Sieger {m}
+vencido {m} :: Besiegter {m}
+víctima de la guerra {f} :: Kriegsopfer {n}
+

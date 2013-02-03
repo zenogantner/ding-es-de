@@ -1,0 +1,263 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2004 Simon Kmiecik
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+# Siehe auch: Geographie
+
+abdicación {f} :: Abdankung {f}
+abdicar :: abdanken
+alcalde {m} :: Bürgermeister {m}
+alcaldesa {f} :: Bürgermeisterin {f}
+anarca {f}; anarquista {f} :: Anarchistin {f}
+anarco {m}; anarquista {m} :: Anarchist {m}
+anarquía {f} :: Anarchie {f}
+anarquista {adj} :: anarchistisch
+anárquico; anárquica {adj} :: anarchisch
+antibelicista {f} :: Kriegsgegnerin {f}
+antibelicista {m} :: Kriegsgegner {m}
+antisemita {m} :: Antisemit {m}
+antisemita {f} :: Antisemitin {f}
+antisemítico; antisemítica {adj} :: antisemitisch
+antisemitismo {m} :: Antisemitismus {m}
+antiterrorista :: antiterroristisch; Anti-Terror-
+aprobación {f} :: Billigung {f}; Zustimmung {f}; Beifall {m}; Genehmigung {f}
+asilada {f} :: Asylantin {f}
+asilado {m} :: Asylant {m}
+autonomía {f} :: Autonomie {f}; Unabhängigkeit {f}; Selbstverwaltung {f}
+autonomía {f} :: Autonomie {f} (spanische Region)
+autónomo; autónoma {adj} :: unabhängig; autonom; selbstständig
+autoridad {f} :: Behörde {f}; Obrigkeit {f}; Gewalt {f}; Amtsgewalt {f}
+ayuntamiento {m} :: Rathaus {n}; Stadtverwaltung {f}
+belicista {m} :: Kriegstreiber {m}
+belicista {f} :: Kriegstreiberin {f}
+bélico; bélica {adj} :: kriegerisch; Kriegs-
+bicameralismo {m} :: Zweikammersystem {n}
+boicotear :: boykottieren
+calidad de vida {f} :: Lebensqualität {f}
+campaña {f} :: Kampagne {f}; Wahlkampf {m}
+canciller {f} :: Kanzlerin {f}; Bundeskanzlerin {f}
+canciller {m} :: Kanzler {m}; Bundeskanzler {m}
+canciller del Exchequer {f} :: Schatzkanzlerin {f}; britische Finanzministerin {f}
+canciller del Exchequer {m} :: Schatzkanzler {m}; britischer Finanzminister {m}
+candidata {f} :: Kandidatin {f}
+candidato {m} :: Kandidat {m}
+capitalista {m} :: Kapitalist {m}
+capitalista {f} :: Kapitalistin {f}
+capitalista {adj} :: kapitalistisch
+censo {m} :: Volkszählung {f}; statistische Erhebung {f}; Zensus {m}
+ciudadana {f} :: Staatsbürgerin {f}
+ciudadana {f} :: Städterin {f}
+ciudadano {m} :: Staatsbürger {m}
+ciudadano {m} :: Städter {m}
+ciudadano; ciudadana {adj} :: staatsbürgerlich
+ciudadano; ciudadana {adj} :: städtisch; die Stadtbewohner betreffend
+Comisión Europea {f} :: Europäische Kommission {f}
+concitar :: aufwiegeln; aufhetzen
+concejal {m} :: Stadtrat {m}; Gemeinderat {m} (Person)
+concejala {f} :: Stadträtin {f}; Gemeinderätin {f}
+consejo municipal {m} :: Stadtrat {m}; Gemeinderat {m} (Institution)
+Consejo de Seguridad {m} :: Sicherheitsrat {m}; Weltsicherheitsrat {m}
+conspiración {f} :: Verschwörung {f}; Konspiration {f}
+conspirador {m} :: Verschwörer {m}
+conspiradora {f} :: Verschwörerin {f}
+conspirar :: sich verschwören
+constitución {f} :: Verfassung {f}
+cónsul {m} :: Konsul {m}
+consulado {m} :: Konsulat {n}
+consular :: konsularisch; Konsulats-
+convocar elecciones :: Wahlen einberufen; Wahlen ansetzen; Wahlen ausrufen
+las Cortes {f} {pl} :: die Cortes {f} {pl}; spanisches Parlament {n}
+cumbre {f} :: Gipfeltreffen {n}; Gipfel {m}
+ecologista {adj} :: ökologisch; Ökologie-
+economía {f} :: Wirtschaft {f}
+elección {f} :: Wahl {f}
+ejecutivo {m} :: Exekutive {f}; Regierung {f}
+escrutinio {m} :: Stimmenauszählung {f}; Stimmauszählung {f}
+embajada {f} :: Botschaft {f}
+embajador {m} :: Botschafter {m}
+embajadora {f} :: Botschafterin {f}
+encuesta {f} :: Umfrage {f}
+encuesta demoscópica {f} :: Umfrage {f}; Meinungsumfrage {f}
+entidad política {f} :: Körperschaft {f}
+estado {m} :: Staat {m}
+estado nacional {m} :: Nationalstaat {m}
+etarra {adj} :: ETA-
+exiliado; exiliada {adj} :: im Exil
+exiliar :: ins Exil gehen
+expulsar :: vertreiben; ausstoßen
+expulsar :: ausweisen; abschieben
+extranjera {f} :: Ausländerin {f}
+extranjero {m} :: Ausländer {m}
+extranjero {m} :: Ausland {n}
+extranjero; extranjera :: ausländisch; Ausländer-
+ideología {f} :: Ideologie {f}; Weltanschauung {f}
+ideológico; ideológica {adj} :: ideologisch; weltanschaulich
+ideóloga {f} :: Ideologin {f}
+ideólogo {m} :: Ideologe {m}
+igualdad {f} :: Gleichheit {f}; Gleichberechtigung {f}
+igualdad ante la ley {f} :: Gleichheit vor dem Gesetz {f}
+igualdad de votos {f} :: Stimmengleichheit {f}
+independentista {adj} :: Unabhängigkeits-
+inmigración {f} :: Immigration {f}; Einwanderung {f}
+integración europea {f} :: europäische Integration {f}
+integrismo {m} :: Fundamentalismus {m}
+internacional {adj} :: international
+islamista {m} :: Islamist {m}
+islamista {f} :: Islamistin {f}
+islamista {adj} :: islamistisch
+jefe del Gobierno {m} :: Regierungschef {m}
+jefa del Gobierno {f} :: Regierungschefin {f}
+junta {f} :: Versammlung {f}; Kommission {f}; Rat {m}; Sitzung {f}
+junta militar {f} :: Junta {f}; Militärjunta {f}
+legislación {f} :: Gesetzgebung {f}
+legislación {f} :: Recht {n}; rechtliche Situation {f}
+liberal {adj} :: liberal
+liberalismo {m} :: Liberalismus {m}
+líder {m} :: Führer {m}; Anführer {m}
+lucha antiterrorista {f} :: Terrorismusbekämpfung {f}
+manifestación {f} :: Demonstration {f}
+manifestante {m} :: Demonstrant {m}
+manifiesto {m} :: Manifest {n}
+mayoría {f} :: Mehrheit {f}
+ministra {f} :: Ministerin {f}
+ministro {m} :: Minister {m}
+ministra de Hacienda {f} :: Finanzministerin {f}
+ministro de Hacienda {m} :: Finanzminister {m}
+ministra del Interior {f} :: Innenministerin {f}
+ministro del Interior {m} :: Innenminister {m}
+ministra de Asuntos Exteriores {f}; ministra del Exterior {f}; ministra de Exteriores {f} :: Außenministerin {f}
+ministro de Asuntos Exteriores {m}; ministro del Exterior {m}; ministro de Exteriores {m} :: Außenminister {m}
+minoría {f} :: Minderheit {f}; Minorität {f}
+movimiento {m} :: Bewegung {f}
+nación {f} :: Nation {f}
+nacional {adj} :: national
+nacionalcatólico; nacionalcatólica {adj} :: nationalkatholisch
+nacionalismo {m} :: Nationalismus {m}
+nacionalista {m} :: Nationalist {m}
+nacionalista {f} :: Nationalistin {f}
+nacionalista {adj} :: nationalistisch
+nepotismo {m} :: Vetternwirtschaft {f}
+oposición {f} :: Opposition {f}
+opositor {m} [Am.] :: Oppositioneller {m} Oppositionspolitiker {m}
+opositora {f} [Am.] :: Oppositionelle {f}; Oppositionspolitikerin {f}
+opresión {f} :: Unterdrückung {f}
+pacífico; pacífica {adj} :: friedlich; friedfertig
+pacto {m} :: Vertrag {m}; Pakt {m}
+parlamentaria {f} :: Abgeordnete {f}; Parlamentsabgeordnete {f}
+parlamentario {m} :: Abgeordnete {m}; Parlamentsabgeordnete {m}
+parlamentario; parlamentaria {adj} :: parlamentarisch; Parlaments-
+partido {m} :: Partei {f}; politische Partei {f}
+Partido Comunista {m} :: Kommunistische Partei {f}
+partido político {m} :: Partei {f}; politische Partei {f}
+poder {m} :: Macht {f}
+poder ejecutivo {m} :: Exekutive {f}
+poder judicial {m} :: Judikative {f}
+poder legislativo {m} :: Legislative {f}
+política {f} :: Politik {f}
+político; política {adj} :: politisch
+política {f} :: Politikerin {f}
+político {m} :: Politiker {m}
+política exterior {f} :: Außenpolitik {f}
+política interior {f} :: Innenpolitik {f}
+política monetaria {f} :: Währungspolitik {f}
+portavoz {m} :: Sprecher {m}; Sprecherin {f}
+presidencia {f} :: Präsidentschaft {f}
+presidenciales {f} {pl} :: Präsidentschaftswahlen {f} {pl}
+presidencial {adj} :: Präsidenten-; präsidial
+presidenta {f} :: Präsidentin {f}
+presidente {m} :: Präsident {m}
+Presidente del Gobierno {m} :: spanischer Ministerpräsident {m}
+presidenta autonómica {f} [Esp.] :: Präsidentin einer Autonomen Region {f}
+presidente autonómico {m} [Esp.] :: Präsident einer Autonomen Region {m}
+presa política {f} :: politische Gefangene {f}
+preso político {m} :: politischer Gefangene {m}
+primer ministro {m} :: Ministerpräsident {m}; Premierminister {m}
+primera ministra {f} :: Premierministerin {f}; Ministerpräsidentin {f}
+primera vuelta de las elecciones {f} :: erster Wahlgang {m}
+provincia {f} :: Provinz {f}
+punto {m} :: Prozentpunkt {m}
+racial {adj} :: Rassen-
+radical {adj} :: radikal [Politik]
+raza {f} :: Rasse {f}; Geschlecht {n}
+reaccionario; reaccionaria {adj} :: reaktionär
+referéndum {m} :: Referendum {n}; Volksabstimmung {f}
+reformismo {m} :: Reformismus {m}
+régimen {m} :: Regierungsform {f}; Regierungssystem {n}
+régimen {m} :: Regime {n}
+régimen {m} :: System {n}; Ordnung {f}
+región {f} :: Region {f}
+regionalismo {m} :: Regionalismus {m}
+regionalista {adj} :: regionalistisch
+regionalista {f} :: Regionalistin {f}
+regionalista {m} :: Regionalist {m}
+renegado; renegada :: abtrünnig
+república {f} :: Republik {f}
+republicano; republicana {adj} :: republikanisch
+resolución {f} :: Resolution {f}
+resolución de ONU {f} :: UN-Resolution {f}
+revolución {f} :: Revolution {f}
+seguimiento {m} :: Beteiligung {f}
+senado {m} :: Senat {m}
+senador {m} :: Senator {m}
+senadora {f} :: Senatorin {f}
+sindicato {m} :: Gewerkschaft {m}
+soberanía {f} :: Souveränität {f}
+soberanía popular {f} :: Volkssouveränität {f}
+socialdemócrata {adj} :: sozialdemokratisch
+socialdemócrata {m} :: Sozialdemokrat {m}
+socialdemócrata {f} :: Sozialdemokratin {f}
+socialista {adj} :: sozialistisch
+socialista {m} :: Sozialist {m}
+socialista {f} :: Sozialistin {f}
+sublevado; sublevada {adj} :: aufgewiegelt; empört
+sublevar :: aufwiegeln; empören
+sublevarse :: sich erheben
+sublevamiento {m} :: Aufstand {m}
+terrorismo {m} :: Terrorismus {m}
+terrorismo integrista islámico {m} :: islamischer Terrorismus {m}; islamisch-fundamentalistischer Terrorismus {m}
+tolerancia {f} :: Toleranz {f}; Duldsamkeit {f}
+ultimátum {m} :: Ultimatum {n}
+urna {f} :: Urne {f}
+urna electoral {f} :: Wahlurne {f}
+utopía {f} :: Utopie {f}
+votación {f} :: Abstimmung {f}
+votación secreta {f} :: geheime Abstimmung {f}
+voto {m} :: Stimme {f}; Stimmzettel {m}
+voto {m} :: Stimmberechtigter {m}; Wahlberechtigter {m}
+voto por correo {m} :: Briefwahl {f}
+voto secreto {m} :: geheime Wahl {f}
+vuelta {f} :: Wahlgang {m}
+xenofobia {f} :: Xenophobie {f}; Fremdenfeindlichkeit {f}
+xenófobo; xenófoba {adj} :: fremdenfeindlich; xenophob
+zona de influencia {f} :: Einflussbereich {m}
+

@@ -1,0 +1,81 @@
+# Copyright (C) 2003, 2004, 2005 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# Gastronomie: Restaurants, Kneipen, Hotels, Bars und was dazugehört
+
+# siehe auch: Essen, Trinken
+
+# Gaststätten
+bar {m} :: Bar {f}; Kneipe {f}; Café {n}
+bodega {f} :: Weinkeller {m}
+café {m}; cafetería {f} :: Café {n}
+cafetería {f} :: Cafeteria {f}; Mensa {f}
+casa rural {f} :: Pension auf dem Land {f}; Ferienwohnung {f}
+chifa {m} [Perú] :: chinesisches Restaurant {n}
+chiringuito {m} :: Strandlokal {n}; Strandbar {f}
+discoteca {f} :: Disko {f}; Diskothek {f}
+macrodiscoteca {f} :: Großraumdisko {f}
+heladería {f} :: Eisdiele {f}; Eiscafé {n}
+hotel {m} :: Hotel {n}
+merendero {m} :: Ausflugslokal {n}
+mesón {m} :: Gasthaus {n}; Gasthof {m}
+pub {m} :: Pub {n}; Kneipe {f}; Bar {f}
+restaurante {m} :: Restaurant {n}
+terraza {f} :: Gartencafé {n}; Straßencafé {n}
+
+# Verben
+cobrar :: kassieren; abkassieren
+pedir :: bestellen
+
+# Personen
+camarera {f} :: Kellnerin {f}
+camarero {m} :: Kellner {m}
+chef {m} :: Küchenchef {m}; Chefkoch {m}
+dueño {m} :: Wirt {m}; Gastwirt {m}
+dueña {f} :: Wirtin {f}; Gastwirtin {f}
+mesonero {m} :: Gastwirt {m}
+
+# Weitere Wörter
+carta {f} :: Karte {f}; Speisekarte {f}
+chifa {m} [Perú] :: chinesisches Essen {n}
+cuenta {f} :: Rechnung {f}
+media pensión {f} :: Halbpension {f}
+pensión completa {f} :: Vollpension {f}
+propina {f} :: Trinkgeld {n}
+tertulia {f} :: Stammtisch {m}; Kaffeekränzchen {n}
+
+# Redewendungen
+¿Me cobras?? :: Kann ich zahlen?; Zahlen, bitte!
+¿Nos cobras? :: Zahlen, bitte!
+

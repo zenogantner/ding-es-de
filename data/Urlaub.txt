@@ -1,0 +1,62 @@
+# Copyright (C) 2003, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# Urlaub und Freizeit
+
+acampar {v} :: zelten; kampieren
+agencia de viaje {f} :: Reisebüro {n}
+arena {f} :: Sand {m}
+bañarse {v} :: baden
+bañera {m} :: Bademeister {m}
+Buen viaje. :: Gute Reise.
+campamento {m} :: Camping {n}; Zelten {n}
+campamento {m} :: Campingplatz {m}; Zeltplatz {m}
+carpa {f} :: Zelt {n}
+castillo de arena {m} :: Sandburg {f}
+estar de vacaciones {v} :: Urlaub haben
+guía de turismo {m} :: Fremdenführer {m}
+hamaca {f} :: Liegestuhl {m}
+ir de vacaciones {v} :: in den Urlaub fahren
+nadar {v} :: schwimmen
+pasaporte {m} :: Pass {m}; Reisepass {m}
+playa {f} :: Strand {m}
+toalla {f} :: Handtuch {n}
+turismo {m} :: Fremdenverkehr {m}; Tourismus {m}
+turístico; turística {adj} :: Tourismus-; Touristen-; touristisch
+vacaciones {f} {pl} :: Ferien {f} {pl}; Urlaub {m}
+veranear {v} :: Urlaub machen (im Sommer)
+viajar {v} :: reisen
+viajar {m} :: Reisen {n}
+viaje {m} :: Reise {f}
+zoo {m} :: Zoo {m}

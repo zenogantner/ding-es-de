@@ -1,0 +1,181 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2005 Nikolai Löwen
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+botánica {f} :: Botanik {f}
+botánica {m} :: Botaniker {m}
+botánica {f} :: Botanikerin {f}
+botánico; botánica :: botanisch
+flora {f} :: Flora {f}; Pflanzenwelt {f}
+planta {f} :: Pflanze {f}
+vegetal :: pflanzlich
+
+abedul {m} :: Birke {f}
+abedul {m} :: Birkenholz {n}
+abeto {m} :: Tanne {f}
+abeto blanco {m} :: Silbertanne {f}; Edeltanne {f}
+abeto rojo {m} :: Fichte {f}
+acacia {f} :: Akazie {f}
+aceituno {m} :: Olivenbaum {m}; Ölbaum {m}
+ajo {m} :: Knoblauch {m}
+álamo {m} :: Pappel {f}
+albaricoquero {m} :: Aprikosenbaum {m}
+alcanfor {m} :: Kampfer {m}
+alcazuz {m} :: Süßholz {n}
+alcornoque {m} :: Korkeiche {f}
+aleluya {f} :: Sauerklee {m}
+alerce {m} :: Lärche {f}; Lärchenholz {n}
+alfalfa {f} :: Luzerne {f}; Alfalfa {f}
+alforfón {m} :: Buchweizen {m}
+alga {f} :: Alge {f}; Tang {m}; Seetang {m}
+algodón {m} :: Baumwolle {f} [Pflanze]
+aliso {m} :: Erle {f}; Erlenholz {n}
+almendro {m} :: Mandelbaum {m}
+almendro amargo {m} :: Bittermandelbaum {m}
+amapola {f} :: Mohn {m}; Klatschmohn {m}; Mohnblume {f}
+amaranto {m} :: Amaranth {m}
+amaranto {m} :: Fuchsschwanz {m} [Pflanze]
+árbol {m} :: Baum {m}
+arbóreo; arbórea :: Baum-
+arbusto {m} :: Strauch {m}; Staude {f}; Busch {m}
+arce {m} :: Ahorn {m}; Ahornbaum {m}
+avellano {m} :: Haselstrauch {m}
+azahar {f} :: Orangenblüte {f}; Zitrusblüte {f}
+azucena {f} :: Lilie {f}
+bambú {m} :: Bambus {m}; Bambusrohr {n}
+beleño {m} :: Bilsenkraut {n}
+bergamota {f} :: Bergamotte {f}
+castaña {f} :: Kastanie {f}
+cedro {m} :: Zeder {f}; Zedernholz {n}
+cerezo {m} :: Kirschbaum {m}; Kirschholz {n}
+ciprés {m} :: Zypresse {f}
+ciruelo {m} :: Pflaumenbaum {m}
+coca {f} :: Kokastrauch {m}; Kokapflanze {n}
+cólquico {m} :: Herbstzeitlose {f}
+dalia {f} :: Dahlie {f}
+damasco {m} :: Aprikosenbaum {m} (bestimmte Varietät)
+datilera {f}; palmera datilera {f} :: Dattelpalme {f}
+encina {f} :: Steineiche {f}
+flor {f} :: Blume {f}
+floral {adj} :: Blumen-
+fresno {m} :: Esche {f}
+frutal {m} :: Obstbaum {m}
+fucsia {f} :: Fuchsie {f}
+girasol {m} :: Sonnenblume {f}
+guindo {m} :: Sauerkirschbaum {m}
+haya {f} :: Buche {f}; Buchenholz {n}
+hierba {f} :: Gras {n}
+hierbabuena {f} :: Minze {f}
+hierba centella {f} :: Sumpfdotterblume {f}
+hiniesta {f} :: Ginster {m}
+laurel {m} :: Lorbeerbaum {m}
+limonero {m} :: Zitronenbaum {m}
+magnolia {f} :: Magnolie {f}
+manzanilla {f} :: Kamille {f}
+manzano {m} :: Apfelbaum {m}
+mata {f} :: Gestrüpp {n}; Gesträuch {n}
+melocotonero {m} :: Pfirsichbaum {m}
+muguete {m} :: Maiglöckchen {n}
+naranjo {m} :: Orangenbaum {m}; Orangenholz {n}
+olivo {m} :: Olivenbaum {m}
+olmo {m} :: Ulme {f}
+orquídea {f} :: Orchidee {f}
+palma {f}; palmera {f} :: Palme {f}
+petunia {f} :: Petunie {f}
+pino piñonero {m} :: Pinie {f}
+pino {m} :: Kiefer {f}; Pinie {f}
+pino {m} :: Kiefernholz {n}; Pinienholz {n}
+plátano {m} :: Platane {f}; Bananenstaude {f}
+rábano {m} :: Rettich {m}
+retama {f} :: Ginster {m}
+roble {m} :: Eiche {f}
+rododendro {m} :: Rhododendron {m}
+sauce {m} :: Weide {f} [Pflanze]
+tejo {m} :: Eibe {f}
+tila {f} :: Lindenblüte {f}
+tila {f}; tilo {m} :: Linde {f}
+vid {f} :: Weinstock {m}; Rebe {f}; Weinrebe {f}
+violeta {f} :: Veilchen {n}
+yedra {f} :: Efeu {m}
+yerba {f} :: Gras {n}
+yerbecilla {f} :: Gräschen {n}
+#prüfen
+zarza {f} :: Brombeere {f}; Brombeerstrauch {m}
+
+#Teile
+aceite esencial {m} :: ätherisches Öl {n}
+bellota {f} :: Eichel {f} [Botanik]
+cáscara {f} :: Schale {f}
+cotiledón {m} :: Keimblatt {n}
+espiga {f} :: Ähre {f}
+espina {f} :: Dorn {m}; Stachel {m}
+flor {f} :: Blüte {f}
+hueso {m} :: Stein {m} (Olive)
+madera {f} :: Holz {n}
+palma {f}; hoja de palma {f} :: Palmenblatt {n}; Palmblatt {n}
+piña {f} :: Zapfen {m}; Tannenzapfen {m}; Kiefernzapfen {m}; Pinienzapfen {m}
+pinocha {f} :: Piniennadel {f}; Kiefernnadel {f}
+pulpa {f} :: Fruchtfleisch {n}; Mark {n}
+rabillo {m} :: Stiel {m}; Stängel {m}; Stengel {m} [alte Rechtschreibung]
+rabo {m} :: Stiel {m}
+raíz {f} :: Wurzel {f}
+raíces {f} {pl} :: Wurzeln {f} {pl}
+rama {f} :: Ast {m}; Zweig {m}
+ramo {m} :: Zweig {m}
+resina {f} :: Harz {n}
+semilla {f} :: Samen {m}; Samenkorn {n}
+
+# Orte, Ansammlungen
+avenal {m} :: Haferfeld {n}
+invernadero {m} :: Gewächshaus {n}
+jardín {m} :: Garten {m}
+jardín botánico {m} :: botanischer Garten {m}
+pinar {m} :: Pinienwald {m}
+
+# weiteres
+agalla {f} :: Gallapfel {m}
+arreglo floral {m} :: Blumengesteck {m}
+cultura {f} :: Anbau {m}
+dallar :: mähen (Gras)
+florecer :: blühen
+jardinera {f} :: Gärtnerin {f}
+jardinera {f} :: Blumenkasten {m}
+jardinero {m} :: Gärtner {m}
+jarrón {m} :: Blumenvase {f} (groß)
+madurez {f} :: Reife {f}
+plantar :: pflanzen
+ramo de flores {m} :: Blumenstrauß {m}
+yerbatera {f} [Am.] :: Kräutersammlerin {f}; Kräuterhändlerin {f}; Heilkundige {f}
+yerbatero {m} [Am.] :: Kräutersammler {m}; Kräuterhändler {m}; Heilkundiger {m}
+

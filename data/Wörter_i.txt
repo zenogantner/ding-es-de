@@ -1,0 +1,1167 @@
+# Copyright (C) 2007 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+agencia inmobiliaria {f} :: Maklerbüro {n}
+agente inmobiliario {m} :: Makler {m}
+a la intemperie :: im Freien
+a la izquierda :: links; auf der linken Seite
+arco iris {m} :: Regenbogen {m} \Wetter
+de improviso {adv} :: plötzlich; überraschend
+de inmediato {adv} :: sofort
+documento nacional de identidad {m}; D.N.I. {m} :: Personalausweis {m}
+estar indigesto :: eine Magenverstimmung haben \Medizin
+estar involucrado en {adj} :: verwickelt sein in
+ibérico; ibérica {adj} :: iberisch Geographie
+icono {m} :: Icon {n} \Computer
+icono {m} :: Ikone {f} \Religion
+idea {f} :: Idee {f}; Einfall {m}
+idea {f} :: Vorstellung {f}
+ideal {adj} :: ideal
+ideal {adj} :: perfekt
+idealismo {m} :: Idealismus {m} \Philosophie \Politik
+idealista {f} :: Idealistin {f} \Philosophie \Politik
+idealista {m} :: Idealist {m} \Philosophie \Politik
+idealizar {v} :: idealisieren
+ideal {m} :: Ideal {n}
+idear {v} :: ausdenken
+idéntico; idéntica {adj} :: identisch
+identidad {f} :: Identität {f}
+identificación {f} :: Bestimmung {f}; Identifikation {f}
+identificación {f} :: Identifizierung {f}
+identificarse con {v} :: sich identifizieren mit
+identificarse {v} :: sich ausweisen
+identificar {v} :: bestimmen; ermitteln
+identificar {v} :: identifizieren
+idílico; idílica {adj} :: idyllisch
+idioma {m} :: Fremdsprache {f} \Sprachen
+idiota {adj} :: idiotisch; dämlich; blöd
+idiota {m}; idiota {f} :: Idiot {m}; Idiotin {f}
+idiotez {f} :: Dummheit {f}; Blödsinn {m}
+idolatrar {v} :: vergöttern
+ídolo {m} :: Götze {f} \Religion
+ídolo {m} :: Idol {n}
+ignorancia {f} :: Ignoranz {f}
+ignorancia {f} :: Unwissenheit {f}
+ignorante {adj} :: ignorant
+ignorante {adj} :: unwissend
+ignorar {v} :: ignorieren
+ignorar {v} :: meiden; schneiden
+ignorar {v} :: nicht kennen; nicht wissen
+igual {adj} :: egal
+igual {adj} :: gleich
+igualado; igualada {adj} [Am.] :: respektlos
+igualar {v} :: ausgleichen
+igualar {v} :: ebenen; planieren
+igualar {v} :: gleichmachen; gleichstellen
+igualmente {adv} :: gleichermaßen
+igualmente {adv} :: gleichfalls; ebenso
+iguana {f} :: Leguan {m} \Tiere
+ilegal {adj} :: illegal; ungesetzlich \Verbrechen
+ilegalidad {f} :: Illegalität {f} \Verbrechen
+ilegítimo; ilegítima {adj} :: unehelich (Kinder) \Familie
+ilegítimo; ilegítima {adj} :: unrechtmäßig
+ilícito; ilícita {adj} :: unbefugt; unerlaubt
+ilimitado; ilimitada {adj} :: unbefristet
+ilimitado; ilimitada {adj} :: unbegrenzt; unbeschränkt
+iluminación {f} :: Beleuchtung {f} Ausleuchtung {f} \Licht
+iluminación {f} :: Erleuchtung {f} \Religion
+iluminado; iluminada {adj} :: beleuchtet \Licht
+iluminado; iluminada {adj} :: erleuchtet \Religion
+iluminar {v} :: beleuchten \Licht
+iluminar {v} :: belichten \Technik
+iluminar {v} :: erleuchten \Religion
+iluminar {v} :: leuchten
+ilusionarse {v} :: sich freuen; sich Hoffnungen machen \Gefühle
+ilusionar {v} :: täuschen
+ilusión {f} :: Einbildung {f}
+ilusión {f} :: Freude {f} \Gefühle
+ilusión {f} :: Täuschung {f}
+ilusión {f} :: Träumerei {f}
+ilusorio; ilusoria {adj} :: illusorisch
+ilustración {f} :: Abbildung {f}; Illustration {f}
+ilustración {f} :: Veranschaulichung {f}
+ilustrado; ilustrada {adj} :: bebildert; illustriert
+ilustrar {v} :: bebildern; illustrieren
+ilustrar {v} :: veranschaulichen; erklären
+ilustrativo; ilustrativa {adj} :: anschaulich
+imagen {f} :: Abbildung {f}
+imagen {f} :: Bild {n}
+imagen {f} :: Image {n}; Ansehen {n}
+imaginable {adj} :: vorstellbar
+imaginario; imaginaria {adj} :: eingebildet; ausgedacht; imaginär
+imaginarse {v} :: sich einbilden
+imaginarse {v} :: sich vorstellen
+imaginativo; imaginativa {adj} :: einfallsreich
+imán {m} :: Magnet {m} \Technik
+imbécil {adj} :: blöd
+imbecilidad {f} :: Blödheit {f}; Schwachsinn {m}
+imbécil {m} :: Dummkopf {m} \Schimpfwörter
+imborrable {adj} :: unlöschbar; unauslöschlich
+imitación {f} :: Nachahmung {f}; Imitation {f}
+imitar {v} :: nachmachen; imitieren
+impaciencia {f} :: Ungeduld {f}
+impacientarse {v} :: ungeduldig werden
+impacientar {v} :: ungeduldig machen
+impactante {adj} :: eindrucksvoll
+impactar {v} :: beeindrucken
+impacto {m} :: Aufprall {m}; Aufschlag {m}; Einschlag {m}
+impacto {m} :: Treffer {m}
+impacto {m} :: Wirkung {f}
+impagable {adj} :: unbezahlbar
+imparcial {adj} :: unparteiisch; unbefangen
+imparcialidad {f} :: Unparteilichkeit {f}; Unbefangenheit {f}
+impartir {v} :: austeilen; erteilen
+impartir {v} :: bewilligen; gewähren
+impasible {adj} :: gleichmütig; gelassen
+impecable {adj} :: einwandfrei; fehlerfrei
+impecable {adj}; impeque {adj} [coloq.] :: toll; super [ugs.]
+impedancia {f} :: Impedanz {f} \Technik \Physik
+impedido; impedida {adj} :: behindert
+impedimento {m} :: Behinderung {f}
+impedimento {m} :: Hemmung {f}
+impedimento {m} :: Hindernis {n}
+impedimento {m} :: Verhinderung {f}
+impedir {v} :: verhindern
+imperador {m} :: Kaiser {m} \Geschichte
+imperar {v} :: herrschen
+imperativo; imperativa {adj} :: zwingend
+imperdible {m} :: Sicherheitsnadel {f} \Kleidung
+imperdonable {adj} :: unverzeihlich
+imperfección {f} :: Schönheitsfehler {m}
+imperfección {f} :: Unvollkommenheit {f}
+imperfecto; imperfecta {adj} :: mangelhaft
+imperfecto; imperfecta {adj} :: unvollkommen
+imperial {adj} :: Kaiser-; kaiserlich \Geschichte
+imperialista {m,f} :: Imperialist {m}; Imperialistin {f} \Geschichte \Politik
+imperio {m} :: Imperium {n}; Reich {n} \Geschichte
+impermeabilizar {v} :: imprägnieren \Technik
+impermeable {adj} :: wasserabweisend \Kleidung
+impermeable {m} :: Regenmantel {m} \Kleidung
+impersonal {adj} :: unpersönlich
+impertinencia {f} :: Aufdringlichkeit {f}; Impertinenz {f}
+impertinente {adj} :: aufdringlich
+ímpetu {m} :: Heftigkeit {f}; Wucht {f}
+impetuosidad {f} :: Draufgängertum {n}
+impetuosidad {f} :: Heftigkeit {f}
+impetuoso; impetuosa {adj} :: heftig
+impetuoso; impetuosa {adj} :: temperamentvoll
+implacable {adj} :: unnachgiebig
+implementar {v} :: implementieren; einbauen
+implicar {v} :: implizieren; zur Folge haben
+implicar {v} :: mit sich bringen; beinhalten
+implícito; implícita {adj} :: implizit; inbegriffen
+implorar {v} :: flehen; anflehen
+imponente {adj} :: imposant; eindrucksvoll
+imponer {v} :: auferlegen
+imponer {v} :: aufzwingen
+imponer {v} :: durchsetzen
+importación {f} :: Einfuhr {f}; Import {m}
+importador; importadora {adj} :: Import-
+importador {m} :: Importeur {m}
+importancia {f} :: Wichtigkeit {f}; Bedeutung {f}
+importante {adj} :: wichtig; bedeutend
+importar {v} :: importieren; einführen
+importunidad {f} :: Ungelegenheit {f}
+imposibilidad {f} :: Unmöglichkeit {f}
+imposibilitar {v} :: unmöglich machen; verhindern; vereiteln
+imposición {f} :: Auferlegung {f}; Auflage {f}
+imposición {f} :: Durchsetzung {f}
+imposición {f} :: Einzahlung {f} \Geld
+impotencia {f} :: Hilflosigkeit {f}
+impotencia {f} :: Impotenz {f} \Medizin \Sexualität
+impotencia {f} :: Unfähigkeit {f}
+impotente {adj} :: impotent \Medizin \Sexualität
+impotente {adj} :: machtlos; kraftlos
+impotente {adj} :: unfähig
+imprecisión {f} :: Ungenauigkeit {f}
+impreciso; imprecisa {adj} :: ungenau
+impredecible {adj} :: unvorhersagbar
+impregnar {v} :: aufprägen
+impregnar {v} :: durchdringen
+impregnar {v} :: durchtränken
+imprenta {f} :: Druckerei {f} \Medien
+imprenta {f} :: Druck {m} \Medien
+imprescindible {adj} :: unverzichtbar; unerlässlich
+impresentable {adj} :: nicht vorzeigbar
+impresionable {adj} :: beeindruckbar
+impresionante {adj} :: beeindruckend
+impresionar {v} :: beeindrucken
+impresionar {v} :: imponieren
+impresión {f} :: Ausdruck {m}
+impresión {f} :: Druck {m} \Medien
+impresión {f} :: Eindruck {m}
+impresionismo {m} :: Impressionismus {m} \Kunst
+impresionista {adj} :: impressionistisch \Kunst
+impresionista {m,f} :: Impressionist {m}; Impressionistin {f} \Kunst
+impreso; impresa {adj} :: bedruckt
+impreso; impresa {adj} :: gedruckt; ausgedruckt
+impreso {m} :: Aufdruck {m}
+impreso {m} :: Formular {n}
+impresora {f} :: Drucker {m} \Technik \Computer
+impresor {m} :: Drucker {m} \Technik \Computer
+imprevisible {adj} :: unvorhersehbar
+imprevisión {f} :: Unvorhersehbarkeit {f}
+imprevisto; imprevista {adj} :: unvorhergesehen
+imprimir {v} :: drucken; bedrucken
+imprimir {v} :: einprägen; aufprägen
+improbabilidad {f} :: Unwahrscheinlichkeit {f}
+improbable {adj} :: unwahrscheinlich
+improductivo; improductiva {adj} :: unproduktiv
+impronunciable {adj} :: unaussprechbar; unaussprechlich
+impropio; impropia {adj} :: unangebracht; unschicklich
+impropio; impropia {adj} :: ungeeignet; unpassend
+improvisación {f} :: Improvisation {f}
+improvisado; improvisada {adj} :: improvisiert
+improvisto; improvista {adj} :: unvorhergesehen
+imprudencia {f} :: Fahrlässigkeit {f}; Unvorsichtigkeit {f}
+imprudente {adj} :: fahrlässig; unvorsichtig
+impuesto; impuesta {adj} :: auferlegt
+impuesto {m} :: Abgabe {f}; Gebühr {f} \Geld
+impuesto {m} :: Steuer {f} \Geld
+impulsar {v} :: anstoßen; in Bewegung setzen
+impulsar {v} :: treiben; antreiben
+impulso {m} :: Drang {m}; Trieb {m}
+impulso {m} :: Impuls {m}
+impulso {m} :: Schwung {m}
+impulso {m} :: Stoß {m}
+impureza {f} :: Unreinheit {f}
+impureza {f} :: Verunreinigung {f}
+impuro; impura {adj} :: unrein
+inaccesible {adj} :: unzugänglich
+inaceptable {adj} :: inakzeptabel
+inactividad {f} :: Leerlauf {m}
+inactividad {f} :: Untätigkeit {f}
+inactivo; inactiva {adj} :: inaktiv
+inactivo; inactiva {adj} :: untätig
+inadecuado; inadecuada {adj} :: unangebracht; unangemessen
+inadecuado; inadecuada {adj} :: ungeeignet
+inadmisible {adj} :: unzulässig
+inadvertido; inadvertida {adj} :: unauffällig
+inadvertido; inadvertida {adj} :: unbemerkt
+inagotable {adj} :: unerschöpflich
+inaguantable {adj} :: unerträglich; unaushaltbar
+inalámbrico; inalámbrica {adj} :: drahtlos \Technik
+inalcanzable {adj} :: unerreichbar
+inapetencia {f} :: Appetitlosigkeit \Essen \Medizin
+inapetente {adj} :: appetitlos \Essen
+inapetente {adj} :: schlecht schmeckend \Essen
+inapropiado; inapropiada {adj} :: unpassend
+inarmónico; inarmónica {adj} :: unharmonisch
+inasequible {adj} :: unerreichbar
+inasistencia {f} :: Nichtanwesenheit {f}
+inaudible {adj} :: unhörbar
+inauguración {f} :: Einweihung {f}
+inaugurar {v} :: einweihen
+incaico; incaica {adj} :: Inka- \Geschichte
+inca {m} :: Inka {m} \Geschichte
+incansable {adj} :: unermüdlich
+incapacidad {f} :: Unfähigkeit {f}
+incapacidad {f} :: Untauglichkeit {f}
+incapacitado; incapacitada {adj} :: arbeitsunfähig \Arbeit
+incapacitado; incapacitada {adj} :: behindert
+incapaz {adj} :: unfähig
+incendiario {m} :: Brandstifter {m} \Verbrechen
+incendiar {v} :: anzünden; anstecken [ugs.]
+incendio {m} :: Brand {m}
+incesante {adj} :: unaufhörlich
+incesto {m} :: Inzest {m} \Verbrechen \Sexualität
+incesto {m} :: Inzucht {f} \Tiere
+incestuoso; incestuosa {adj} :: inzestuös \Verbrechen \Sexualität
+incidencia {f} :: Auswirkung {f}
+incidencia {f} :: Vorfall {f}; Zwischenfall {m}
+incidencia {f} :: Vorkommen {n}
+incidente {m} :: Vorfall {m}; Zwischenfall {m}
+incienso {m} :: Weihrauch {m} \Religion
+incierto; incierta {adj} :: ungewiss; unsicher
+incineración {f} :: Feuerbestattung {f} \Tod
+incineración {f} :: Verbrennung {f} \Technik
+incineradora de basuras {f} :: Müllverbrennungsanlage {f} \Technik
+incineradora {f} :: Verbrennungsanlage {f} \Technik
+incinerador {m} :: Verbrennungsanlage {f} \Technik
+incinerar {v} :: einäschern \Tod
+incinerar {v} :: verbrennen
+incivilizado; incivilizada {adj} :: unzivilisiert
+inclemencia {f} :: Unbarmherzigkeit {f}
+inclemente {adj} :: unbarmherzig
+inclinación {f} :: Gefälle {n}
+inclinación {f} :: Hang {m}
+inclinación {f} :: Neigung {f}
+inclinado; inclinada {adj} :: geneigt
+inclinarse {v} :: sich neigen
+inclinar {v} :: neigen
+incluido; incluida {adj} :: inklusive; einschließlich
+incluir {v} :: einbeziehen
+inclusive {adj} :: inklusive; einschließlich
+incógnito; incógnita {adj} :: unbekannt
+incógnito; incógnita {adj} :: unerkannt
+incoherencia {f} :: Ungereimtheit {f}; Unsinn {m}
+incoherente {adj} :: inkohärent
+incoherente {adj} :: unzusammenhängend
+incomible {adj} :: ungenießbar
+incomodar {v} :: stören; belästigen
+incomodidad {f} :: Lästigkeit {f}
+incomodidad {f} :: Unbequemlichkeit {f}
+incómodo; incómoda {adj} :: lästig
+incómodo; incómoda {adj} :: unangenehm
+incómodo; incómoda {adj} :: unbequem
+incomparable {adj} :: unvergleichlich
+incompatibilidad {f} :: Inkompatibilität {f}; Unverträglichkeit {f} \Technik
+incompatible {adj} :: inkompatibel; unverträglich \Technik
+incompetente {adj} :: inkompetent
+incompleto; incompleta {adj} :: unvollständig
+incomprensible {adj} :: unverständlich; unbegreiflich
+incompresible {adj} :: inkompressibel \Technik
+incomunicado; incomunicada {adj} :: abgeschnitten; isoliert
+incomunicar {v} :: isolieren
+inconcebible {adj} :: unbegreiflich; unvorstellbar
+inconcreto; inconcreta {adj} :: unkonkret
+incondicional {adj} :: bedingungslos; unbedingt
+inconfundible {adj} :: unverwechselbar
+inconsciencia {f} :: Bewusstlosigkeit {f} \Medizin
+inconsciencia {f} :: Unbewusstheit {f}
+inconsciente {adj} :: bewusstlos \Medizin
+inconsciente {adj} :: leichtfertig
+inconsciente {adj} :: unbewusst
+inconsciente {m} :: Unbewusste {n}
+inconsistencia {f} {f} :: Inkonsistenz {f}
+inconsistente {adj} :: inkonsistent
+inconsolable {adj} :: untröstlich
+incontable {adj} :: ungezählt
+incontable {adj} :: unzählbar
+incontinencia {f} :: Inkontinenz {f} \Medizin
+incontinente {adj} :: inkontinent \Medizin
+incontrolable {adj} :: unkontrollierbar
+incontrolado; incontrolada {adj} :: unkontrolliert
+inconveniencia {f} :: Unannehmlichkeit {f}
+inconveniencia {f} :: Ungeeignetheit {f}
+inconveniente {adj} :: unbequem
+inconveniente {adj} :: ungünstig
+inconveniente {adj} :: unpassend
+inconveniente {m} :: Nachteil {m}
+inconveniente {m} :: Pferdefuß {m}
+inconveniente {m} :: Widrigkeit {f}
+incorporación {f} :: Aufnahme {f}; Eingliederung {f}
+incorporación {f} :: Einbau {m}
+incorporación {f} :: Integration {f}
+incorporado; incorporada {adj} :: eingebaut
+incorporado; incorporada {adj} :: integriert
+incorporarse {v} :: eintreten
+incorporar {v} :: aufnehmen
+incorporar {v} :: einbauen
+incorporar {v} :: eingliedern
+incorporar {v} :: integrieren
+incorrecto; incorrecta {adj} :: falsch
+incorrecto; incorrecta {adj} :: unkorrekt
+incorrecto; incorrecta {adj} :: unrichtig
+incorregible {adj} :: unverbesserlich
+incredibilidad {f} :: Unglaubhaftigkeit {f}
+incredulidad {f} :: Ungläubigkeit {f} \Religion
+incrédulo; incrédula {adj} :: ungläubig \Religion
+incrédulo {m} :: Ungläubige {m} \Religion
+incrementar {v} :: erhöhen
+incrementar {v} :: vergrößern
+incrementar {v} :: zunehmen
+incremento {m} :: Erhöhung {f}
+incremento {m} :: Zuwachs {m}
+incrustar {v} :: einbetten
+incrustar {v} :: einwachsen
+incrustar {v} :: verkrusten
+incubadora {f} :: Brutkasten {m} \Medizin \Landwirtschaft
+incubar {v} :: ausbrüten \Landwirtschaft \Tiere
+inculcar {v} :: einreden; einschärfen
+inculpar {v} :: beschuldigen
+inculto; inculta {adj} :: ungebildet
+incultura {f} :: Unbildung {f}
+incumplimiento {m} :: Nichterfüllung {f}
+incurable {adj} :: unheilbar \Medizin
+incurrir {v} :: verfallen
+incursión {f} :: Einfall {m}; Eindringen {n}
+indebido; indebida {adj} :: unberechtigt
+indecencia {f} :: Unanständigkeit {f}
+indecente {adj} :: unanständig
+indecisión {f} :: Unentschlossenheit {f}
+indeciso; indecisa {adj} :: unentschlossen
+indefenso; indefensa {adj} :: wehrlos
+indefinible {adj} :: unbestimmbar; undefinierbar
+indefinido; indefinida {adj} :: unbestimmt
+indefinido; indefinida {adj} :: undefiniert
+indemnización {f} :: Entgelt {n} \Geld
+indemnización {f} :: Entschädigung {f} \Geld
+indemnización {f} :: Schadenersatz {m} \Geld
+indemnización {f} :: Schmerzensgeld {n} \Geld
+indemnizar {v} :: abfinden \Geld
+indemnizar {v} :: entschädigen \Geld
+independencia {f} :: Unabhängigkeit {f}
+independiente {adj} :: unabhängig
+independizarse {v} :: sich selbständig machen
+independizar {v} :: unabhängig machen
+indescifrable {adj} :: rätselhaft
+indescifrable {adj} :: unentzifferbar
+indeseable {adj} :: unerwünscht
+indestructible {adj} :: unzerstörbar
+indeterminable {adj} :: unbestimmbar
+indeterminación {f} :: Unbestimmtheit {f}
+indeterminación {f} :: Unschlüssigkeit {f}
+indeterminado; indeterminada {adj} :: unbestimmt
+indeterminado; indeterminada {adj} :: unschlüssig
+indicación {f} :: Anweisung {f}
+indicación {f} :: Hinweis {m}
+indicado; indicada {adj} :: angezeigt
+indicado; indicada {adj} :: geeignet
+indicador {m} :: Anzeiger {m}; Zeiger {m}
+indicador {m} :: Indikator {m}
+indicar {v} :: andeuten
+indicar {v} :: anweisen
+indicar {v} :: anzeigen
+indicar {v} :: hinweisen
+indicar {v} :: zeigen
+indicativo; indicativa {adj} :: Hinweis-; hinweisend
+indicativo {m} :: Vorwahl {f}
+índice {m} :: Zeigefinger {m} \Körper
+indicio {m} :: Anzeichen {n}; Zeichen {n}
+indicio {m} :: Indiz {n}; Anhaltspunkt {m}
+indiferencia {f} :: Gleichgültigkeit {f}
+indiferente {adj} :: gleichgültig
+indiferente {adj} :: teilnahmslos
+indígena {adj} :: eingeboren
+indígena {adj} :: indianisch
+indígena {m,f} :: Eingeborene {m,f}
+indigencia {f} :: Armut {f}
+indigencia {f} :: Bedürftigkeit {f}
+indigente {adj} :: mittellos; arm
+indigestarse {v} :: eine Magenverstimmung bekommen \Medizin
+indigestión {f} :: Magenverstimmung {f} \Medizin
+indigesto; indigesta {adj} :: mit Magenverstimmung {f} \Medizin
+indigesto; indigesta {adj} :: unverdaulich
+indignación {f} :: Empörung {f}
+indignado; indignada {adj} :: empört
+indignarse a {v} :: sich herablassen zu ; sich herabwürdigen zu
+indignarse {v} :: sich empören \Gefühle
+indignar {v} :: empören \Gefühle
+indigno; indigna {adj} :: unwürdig
+indio; india {adj} :: indianisch
+indio; india {adj} :: indisch
+indio {m} :: Inder {m}
+indio {m} :: Indio {m}; Indianer {m}
+indirecta {f} :: Anspielung {f}
+indirecto; indirecta {adj} :: indirekt
+indiscernible {adj} :: unerkennbar
+indisciplinado; indisciplinada {adj} :: undiszipliniert
+indiscreción {f} :: Indiskretion {f}
+indiscreto; indiscreta {adj} :: indiskret
+indiscreto; indiscreta {adj} :: unvorsichtig
+indiscutible {adj} :: unbestreitbar; fraglos
+indisolubilidad {f} :: Unlöslichkeit {f} \Technik
+indisoluble {adj} :: unlöslich \Technik
+indispensabilidad {f} :: Unerlässlichkeit {f}
+indispensable {adv} :: unerlässlich
+indisponer {v} :: verärgern
+indisposición {f} :: Unwohlsein {n}
+indispuesto; indispuesta {adj} :: unwohl 
+indistinguible {adj} :: ununterscheidbar
+individual {adj} :: einzeln
+individual {adj} :: individuell
+individualidad {f} :: Individualität {f}
+individualismo {m} :: Individualismus {m}
+individualista {m,f} :: Individualist {m}; Individualistin {f}
+individual {m} :: Set {n} (Tisch)
+individuo {m} :: Individuum {n}
+individuo {m} [pey.] :: Person {f}
+indocumentado; indocumentada {adj} :: undokumentiert
+índole {m} :: Art {f}; Wesen {n}; Charakter {m}
+indolencia {f} :: Gleichgültigkeit {f}; Teilnahmslosigkeit {f}
+indolente {adj} :: gleichgültig; teilnahmslos
+indoloro; indolora {adj} :: schmerzlos
+indomable {adj} :: unbezwingbar
+indómito; indómita {adj} :: widerspenstig
+inducción {f} :: Induktion {f} \Physik
+inducir {v} :: anstiften; verleiten
+inducir {v} :: induzieren
+inducir {v} :: veranlassen
+inductivo; inductiva {adj} :: induktiv \Technik \Physik
+inductor {m} :: Anstifter {m} \Verbrechen
+inductor {m} :: Induktor {m} \Physik
+indudable {adj} :: zweifellos
+industria {f} :: Industrie {f}
+industrial {adj} :: industriell
+industrialización {f} :: Industrialisierung {f}
+industrializar {v} :: industrialisieren
+ineficacia {f} :: Ineffizienz {f}
+ineficaz {adj} :: ineffizient
+ineficaz {adj} :: unwirksam
+ineficiencia {f} :: Unwirksamkeit {f}
+ineficiente {adj} :: ineffizient
+inequívoco; inequívoca {adj} :: eindeutig
+inercia {f} :: Trägheit {f} \Physik
+inesperado; inesperada {adj} :: unerwartet
+inestabilidad {f} :: Instabilität {f}
+inestabilidad {f} :: Unbeständigkeit {f}
+inestable {adj} :: instabil
+inestable {adj} :: unbeständig
+inevitable {adj} :: unvermeidbar
+inexactitud {f} :: Ungenauigkeit {f}
+inexacto; inexacta {adj} :: ungenau
+inexcusable {adj} :: unentschuldbar
+inexistencia {f} :: Nichtvorhandensein {n}
+inexistente {adj} :: nicht vorhanden
+inexperto; inexperta {adj} :: unerfahren
+inexplicable {adj} :: unerklärlich
+inexplorado; inexplorada {adj} :: unerforscht
+inexpresable {adj} :: unausdrücklich
+inexpresivo; inexpresiva {adj} :: ausdruckslos
+infame {adj} :: gemein; niederträchtig
+infamia {f} :: Gemeinheit {f}; Niederträchtigkeit {f}
+infamia {f} :: Schande {f}
+infancia {f} :: Kindheit {f}
+infanta {f} :: Prinzessin {f} \Adel
+infante {m} :: Prinz {m} \Adel
+infantería {f} :: Infanterie {f} \Militär
+infantil {adj} :: infantil; kindisch
+infantil {adj} :: kindlich; Kinder-
+infantilismo {m} :: Infantilismus {m}
+infarto {m} :: Infarkt {m}; Herzschlag {m} \Medizin
+infección {f} :: Infektion {f} \Medizin
+infección {f} :: Infizierung {f}; Ansteckung {m} \Medizin
+infeccioso; infecciosa {adj} :: ansteckend \Medizin
+infectar {v} :: infizieren; anstecken \Medizin
+infelicidad {f} :: Unglück {n}
+infeliz {adj} :: unglücklich \Gefühle
+inferior; inferiora {adj} :: geringwertig
+inferior; inferiora {adj} :: minderwertig
+inferior; inferiora {adj} :: untere; Unter-
+inferioridad {f} :: Minderwertigkeit {f}
+inferir {v} :: folgern
+infernal {adj} :: höllisch; Höllen-
+infértil {adj} :: unfruchtbar
+infertilidad {f} :: Unfruchtbarkeit {f} \Medizin
+infidelidad {f} :: Untreue {f} \Familie
+infiel {adj} :: untreu \Familie
+infierno {m} :: Hölle {f} \Religion
+infiltración {f} :: Einsickerung {f}; Einsickern {n}
+infiltración {f} :: Unterwanderung {f}
+infiltrado; infiltrada {adj} :: eingesickert; Sicker-
+infiltrar {v} :: einsickern; sickern
+infiltrar {v} :: unterwandern
+infinidad {f} :: Unendlichkeit {f}
+infinidad {f} :: Unmenge {f}
+infinitivo {m} :: Infinitiv {m} \Grammatik
+infinito; infinita {adj} :: unendlich
+infinito; infinita {adj} :: zahllos
+infinito {m} :: Unendliche {n}
+inflación {f} :: Aufblasen {n}
+inflación {f} :: Inflation {f} \Geschichte \Politik \Wirtschaft
+inflamable {adj} :: brennbar; entflammbar \Technik
+inflamación {f} :: Entzündung {f} \Medizin
+inflamar {v} :: entflammen
+inflamar {v} :: entzünden
+inflarse {v} :: sich aufblähen
+inflar {v} :: aufblähen
+inflar {v} :: aufblasen
+inflar {v} :: aufpumpen
+infligir {v} :: bereiten; zufügen
+influencia {f} :: Einfluss {m}
+influenciar {v} :: beeinflussen
+influir {v} :: beeinflussen
+influyente {adj} :: beeinflussend
+informado; informada {adj} :: informiert
+informado; informada {adj} :: kundig
+informal {adj} :: formlos
+informal {adj} :: informell
+informal {adj} :: zwanglos
+informalidad {f} :: Formlosigkeit {f}
+informalidad {f} :: Ungezwungenheit {f}
+informarse {v} :: sich informieren
+informar {v} :: informieren; mitteilen; unterrichten
+informática {f} :: Informatik {f}
+informático {m} :: Informatiker {m} \Berufe
+informativo; informativa {adj} :: informativ
+informativo; informativa {adj} :: Nachrichten-
+informe {m} :: Bericht {m}
+infraestructura {f} :: Infrastruktur {f}
+infrarrojo; infrarroja {adj} :: infrarot
+infrecuente {adj} :: selten
+infructuoso; infructuosa {adj} :: fruchtlos
+infusión {f} :: Infusion {f} \Medizin
+infusión {f} :: Tee {m}; Kräutertee {m}; Aufguss {m} \Trinken
+ingeniar {v} :: ersinnen; ausdenken
+ingeniera {f} :: Ingenieurin {f} \Berufe
+ingeniería {f} :: Ingenieurwesen {n}
+ingeniero {m} :: Ingenieur {m} \Berufe
+ingenio {m} :: Genie {n}
+ingeniosa {adj} :: originell
+ingenioso; ingeniosa {adj} :: erfinderisch
+ingenioso; ingeniosa {adj} :: findig; einfallsreich
+ingenioso; ingeniosa {adj} :: geistreich
+ingenuidad {f} :: Naivität {f}
+ingenuo; ingenua {adj} :: naiv
+ingerir {v} :: einnehmen
+ingestión {f} :: Einnahme {f}
+ingle {f} :: Leiste {f} \Körper
+inglesa {f} :: Engländerin {f}
+inglés {m} :: Engländer {m}
+inglés {m} :: englische Sprache {f}
+ingratitud {f} :: Undankbarkeit
+ingrato; ingrata {adj} :: unangenehm
+ingrato; ingrata {adj} :: undankbar
+ingrediente {m} :: Bestandteil {m}
+ingrediente {m} :: Zutat {f} \Essen
+ingresar {v} :: einweisen; einliefern
+ingresar {v} :: einzahlen \Geld
+ingreso {m} :: Aufnahme {m}
+ingreso {m} :: Einkommen {n} \Geld
+ingreso {m} :: Einzahlung {f} \Geld
+ingreso {m} :: Ertrag {m} \Wirtschaft
+ingreso {m} :: Zahlungseingang {m} \Geld
+inhabitable {adj} :: unbewohnbar
+inhabitado; inhabitada {adj} :: unbewohnt
+inhalador {m} :: Inhalator {m} \Medizin
+inhalar {v} :: inhalieren \Medizin
+inherente {adj} :: zugehörig; inhärent
+inhibición {f} :: Befangenheit {f}
+inhibición {f} :: Hemmung {f}
+inhibición {f} :: Untersagung {f}
+inhibir {v} :: hemmen
+inhibir {v} :: untersagen; verbieten
+inhóspito; inhóspita {adj} :: unwirtlich
+inhumano; inhumana {adj} :: unmenschlich; inhuman
+iniciación {f} :: Einführung {f}
+iniciación {f} :: Initiation {f}
+inicial {adj} :: anfänglich; Anfangs-; initial
+iniciar {v} :: anfangen
+iniciar {v} :: einführen
+iniciar {v} :: initialisieren \Informatik
+iniciar {v} :: starten; einleiten
+iniciativa {f} :: Initiative {f}; Anstoß {m}
+inicio {m} :: Anfang {m}; Beginn {m}; Start {m}
+inigualable {adj} :: unvergleichlich
+inimaginable {adj} :: unvorstellbar
+injerencia {f} :: Einmischung {f}
+injerir {v} :: einführen
+injertar {v} :: einsetzen
+injertar {v} :: pfropfen; veredeln \Landwirtschaft
+injertar {v} :: transplantieren \Medizin
+injerto {m} :: Transplantat {n} \Medizin
+injusticia {f} :: Ungerechtigkeit {f}
+injusto; injusta {adj} :: ungerecht
+inmaculada {f} :: Jungfrau Maria {f} \Religion
+inmaculado; inmaculada {adj} :: unbefleckt
+inmadurez {f} :: Unreife {f}
+inmaduro; inmadura {adj} :: unreif
+inmaterial {adj} :: immateriell
+inmediato; inmediata {adj} :: sofortig
+inmensidad {f} :: Unermesslichkeit {f}
+inmenso; inmensa {adj} :: riesengroß; immens
+inmersión {f} :: Eintauchen {n}
+inmerso; inmersa {adj} :: eingetaucht; untergetaucht
+inmerso; inmersa {adj} :: versunken
+inmigrante {m,f} :: Einwanderer {m}; Einwanderin {f}
+inmigrar {v} :: einwandern
+inmoral {adj} :: unmoralisch
+inmoralidad {f} :: Unmoral {f}; Unsittlichkeit {f}
+inmortal {adj} :: unsterblich \Religion 
+inmortalidad {f} :: Unsterblichkeit {f} \Religion
+inmortalizar {v} :: verewigen
+inmóvil {adj} :: bewegungslos; still
+inmovilidad {f} :: Bewegungslosigkeit {f}
+inmovilizar {v} :: festhalten
+inmovilizar {v} :: fixieren
+inmovilizar {v} :: sperren (Konto) \Geld
+inmovilizar {v} :: stilllegen
+inmueble {m} :: Immobilie {f}
+inmundo; inmunda {adj} :: schmutzig
+inmunidad {f} :: Immunität {f} \Medizin
+inmunizar {v} :: immunisieren \Medizin
+innato; innata {adj} :: angeboren
+innatural {adj} :: unnatürlich
+innecesario; innecesaria {adj} :: unnötig
+innovación {f} :: Innovation {f}; Neuerung {f}
+innovación {f} :: Neuheit {f}
+innovador; innovadora {adj} :: innovativ
+innumerable {adj} :: unzählig
+inocencia {f} :: Unschuld {f}
+inocente {adj} :: unschuldig
+inocuo; inocua {adj} :: unschädlich
+inodoro; inodora {adj} :: geruchlos
+inofensivo; inofensiva {adj} :: harmlos; ungefährlich
+inofensivo; inofensiva {adj} :: unschädlich
+inoficioso; inoficiosa {adj} :: nutzlos
+inolvidable {adj} :: unvergesslich
+inoportuno; inoportuna {adj} :: ungelegen; unpassend
+inoxidable {adj} :: rostfrei \Technik
+inquietarse {v} :: sich sorgen \Gefühle
+inquietar {v} :: beunruhigen
+inquieto; inquieta {adj} :: besorgt \Gefühle
+inquieto; inquieta {adj} :: unruhig
+inquieto; inquieta {adj} :: zappelig [ugs.]
+inquietud {f} :: Besorgnis {f} \Gefühle
+inquietud {f} :: Beunruhigung {f} \Gefühle
+inquilino {m} :: Mieter {m}
+inquisición {f} :: Inquisition {f} \Geschichte \Religion
+insaciable {adj} :: unersättlich
+insano; insana {adj} :: ungesund
+insano; insana {adj} :: wahnsinnig
+insatisfacción {f} :: Unzufriedenheit {f} \Gefühle
+insatisfactorio; insatisfactoria {adj} :: unbefriedigend
+insatisfecho; insatisfecha {adj} :: nicht satt \Essen
+insatisfecho; insatisfecha {adj} :: unzufrieden \Gefühle
+inscribir {v} :: anmelden
+inscribir {v} :: einschreiben
+inscribir {v} :: eintragen
+inscripción {f} :: Anmeldung {f}
+inscripción {f} :: Einschreibung {f}
+inscripción {f} :: Inschrift {f}; Aufschrift {f}
+insecticida {m} :: Insektizid {n}; Insektenvernichtungsmittel {n} \Landwirtschaft
+insectívoro; insectívora {adj} :: insektenfressend \Tiere
+insectívoro {m} :: Insektenfresser {m} \Tiere
+inseguridad {f} :: Unsicherheit {f} \Gefühle
+inseguro; insegura {adj} :: unsicher \Gefühle
+inseminación {f} :: Befruchtung {f} \Medizin \Landwirtschaft
+inseminar {v} :: befruchten \Medizin \Landwirtschaft
+insensato; insensata {adj} :: verrückt
+insensibilidad {f} :: Gefühllosigkeit {f}
+insensibilidad {f} :: Unempfindlichkeit {f}
+insensible {adj} :: gefühllos; unsensibel
+insensible {adj} :: unempfindlich
+inseparable {adj} :: unzertrennlich
+insertar {v} :: einfügen
+insertar {v} :: inserieren
+inservible {adj} :: unbrauchbar
+insignia {f} :: Abzeichen {n}; Insignie {f}
+insignificancia {f} :: Kleinigkeit {f}
+insignificancia {f} :: Unbedeutsamkeit {f}; Belanglosigkeit {f}
+insignificante {adj} :: nichtig
+insignificante {adj} :: unbedeutend; belanglos
+insinuar {v} :: suggerieren; nahe legen
+insípido; insípida {adj} :: fade
+insípido; insípida {adj} :: geistlos
+insípido; insípida {adj} :: geschmacklos
+insípido; insípida {adj} :: schal
+insistencia {f} :: Beharrlichkeit {f}
+insistencia {f} :: Drängen {n}
+insistente {adj} :: nachdrücklich; beharrlich
+insistir en {v} :: bestehen auf
+insistir en {v} :: drängen auf
+insistir {v} :: beharren
+insistir {v} :: nachfragen; nachhaken
+insociable {adj} :: ungesellig
+insolación {f} :: Sonneneinstrahlung {f}
+insolación {f} :: Sonnenstich {m} \Medizin
+insolencia {f} :: Frechheit {f}
+insolencia {f} :: Unverschämtheit {f}
+insolente {adj} :: frech
+insolente {adj} :: unverschämt
+insólito; insólita {adj} :: fremdartig
+insólito; insólita {adj} :: ungewöhnlich; außergewöhnlich
+insoluble {adj} :: unlöslich \Technik
+insolvencia {f} :: Insolvenz {f}; Zahlungsunfähigkeit {f} \Geld \Wirtschaft
+insolvente {adj} :: insolvent; zahlungsunfähig \Geld \Wirtschaft
+insomne {adj} :: schlaflos
+insomnio {m} :: Schlaflosigkeit {f}
+insonoro; insonora {adj} :: lautlos
+insoportable {adj} :: unerträglich
+insostenible {adj} :: unhaltbar
+inspeccionar {v} :: besichtigen
+inspeccionar {v} :: inspizieren
+inspeccionar {v} :: überprüfen
+inspección {f} :: Besichtigung {f}
+inspección {f} :: Inspektion {f}
+inspección {f} :: Kontrolle {f}
+inspección {f} :: Prüfung {f}
+inspección {f} :: Wartung {f} \Technik
+inspector {m} :: Aufseher {m}
+inspector {m} :: Inspektor {m}
+inspector {m} :: Kontrolleur {m}
+inspector {m} :: Prüfer {m}
+inspector {m} :: Schaffner {m} \Reisen \Berufe
+inspiración {f} :: Einatmung {f}
+inspiración {f} :: Eingebung {f}; Inspiration {f}
+inspirado; inspirada {adj} :: angeregt; inspiriert
+inspirarse {v} :: sich anregen lassen
+inspirar {v} :: einatmen
+inspirar {v} :: inspirieren; anregen
+instalación {f} :: Anlage {f}
+instalación {f} :: Installation {f}; Einrichtung {f}; Einbau {m}
+instalarse {v} :: sich niederlassen
+instalar {v} :: aufstellen
+instalar {v} :: installieren; einbauen; einrichten
+instancia {f} :: Bitte {f}; Gesuch {n}
+instancia {f} :: Instanz {f}
+instantáneo; instantánea {adj} :: Instant- \Essen
+instantáneo; instantánea {adj} :: sofortig; augenblicklich
+instante {m} :: Augenblick {m}
+instintivo; instintiva {adj} :: instinktiv
+instinto {m} :: Instinkt {m}
+institucional {adj} :: institutionell
+institución {f} :: Einrichtung {f}
+institución {f} :: Institution {f}
+instituir {v} :: einsetzen
+instituir {v} :: gründen
+instituto {m} :: Institut {n}
+institutriz {f} :: Erzieherin {f} \Berufe
+instrucción {f} :: Anleitung {f}
+instrucción {f} :: Anweisung {f}
+instrucción {f} :: Gebrauchsanweisung {f} \Technik
+instrucción {f} :: Unterweisung {f}
+instructivo; instructiva {adj} :: aufschlussreich
+instructivo; instructiva {adj} :: lehrreich
+instructor {m} :: Lehrer {m}; Ausbilder {m}
+instruido; instruida {adj} :: gebildet
+instruido; instruida {adj} :: geschult; ausgebildet
+instruir {v} :: anleiten
+instruir {v} :: anweisen
+instruir {v} :: einweisen
+instruir {v} :: unterrichten; lehren; schulen
+instrumental {adj} :: instrumental \Musik
+instrumental {m} :: Gerät {n}
+instrumento {m} :: Gerät {n} \Technik
+instrumento {m} :: Musikinstrument {n} \Musik
+instrumento {m} :: Werkzeug {n} \Technik
+insuficiencia cardíaca {f} :: Herzschwäche {f} \Medizin
+insuficiencia {f} :: Insuffizienz {f} \Medizin
+insuficiencia {f} :: Mangelhaftigkeit {f}
+insuficiente {adj} :: mangelhaft
+insufrible {adj} :: unerträglich
+insular {adj} :: Insel-
+insulina {f} :: Insulin {n} \Medizin
+insultante {adj} :: beleidigend
+insultar {v} :: beleidigen
+insulto {m} :: Beleidigung {f}
+insuperable {adj} :: unübertreffbar
+insurrecto; insurrecta {adj} :: aufständisch
+intachable {adj} :: tadellos
+intacto; intacta {adj} :: ganz; heil; unbeschädigt; intakt
+integración {f} :: Eingliederung {f}; Einbindung {f}; Einbau {m}; Integration {f}
+integral {adj} :: ganz; vollständig; ganzheitlich
+integral {adj} :: Vollkorn- \Essen
+integrante {m} :: Bestandteil {m}; Glied {n}
+integrarse {v} :: sich integrieren
+integrar {v} :: bilden; ausmachen; umfassen; bestehen aus
+integrar {v} :: einbauen; eingliedern; einbinden; einfügen; integrieren
+integridad {f} :: Integrität {f}; Ganzheit {f}; Vollständigkeit {f}
+integridad {f} :: Redlichkeit {f}; Rechtschaffenheit {f}
+íntegro; íntegra {adj} :: ganz; integer; vollständig
+íntegro; íntegra {adj} :: redlich; rechtschaffen; unbescholten
+íntegro; íntegra {adj} :: unversehrt
+intelecto {m} :: Intellekt {m}; Geist {m}
+intelectual {adj} :: geistig; Kopf-
+intelectualidad {f} :: Geistigkeit {f}
+intelectualidad {f} :: Intellektualität {f}
+inteligencia {f} :: Intelligenz {f}; Klugheit {f}
+inteligencia {f} :: Verstand {m}
+inteligente {adj} :: intelligent; klug; gescheit
+inteligibilidad {f} :: Verständlichkeit {f}
+inteligible {adj} :: verständlich
+intencionado; intencionada {adj} :: absichtlich
+intencional {adj} :: absichtlich
+intención {f} :: Vorsatz {m}
+intendencia {f} :: Verwaltung {f}
+intensidad {f} :: Intensität {f}; Stärke {f}
+intensificar {v} :: intensivieren; verstärken
+intensivo; intensiva {adj} :: Intensiv-
+intenso; intensa {adj} :: heftig; stark; intensiv
+intentar {v} :: beabsichtigen
+intento {m} :: Absicht {f}
+intento {m} :: Versuch {m}
+interaccionar {v} :: wechselwirken; interagieren
+interacción {f} :: Wechselwirkung {f}; Interaktion {f}
+interactividad {f} :: Interaktivität {f}
+interactivo; interactiva {adj} :: interaktiv
+interactivo; interactiva {adj} :: wechselwirkend
+intercambiable {adj} :: austauschbar
+intercambiar {v} :: austauschen
+intercambio {m} :: Austausch {m}
+interceder {v} :: einschreiten
+interceptar {v} :: abhören; abfangen
+interceptar {v} :: unterbrechen; absperren
+intercontinental {adj} :: Interkontinental-
+interesado; interesada {adj} :: habgierig
+interesado; interesada {adj} :: interessiert
+interesado; interesada {adj} :: opportunistisch
+interesarse por :: sich interessieren für
+interesar {v} :: interessieren
+interés {m} :: Eigennutz {m}
+interés {m} :: Interesse {n}
+interés {m} :: Nutzen {m}
+interés {m} :: Teilnahme {f}; Anteilnahme {f}
+interés {m} :: Zins {m} \Geld
+interfaz {m} :: Interface {m}; Schnittstelle {f} \Computer
+interferencia {f} :: Einmischung {f}
+interferencia {f} :: Interferenz {f} \Technik
+interferencia {f} :: Störung {f} \Technik
+interferir {v} :: eingreifen
+interferir {v} :: interferieren
+interferir {v} :: sich einmischen
+interferir {v} :: stören
+interior; interiora {adj} :: Innen-; innere
+interior; interiora {adj} :: innerlich
+interiorizar {v} :: verinnerlichen
+interior {m} :: Innenraum {m}; Interieur {n}
+interior {m} :: Innere {n}
+intermediario; intermediaria {adj} :: Mittel-; Zwischen-
+intermediario {m} :: Mittelsmann {m}
+intermediario {m} :: Vermittler {m}
+intermediar {v} :: vermitteln
+intermedio; intermedia {adj} :: Zwischen-; intermediär
+intermedio {m} :: Mitte {f}; Dazwischen {n}
+interminable {adj} :: endlos
+internado {m} :: Internat {n} \Bildung
+internar {v} :: einweisen; internieren
+internet {m} :: Internet {n} \Computer \Medien
+internista {m} :: Internist {m}; Arzt für innere Medizin {m} Medizin
+interno; interna {adj} :: Innen-; innere; intern
+interponer {v} :: einlegen; einschieben
+interpretación {f} :: Deutung {f}; Auslegung {f}
+interpretación {f} :: Interpretation {f}
+interpretación {f} :: Übersetzung {f}
+interpretar {v} :: deuten
+interpretar {v} :: interpretieren
+intérprete {f} :: Darstellerin {f}
+intérprete {f} :: Dolmetscherin {f}
+intérprete {f} :: Interpretin {f}
+intérprete {m} :: Darsteller {m}
+intérprete {m} :: Dolmetscher {m} \Berufe
+intérprete {m} :: Interpret {m}
+interrogación {f} :: Frage {f}
+interrogar {v} :: ausfragen; befragen
+interrogar {v} :: verhören
+interrogatorio {m} :: Befragung {f}
+interrumpir {v} :: dazwischenreden
+interrumpir {v} :: unterbrechen
+interruptor {m} :: Schalter {m} \Technik
+intersección {f} :: Kreuzung {f} \Verkehr
+intersección {f} :: Schnittpunkt {m}
+intersticio {m} :: Zwischenraum {m}
+intervalo {m} :: Abstand {m}
+intervalo {m} :: Intervall {n}
+intervalo {m} :: Pause {f}
+intervención {f} :: Abhören {n}; Überwachung {f}
+intervención {f} :: Eingriff {m}; Einschreiten {n}
+intervención {f} :: Einmischung {f}
+intervenir {v} :: einschreiten
+intervenir {v} :: intervenieren
+intervenir {v} :: sich einmischen
+intervenir {v} :: sich einschalten
+intestinal {adj} :: Darm- \Körper
+intestino {m} :: Darm {m} \Körper
+intimidación {f} :: Einschüchterung {f}
+intimidad {f} :: Intimität {f}; Vertrautheit {f}
+intimidad {f} :: Intimsphäre {f}
+intimidar {v} :: einschüchtern
+íntimo; íntima {adj} :: innig; vertraut
+íntimo; íntima {adj} :: intim
+íntimo {m} :: enger Freund {m}
+intocable {adj} :: unantastbar
+intolerable {adj} :: unerträglich
+intolerancia {f} :: Intoleranz {f}
+intolerante {adj} :: intolerant
+intoxicación {f} :: Vergiftung {f} \Medizin
+intoxicar {v} :: vergiften
+intranquilidad {f} :: Unruhe {f}
+intranquilizar {v} :: beunruhigen
+intranquilo; intranquila {adj} :: unruhig
+intransferible {adj} :: unübertragbar
+intransitivo; intransitiva {adj} :: intransitiv \Grammatik
+intriga {f} :: Intrige {f}
+intriga {f} :: Machenschaft {f}
+intrigante {adj} :: intrigant
+intrigante {m} :: Intrigant {m}
+intrigar {v} :: intrigieren; Intrigen schmieden
+introducción {f} :: Einführung {f}
+introducción {f} :: Einleitung {f}; Vorwort {n}
+introducción {f} :: Vorstellung {f}
+introducir {v} :: einführen
+introducir {v} :: einlegen
+introducir {v} :: einleiten
+introducir {v} :: einschieben
+introducir {v} :: vorstellen
+introvertido; introvertida {adj} :: introvertiert
+intruso; intrusa {adj} :: aufdringlich
+intruso informático {m} :: Hacker {m} \Computer
+intruso {m} :: Eindringling {m}
+intuición {f} :: Ahnung {f}
+intuición {f} :: Anschauung {f}; Einsicht {f}
+intuición {f} :: Intuition {f}
+intuir {v} :: ahnen; erahnen
+intuitivo; intuitiva {adj} :: intuitiv
+inundación {f} :: Überschwemmung {f}
+inundar {v} :: überschwemmen
+inusual {adj} :: ungewöhnlich
+inútil {m} :: Nichtsnutz {m} 
+invadir {v} :: einbrechen; eindringen
+invadir {v} :: überfallen
+invalidar {v} :: entkräften
+invalidar {v} :: entwerten
+invalidar {v} :: ungültig machen
+invalidez {f} :: Invalidität {f}
+invalidez {f} :: Ungültigkeit {f}
+inválido; inválida {adj} :: invalide
+inválido; inválida {adj} :: ungültig
+inválido {m} :: Invalide {m}
+invasión {f} :: Einbruch {m}
+invasión {f} :: Eindringen {n}; Einfallen {n}
+invasión {f} :: Invasion {f}; Einmarsch {m}
+invasivo; invasiva {adj} :: invasiv \Medizin
+invasor {m} :: Eindringling {m}
+invasor {m} :: Invasor {m}; Angreifer {m}
+invencible {adj} :: unbesiegbar
+invención {f} :: Erfindung {f}
+inventario {m} :: Inventar {n}; Bestandsliste {f}
+inventario {m} :: Inventur {f}; Bestandsaufnahme {f}
+inventar {v} :: sich ausdenken; erdichten; erschwindeln [ugs.]
+inventora {f} :: Erfinderin {f}
+inventor {v} :: Erfinder {m}
+invernal {adj} :: winterlich
+invernar {v} :: überwintern
+inversión {f} :: Investition {f}; Anlage {f}; Geldanlage {f} \Geld
+inversión {f} :: Umkehrung {f}
+inversionista {m} :: Investor {m}; Anleger {m} \Geld \Wirtschaft
+inverso; inversa {adj} :: invers; umgekehrt
+inversor {m} :: Investor {m}; Anleger {m} \Geld \Wirtschaft
+invertebrado; invertebrada {adj} :: wirbellos \Tiere
+invertido; invertida {adj} :: angelegt; investiert
+invertido; invertida {adj} :: homosexuell; schwul [ugs.] \Sexualität
+invertido; invertida {adj} :: seitenverkehrt; umgekehrt; verkehrt rum [ugs.]
+invertir {v} :: anlegen; investieren \Geld
+invertir {v} :: umdrehen; umkehren
+invertir {v} :: umkrempeln
+investidura {f} :: Investitur {f}; Einkleidung {f} \Religion
+investigación {f} :: Erforschung {f}
+investigación {f} :: Nachforschung {f}
+investigación {f} :: Untersuchung {f}
+investigador {m} :: Ermittler {m}
+investigador {m} :: Forscher {m}
+investigador {m} :: Rechercheur {m}
+investigar {v} :: ermitteln
+investigar {v} :: forschen; erforschen
+investigar {v} :: recherchieren
+investigar {v} :: untersuchen
+invisibilidad {f} :: Unsichtbarkeit {f}
+invisible {adj} :: unsichtbar
+invitado; invitada {adj} :: eingeladen
+invitado {f} :: Eingeladene {f}
+invitado {m} :: Eigeladener {m}
+invocar {v} :: rufen; anrufen; beschwören
+invocar {v} :: vorbringen
+invocar {v} :: zu Hilfe rufen
+involucrar {v} :: einbinden
+involucrar {v} :: verwickeln
+involuntario; involuntaria {adj} :: unfreiwillig
+invulnerable {adj} :: unverwundbar
+inyectar {v} :: einspritzen; injizieren \Medizin \Technik
+iónico; iónica {adj} :: ionisch
+ionizar {v} :: ionisieren
+ion {m} :: Ion {n}
+ira {f} :: Wut {f} \Gefühle
+iraní {adj} :: iranisch
+iraní {m,f} :: Iraner {m}; Iranerin {f}
+ir a pie {v} :: zu Fuß gehen
+iraquí {adj} :: irakisch
+iraquí {m,f} :: Iraker {m}; Irakerin {f}
+ir bien {v} :: gut laufen [ugs.]
+ir en bicicleta {v} :: Fahrrad fahren \Verkehr
+ir en coche {v} :: im Auto fahren \Verkehr
+ir en tren {v} :: Zug fahren \Verkehr
+iridio {m} :: Iridium {n} \Elemente
+iris {f} :: Iris {f}; Regenbogenhaut {f} \Körper
+irlandesa {f} :: Irin {f}
+irlandés {m} :: Ire {m}
+ir mal {v} :: schlecht laufen [ugs.]
+ironía {f} :: Ironie {f}
+irónico; irónica {adj} :: ironisch; spöttisch
+irracional {adj} :: irrationell
+irracionalidad {f} :: Irrationalität {f}; Vernunftwidrigkeit {f}
+irradiación {f} :: Bestrahlung {f} \Technik
+irradiación {f} :: Strahlung {f} \Technik
+irradiar {v} :: bestrahlen \Technik
+irradiar {v} :: strahlen
+irrazonable {adj} :: unvernünftig
+irreal {adj} :: unwirklich; irrational
+irrecuperable {adj} :: unwiederbringlich; unaufholbar
+irreducible {adj} :: irreduzibel
+irregular {adj} :: regelwidrig
+irregularidad {f} :: Regelwidrigkeit {f}
+irregularidad {f} :: Ungleichmäßigkeit {f}
+irregularidad {f} :: Unregelmäßigkeit {f}
+irregular {v} :: ungeregelt
+irregular {v} :: ungleichmäßig
+irregular {v} :: unregelmäßig
+irrelevancia {f} :: Irrelevanz {f}
+irrelevante {adj} :: irrelevant; unbedeutend
+irremediable {adj} :: unabänderlich
+irremediable {adj} :: unheilbar
+irreparable {adj} :: irreparabel
+irrepetible {adj} :: einmalig
+irrepetible {adj} :: unwiederholbar
+irresistible {adj} :: unwiderstehlich
+irrespetuoso; irrespetuosa {adj} :: respektlos
+irresponsabilidad {f} :: Verantwortungslosigkeit {f}
+irresponsable {adj} :: verantwortungslos
+irreversibilidad {f} :: Irreversibilität {f}; Unumkehrbarkeit {f}
+irreversible {adj} :: irreversibel
+irritabilidad {f} :: Reizbarkeit {f}
+irritable {adj} :: reizbar
+irritación {f} :: Erregung {f}
+irritación {f} :: Irritation {f}
+irritación {f} :: Reizung {f} \Medizin
+irritación {f} :: Verärgerung {f}
+irritante {adj} :: reizend
+irritar {v} :: aufregen; verärgern
+irritar {v} :: reizen
+irse {v} :: gehen; weggehen
+irse {v} :: kommen [ugs.] \Sexualität
+ir {v} :: ergehen; laufen [ugs.]
+ir {v} :: fahren; gehen
+isla {f} :: Insel {f}
+islámico; islámica {adj} :: islamisch \Religion
+islamismo {m} :: Islamismus {m} \Religion
+islam {m} :: Islam {m} \Religion
+islandés; islandesa {adj} :: isländisch
+islandesa {f} :: Isländerin {f}
+isleño {m} :: Insulaner {m}
+israelí {f} :: Israeli {f}
+israelí {m} :: Israeli {m}
+italiana {f} :: Italienerin {f}
+italiano {m} :: Italiener {m}
+iterativo; iterativa {adj} :: iterativ
+itinerante {adj} :: wandernd; Wander-
+itinerante {m} :: Wanderarbeiter {m} \Berufe
+itinerario {m} :: Fahrplan {m} \Reisen
+itrio {m} :: Yttrium {n} \Elemente
+izquierda {f} :: Linke {f} \Politik
+izquierda {f} :: linke Seite {f}
+izquierdista {m,f} :: Linker {m}; Linke {f} \Politik
+izquierdo; izquierda {adj} :: linker
+me da igual :: es ist mir egal
+me hace ilusión :: ich freue mich auf
+

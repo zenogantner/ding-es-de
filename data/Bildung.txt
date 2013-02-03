@@ -1,0 +1,103 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2004 Simon Kmiecik
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# Schule, Uni, Ausbildung usw.
+
+asignatura {f} :: Fach {n} \Bildung
+beca {f} :: Stipendium {n} \Bildung
+becario {m} :: Stipendiat {m} \Bildung
+becaria {f} :: Stipendiatin {f} \Bildung
+biblioteca {f} :: Bibliothek {f}; Bücherei {f} \Bildung
+carrera {f} :: Studium {n} \Bildung
+cátedra {f} :: Lehrstuhl {m} \Bildung
+catedrático {m} :: Professor {m} \Bildung
+catedrática {f} :: Professorin {f} \Bildung
+certificado {m} :: Zeugnis {n}; Bescheinigung {f}; Nachweis {m} \Bildung
+charla {f} :: Vortrag {m}; Rede {f} \Bildung
+clase {f} :: Unterricht {m}; Vorlesung {f}; Klasse {f} \Bildung
+colegio {m} [Esp.] :: Grundschule {f} \Bildung
+colegio {m} :: Schule {f} \Bildung
+colegio mayor {m} :: Studentenwohnheim {n} \Bildung
+conferencia {f} :: Konferenz {f} \Bildung
+conferencia {f} :: Vortrag {m} \Bildung
+cursillo {m} :: Kurs {m}; Lehrgang {m}; Schulung {f} \Bildung
+curso {m} :: Schuljahr {n}; akademisches Jahr {n} \Bildung
+curso {m} :: Kurs {m}; Klasse {f} \Bildung
+curso académico {m} :: akademisches Jahr {n} \Bildung
+deberes {m} {pl} :: Hausaufgaben {f} {pl} \Bildung
+doctor {m} :: Doktor {m} \Bildung
+doctora {f} :: Doktorin {f} \Bildung
+doctorado {m} :: Doktorwürde {f}; Doktortitel {m}; Promotion {f} \Bildung
+doctoral {adj} :: Doktor- \Bildung
+doctorarse :: promovieren; die Doktorwürde erlangen \Bildung
+educación {f} :: Bildung {f}; Erziehung {f}; gutes Benehmen {n} \Bildung
+educación de adultos {f} :: Erwachsenenbildung {f} \Bildung
+enseñanza {f} :: Bildungswesen {n} \Bildung
+enseñanza a distancia {f} :: Fernstudium {n} \Bildung
+enseñanza pública {f} :: öffentliches Schulwesen {n} \Bildung
+enseñar :: lehren; unterrichten; erklären \Bildung
+escuela {f} :: Schule {f} \Bildung
+estudiante {f} :: Schülerin {f}; Studentin {f} \Bildung
+estudiante {m} :: Schüler {m}; Student {m} \Bildung
+examen {m} :: Examen {n}; Prüfung {f}; Klausur {f}; Schulaufgabe {f} \Bildung
+facultad {f} :: Fakultät {f} \Bildung
+formación {f} :: Ausbildung {f} \Bildung
+formado; formada {adj} :: ausgebildet \Bildung
+instituto {m} [Esp.] :: Gymnasium {n}; Sekundarschule {f} \Bildung
+jardín de infancia {m} :: Kindergarten {m} \Bildung
+laboratorio {m} :: Labor {n}
+licenciado {m} :: Absolvent {m} \Bildung
+licenciada {f} :: Absolventin {f} \Bildung
+maestra {f} :: Lehrerin {f}; Grundschullehrerin {f} \Bildung
+maestro {m} :: Lehrer {m}; Grundschullehrer {m} \Bildung
+nota {f} :: Note {f}; Schulnote {f} \Bildung
+oposiciones {f} {pl} [Esp.] :: Prüfung für den öffentlichen Dienst {f} \Bildung
+pauta {f} :: Lineal {n} \Bildung
+pauta {f} :: Linienblatt {n}; liniertes Blatt {n} \Bildung
+periodo lectivo {m} :: Schuljahr {n}; Vorlesungszeit {f} \Bildung
+periodo no lectivo {m} :: vorlesungsfreie Zeit {f} \Bildung
+pizarra {f} :: Tafel {f} \Bildung
+pizarrón {m} :: Wandtafel {f} \Bildung
+prácticas {f} {pl} :: Praktikum {n} \Bildung
+profe {m} [coloq.] :: Lehrer {m} \Bildung
+profesor {m} :: Professor {m}; Lehrer {m} \Bildung
+profesora {f} :: Professorin {f}; Lehrerin {f} \Bildung
+proyecto fin de carrera {m} :: Abschlussarbeit {f}; Diplomarbeit {f}; Magisterarbeit {f} \Bildung
+rector {m} :: Rektor {m} \Bildung
+rectora {f} :: Rektorin {f} \Bildung
+residencia universitaria {f} :: Studentenwohnheim {n} \Bildung
+tarea {f} :: Arbeit {f}; Hausaufgabe {f}; Hausarbeit {f} \Bildung
+universidad {f} :: Universität {f}; Hochschule {f} \Bildung
+

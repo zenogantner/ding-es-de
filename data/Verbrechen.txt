@@ -1,0 +1,170 @@
+# Copyright (C) 2003, 2004, 2005 Zeno Gantner
+# Copyright (C) 2004 Simon Kmiecik
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+aclarar :: aufklären
+acosar :: belästigen; drangsalieren
+acoso sexual {m} :: sexuelle Belästigung {f}
+acuchillar :: erstechen
+acusación {f} :: Beschuldigung {f}; Anklage {f}
+acusada {f} :: Beschuldigte {f}; Angeklagte {f}
+acusado {m} :: Beschuldigter {m}; Angeklagter {m}
+acusar :: beschuldigen; anklagen
+agente {m} :: Agent {m}
+agente {f} :: Agentin {f}
+agente de policía {m} :: Polizeibeamte {m}; Polizist {m}
+agente de policía {f} :: Polizeibeamtin {f}; Polizistin {f}
+alegato {m} :: Plädoyer {n}
+con antecedentes :: vorbestraft
+asesina {f} :: Mörderin {f}
+asesinar :: ermorden; umbringen
+asesinato {m} :: Mord {m}; Ermordung {f}
+asesino; asesina :: mörderisch
+asesino {m} :: Mörder {m}
+asesino a sueldo {m} :: Killer {m}; Auftragsmörder {m}
+asesino en serie {m} :: Serienmörder {m}
+atentado {m} :: Anschlag {m}; Attentat {n}
+atentado contra :: Anschlag auf
+atentado terrorista {m} :: Terroranschlag {m}
+atentar :: einen Anschlag verüben
+atracar :: überfallen
+atraco {m} :: bewaffneter Überfall {m}; Raubüberfall {m}
+autopsia {f} :: Autopsie {f}
+autor {m} :: Urheber {m}; Täter {m}
+bajo fianza :: auf Kaution
+balazo {m} :: Schuss {m}; Schusswunde {f}
+blanqueo de dinero {m} :: Geldwäsche {f}
+captura {f} :: Festnahme {f}; Gefangennahme {f}
+capturar :: gefangen nehmen; festnehmen
+cárcel {f} :: Gefängnis {n}
+cargo {m} :: Vorwurf {m}
+cargos {m} {pl} :: Vorwürfe {m} {pl}
+cautiva {f} :: Gefangene {f}; Kriegsgefangene {f}
+cautivar :: gefangen nehmen
+cautivo; cautiva :: gefangen
+estar cautivo; estar cautiva :: gefangen sein
+cautivo {m} :: Gefangener {m}; Kriegsgefangener {m}
+célula terrorista {f} :: Zelle {f}; Terrorzelle {f}
+chantaje {m} :: Erpressung {f}
+cometer :: begehen; verüben
+cometer un crimen :: ein Verbrechen begehen
+comisaría {f} :: Kommissariat {n}; Polizeistation {f}; Wache {f}; Polizeiwache {f}
+confesar :: gestehen; bekennen; zugeben
+confieso :: ich gebe zu
+crimen {m} :: Verbrechen {n}
+criminal {m} :: Kriminelle {m}
+criminalidad {f} :: Kriminalität {f}
+cumplir :: (Strafe) absitzen; verbüßen
+dejar en libertad :: freilassen
+dejar en libertad bajo fianza :: auf Kaution freilassen
+delincuencia {f} :: Verbrechen {n}; Kriminalität {f}
+delincuente {m} :: Verbrecher {m}
+delito {m} :: Vergehen {n}
+denunciar :: anzeigen
+detenido {m} :: Gefangene {m}
+ejecución {f} :: Exekution {f}; Hinrichtung {f}
+ejecutar :: hinrichten; exekutieren
+esclarecer :: aufklaren
+estafa {f} :: Betrug {m}
+fianza {f} :: Kaution {f}
+fiscal {m} :: Staatsanwalt {m}
+fiscal {f} :: Staatsanwältin {f}
+fiscalía {f} :: Staatsanwaltschaft {f}
+grupo terrorista {m} :: Terrorgruppe {f}; Terrororganisation {f}
+huella {f} :: Spur {f}; Abdruck {m}
+huella dactilar {f} :: Fingerabdruck {m}
+impostor {m} :: Betrüger {m}; Hochstapler {m}
+interrogar :: befragen; verhören; vernehmen
+interrogatorio {m} :: Verhör {n}; Vernehmung {f}
+investigación {f} :: Ermittlung {f}; Recherche {f}
+juez {f} :: Richterin {f}
+juez {m} :: Richter {m}
+ladrón {m} :: Räuber {m}; Dieb {m}
+ladrona {f} :: Räuberin {f}; Diebin {f}
+linchar :: lynchen
+matar a puñaladas :: erstechen
+narcotráfico {m} :: Drogenhandel {m}
+pena {f} :: Strafe {f}
+pena capital {f}; pena de muerte {f} :: Todesstrafe {f}
+perpetrar :: verüben; begehen
+perpetrado; perpetrada :: verübt; begangen
+perro policía {m} :: Polizeihund {m}
+pista {f} :: Spur {f}
+policía {f} :: Polizei {f}
+policía {m} :: Polizist {m}
+policía {f} :: Polizistin {f}
+policial :: polizeilich; Polizei-
+presa {f} :: Beute {f}
+preso {m} :: Gefangene {m}; Inhaftierte {m}; Häftling {m}
+presa {f} :: Gefangene {f}; Inhaftierte {f}; Häftling {m}
+prisión {f} :: Gefängnis {n}
+prisión preventiva {f} :: Untersuchungshaft {f}
+puñalada {f} :: Dolchstoß {m}; Messerstich {m}; Stich {m}
+raptar :: entführen
+rapto {m} :: Entführung {f}
+raptor {m} :: Entführer {m}
+raptora {f} :: Entführerin {f}
+redada {f} :: Razzia {f}
+rehén {m} :: Geisel {f}
+rea {f} :: Beschuldigte {f}; Angeklagte {f}; Täterin {f}
+reo; rea :: schuldig
+reo {m} :: Beschuldigter {m}; Angeklagter {m}; Täter {m}
+reo preventivo {m} :: Untersuchungshäftling {m}
+retrato robot {m} :: Phantombild {n}
+robar :: rauben
+robo {m} :: Raub {m}; Diebstahl {m}
+robo a mano armada {m} :: bewaffneter Raubüberfall {m}
+robo con asesinato {m} :: Raubmord {m}
+robo con homicidio {m} :: Raubmord {m}
+saqueo {m} :: Plünderung {f}
+secuestrado; secuestrada :: entführt
+secuestrador {m} :: Entführer {m}
+secuestradora {f} :: Entführerin {f}
+secuestrar :: entführen
+secuestro {m} :: Entführung {f}
+sobornar :: bestechen; schmieren
+soborno {m} :: Bestechung {f}
+sospecha {f} :: Verdacht {m}; Verdächtigung {f}; Misstrauen {n}
+sospechoso {m} :: Verdächtige {m}
+terrorismo {m} :: Terrorismus {m}
+terrorista {m} :: Terrorist {m}
+terrorista {f} :: Terroristin {f}
+terrorista :: terroristisch; Terror-
+testigo {m} :: Zeuge {m}
+tortura {f} :: Folter {f}
+víctima {f} :: Opfer {n}
+violar :: vergewaltigen
+violar :: schänden
+violar :: (Gesetz) brechen; verstoßen gegen
+

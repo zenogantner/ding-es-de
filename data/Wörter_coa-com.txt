@@ -1,0 +1,531 @@
+# Copyright (C) 2006 Matthias Buchmeier
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+anillo de compromiso {m} :: Verlobungsring {m} \Schmuck \Familie
+cable coaxial {m} :: Koaxialkabel {n}
+coaccionar :: zwingen; nötigen
+coacción {f} :: Nötigung {f}
+coactivo {adj} :: Zwangs-
+coagulación {f} :: Gerinnung {f} \Medizin
+coagulador {adj} :: Gerinnungs- \Medizin
+coagulante {m} :: Gerinnungsmittel {n} \Medizin
+coagular :: gerinnen \Medizin
+coagularse :: gerinnen \Medizin
+coágulo {f} :: Gerinnsel {n} \Medizin
+coalición {f} :: Koalition {f} \Politik
+coartada {f} :: Alibi {n} \Verbrechen
+coautor {m} :: Koautor {m}; Mitautor {m} \Literatur
+coaxial {adj} :: koaxial \Technik
+coba {f} :: Schmeichelei {f} \Kommunikation
+cobáltico {adj} :: Kobalt- \Elemente
+cobalto {m} :: Kobalt {n} \Elemente
+cobarde {adj} :: feige \Personenbeschreibung
+cobarde {m} :: Feigling {m} \Personenbeschreibung
+cobardía {f} :: Feigheit {f} \Personenbeschreibung
+cobaya {f} :: Meerschweinchen {n} \Tiere
+cobertizo {m} :: Hütte {f} \Haus
+cobertizo {m} :: Vordach {n} \Haus
+cobertor {m} :: Bettdecke {f} \Schlafen
+cobertura {f} :: Bedeckung {f}; Abdeckung {f}
+cobertura {f} :: Beschichtung {f}
+cobija {f} [Am.] :: Decke {f}
+cobijar :: beschützen; beschirmen
+cobijarse :: Schutz suchen; sich unterstellen
+cobijo {m} :: Obdach {n}
+cobijo {m} :: Schutz {m}
+cobrable {adj} :: einziehbar
+cobrador {m} :: Kassierer {m} \Berufe
+cobrador {m} :: Schaffner {m} \Berufe
+cobrador {m} :: Schuldeneintreiber {m} \Berufe \Geld
+cobra {f} :: Kobra {f} \Tiere
+cobranza {f} :: Inkasso {n} \Geld
+cobrar :: einlösen (Scheck) \Geld
+cobrar :: eintreiben (Schulden) \Geld
+cobrar :: fordern \Geld
+cobre {m} :: Kupfer {n} \Elemente
+cobrizo {adj} :: kupferbraun; kupferrot \Farben
+cocacho {m} [Am.] :: Kopfnuss {f}
+cocción {f} :: Kochen {n} \Essen
+tiempo de cocción {f}; cocción {f} :: Kochzeit {f} \Essen
+cocer :: garen \Essen
+cocerse [coloq.] :: wund werden
+cocido {adj} [coloq.] :: wund
+cochambre {m} :: Dreck {m}
+cochambroso {adj} :: dreckig
+coche-cama {m} :: Liegewagen {m} \Verkehr
+coche fúnebre {m} :: Leichenwagen {m} \Tod
+coche grúa {m} :: Abschleppwagen {m} \Verkehr
+cochera {f} [Am.] :: Garage {f}
+cochero {m} :: Kutscher {m}
+cochinada {f} :: Schweinerei {f}; Sauerei {f}
+cociente {f} :: Quotient {m}
+cocina a gas {f} :: Gasherd {m} \Küche
+cocina a leña {f} :: Kohleherd {m} \Küche
+cocina vitrocerámica {f} :: Glaskeramikherd {m} \Küche
+cocodrilo {m} :: Krokodil {n} \Tiere
+coco {m} [coloq.] :: Birne {f} [ugs.]; Kopf {m} \Körper
+coco {m} :: Kokosnuss {f} \Essen
+cocos {m} {pl} [vulg.] [Chile] :: Eier {n} {pl} [vulg.]; Hoden {m} {pl}
+cocotero {m} :: Kokospalme {f} \Pflanzen
+codazo {m} :: Ellenbogenstoß {m}; Ellbogenstoß {m}
+codeína {f} :: Codein {n} \Medizin \Drogen
+codera {f} :: Ellenbogenschutz {m}
+codiciable {adj} :: begehrenswert
+codicia {f} :: Gierigkeit {f}; Begehren {n} \Gefühle
+codiciar :: begehren \Gefühle
+codicioso :: gierig; habgierig \Personenbeschreibung
+codificado {adj} :: kodiert
+codificar :: kodieren
+código {m} :: Code {m}
+código {m} :: Gesetzbuch {m}
+código {m} :: Kodex {m}
+código postal {m} :: Postleitzahl {f}
+codillo {m} :: Ellbogen {m} \Körper
+coeficiente {m} :: Koeffizient {m} \Mathematik
+coerción {f} :: Zwang {m}
+coercitivo {adj} :: koerzitiv \Physik
+coercitivo {adj} :: zwingend
+coexistencia {f} :: Nebeneinander {n}; Koexistenz {f}
+coexistente {adj} :: gleichzeitig; koexistent; koexistierend
+coexistir :: koexistieren
+cofradía {f} :: Bruderschaft {f}
+cofre {m} :: Koffer {m}
+cofre {m} :: Truhe {f}
+coger :: einfangen
+coger :: fassen; greifen
+coger :: pflücken
+coger :: verstehen
+cogida {f} :: Ernte {f} \Landwirtschaft
+cogida {f} :: Verletzung beim Stierkampf {f} \Stierkampf
+cognición {f} :: Erkenntnis {f}
+cognitivo {adj} :: kognitiv; erkenntnismäßig
+cogote {m} :: Hals {m}; Nacken {m} \Körper
+cohechar :: bestechen \Verbrechen
+cohecho {m} :: Bestechung {f} \Verbrechen
+coherencia {f} :: Kohärenz {f}
+coherencia {f} :: Stimmigkeit {f}; Folgerichtigkeit {f}
+coherente {adj} :: kohärent
+coherente {adj} :: vernünftig
+cohesión {f} :: Kohäsion {f} [Physik]
+cohesión {f} :: Zusammenhalt {m}
+cohesivo {adj} :: zusammenhaltend; zusammenhaftend
+cohete {m} :: Rakete {f} \Militär
+cohibido {adj} :: gehemmt; befangen
+cohibir :: einschränken
+cohibir :: hemmen
+coincidencia {f} :: Koinzidenz {f}
+coincidencia {f} :: Zufall {m}
+coincidencia {f} :: Zusammentreffen {n}
+coincidente {adj} :: zusammenfallend; zusammentreffend
+coincidir :: zusammentreffen
+coito {m} :: Koitus {m} \Sexualität
+cojear :: hinken \Medizin
+cojera {f} :: Hinken {n} \Medizin
+cojinete {m} :: Lager {n}; Kugellager {n}
+cojín {m} :: Kissen {n} \Schlafen
+cojo {adj} :: hinkend; lahmend \Medizin
+cojones {m} {pl} [vulg.] :: Hoden {m}; Eier {f} {pl} [vulg.] \Körper \Sexualität
+cojonudo {adj} [coloq.] :: toll; geil
+colaboración {f} :: Kollaboration {f} [Politik]
+colaboración {f} :: Mitarbeit {f}; Zusammenarbeit {f}
+colaborador {m} :: Kollaborateur {m} \Politik
+colaborador {m} :: Mitarbeiter {m}
+colaborar :: zusammenarbeiten; mitarbeiten
+colación {f} :: Imbiss {m}; Mahlzeit {f} \Essen
+colado {m} :: Guss {m}
+colado por [coloq.] :: verliebt in
+colador {m} :: Durchschlag {m}
+colador {m} :: Sieb {m}; Küchensieb {f} \Küche
+cola {f}; cola de espera {f} :: Schlange {f}; Warteschlange {f}
+cola {f} :: Leim {m}
+colágeno {m} :: Kollagen {n} \Körper
+colapsar :: zusammenbrechen; kollabieren
+colapso {m} :: Kollaps {m}; Zusammenbruch {m} \Medizin
+colapso nervioso {m} :: Nervenzusammenbruch {m} \Medizin
+colar :: filtern
+colar :: gießen \Küche
+colar :: sieben \Küche
+colar :: abtropfen lassen \Küche
+colateral {adj} :: kollateral; Neben-
+colchado {adj} :: gepolstert
+colchadura {f} :: Polsterung {f}
+colcha {f} :: Decke {f}
+colchar :: polstern
+colchoneta {f} :: Matte {f}; Unterlage {f}
+colchón {m} :: Matratze {f} \Schlafen
+col de Bruselas {m} :: Rosenkohl {m} \Essen
+colear :: mit dem Schwanz wedeln \Tiere
+colección {f} :: Sammlung {f}
+coleccionable {adj} :: Sammel-
+coleccionar :: sammeln
+coleccionista {m} :: Sammler {m}
+colecta {f} :: Kollekte {f}; Geldsammlung {f} \Religion
+colectar :: sammeln
+colectividad {f} :: Kollektivität {f}; Gemeinschaft {f}
+colectivismo {m} :: Kollektivismus {m} \Politik
+colectivista {m} :: Kollektivist {m} \Politik
+colectivizar :: kollektivieren \Politik
+colectivo {adj} :: kollektiv; Sammel-
+colectivo {m} [Chile] :: Sammeltaxi {n}
+colectivo {m} :: Kollektiv {n} \Politik
+colector {m} :: Fang {m}; Sammler {m}
+colector {m} :: Kollektor {m} \Physik
+colector solar {m} :: Sonnenkollektor {m}
+colega {m} {f} :: Kollege {m}; Kollegin {f} \Arbeit
+colegiala {f} :: Schülerin {f} \Bildung
+colegial {m} :: Schüler {m} \Bildung
+coleóptero {m} :: Käfer {m} \Tiere
+cólera {f} :: Cholera {f} \Medizin
+colérico {adj} :: cholerisch \Personenbeschreibung
+colesterol {m} :: Cholesterin {n} \Medizin
+coleta {f} :: Zopf {m}; Pferdeschwanz {m} \Personenbeschreibung
+colgado {adj} :: hängend
+colgador {m} :: Kleiderständer {m}
+colgadura {f} :: Überhang {m}
+colgante {adj} :: hängend
+colgar :: aufhängen
+colgar :: auflegen (Telefon) \Kommunikation
+colgarse :: sich anhängen
+colgarse :: sich erhängen
+colgar :: sich aufhängen; abstürzen (Computer) \Computer
+cólico {m} :: Kolik {f} \Medizin
+colilargo {adj} :: langschwänzig [zool.]
+colilla {f} :: Zigarettenstummel {f}; Kippe {f}
+colimador {m} :: Kollimator {m} \Physik
+colimar :: kollimieren \Physik
+colina {f} :: Hügel {m} \Geographie
+colindante {adj} :: angrenzend
+coliseo {m} :: Kolloseum {n} \Geschichte
+colisionar :: 	zusammenstoßen; kollidieren
+colisión {f} :: Zusammenstoß {m}; Kollision {f}
+colitis {f} :: Kolitis {f}; Dickdarmentzündung {f} \Medizin
+collar {m} :: Halsband {n} \Schmuck
+colmado {adj} :: voll
+colmado {m} :: Lebensmittelgeschäft {n}
+colmar :: füllen; überfüllen
+colmena {f} :: Bienenkorb {n}; Bienenstock {m}; Bienenvolk {n} \Tiere
+colmenar {m} :: Bienenstand {m}
+colmenero {m} :: Imker {m} \Berufe \Landwirtschaft
+colmillo {m} :: Eckzahn {m} \Körper
+colmillo {m} :: Stoßzahn {m} \Tiere
+col {m} :: Kohl {m} \Essen \Pflanzen
+colmo {m} :: Höhepunkt {m}
+colocación {f} :: Anbringung {f}
+colocación {f} :: Aufstellung {f}
+colocación {f} :: Platzierung {f}
+colocar :: anbringen
+colocar :: aufstellen
+colocar :: hinlegen
+colocar :: hinstellen
+colocar :: platzieren
+coloidal {adj} :: kolloidal; Kolloid-
+coloide {m} :: Kolloid {n}
+colombiana {f} :: Kolumbianerin {f} \Länder
+colombianismo {m} :: kolumbianische Vokabel {f} \Sprachen
+colombiano {adj} :: kolumbianisch \Länder
+colombiano {m} :: Kolumbianer {m} \Länder
+cólones {adj} :: Kölner \Städte
+colonia {f} :: Eau de Cologne {n} \Kosmetik
+colonia {f} :: Kolonie {f}
+Colonia :: Köln \Städte
+colonialismo {m} :: Kolonialismus {m} \Politik \Geschichte
+colonización {f} :: Kolonisierung {f} \Geschichte
+colonizar :: kolonisieren \Geschichte
+colon {m} :: Dickdarm {m} \Körper
+colón {m} :: Colón {m} (Währung in Costa Rica und El Salvador) \Geld
+Colón :: Kolumbus \Geschichte
+colono {m} :: Kolonisierer {m}; Siedler {m}
+coloquio {m} :: Gespräch {n}
+coloquio {m} :: Kolloquium {n}
+coloración {f} :: Färbung {f} \Farben
+colorado {adj} :: farbig \Farben
+colorado {adj} :: rötlich \Farben
+colorar :: färben; einfärben \Farben
+colorear :: ausmalen; färben \Farben
+colorete {m} :: Schminke {m}; Rouge {n} \Kosmetik
+colorido {adj} :: farbenfroh; bunt \Farben
+colorido {m} :: Farbe {f} \Farben
+colorín {adj} :: rothaarig \Personenbeschreibung \Farben
+colosal {adj} :: riesig
+columbrar :: ahnen; erahnen
+columna de humo {f} :: Rauchsäule {f} \Feuer
+columnista {m} :: Kolumnist {m} \Medien
+columpiar :: schaukeln
+columpio {m} :: Schaukel {f}
+comadre {f} :: Gevatterin {f} [veraltet]
+comadre {f} :: Hebamme {f} \Medizin
+comadrear :: klatschen \Kommunikation
+comadreja {f} :: Wiesel {n} \Tiere
+comadreo {m} :: Klatschen {n}
+comadrona {f} :: Hebamme {f} \Medizin
+coma {m} :: Koma {n} \Medizin
+coma {m} :: Komma {n} \Alphabet
+comanche {m} :: Komantsche {m}
+comandancia {f} :: Kommandantur {f} \Militär
+comandante {m} :: Kommandant {m} \Militär
+comandar :: kommandieren \Militär
+comando {m} :: Kommando {n} \Militär
+comarca {f} :: Distrikt {m} \Geographie
+comarcal {adj} :: regional
+combatir :: kämpfen
+combatividad {f} :: Kampflust {f}; Streitlust {f}
+combativo {adj} :: schlagkräftig
+combativo {adj} :: streitlustig
+combinable {adj} :: kombinierbar
+combinación {f} :: Anschluss {m} (Reise)
+combinación {f} :: Kombination {f}
+combinación {f} :: Zusammenstellung {f}
+combinado {adj} :: kombiniert
+combinado {m} :: Cocktail {m} \Trinken
+combinar :: kombinieren
+combinatoria {f} :: Kombinatorik {f} \Mathematik
+combinatorio {adj} :: kombinatorisch \Mathematik
+combinatorio {adj} :: kombinierbar
+combustible {m} :: Brennstoff {m}
+combustión {f} :: Verbrennung {f}
+comedia {f} :: Komödie {f}
+comedia {f} [Am.] :: Fernsehserie {f}
+comediante {m} :: Komödiant {m}
+comediante {m} :: Schauspieler {m}
+comentador {m} :: Kommentator {m}
+comentario {m} :: Kommentar {m}
+comentarista {m} :: Kommentator {m}
+comentar :: kommentieren
+comercial {adj} :: kommerziell; geschäftlich
+comercialización {f} :: Vermarktung {f}
+comercializar :: vermarkten
+comerciante {m} :: Händler {m}
+comercio {m} :: Geschäft {n}; Laden {m}
+comercio {m} :: Handel {m}; Geschäft {n}
+comer :: essen \Essen
+comestible {adj} :: essbar \Essen
+comestibles {m} {pl} :: Lebensmittel {n} {pl} \Essen
+cometa {m} :: Drachen {m}
+cómico {adj} :: komisch; lustig
+cómico {m} :: Komiker {m}
+comida elaborada {f} :: Fertigkost {f} \Essen
+comienzo {m} :: Anfang {m}
+comilla {f} :: Anführungsstrich {m}; Anführungszeichen {n}; Gänsefüßchen {n} [ugs.] \Alphabet
+comilona {f} :: Gelage {n} \Essen
+comilón {m}; comilona {f} [coloq.] :: Vielfraß {m} [ugs.]
+comino {m} :: Kreuzkümmel {m} \Gewürz
+comisario {m} :: Kommisar {m}
+comisionado {adj} :: beauftragt
+comisionar :: beauftragen
+comisión {f} :: Ausschuss {m}
+comisión {f} :: Kommission {f}
+comisión {f} :: Provision {f}
+comisionista {m} :: Auftragnehmer {m}
+comisionista {m} :: Geschäftsreisender {m}
+comité {m} :: Ausschuss {m}
+comité {m} :: Komitee {n}
+comitiva {f} :: Prozession {f}
+como de costumbre :: wie üblich
+¡cómo no! :: natürlich! selbstverständlich!
+comodidad {f} :: Bequemlichkeit {f}
+comodín {m} :: Joker {m}
+cómodo; cómoda {adj} :: bequem; praktisch
+comoquiera {adv} :: wie auch immer
+como si {adv} :: als ob
+compacidad {f} :: Kompaktheit {f}
+compactar :: verdichten
+compacto {adj} :: kompakt
+compacto {adj} :: schwer
+compadecer :: bemitleiden
+compadre {m} :: Gevatter {m} [veraltet]
+compadre {m} :: Kumpel {m}
+compañera {f} :: Gefährtin {f}
+compañera {f} :: Kameradin {f}
+compañerismo {m} :: Kameradschaftlichkeit {f}
+compañero {m} :: Gefährte {m}
+compañero {m} :: Kamerad {m}
+compañero {m} :: Genosse {m}
+compañía {f} :: Gesellschaft {f}
+comparable {adj} :: vergleichbar
+comparación {f} :: Vergleich {m}
+comparar :: vergleichen
+comparativo {adj} :: vergleichend
+comparecer :: erscheinen
+comparsa {m} :: Statist {m}; Komparse {m}
+compartimento {m} :: Abteil {n}
+compartir :: aufteilen
+compartir :: teilen mit
+compasión {f} :: Mitleid {n}
+compasivo {adj} :: mitfühlend
+compás {m} :: Takt {m} \Musik
+compás {m} :: Zirkel {m} \Mathematik
+compatibilidad {f} :: Kompatibilität {f}
+compatibilizar :: kompatibel machen
+compatible {adj} :: kompatibel
+compeler :: zwingen
+compendio {m} :: Kompendium {n}
+compensable {adj} :: ersetzbar
+compensación {f} :: Abgeltung {f}; Vergütung {f}
+compensación {f} :: Ausgleich {m}; Kompensation {f}
+compensador {adj} :: ausgleichend
+compensador {f} :: Ausgleicher {m}
+compensador {f} :: Kompensator {m} \Technik
+compensar :: kompensieren; ausgleichen
+compensatorio {adj} :: ausgleichend; Ausgleich-
+competencia {f} :: Konkurrenz {f}; Wettbewerb {m}
+competencia {f} :: Wettbewerb {m}; Wettstreit {m}
+competición {f} :: Wettbewerb {m}
+competente {adj} :: kompetent
+competidor {adj} :: Konkurrenz-
+competidor {m} :: Konkurrent {m}
+competir :: konkurrieren
+competir :: konkurrieren
+competir :: wetteifern; kämpfen
+competitividad {f} :: Wettbewerbsfähigkeit {f}
+competitivo {adj} :: konkurrenzfähig
+competitivo {adj} :: konkurrierend
+compilación {f} :: Sammelwerk {n}
+compilación {f} :: Zusammenstellung {f}
+compilar :: kompilieren \Computer
+compilar :: zusammenstellen
+complacencia {f} :: Gefälligkeit {f}
+complacencia {f} :: Kulanz {f}
+complacencia {f} :: Wohlgefallen {n}
+complacer :: gefallen; gefällig sein
+complaciente {adj} :: freundlich; gefällig
+complejidad {f} :: Komplexität {f}
+complejidad {f} :: Vielschichtigkeit {f}
+complejo {adj} :: komplex
+complejo {m} :: Komplex {m}
+complejo {m} :: Verbindung {f} \Chemie
+complementar :: ergänzen
+complementario {adj} :: Zusatz-; ergänzend
+complementar :: komplementieren
+complemento {m} :: Plugin {n} \Computer
+complemento {m} :: Zusatz {m}; Komplement {n}
+completamente {adv} :: völlig
+completar :: vervollständigen
+completo {adj} :: komplett; vollständig
+completo {adj} :: voll
+completo {m} [Chile] :: Hotdog {n} \Essen
+complicado {adj} :: kompliziert
+complicar :: erschweren
+complicarse :: sich schwer machen
+cómplice {m} {f} :: Komplize {m}; Komplizin {f} \Verbrechen
+complicidad {f} :: Komplizenschaft {f}
+complicidad {f} :: Mittäterschaft {f} \Verbrechen
+complot {m} :: Komplott {n}; Verschwörung {f} \Politik
+componente {m} :: Bauteil {n} \Technik
+componente {m} :: Komponente {f}; Bestandteil {m}
+componer :: bilden
+componer :: komponieren
+componer :: reparieren
+componerse de :: sich zusammensetzen aus
+componer :: zusammensetzen
+comportar :: benehmen
+comportar :: verhalten
+composición {f} :: Komposition {f}
+composición {f} :: Werk {n}
+composición {f} :: Zusammensetzung {f}; Zusammenstellung {f}
+compositor {f} :: Komponist {m} \Musik
+compositor {f} :: Verfasser {m}
+compositora {f} :: Komponistin {f} \Musik
+compota {f} :: Kompott {n} \Essen
+comprador {m} :: Käufer {m}
+compra {f} :: Einkauf {m}; Kauf {m} \Einkauf
+ir de compras :: einkaufen gehen \Einkauf
+comprar :: kaufen; einkaufen \Einkauf
+compraventa {f} :: An- und Verkauf {m}
+comprendido {adj} :: verstanden
+comprensibilidad {f} :: Verständlichkeit {f}
+comprensible :: verständlich
+comprensión {f} :: Einfühlungsvermögen {n}
+comprensión {f} :: Einsicht {f}
+comprensión {f} :: Verständnis {n}
+compresibilidad {f} :: Kompressibilität {f} \Physik
+compresible {adj} :: zusammendrückbar; kompressibel
+compresión {f} :: Komprimierung {f}
+compresión {f} :: Verdichtung {f}; Kompression {f} \Technik
+compresivo {adj} :: zusammenpressend
+compresor {m} :: Kompressor {m} \Technik
+comprobable {adj} :: prüfbar
+comprometedor {adj} :: kompromittierend
+comprometerse :: sich verloben \Familie
+comprometer :: verpflichten
+comprometido {adj} :: engagiert
+comprometido {adj} :: verlobt \Familie
+compromiso {m}; compromiso de boda {m} :: Verlobung {f} \Familie
+compromiso {m} :: Verabredung {f}
+compromiso {m} :: Verpflichtung {f}
+compromiso {m} :: Versprechen {n}; Abmachung {f}
+compuesto; compuesta {adj} :: zusammengesetzt
+compuesto {m} :: Verbindung {f} \Chemie
+compuesto {m} :: Zusammensetzung {f}
+compulsar :: beglaubigen
+compulsar :: zwingen
+compulsión {f} :: Zwang {m}
+compulsivo {adj} :: zwanghaft; Zwangs-
+computabilidad {f} :: Berechenbarkeit {f}
+computable {adj} :: berechenbar
+computacional {adj} :: Rechen-; rechnerisch
+computadora {f} :: Computer {m} \Computer
+computador {m} :: Computer {m} \Computer
+computar :: berechnen \Computer \Mathematik
+comulgar :: zur Kommunion gehen \Religion
+común {adj} :: gemeinschaftlich
+común {adj} :: gewöhnlich
+común {adj} :: häufig
+comuna {f} :: Gemeinde {f}; Kommune {f} \Politik
+comunal {adj} :: Gemeinde; kommunal \Politik
+comunicación {f} :: Mitteilung {f}; Bescheid {f}
+comunicación {f} :: Verständigung {f}; Kommunikation {f}
+comunicado {m} :: Mitteilung {f}; Kommuniqué {f}
+comunicador {m} :: Pressesprecher {m} \Kommunikation
+comunicar :: kommunizieren \Kommunikation
+comunicar :: mitteilen \Kommunikation
+comunicarse :: sich verständigen \Kommunikation
+comunicativo {adj} :: kommunikativ; gesprächig \Kommunikation \Personenbeschreibung
+comunidad {f} :: Gemeinschaft {f}
+comunión {f} :: Kommunion {f} \Religion
+comunismo {m} :: Kommunismus {m} \Politik
+comunista {m} {f} :: Kommunist {m}; Kommunistin {f} \Politik
+comunitario {adj} :: gemeinschaftlich
+comúnmente {adv} :: gewöhnlicherweise
+contrato de compraventa {m} :: Kaufvertrag {m}
+efecto colateral {m} :: Nebenwirkung {f} \Medizin
+entre comillas :: in Anführungszeichen
+¡esto es el colmo! :: Das ist die Höhe!; Das ist das Letzte!
+hacer compañía :: Gesellschaft leisten
+hierro colado {m} :: Gusseisen {n} \Technik
+no comulgar con [coloq.] :: nicht ausstehen können
+para colmo {adv} :: noch dazu
+sin compromiso :: unverbindlich
+
+

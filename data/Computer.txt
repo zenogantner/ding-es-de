@@ -1,0 +1,130 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# Computer, Internet
+
+adaptador {m} :: Adapter {m}
+adaptador ethernet {m} :: Ethernet-Adapter {m}
+apagar :: herunterfahren [Computer]
+aplicación {f} :: Anwendung {f}; Applikation {f}
+archivo {m} :: Datei {f} [Computer]
+ayuda {f} :: Hilfe {f}
+binario; binaria :: binär; zweiwertig
+bit {m} :: Bit {n}
+byte {m} :: Byte {n}
+chip {m} :: Chip {m} [Informatik]
+ciclo de reloj {m} :: Taktzyklus {m} [Computer]
+código abierto {m} :: Open Source
+código fuente {m} :: Quellcode {m} [Informatik]
+compilador {m} :: Compiler {m}
+computador {m} :: Computer {m}
+computadora {f} :: Computer {m}
+contraseña {f} :: Passwort {n}
+copiar :: kopieren
+cortar :: ausschneiden
+descargar :: herunterladen [Internet]
+deshacer :: rückgängig machen
+dirección física {f} :: Hardware-Adresse {f}; MAC-Nummer {f}; MAC-Adresse {f} [Computer]
+disco duro {m} :: Festplatte {f}
+editar :: editieren; ändern
+ejecutar :: ausführen
+eliminar :: löschen; entfernen
+enlace {m} :: Hyperlink {m}; Link {m}
+ficha perforada {f} :: Lochkarte {f} [Computer]
+fichero {m} :: Datei {f}
+gestor de ventanas {m} :: Fenstermanager {m} [Computer]
+grabar :: speichern; abspeichern
+hipertexto {m} :: Hypertext {m}
+hoja de cálculo {f} :: Tabellenkalkulation {f}
+hojeador web {m} :: Webbrowser {m}; Browser {m}
+imprimir :: drucken
+juego de caracteres {m} :: Zeichensatz {m}
+máscara de subred {f} :: Netzmaske {f} [Computer]
+microcontrolador {m} :: Microcontroller {m}
+microprocesador {m} :: Mikroprozessor {m}
+monitor {m} :: Monitor {m} [Computer]
+multiusuario; multiusaria :: Multiuser-
+navegador {m}; navegador web {m} :: Webbrowser {m}; Browser {m}
+navegar por internet; navegar por Internet :: im Internet surfen
+nombre del host {m} :: Hostname {m}
+# Internet groß oder klein geschrieben??
+ordenador {m} :: Computer {m}
+página {f} :: Seite {f}
+pantalla {f} :: Schirm {m}; Bildschirm {m}
+pegar :: einfügen
+piel {f} :: Skin {m} [Computer]
+por default; por defecto :: voreingestellt
+portátil {m} :: Laptop {m}; Notebook {n} [Computer]
+preferencias {f} {pl} :: Einstellungen {f}; Vorlieben {f}
+programa {m} :: Programm {n}
+programador {m} :: Programmierer {m}
+programadora {f} :: Programmiererin {f}
+propiedades {f} {pl} :: Eigenschaften {f} [Computer]
+protector de pantalla {m} :: Bildschirmschoner {m}
+puerta de enlace predeterminada {f} :: Gateway {m}
+realidad virtual {f} :: virtuelle Realität {f}
+registrarse :: sich registrieren; sich einschreiben
+reiniciar :: neu starten; rebooten [Computer]
+robot {m} :: Roboter {m}
+salida {f} :: Ausgabe {f}; Output {m} [Computer]
+servidor {m} :: Server {m}
+servidor DNS {m} :: DNS-Server {m}; Nameserver {m}
+sitio web {m} :: Website {f}; Webpräsenz {f}
+subrayar :: unterstreichen; hervorheben
+tarifa plana {f} :: Flatrate {f}
+tarjeta de sonido {f} :: Soundkarte {f}
+tarjeta ethernet {f} :: Ethernetkarte {f}
+tarjeta gráfica {f} :: Grafikkarte {f}
+tarjeta red {f} :: Netzwerkkarte {f}
+tipear :: tippen
+unidad central de proceso {f} :: CPU {f} [Computer]
+usuario {m} :: Benutzer {m}
+versión {f} :: Version {f}
+web browser {m} :: Webbrowser {m}
+
+# INFORMATIK
+arquitectura de ordenadores {f} :: Rechnerarchitektur {f}
+informática teórica {f} :: theoretische Informatik {f}
+ingeniería del software {f} :: Softwaretechnik {f}
+#ingeniería de software {f}		Softwaretechnik {f}
+# welches ist korrekt? beide?
+inteligencia artificial {f} :: Künstliche Intelligenz {f}
+lenguaje {m} :: Sprache {f} [Informatik]
+lenguaje de alto nivel {m} :: High-Level-Sprache {f} [Informatik]
+lenguaje ensamblador {m} :: Assembler {m}; Assemblersprache {f} [Informatik]
+lenguaje máquina {m} :: Maschinensprache {f} [Informatik]
+ontología {f} :: Ontologie {f} [Informatik]
+teoría de autómatas {f} :: Automatentheorie {f}
+teoría de computación {f} :: Berechenbarkeitstheorie {f}
+

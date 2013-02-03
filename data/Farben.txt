@@ -1,0 +1,104 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# Farben
+
+color {m} :: Farbe {f}
+
+amarillento; amarillenta {adj} :: gelblich
+amarillo; amarilla {adj} :: gelb
+anaranjado {adj} :: orangefarben
+azul {adj} :: blau
+azul celeste {adj} :: himmelblau; hellblau; azurblau
+azul claro {adj} :: hellblau
+azul marino {adj} :: dunkelblau
+azul turquesa {adj} :: türkisblau
+azulado; azulada {adj} :: bläulich
+azulejo; azuleja {adj} [Am.] :: bläulich
+azulón {adj} :: blau
+bermejo; bermeja {adj} :: rötlich blond; rot
+blanco; blanca {adj} :: weiß
+carmín {adj} :: karminrot
+celeste {adj} :: himmelblau; hellblau; azurblau
+de color {adj} :: farbig; bunt
+colorado; colorada {adj} :: farbig
+colorado; colorada {adj} :: rot
+crudo; cruda {adj} :: beige
+fucsia {adj} :: rosa
+glauco; glauca {adj} :: hellgrün
+granate {adj} :: granatfarben
+gris {adj} :: grau
+gris azulado {adj} :: blaugrau
+gris marengo {adj} :: dunkelgrau
+gualdo; gualda {adj} :: goldgelb
+lila {adj} :: lila
+marrón {adj} :: braun
+morado; morada {adj} :: dunkelviolett; purpurfarben; purpurfarbig; purpurn
+naranja {adj} :: orange
+negro; negra {adj} :: schwarz
+níveo; nívea {adj} :: schneeweiß
+ocre {adj} :: ockerfarben
+pardo; parda {adj} :: braun; grünlich-braun
+rojo; roja {adj} :: rot
+rojizo; rojiza {adj} :: rötlich
+rosa {adj} :: rosa
+rosado; rosada {adj} :: rosenrot; rosig
+turquesa {adj} :: türkis
+verde {adj} :: grün
+vinoso; vinosa {adj} :: weinrot
+violado; violada {adj} :: veilchenblau
+violeta {adj} :: violett; hellviolett; veilchenblau
+
+moreno; morena {adj} :: braun; dunkelbraun; braunhaarig; braunhäutig; braun gebrannt
+rubio; rubia {adj} :: blond
+
+aguamarina {f} :: Aquamarin {m}
+azul {m} :: Blau {n}
+bermellón {m} :: Zinnoberrot {n}
+cerusa {f} :: Bleiweiß {n}
+ocre {m} :: Ocker {n}; Ocker {m}
+rojez {f} :: Röte {f}
+rojo {m} :: Rot {n}
+
+rojear {adj} :: rötlich
+
+bayo; baya {adj} :: falb; hellbraun (bei Pferden)
+zaino; zaina {adj} :: kastanienbraun (bei Pferden)
+
+pálido; pálida {adj} :: bleich; blass
+
+incoloro; incolora {adj} :: farblos
+
+teñir {v} :: färben
+

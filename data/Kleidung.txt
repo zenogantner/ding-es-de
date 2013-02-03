@@ -1,0 +1,208 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# Kleidung, Schmuck und Brillen
+
+# SAMMELBEGRIFFE
+ropa {f} :: Kleidung {f}
+tejidos {m} {pl} :: Textilien {n} {pl}
+trapos {m} {pl} :: Klamotten {f} {pl}
+vestido {m} :: Kleidungsstück {n}
+vestido {m} :: Kleidung {f}
+
+
+# VERBEN
+abotonar :: zuknöpfen
+abrigar :: beschützen; zudecken; warm anziehen
+abrochar :: zuknöpfen
+cambiarse de ropa :: sich umziehen
+coser :: nähen; annähen
+desnudarse :: sich ausziehen
+desvestirse :: sich ausziehen
+disfrazarse de :: sich als ... verkleiden
+hacer ganchillo :: häkeln
+hacer punto :: stricken
+llevar :: anhaben; tragen (Kleidung)
+maquillarse :: sich schminken
+mudarse :: sich umziehen (Kleidung)
+ponerse :: anziehen (Kleidung)
+ponerse :: aufsetzen (Hut, Brille)
+ponerse :: umbinden (Schürze, Krawatte, Fliege)
+ponerse :: anziehen; umhängen (Schmuck)
+sacarse :: (Kleidung) ausziehen
+vestirse :: sich anziehen
+
+# ADJEKTIVE u.ä.
+sin abrochar :: offen (Hemd)
+disfrazado; disfrazada :: verkleidet
+estrecho; estrecha :: eng [Kleidung]
+apretado; apretada :: zu eng; knapp; eng [Kleidung]
+ajustado; ajustada :: eng; eng anliegend [Kleidung]
+
+
+# KLEIDUNGSSTÜCKE
+abrigo {m} :: Mantel {m}
+abrigo de pieles {m} :: Pelzmantel {m}
+albornoz {m} :: Bademantel {m}
+anorak {m} :: Anorak {m}
+bata {f} :: Morgenmantel {m}
+batín {m} :: Hausrock {m}
+bikini {m}; biquini {m} :: Bikini {m}
+blusa {f} :: Bluse {f}
+body {m} :: Body {m}
+bolsillo {m} :: Tasche {f}; Hosentasche {f}
+botón {m} :: Knopf {m}
+braga {f} :: Unterhose {f}; Schlüpfer {m}
+bragas {f} {pl} :: Kniehosen {f} {pl} (bei Männern)
+braguita {f} :: Unterhöschen {n}
+bufanda {f} :: Schal {m}
+calceta {f} :: Strumpf {m}
+calcetín {m} :: Socke {f}
+calcetines {m} {pl} :: Socken {f} {pl}
+calzoncillos {m} {pl} :: Unterhosen {f} {pl}
+camisa {f} :: Hemd {n}
+camiseta {f} :: Unterhemd {n}
+camiseta {f} :: T-Shirt {n}
+chaleco {m} :: Weste {f}
+chándal {m} :: Trainingsanzug {m}
+chaqueta {f} :: Jacke {f}; Jackett {n}
+chinos {m} {pl} :: Baumwollhose {f}; Baumwollhosen {f} {pl}
+cinto {m} :: Gürtel {m}
+cinturón {m} :: Gürtel {m}
+corbata {f} :: Krawatte {f}
+delantal {m} :: Schürze {f}
+disfraz {m} :: Kostüm {n}; Verkleidung {f}
+esmoquin {m} :: Smoking {m}
+falda {f} :: Rock {m}
+guante {m} :: Handschuh {m}
+media {f} :: Strumpf {m}
+media {f} [Am.] :: Socke {f}
+minifalda {f} :: Minirock {m}
+pantalón {m} :: Hose {f}; Hosen {f} {pl}
+pantalones {m} {pl} :: Hosen {f} {pl}; Hose {f}
+pantalón corto {m} :: kurze Hose {f}
+pantalón tejano {m} :: Jeans {f} {pl}; Jeanshose {f}
+pantalones tejanos {m} {pl}; tejanos {m} {pl} :: Jeans {f} {pl}; Jeanshose {f}
+pantalón vaquero {m} :: Jeans {f} {pl}; Jeanshose {f}
+pantalones vaqueros {m} {pl}; vaqueros {m} {pl} :: Jeans {f} {pl}; Jeanshose {f}
+panty {m} :: Strumpfhose {f}; Strumpfhosen {f} {pl}
+parka {f} :: Parka {m}
+pernil {m} :: Hosenbein {n}
+pijama {m} :: Schlafanzug {m}; Pyjama {m}
+pijama {f} [Am.] :: Schlafanzug {m}; Pyjama {m}
+rebeca {f} :: Strickjacke {f}
+slip {m} :: Slip {m}; Unterhose {f}
+sudadera {f} :: Sweatshirt {n}
+suéter {m} :: Pullover {m}; Sweater {m}
+toga {f} :: Robe {f}
+top {m} :: Top {n}
+traje {m} :: Anzug {m}
+vestido {m} :: Kleid {n}
+
+
+# KOPFBEDECKUNG
+bombín {m} :: Melone {f} [Kleidung]
+casco {m} :: Helm {m}
+hongo {m} :: Melone {f} [Kleidung]
+sombrero {m} :: Hut {m}
+
+
+# STOFFE
+tejido {m} :: Stoff {m}
+algodón {m} :: Baumwolle {f}
+charol {m} :: Lackleder {n}
+cuero {m} :: Leder {n}
+lana {f} :: Wolle {f}
+nailon {m}; nilón {m} :: Nylon {n}
+napa {f} :: Nappa {n}; Nappaleder {n}
+napa {f} :: Vlies {n} [Stoff]
+seda {f} :: Seide {f}
+
+
+
+# MUSTER
+# siehe auch: Farben.txt
+dibujo {m} :: Muster {n}
+con dibujos :: gemustert
+de lunares :: gepunktet
+a rayas :: gestreift
+a cuadros :: kariert
+
+
+# REINIGEN, WASCHEN, BÜGELN
+delicado; delicada :: empfindlich [Stoff]
+plancha {f} :: Bügeleisen {n}
+planchar :: bügeln
+suavizante {m} :: Weichspüler {m}
+tejido blanco {m} :: weiße Wäsche {f}
+tejido color {m} :: Buntwäsche {f}
+
+
+# SCHMUCK
+anillo {m} :: Ring {m}
+anteojos {m} {pl} [Am.] :: Brille {f}
+collar {m} :: Halskette {f}
+gafas {f} {pl} :: Brille {f}
+gafas de sol {f} {pl} :: Sonnenbrille {f}
+joyas {f} {pl} :: Schmuck {m}
+perla {f} :: Perle {f}
+piercing {m} :: Piercing {n}
+# steht nicht im RAE
+pulsera {f} :: Armband {n}
+reloj {m} :: Uhr {f}
+
+
+# SCHUHE
+alpargata {f} :: Espadrille {m}
+bota {f} :: Stiefel {m}
+calzado {m} :: Schuhwerk {n}
+calzado {m} :: Schuhe {m} {pl}
+número {m}; número de zapatos {m} :: Schuhgröße {f}
+sandalia {f} :: Sandale {f}
+tacón {m} :: Absatz {m} [Schuhe]
+con tacón :: mit Absatz [Schuhe]
+zapatilla {f} :: Hausschuh {m}
+zapato {m} :: Schuh {m}
+zapatos planos :: Schuhe ohne Absatz
+
+
+# SONSTIGES
+boutique {f} :: Boutique {f}
+¿Cómo le queda? :: Wie steht es ihr? Wie steht es ihm? [Kleidung]
+ganchillo {m} :: Häkelnadel {f}
+pañuelo {m} :: Taschentuch {n}
+paraguas {m} :: Regenschirm {m}
+paraguas {m} {pl} :: Regenschirme {m} {pl}
+talla {f} :: Größe {f}; Konfektionsgröße {f}
+

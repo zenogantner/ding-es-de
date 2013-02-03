@@ -1,0 +1,124 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# Wörter, die v.a. im Zusammenhang mit Geschichte vorkommen.
+# ebenso: Sagengestalten, Mythologie (wird vielleicht einmal ausgegliedert)
+
+absolutismo {m} :: Absolutismus {m}
+absolutista {adj} :: absolutistisch
+acueducto {m} :: Aquädukt {n}
+anglosajón; anglosajona {adj} :: angelsächsisch
+Aníbal {m} :: Hannibal {m}
+anseático; anseática {adj} :: hanseatisch; Hanse-
+archiduque {m} :: Erzherzog {m}
+los Borbones {m} {pl} :: die Bourbonen {m} {pl}
+caballero {m} :: Ritter {m}
+caballero andante {m} :: fahrender Ritter {m}
+califa {m} :: Kalif {m}
+cartaginés; cartaginesa {adj} :: karthagisch
+cartagineses {m} {pl} :: Karthager {m} {pl}
+Cartago {m} :: Karthago {n}
+castillo {m} :: Burg {f}; Schloss {n}
+checoslovaco; checoslovaca :: tschechoslowakisch
+Checoslovaquia {f} :: Tschechoslowakei {f}
+Colón :: Columbus; Kolumbus
+colonizador {m} :: Kolonialist {m}
+condesa {f} :: Gräfin {f}
+Constantinopla {f} :: Konstantinopel {n}
+corte {m} :: Hof {m}; Königshof {m}; Fürstenhof {m}
+crónica {f} :: Chronik {f}
+cruzada {f} :: Kreuzzug {m}
+Cruzada {f} :: Kreuzzug {m}
+duque {m} :: Herzog {m}
+Edad Media {f} :: Mittelalter {n}
+Edipo {m} :: Ödipus {m}
+emperador {m} :: Kaiser {m}
+epopeya {f} :: Epos {n}
+esfinge {f} :: Sphinx {f}
+espada {f} :: Schwert {n}; Degen {m}
+fortaleza {f} :: Burg {f}; Festung {f}
+godo {m} :: Gote {m}
+godo; goda {adj} :: gotisch
+Guerra Civil Española {f} :: Spanischer Bürgerkrieg {m}
+Guerra del Pacífico {f}; Guerra del Salitre {f} :: Salpeterkrieg {m}; Pazifischer Krieg {m}
+Guerra Fría {f} :: Kalter Krieg {m}
+Guerras Púnicas {f} {pl} :: Punische Kriege {m} {pl}
+Habsburgo {m} {pl} :: Habsburger {m} {pl}
+historia {f} :: Geschichte {f}
+historiador {m} :: Historiker {m}
+imperialismo {m} :: Imperialismus {m}
+koljós {m} :: Kolchose {f}
+Krimhilda {f} :: Kriemhild {f}
+Marte {m} :: Mars {m} [Mythologie]
+medieval {adj} :: mittelalterlich
+medievo {m} :: Mittelalter {n}
+menina {f} :: Hofdame {f}; Hoffräulein {n}
+menino {m} :: Page {m}
+mora {f} :: Maurin {f}
+moro {m} :: Maure {m}
+moro; mora :: maurisch
+Moravia {f} :: Mähren {n}
+napoleónico; napoleónica :: napoleonisch
+Nibelungos {m} {pl} {pl} {m} :: Nibelungen {m} {pl}
+Cantar de los Nibelungos {m} :: Nibelungenlied {n}
+Persia {f} :: Persien {n}
+pintura rupestre {f} :: Höhlenmalerei {f}; Felsmalerei {f}
+Pompeya {f} :: Pompeji {n}
+Primavera de Praga {f} :: Prager Frühling {m}
+Primera Guerra Púnica {f} :: Erster Punischer Krieg {m}
+Primera Guerra Mundial {f} :: Erster Weltkrieg {m}
+Prusia {f} :: Preußen {n}
+púnica; púnico {adj} :: punisch
+reina {f} :: Königin {f}
+reino {m} :: Königreich {n}; Reich {n}
+Renacimiento {m} :: Renaissance {f}
+República Árabe Unida {f} :: Vereinigte Arabische Republik {f}
+Revolución de Terciopelo {f} :: samtene Revolution {f}
+rey {m} :: König {m}
+Rhodesia {f}; Rodesia {f} :: Rhodesien {n}
+Rolando {m} :: Roland {m}
+romano; romana {adj} :: römisch
+ruina {f} :: Ruine {f}
+runa {f} :: Rune {f}
+Segunda Guerra Púnica {f} :: Zweiter Punischer Krieg {m}
+Segunda Guerra Mundial {f} :: Zweiter Weltkrieg {m}
+Sigfrido {m} :: Siegfried {m}
+Tebas :: Theben
+templario {m} :: Templer {m}; Tempelritter {m}; Tempelherr {m}
+Tercera Guerra Púnica {f} :: Dritter Punischer Krieg {m}
+Unión Soviética {f} :: Sowjetunion {f}
+vándalo {m} :: Wandale {m}
+virrey {m} :: Vizekönig {m}
+visigodo; visigoda {adj} :: westgotisch
+

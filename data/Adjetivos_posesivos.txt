@@ -1,0 +1,69 @@
+# Copyright (C) 2003, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+mi :: mein; meine
+mis :: meine
+tu :: dein; deine
+tus :: deine
+su :: sein; seine; ihr; ihre
+sus :: seine; ihre
+nuestro; nuestra :: unser; unsere
+vuestro; vuestra :: euer; eure
+
+mío; mía :: mein; meine; meiner
+tuyo; tuya :: dein; deine; deiner
+suyo; suya :: sein; seine; seiner
+suyo; suya :: ihr; ihre; ihrer
+suyo; suya :: Ihr; Ihre; Ihrer
+nuestros; nuestras :: unsere
+vuestros; vuestras :: eure
+
+
+# substantivierte Formen
+la mía :: die Meine; die Meinige
+el mío :: der Meine; der Meinige
+lo mío :: das Meine; das Meinige
+la tuya :: die Deine; das Deinige
+el tuyo :: der Deine; der Deinige
+la suya :: die Ihre; die Seine
+el suyo :: der Ihre; der Seine
+la nuestra :: die Unsere
+las nuestras :: die Unseren
+el nuestro :: der Unsere
+los nuestros :: die Unseren
+lo nuestro :: das Unsere
+la vuestra :: die Eure
+el vuestro :: der Eure
+lo vuestro :: das Eure
+

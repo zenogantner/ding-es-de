@@ -1,0 +1,398 @@
+# Copyright (C) 2006 Matthias Buchmeier
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+haba {f} :: dicke Bohne {f} \Essen
+haber {v} :: haben (Hilfsverb)
+haber que :: müssen
+habichuela {f} :: Bohne {f} \Essen
+hábil {adj} :: fähig
+hábil {adj} :: geschickt
+habilidad {f} :: Fertigkeit {f}
+habilidad {f} :: Geschicklichkeit {f}
+habilitar {v} :: aktivieren
+habilitar {v} :: befähigen
+habiloso; habilosa {adj} [Chile] [Perú] [Ecuad.] :: geschickt
+habitar {v} :: bewohnen
+hábito {m} :: Angewohnheit {f}
+hábito {m} :: Kutte {f} \Religion
+habiloso; habilosa {adj} [Chile] [Perú] [Ecuad.] :: geschickt
+habitante {m} :: Einwohner {m}; Bewohner {m}
+habitante {f} :: Einwohnerin {f}; Bewohnerin {f}
+habitual {adj} :: üblich; gewohnheitsmäßig
+hablador; habladora {adj} :: gesprächig
+habla {m} :: Mundart {f}
+habla {m} :: Sprache {f}
+habla {m} :: Sprechweise {f}
+hablador; habladora {adj} :: gesprächig
+hablante {adj} :: -sprachig; sprechend
+hablante {f} :: Sprecherin {f}
+hablante {m} :: Sprecher {m}
+hacendado {m} :: Landbesitzer {m} \Landwirtschaft
+hacer {v} :: her sein (zeitlich)
+hacer {v} :: machen; tun
+hacer {v} :: lassen
+hacer bien {v} :: das Richtige tun; Recht haben
+hacer cola {v} :: Schlange stehen; anstehen
+hacer un regalo {v} :: etwas verschenken; etwas schenken
+hacer sentir {v} :: fühlen lassen
+hacerse {v} :: werden
+hacerse daño :: sich weh tun; sich verletzen \Medizin
+hacerse de amigos {v} :: sich Freunde machen
+hacerse el tonto {v} :: sich dumm stellen
+hacerse polvo {v} :: kaputtgehen
+hacha {f} :: Beil {n} \Werkzeug
+hacia {prep} :: nach; in Richtung
+hacia :: gegen; nach (örtlich)
+hacia :: gegenüber
+hacia :: gegen
+hacia adelante :: vorwärts; nach vorn; nach vorne
+hacienda {f} :: Finanzwesen {n}
+hacienda {f} :: Landgut {n} \Landwirtschaft
+halcón {m} :: Falke {m} \Vögel
+hallarse {v} :: sich befinden
+hallar {v} :: finden
+hallazgo {m} :: Fund {m}
+halógeno; halógena {adj} :: halogen \Technik
+hamaca {f} :: Hängematte {f} \Schlafen \Urlaub
+hambre {f} :: Hunger {m} \Essen
+hambriento; hambrienta {adj} :: hungrig
+hámster {m} :: Hamster {m} \Tiere
+harén {m} :: Harem {m} \Geschichte
+harina {f} :: Mehl {n} \Essen
+hartarse {v} :: (etwas) satt werden
+hartarse {v} :: sich satt essen
+harto; harta {adj} :: satt
+harto; harta {adj} :: überdrüssig
+estar harto de (algo) :: (etwas) satt haben
+hasta {adv} :: sogar
+hasta {prep} :: bis; bis zu
+hay que ... :: man muss ...
+hazaña {f} :: Heldentat {f}
+hebilla {f} :: Schnalle {f} \Kleidung
+hebreo; hebrea {adj} :: hebräisch \Sprachen
+hechicera {f} :: Zauberin {f}
+hechicero; hechicera {adj} :: bezaubernd; Zauber-
+hechicero {m} :: Zauberer {m}
+hechizar {v} :: bezaubern
+hechizar {v} :: zaubern; verzaubern
+hechizo {m} :: Zauber {m}
+hecho {m} :: Ereignis {n}
+hecho {m} :: Fakt {m}; Faktum {n}; Tatsache {f}
+hechura {f} :: Machart {f}
+hechura {f} :: Schnitt {m} \Kleidung
+hediondo; hedionda {adj} :: stinkend; übelriechend
+hediondo; hedionda {adj} :: stinkend; übelriechend
+estar hediondo {v} :: stinken
+hedonista {adj} :: hedonistisch; genusssüchtig
+hedonista {m} :: Hedonist {m}
+hedonista {f} :: Hedonistin {f}
+helado {m} :: Speiseeis {n}; Eis {n} \Essen
+helado de vainilla {m} :: Vanilleeis {n} \Essen
+helado; helada {adj} :: eisig
+helado; helada {adj} :: gefroren
+helar {v} :: einfrieren
+helar {v} :: erfrieren
+helar {v} :: gefrieren; frieren
+helecho {m} :: Farn {m} \Pflanzen
+hélice {f} :: Propeller {m} \Technik
+hélice {m} :: Schiffsschraube {f} \Technik
+helio {m} :: Helium {n} \Elemente
+hematoma {m} :: blauer Fleck {m} [ugs.] \Medizin
+hembra {f} :: Buchse {f} \Technik
+hembra {f} :: Frau {f}; Weib {n} [vulg.] [veraltet]
+hembra {f} :: Weibchen {n} \Tiere
+hemiplejia {f} :: Lähmung (durch Schlaganfall) {f} \Medizin
+hemorragia {f} :: Blutung {f} \Medizin
+hemorroides {f} {pl} :: Hämorrhoiden {f} {pl} \Medizin
+hepatitis {f} :: Hepatitis {f}; Gelbsucht {f} \Medizin
+herbívoro {m} :: Pflanzenfresser {m} \Tiere
+heredar {v} :: vererben
+heredera {f} :: Erbin {f}
+heredero {m} :: Erbe {m}
+hereditario; hereditaria {adj} :: erblich
+hereditario; hereditaria {adj} :: erblich
+hereje {adj} :: unverschämt
+hereje {m} :: Ketzer {m} \Religion
+herejía {f} :: Ketzerei {f}; Irrlehre {f}; Irrglaube {m} \Religion
+herencia {f} :: Erbe {n}
+herida {f} :: Verletzung; Wunde {f} \Medizin
+herida {f} :: Verletzte {f} \Medizin
+herido {m} :: Verletzter {m} \Medizin
+herido; herida {adj} :: verletzt \Medizin
+herido; herida {adj} :: verwundet \Medizin \Militär
+herir {v} :: kränken; beleidigen; (Gefühle) verletzen
+herir {v} :: verwunden; verletzen
+hermandad {f} :: Brüderlichkeit {f}
+hermoso; hermosa {adj} :: schön
+hermoso; hermosa {adj} :: herrlich; großartig
+hernia {f} :: Hernie {f}; Eingeweidebruch {m} \Medizin
+heroico; heroica {adj} :: heldenhaft
+heroísmo {m} :: Heldentum {n}
+herpes {m} :: Herpes {m} \Medizin
+herramienta {f} :: Werkzeug {n} \Technik
+herrero {m} :: Schmied {m} \Berufe
+hervir {v} :: aufkochen; kochen; sieden \Essen
+heroico; heroica {adj} :: heldenhaft
+heterosexual {adj} :: heterosexuell \Sexualität
+hibernar {v} :: Winterschlaf halten
+hidratación {f} :: Hydratation {f}
+hidratar {v} :: hydrieren
+hidroeléctrico; hidroeléctrica {adj} :: Wasserkraft-
+hidrógeno {m} :: Wasserstoff {m} \Elemente
+hiel {f} :: Gallensaft {m}; Galle {f} \Körper
+hielo {m} :: Eis {n} \Trinken
+hierba {f}; hierba mate {f} :: Mate-Tee {m} \Trinken
+hierba {f}; yerba {f} :: Gewürzkraut {n} \Essen
+hierbas {f} {pl}; yerbas {f} {pl} :: Kräuter {n} {pl} \Essen
+hierbas provenzales {f} {pl} :: Kräuter der Provence {n} {pl} \Essen
+hierbabuena {f} :: Pfefferminze {f} \Essen \Trinken
+hierro {m} :: Eisen {n} \Elemente
+hierro {m} :: Waffe {f}
+higiene {f} :: Hygiene {f}
+higiénico; higiénica {adj} :: hygienisch
+higo {m} :: Feige {f} \Essen
+higuera {f} :: Feigenbaum {m} \Pflanzen
+hilacha {f} :: Faser {f}
+hilacha {f} :: Fransen {m}
+hilo {m} :: Garn {n}
+hincarse {v} :: sich hinknien
+hincar {v} :: beugen
+hincha {m} :: Fan {m} \Sport
+hinchado; hinchada {adj} :: geschwollen; angeschwollen
+hinchar {v} :: ärgern \Gefühle
+hinchar {v} :: aufquellen
+hinchar {v} :: blähen; aufblähen
+hinchar {v} :: schwellen; anschwellen
+hinchazón {f} :: Schwellung {f}
+hinduismo {m} :: Hinduismus {m} \Religion
+hindú {m} :: Inder {m} \Länder
+hindú {f} :: Inderin {f} \Länder
+hindú {adj} :: hinduistisch; Hindu- \Religion
+hindú {adj} :: indisch; aus Indien \Länder
+hinojo hediondo {m}; eneldo {m} :: Dill {m} \Essen
+hinojo {m} :: Fenchel {n} \Pflanzen \Essen
+hiperactivo; hiperactiva {adj} :: hyperaktiv
+hiperbólico; hiperbólica {adj} :: hyperbolisch \Mathematik
+hipermetropía {f} :: Weitsichtigkeit {f} \Medizin
+hipertensión {f} :: Bluthochdruck {m} \Medizin
+hípico; hípica {adj} :: Reit-; Pferde-
+hipnosis {f} :: Hypnose {f}
+hipnótico; hipnótica {adj} :: hypnotisch
+hipnotizar {v} :: hypnotisieren
+hipocondriaca {m} :: Hypochonder {m} \Medizin
+hipocondriaca {f} :: Hypochonderin {f} \Medizin
+hipocresía {f} :: Scheinheiligkeit {f}
+hipócrita {adj} :: scheinheilig
+hipódromo {m} :: Pferderennbahn {f}
+hipo {m} :: Schluckauf {m}
+hipotecario; hipotecaria {adj} :: hypothekarisch \Geld
+hipotecar {v} :: beleihen \Geld
+hipotético; hipotética {adj} :: hypothetisch
+hiriente {adj} :: beleidigend
+hiriente {adj} :: verletzend
+hirviendo :: kochend; siedend \Essen
+hirviente :: kochend; siedend \Essen
+hispanohablante {adj} :: spanischsprachig; spanischsprechend \Sprachen
+hispano- :: spanisch- \Sprachen \Länder
+histeria {f} :: Hysterie {f}
+histérico; histérica {adj} :: hysterisch
+historiador {m} :: Geschichtsschreiber {m} \Berufe
+historiador {m} :: Historiker {m} \Berufe
+historia {f} :: Geschichte {f}; Erzählung {f}
+historia {f} :: Geschichte {f}; Historie {f}
+historial {m} :: Verlauf {m}; Vorgeschichte {f}
+histórico; histórica {adj} :: historisch
+historieta {f} [coloq.] :: Comic {m} \Medien
+hito {m} :: Meilenstein {m}
+hito {m} :: Ziel {n}
+hockey hierba {m} :: Feldhockey {n} \Sport
+hockey sobre hielo {m} :: Eishockey {n} \Sport
+hockey sobre patines {m} :: Rollhockey {n} \Sport
+hogareño; hogareña {adj} :: häuslich
+hogar {m} :: Haushalt {m}
+hogar {m} :: Zuhause {n}
+hoguera {f} :: Scheiterhaufen {m} \Geschichte
+hoja {f} :: Blatt {n}; (Blatt) Papier {n}
+hoja {f} :: Blatt {n} \Pflanzen
+hoja {f} :: Klinge {f}
+hojalata {f} :: Blech {n}
+hojaldre {m} :: Blätterteig {m} \Essen
+hojear {v} :: blättern
+hola :: hallo
+Holanda {f} :: Holland {n} \Länder
+holandés; holandesa {adj} :: holländisch; niederländisch \Länder
+holgazana {f} :: Faulenzerin {f}
+holgazán {m} :: Faulenzer {m}
+hollejo {m} :: Schale {f} \Essen
+hollín {m} :: Ruß {m} \Feuer
+hombrera {f} :: Schulterpolster {n} \Kleidung
+homenajear {v} :: ehren
+homenajear {v} :: feiern
+homenaje {m} :: Ehrung {f}
+homeopatía {f} :: Homöopathie {f} \Medizin
+homicida {m} :: Mörder {m}; Mörderin {f} \Verbrechen
+homicida {f} :: Mörderin {f} \Verbrechen
+homicidio {m} :: Mord {m} \Verbrechen
+homofobia {f} :: Schwulenhass {m}; Homophobie {f} \Sexualität
+hogareño; hogareña {adj} :: häuslich
+homosexual {adj} :: homosexuell \Sexualität
+homosexualidad {f} :: Homosexualität {f} \Sexualität
+honda {f} :: Schleuder {f}; Steinschleuder {f}
+hondo; honda {adj} :: tief
+hondo {m} :: Boden {m}
+hondura {f} :: Tiefe {f}
+Honduras :: Honduras {n} \Länder
+hondureño; hondureña {adj} :: aus Honduras \Länder
+honestidad {f} :: Ehrlichkeit {f}; Aufrichtigkeit {f}
+honesto; honesta {adj} :: ehrlich
+honesto; honesta {adj} :: ehrlich
+honorable {adj} :: ehrenwert
+honorario {m} :: Honorar {n}
+honor {m} :: Ehre {f}
+honradez {f} :: Ehrlichkeit {f}; Anständigkeit {f}
+honrado; honrada {adj} :: ehrlich; anständig
+honra {f} :: Ehre {f}
+honrado; honrada {adj} :: ehrlich; anständig
+honrar {v} :: ehren; auszeichnen; würdigen
+horario {m} :: Fahrplan {m} \Verkehr
+horario {m} :: Öffnungszeit {f}
+horario {m} :: Stundenplan {m} \Bildung
+horizontal {adj} :: waagerecht; horizontal
+horizonte {m} :: Horizont {m}
+hormigonera {f} :: Betonmischmaschine {f}; Betonmischer {m}
+hormigón {m} :: Beton {m}
+hormiguear {v} :: kribbeln \Körper
+hormigueo {m} :: Kribbeln {n} \Körper
+hornear {v} :: backen \Essen
+horno {m} :: Ofen {m}; Backofen {m} \Essen
+al horno :: aus dem Backofen \Essen
+hormona {f} :: Hormon {n} \Körper
+horrendo; horrenda {adj} :: horrend; entsetzlich
+horrible {adj} :: grauenhaft; schrecklich
+horripilante {adj} :: haarsträubend
+horrorizar {v} :: entsetzen
+horror {m} :: Grauen {n}; Horror {m}
+horroroso; horrorosa {adj} :: schrecklich; fürchterlich
+hortaliza {f} :: Gemüse {n} \Essen
+hortensia {f} :: Hortensie {f} \Pflanzen
+horticultor {m} :: Gärtner {m} \Berufe
+horticultura {f} :: Gärtnerei {f}
+hosco; hosca {adj} :: mürrisch; abweisend
+hospedaje {m} :: Unterkunft {f} \Gastronomie
+hospedarse {v} :: absteigen (Hotel) \Gastronomie
+hospicio {m} :: Hospiz {n}; Armenhaus {n}
+hospital {m} :: Krankenhaus {n} \Medizin
+hospital militar {m} :: Militärlazarett {n} \Medizin \Militär
+hospitalario; hospitalaria {adj} :: gastfreundlich
+hospitalidad {f} :: Gastfreundschaft {f}
+hospitalizar {v} :: ins Krankenhaus einweisen \Medizin
+hostal {m} :: Gasthaus {n} \Gastronomie
+hostelería {f} :: Hotelwesen {n} \Gastronomie
+hostelero {m} :: Gastwirt {m} \Gastronomie
+hostería {f} :: Hotel {n}; Gasthaus {n} \Gastronomie
+hostia {f} :: Hostie {f} \Religion
+hostia {f} [coloq.] :: Schlag {m}
+¡hostia! [coloq.] [Esp.] :: Verdammt nochmal! [vulg.]
+hostigamiento {m} :: Belästigung {f}
+hostigar {v} :: belästigen
+hostigoso; hostigosa {adj} :: lästig
+hostil {adj} :: feindselig; feindlich
+hostilidad {f} :: Feindseligkeit {f}
+hotelero; hotelera {adj} :: Hotel- \Gastronomie
+hotelero {m} :: Hotelier {m} \Gastronomie
+hoyo {m} :: Loch {n}
+huaso {m} [Chile] :: Bauer (traditionell gekleidet) {m}
+huaso {m}; huasteco [coloq.] [Chile] {m} :: Hinterwäldler {m}
+hueco; hueca {adj} :: hohl
+hueco {m} :: Hohlraum {m}
+hueco {m} :: Lücke {f}
+huérfano {m} :: Waise {m}
+huero; güero {adj} [Méx.] :: blond \Personenbeschreibung
+huerto {m} :: Garten {m}
+hueso {m} :: Kern {m} (Obst)
+huésped {m} :: Gast {m}
+huesudo; huesuda {adj} :: knochig
+huevada {f}; huevá {f} [coloq.] [Chile] :: Mist {m} [ugs.]
+huevada {f}; huevá {f} [coloq.] [Chile] :: Zeug {n} [ugs.]
+huevear {v} [coloq.] [Chile] :: verarschen [ugs.]
+huevear {v} [coloq.] [Chile] :: ärgern
+huevear {v} [coloq.] [Chile] :: Quatsch machen [ugs.]
+huevona {f} [coloq.] [Chile] :: Alte [vulg.] {f}; Tante {f} [ugs.]
+huevona {f} [coloq.] [Chile] :: Arschloch [vulg.] {n}; Arsch {n} [vulg.]
+huevón {m} [coloq.] [Chile] :: Arschloch {n} [vulg.]; Arsch {n} [vulg.]
+huevón {m} [coloq.] [Chile] :: Typ {m} [ugs.]
+huido; huida {adj} :: flüchtig
+huir {v} :: flüchten
+humanidad {f} :: Menschheit {f}
+humanitario; humanitaria {adj} :: humanitär
+humano; humana {adj} :: menschlich
+humectante {adj} :: befeuchtend; Feuchtigkeits-
+humectar {v} :: befeuchten
+humedad {f} :: Feuchtigkeit {f}
+humedecerse {v} :: feucht werden
+humillación {f} :: Demütigung {f}; Erniedrigung {f}
+humillante {adj} :: demütigend; entwürdigend; schmachvoll
+humillar {v} :: demütigen; erniedrigen
+humo {m} :: Rauch {m} \Feuer
+humorista {m} :: Komiker {m} \Berufe
+humorista {m} :: Spaßvogel {m}
+humorístico; humorística {adj} :: humoristisch
+humor {m} :: Humor {m}
+humor {m} :: Laune {f}; Stimmung {f}
+hundido; hundida {adj} :: eingesunken
+hundido; hundida {adj} :: ruiniert [fig.]
+hundido; hundida {adj} :: versunken
+hundimiento {m} :: Einsturz {m}
+hundimiento {m} :: Niedergang {m}; Zusammenbruch {m}
+hundimiento {m} :: Untergang {m}
+hundirse {v} :: einfallen; einstürzen
+hundirse {v} :: einsinken; einsacken
+hundirse {v} :: untergehen; versenken
+hundir {v} :: eindrücken
+hundir {v} :: versenken
+hundir {v} :: zugrunde richten
+húngara {f} :: Ungarin {f} \Länder
+húngaro; húngara {adj} :: ungarisch \Länder
+húngaro {m} :: Ungar {n} \Länder
+húngaro; húngara {adj} :: ungarisch; aus Ungarn \Länder
+Hungría {f} :: Ungarn {n} \Länder
+huracán {m} :: Orkan {m}; Hurrikan {m} \Wetter
+huraño; huraña {adj} :: abweisend; mürrisch
+hurtar {v} :: stehlen
+hurto {m} :: Diebesgut {n} \Verbrechen
+hurto {m} :: Diebstahl {m} \Verbrechen
+mal humor {m} :: schlechte Laune {f}
+ministerio de la hacienda {m} :: Finanzministerium {n}
+

@@ -1,0 +1,247 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+tiempo {m} :: Zeit {f}
+calendario {m} :: Kalender {m}
+
+# MONATE
+mes {m} :: Monat {m}
+el mes que viene {m} :: der nächste Monat
+mensual {adj} :: monatlich
+enero {m} :: Januar {m}
+enero {m} :: Jänner {m} [Österreich]
+febrero {m} :: Februar {m}
+marzo {m} :: März {m}
+abril {m} :: April {m}
+mayo {m} :: Mai {m}
+junio {m} :: Juni {m}
+julio {m} :: Juli {m}
+agosto {m} :: August {m}
+septiembre {m} :: September {m}
+octubre {m} :: Oktober {m}
+noviembre {m} :: November {m}
+diciembre {m} :: Dezember {m}
+
+# JAHRESZEITEN
+primavera {f} :: Frühling {m}; Frühjahr {n}; Lenz {m}
+verano {m} :: Sommer {m}
+otoño {m} :: Herbst {m}
+invierno {m} :: Winter {m}
+otoñal {adj} :: herbstlich
+
+# WOCHENTAGE
+días de la semana {m} {pl} :: Wochentage {m} {pl}
+lunes {m} :: Montag {m}
+martes {m} :: Dienstag {m}
+miércoles {m} :: Mittwoch {m}
+jueves {m} :: Donnerstag {m}
+viernes {m} :: Freitag {m}
+sábado {m} :: Samstag {m}; Sonnabend {m}
+domingo {m} :: Sonntag {m}
+el lunes {adv} :: am Montag
+el martes {adv} :: am Dienstag
+el miércoles {adv} :: am Mittwoch
+el jueves {adv} :: am Donnerstag
+el viernes {adv} :: am Freitag
+el sábado {adv} :: am Samstag; am Sonnabend
+el domingo {adv} :: am Sonntag; diesen Sonntag
+
+laborable {m} :: Werktag {m}
+fiesta {f} :: Feiertag {m}
+fin de semana {m} :: Wochenende {n}
+
+día {m} :: Tag {m}
+todos los días {adv} :: alle Tage; jeden Tag
+todo el día :: den ganzen Tag
+cotidiano; cotidiana {adj} :: täglich
+diario; diaria {adj} :: täglich
+fecha {f} :: Datum {n}
+
+anoche {adv} :: gestern Abend
+antes de anoche {adv} :: vorgestern Abend
+anteanoche {adv} :: vorgestern Abend
+ayer {adv} :: gestern
+anteayer {adv} :: vorgestern
+anteanteayer {adv} :: vorvorgestern
+hoy {adv} :: heute
+mañana {adv} :: morgen
+pasado mañana {adv} :: übermorgen
+
+mañana {f} :: Morgen {m}; Vormittag {m}
+por la mañana {adv} :: vormittags; morgens; am Morgen
+mediodía {m} :: Mittag {m}
+tarde {f} :: Nachmittag {m}; Abend {m}
+por la tarde {adv} :: nachmittags
+anochecer {m} :: Abenddämmerung {f}
+al anochecer {adv} :: bei Einbruch der Dunkelheit
+medianoche {f} :: Mitternacht {f}
+noche {f} :: Nacht {f}; Abend {m}
+nocturno; nocturna {adj} :: nächtlich
+madrugada {f} :: früher Morgen {m}; frühe Morgenstunden {f} {pl}
+amanecer {m} :: Morgendämmerung {f}; Tagesanbruch {m}
+amanecer {m} :: Sonnenaufgang {m}
+amanecer {m} :: Morgengrauen {n}
+amanecer {v} :: Tag werden; dämmern
+al amanecer {adv} :: zur Morgendämmerung; bei Tagesanbruch; im Morgengrauen
+
+semana {f} :: Woche {f}
+esta semana {adv} :: diese Woche
+la semana que viene {adv} :: nächste Woche; kommende Woche
+semanal {adj} :: wöchentlich
+
+año {m} :: Jahr {n}
+año civil {m} :: Kalenderjahr {n}
+de año en año {adv} :: von Jahr zu Jahr
+el año próximo {adv} :: nächstes Jahr
+# prüfen!
+tantos años {m} {pl} :: einige Jahre
+dentro de dos años {adv} :: in zwei Jahren; innerhalb von zwei Jahren
+
+anual {adj} :: jährlich
+anualmente {adv} :: jährlich
+bianual {adj} :: zweimal jährlich; zweimal im Jahr
+bienal {adj} :: alle zwei Jahre; zweijährlich; zweijährig
+
+segundo {m} :: Sekunde {f}
+
+minuto {m} :: Minute {f}
+por minuto {adv} :: pro Minute; in der Minute
+
+hora {f} :: Stunde {f}
+media hora {f} :: eine halbe Stunde
+por hora {adv} :: pro Stunde; in der Stunde
+
+decenio {m} :: Jahrzehnt {n}
+siglo {m} :: Jahrhundert {n}
+siglo XX {m} :: 20. Jahrhundert {n}
+
+después de Cristo :: nach Christus
+
+periódico; periódica {adj} :: regelmäßig; periodisch
+
+actual {adj} :: gegenwärtig; augenblicklich; jetzt; aktuell; momentan
+actualmente {adv} :: jetzt; gerade
+actualidad {f} :: Gegenwart {f}
+de actualidad {adv} :: aktuell
+ahora {adv} :: jetzt
+ahora que :: jetzt, wo
+al cabo de :: nach
+al cabo de un rato :: kurz darauf
+alguna vez {adv} :: irgendwann einmal
+ante :: vor; angesichts
+ante todo :: zunächst; vor allem
+anterior {adj} :: letzte; letztes; letzter; vorangehend
+antes :: davor; vorher
+antes de :: bevor
+¿a qué hora? :: um wieviel Uhr?
+a menudo {adv} :: häufig; oft; oftmals
+a tiempo {adv} :: rechtzeitig
+a veces {adv} :: manchmal
+atrás {adv} :: vorher; früher
+años atrás {adv} :: vor Jahren
+tiempo atrás {adv} :: vor einiger Zeit
+aún {adv} :: noch; immer noch
+aún no {adv} :: noch nicht
+con frecuencia {adv} :: häufig; oft; oftmals
+¿cuándo? :: wann?
+cuando :: wenn; als (zeitlich); wann
+desde {prp} :: seit
+desde hace {prp} :: seit
+después {adv} :: danach; nach; nachher; dann; später; darauf
+después de {prp} :: nach
+después de que; después que {prp} :: nachdem
+durante {prp} :: während
+durante cinco minutos {adv} :: fünf Minuten lang
+época {f} :: Zeit {f}; Epoche {f}; Zeitraum {m}; Zeitalter {n}
+eterno; eterna {adj} :: ewig
+futuro {m} :: Zukunft {f}
+futuro; futura {adj} :: zukünftig
+hacia {prp} :: gegen (zeitlich)
+hacia las doce {adv} :: gegen zwölf Uhr
+hacia la tarde {adv} :: gegen Abend
+hasta {prp} :: bis
+impuntual {adj} :: unpünktlich
+inmediatamente {adv} :: sofort; unverzüglich; gleich (darauf); unmittelbar (nachher)
+inmediatez {f} :: Unmittelbarkeit {f}
+inmediato; inmediata {adj} :: unmittelbar; direkt
+jamás {adv} :: nie; niemals
+mientras {prp} :: während; solange
+momento {m} :: Moment {m}; Augenblick {m}
+de momento {adv} :: zur Zeit; gerade
+ninguna vez {adv} :: nie
+nunca {adv} :: nie; niemals
+para el futuro {adv} :: für die Zukunft
+pasado {m} :: Vergangenheit {f}
+pasado; pasada {adj} :: vergangen
+pronto {adv} :: bald; früh; schnell; prompt
+puntual {adj} :: pünktlich
+puntualidad {f} :: Pünktlichkeit {f}
+rara vez {adv} :: selten
+un rato {adv} :: eine Weile
+reciente {adv} :: jüngst (geschehen); frisch; neueren Datums
+siempre {adv} :: immer
+para siempre {adv} :: für immer
+súbito {adj} :: plötzlich
+de súbito {adv} :: plötzlich
+tardanza {f} :: Verzögerung {f}; Verspätung {f}
+tarde {adv} :: spät
+más tarde {adv} :: später
+temprano; temprana {adj} :: früh; frühzeitig
+todavía {adv} :: noch
+todavía no {adv} :: noch nicht
+todo el tiempo {adv} :: ständig; die ganze Zeit
+tras mucho tiempo {adv} :: nach langer Zeit
+ya {adv} :: schon; jetzt; gleich
+ya no {adv} :: nicht mehr
+
+
+ocio {m} :: Muße {f}; Müßiggang {m}; Freizeit {f}
+tiempo de ocio {m} :: Freizeit {f}
+tiempo libre {m} :: Freizeit {f}
+
+llegar a tiempo {v} :: rechtzeitig ankommen
+hace dos meses {adv} :: vor zwei Monaten
+hace un mes {adv} :: vor einem Monat
+pasar {v} :: vergehen (Zeit)
+tardar {v} :: dauern
+
+
+el jueves que viene {adv} :: nächsten Donnerstag
+el viernes pasado {adv} :: letzten Freitag
+
+cumplir x años {v} :: x Jahre alt werden
+de x años {adj} :: x Jahre alt
+
+a diez días de :: zehn Tage vor
+

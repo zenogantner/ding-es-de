@@ -1,0 +1,685 @@
+# Copyright (C) 2006 Matthias Buchmeier
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+a bordo {adj} :: an Bord
+agua bendita {f} :: Weihwasser {n}
+al borde :: am Rand
+baba {f} :: Spucke {f}
+babear :: sabbern
+babero {m} :: Latz {m}; Lätzchen {n}
+babilónico {adj} :: babylonisch \Geschichte
+babor {m} :: Backbord {n}
+babosa {f} :: Nacktschnecke {f} \Tiere
+baboso; babosa {adj} :: schleimig
+babucha {f} :: Pantoffel {f} \Schuhe
+bacalao {m} :: Kabeljau {m} \Essen \Fische
+bacán; bacana {adj} :: toll
+bache {m} :: Schlagloch {n}; Luftloch {n}
+bachillerato {m} :: Abitur {n} \Bildung
+bachiller {m} {f} :: Abiturient {m}; Abiturientin {f} \Bildung
+bacilo {m} :: Bazillus {m}
+bacón {m} :: Speck {m} \Essen
+bacteria {f} :: Bakterie {f}
+bactericida {m} :: Bakterizid {n}
+bacteriológico {adj} :: bakteriologisch
+badén {m} :: Mulde {f}; Rinne {f}
+bafle {m} :: Lautsprecher {m}
+bagaje {m} :: Gepäck {n}
+bagatela {f} :: Bagatelle {f} \Verbrechen
+bah! :: Ausruf der Geringschätzung oder des Erstaunens	
+bahía {f} :: Bucht {f}
+bailable {adj} :: tanzbar
+bailador {adj} :: Tanz-
+bailador {m} :: Tänzer {m}
+bailarina {f} :: Tänzerin {f}
+bailarín {m} :: Tänzer {m}
+bailar :: tanzen
+baile {m} :: Tanz {m}
+bajada {f} :: Abhang {m}
+baja {f} :: Krankenschein {m}; Beurlaubung {f}; Kündigung {f}; Fallen {n}
+bajamar {f} :: Ebbe {f}
+bajar :: herunter heben, herunter gehen, absenken, aussteigen
+bajeza {f} :: Gemeinheit {f}
+bajista {m} {f} :: Bassist {m}; Bassistin {f} \Musik
+
+bajo; baja {adj} :: niedrig; klein; gedrungen
+bajo; baja {adj} :: niedrig; tief liegend
+bajo; baja {adj} :: leise (Stimme)
+bajo; baja {adj} :: tief (Ton)
+bajo :: unter
+bajón {m} :: Niedergang {m}; Sturz {m}; Niedergeschlagenheit {f}
+balada {f} :: Ballade {f} \Musik
+bala {f} :: Kugel {f} (aus Schusswaffe)
+balancear :: balancieren
+balance {m} :: Bilanz {f}
+balance {m} :: Balance {f}
+balanza {f} :: Bilanz {f}
+balaustrada {f} :: Balustrade {f} \Haus
+balazo {m} :: Schuss {m}
+balbucear :: stammeln
+balbuceo {m} :: Gestammel {n}
+balcánico {adj} :: Balkan- \Länder
+balcón {m} :: Balkon {m} \Haus
+balde {m} :: Eimer {m}
+baldosa {f} :: Fliese {f} \Haus
+balido {m} :: Blöken {n} \Tiere
+balístico {adj} :: ballistisch
+baliza {f} :: Boje {f}; Leuchtfeuer {n}
+ballena {f} :: Wal {m} \Tiere
+ballet {m} :: Ballett {n} \Kunst
+balneario {m} :: Badeort {m} \Urlaub
+baloncesto {m} :: Basketball {m} \Sport
+balón {m} :: Ball {m} \Sport
+balsa {f} :: Floß {n} \Verkehr
+bálsamo {m} :: Balsam {n}; Spülung {f} (für die Haare)
+balsero {m} :: Flößer {m} \Berufe
+báltico {adj} :: baltisch \Länder
+bambolear :: baumeln
+bambú {m} :: Bambus {m} \Pflanzen
+banal {adj} :: banal; unwesentlich
+banalidad {f} :: Banalität {f}
+bananal {m} :: Bananenhain {m}; Bananenplantage {f} \Pflanzen
+banano {m} :: Bananenpflanze {f} \Pflanzen
+bancario {adj} :: Bank- \Geld
+bancarrota {f} :: Bankrott {m} \Geld
+banco {m} :: Bank {f} \Geld
+banda {f} :: Band {f}; Kapelle {f} \Musik
+banda sonora {f} :: Filmmusik {f}; Soundtrack {m} \Musik \Film
+bandeja {f} :: Tablett {n}
+bandera {f} :: Fahne {f}
+bandida {f} :: Gaunerin {f} \Verbrechen
+bandido {m} :: Gauner {m}; Bandit {m} \Verbrechen
+bandolera {f} :: Gaunerin {f} \Verbrechen
+bandolero {m} :: Gauner {m}; Bandit {m} \Verbrechen
+banquera {f} :: Bankerin {f} \Geld
+banquero {m} :: Banker {m} \Geld
+banquete {m} :: Festessen {n} \Essen
+bañador {m} :: Badeanzug {m} \Kleidung
+bañar {v} :: baden
+bañera {f} :: Badewanne {f} \Haus
+baño {m} :: Bad {n}; Toilette {f} \Haus
+baraja {f} :: Kartendeck {n}
+barajar :: mischen (Karten)
+baranda {f} :: Geländer {n}
+barata {f} [Chile] :: Schabe {f} \Tiere
+baratero {adj} :: billig (Verkäufer, Laden)
+baratija {f} :: Ramsch {m} \Einkauf
+barato; barata {adj} :: billig \Einkauf
+baratura {f} :: Billigkeit {f}
+barbacoa {f} :: Grill {m} \Essen
+barba {f} :: Bart {m} \Körper
+barbárico {adj} :: barbarisch
+barbaridad {f} :: Unsinn {f}
+bárbaro {adj} :: toll
+bárbaro {adj} :: barbarisch
+barbero {m} :: Barbier {m} (Männerfriseur) \Berufe
+barbi- (barbirojo, barbirubio etc.) :: -bärtig (rotbärtig, blondbärtig etc.) \Körper
+barbilla {f} :: Kinn {n} \Körper
+barbitúrico {m} :: Barbiturat {n}; Betäubungsmittel {n} \Drogen \Medizin
+barbudo {adj} :: bärtig \Körper \Personenbeschreibung
+barca {f} :: Boot {n}; Kahn {m} \Verkehr
+barcaza {f} :: Barkasse {f} \Verkehr
+barco {m} :: Schiff {n}; Boot {n} \Verkehr
+bario {m} :: Barium {n} \Elemente
+barítono {m} :: Bariton {m} \Musik
+bar {m} :: Kneipe {f} \Gastronomie
+barnizar :: lackieren
+barniz {m} :: Lack {m}
+barométrico {adj} :: barometrisch \Wetter
+barómetro {m} :: Barometer {n} \Wetter
+baronesa {f} :: Baronesse {f} \Adel
+barón {m} :: Baron {m} \Adel
+barquero {m} :: Schiffer {m}; Bootsmann {m}
+barquillo {m} :: Waffel {f}; Hörnchen {n} (für Eis) \Essen
+barraca {f} :: Baracke {f}; Lagerhaus {n}
+barra {f} :: Stange {f}
+barra {f} :: Tresen {f}
+barra {f} :: Lippenstift {m} \Kosmetik
+barra {f} :: Baguette {n} \Essen
+barranco {m} :: Schlucht {f} \Geographie
+barrena {f} :: Bohrer {m}
+barrera {f} :: Barriere {f}
+barrer :: fegen; kehren
+barriada {f} :: Armenviertel {n}
+barricada {f} :: Barrikade {f}
+barriga {f} :: Bauch {m} \Körper
+barrigón {adj} :: dickbäuchig \Körper
+barril {m} :: Fass {n}
+barrio {m} :: Stadtviertel {n}
+barrita {f} :: Stift {m}; Stäbchen {n}
+barroco {adj} :: barock
+barro {m} :: Matsch {m}; Lehm {m}
+barroso {adj} :: matschig	
+barrote {m} :: Gitterstab {m}; Stange {f}
+basalto {m} :: Basalt {m}
+basarse :: basieren auf; beruhen auf
+base {f} :: Grundlage {f}; Basis {f}
+básicamente {adv} :: grundsätzlich
+básico {adj} :: Grund-; Basis-
+básico {adj} :: basisch [Chemie]
+basílica {f} :: Basilika {f} \Religion \Architektur
+bastante {adv} :: genug; ausreichend; ziemlich viel
+bastardo {m} :: Bastard {m}; unehelicher Sohn {m}; Mischling {m} \Familie
+bastar :: genug sein; ausreichen
+bastión {f} :: Bastion {f}
+bastonazo {m} :: Stockhieb {m}
+bastoncillo {m} :: Stöckchen {n}; Stäbchen {n}	
+bastón {m} :: Stock {m}
+basura {f} :: Abfall {m}; Müll {m}
+basura {adj} :: Müll-; Schrott-; Trash-
+basurero {adj} :: Müll-
+basurero {m} :: Müllhalde {m}; Müllmann {m} \Arbeit
+bata de levantar {f} :: Bademantel {m} \Kleidung
+batalla {f} :: Schlacht {f} \Militär
+batallar :: kämpfen; bekämpfen
+batallón {m} :: Bataillon {n} \Militär
+batata {f} :: Süßkartoffel {f} \Essen
+batear :: schlagen
+bate de béisbol {m} :: Baseballschläger {m} \Sport
+bate {m} :: Schläger {m}
+batería {f} :: Batterie {f} (in Autos)
+batería {f} :: Schlagzeug {n} \Musik
+baterista {m} :: Schlagzeuger {m}; Schlagzeugspieler {m} \Musik
+baterista {f} :: Schlagzeugerin {f}; Schlagzeugspielerin {f} \Musik
+batido {m} :: Milchshake {m} \Trinken
+batidora {f} :: Mixer {m}
+batimiento {m} :: Schlagen {n}
+batir :: schlagen
+baúl {m} :: Truhe {f}
+bautismo {m} :: Taufe {f} \Religion
+bautista {m} :: Baptist {m} \Religion
+bautizar :: taufen \Religion
+baya {f} :: Beere {f} \Essen \Pflanzen
+baza {f} :: Stich {m} [Kartenspiel]
+bazar {m} :: Bazar {m}; Basar {m}
+beatificar :: selig sprechen \Religion
+beato {m} :: Frömmler {m}; Betbruder {m} \Religion
+bebedor {m} :: Trinker {m} \Trinken
+bebé {m} :: Baby {n}
+beber :: trinken \Trinken
+bebible {adj} :: trinkbar
+bebida {f} [Chile] :: Limonade {f}
+bebida {f} :: Getränk {f}
+beca {f} :: Stipendium {n} \Bildung
+becario {m} :: Stipendiat {m} \Bildung
+becerro {m} :: Kalb {n} \Tiere
+bechamel {f} :: Bechamelsoße {f}; Béchamelsoße {f} \Essen
+beduino {m} :: Beduine {m}
+begonia {f} :: Begonie {f} \Pflanzen
+beicon {m} :: Schinkenspeck {m}
+beige; beis {adj} :: beige \Farben
+béisbol {m} :: Baseball {m} \Sport
+belén {m} :: Weihnachtskrippe {f}; Krippe {f}
+belga {adj} :: belgisch \Länder
+bélico {adj} :: kriegerisch; Kriegs-
+belicoso {adj} :: kriegerisch; kampflustig
+belleza {f} :: Schönheit {f}
+bello; bella {adj} :: schön
+bellota {f} :: Haselnuss {f} \Essen
+bencina {f} :: Benzin {n}
+bendecido {adj} :: gesegnet \Religion
+bendecir :: segnen \Religion
+bendición {f} :: Segnung {f}; Segen {m} \Religion
+bendito {adj} :: gesegnet; geweiht \Religion
+beneficencia {f} :: Wohltätigkeit {f}
+beneficiar :: begünstigen; Nutzen ziehen
+beneficio {m} :: Gewinn {m}; Profit {m}
+beneficioso {adj} :: nützlich; gewinnbringend	
+benéfico {adj} :: wohltätig
+benevolencia {f} :: Gutmütigkeit {f}
+benevolente; benévolo {adj} :: gutmütig
+benigno {adj} :: gutartig
+benzol {m} :: Benzol {n}
+berberecho {m} :: Herzmuschel {f} \Essen
+berenjena {f} :: Aubergine {f} \Pflanzen \Essen
+berilio {m} :: Beryllium {n} \Elemente
+berlinés {adj} :: Berliner; aus Berlin \Städte
+berlín {m} [Chile] :: Berliner {m} \Essen
+bermejo {adj} :: rotbraun \Farben
+bermellón {adj} :: zinnoberrot \Farben
+bermudas {f} {pl} :: Bermudashorts {f} {pl}
+berrear :: brüllen; schreien; heulen
+berrido {m} :: Brüllen {n}; Heulen {n}
+berro {m} :: Kresse {f} \Pflanzen \Essen
+besamanos {m} :: Handkuss {m} \Kommunikation
+besar :: küssen \Kommunikation
+beso {m} :: Kuss {m} \Kommunikation
+bestia {f} :: Bestie {f}; Monster {n}
+bestial {adj} :: bestialisch
+bestialidad {f} :: Bestialität {f}
+besugo {m} :: Brasse {f}
+besuquear :: abküssen
+besuqueo {m} :: Abküssen {n}
+beta {f} :: Beta {n} \Alphabet
+betún {m} :: Bitumen {m}
+betún {m} :: Schuhcreme {f}
+betún {m} [Am.] :: Zuckerguss {m}
+biberón {m} :: Fläschchen {n}; Flasche {f} (für Babys)
+biblia {f} :: Bibel {f} \Religion
+bíblico {adj} :: biblisch \Religion
+bibliografía {f} :: Literaturverzeichnis {n} \Literatur
+bibliográfico {adj} :: bibliographisch \Literatur
+biblioteca {f} :: Bücherei {f} \Literatur
+bibliotecario {m} :: Bibliothekar {m} \Literatur \Berufe
+bicarbonato {m} :: Bikarbonat {n}
+bicentenario {adj} :: zweihundertjährig \Zeit
+bíceps {m} :: Bizeps {m} \Körper
+bicho {m} :: Tier {n} \Tiere
+bichos {m} {pl} :: Ungeziefer {n}
+bici {f}; bicicleta {f} :: Fahrrad {n} \Verkehr
+bicolor {adj} :: zweifarbig
+bicóncavo {adj} :: bikonkav [Optik]
+biconvexo {adj} :: bikonvex [Optik]
+bidé {m} :: Bidet {n} \Haus
+bidireccional {adj} :: Zweiweg-; hin und zurück; bidirektional
+bidón {m} :: Kanister {m}
+bien {adv} :: gut
+bienal {adj} :: zweijährig \Zeit
+bienaventurado {adj} :: glücklich
+bienestar {m} :: Wohlbefinden {n}
+bienintencionado {adj} :: gut gemeint
+bien {m} :: Gut {n}; Besitztum {n}
+bienvenida {f} :: Begrüßung {f}
+bienvenido; bienvenida {adj} :: willkommen
+biestable {adj} :: bistabil
+bife {m} [coloq.] :: Ohrfeige {f} [ugs.]
+bífido {adj} :: gegabelt
+bifocal {adj} :: bifocal [Optik]
+bifurcación {f} :: Gabelung {f}
+bifurcar :: gabeln
+biga {f} :: Balken {m}
+bigamia {f} :: Bigamie {f}; Zweiehe {f} \Familie
+bigote {m} :: Schnurrbart {m}; Schnauzer {m} \Körper
+bigote {adj} :: toll; enorm
+bigotudo {adj} :: schnurrbärtig \Körper
+bikini {m} :: Bikini {m} \Kleidung
+bilateral {adj} :: zweiseitig
+biliar {adj} :: Gallen- \Körper
+bilingüe {adj} :: zweisprachig \Sprachen
+bilis {f} :: Gallenflüssigkeit {f} \Körper
+billar {m} :: Billard {n} \Sport
+billete {m} :: Geldschein {m} \Geld
+billete {m} :: Ticket {n} \Verkehr
+billetero {m} :: Schaffner {m} \Verkehr \Berufe
+billón {m} :: Milliarde {f} \Zahlen
+bimensual {adj} :: zweimonatig \Zeit
+binario {adj} :: binär \Computer \Mathematik
+bingo {m} :: Bingo {n} \Spiele
+binocular {m} :: Fernrohr {n}
+binomial {adj} :: binomial [math.]
+binomio {m} :: Binom {n} [math.]
+binza {f} :: Membran {f}
+biodegradabilidad {f} :: biologische Abbaubarkeit {f}
+biodegradable {adj} :: biologisch abbaubar
+biodiversidad {f} :: Artenvielfalt {f}
+biográfico {adj} :: biographisch \Literatur
+biógrafo {m} :: Biograph {m} \Literatur
+biología {f} :: Biologie {f}
+biológico {adj} :: biologisch
+biólogo {m} :: Biologe {m} \Berufe
+biomasa {f} :: Biomasse {f}
+biopsia {f} :: Biopsie {f} [Medizin]
+biosfera {f} :: Biosphäre {f}
+biplano {adj} :: biplanar [Optik]
+bipolar {adj} :: bipolar
+biquini {m} :: Bikini {m} \Kleidung
+birimbao {m} :: Mundorgel {f} \Musik
+birlar :: klauen \Verbrechen
+birmano {adj} :: burmesisch \Länder
+bisabuela {f} :: Urgroßmutter {f} \Familie
+bisabuelo {m} :: Urgroßvater {m} \Familie
+bisección {f} :: Halbierung {f}
+bisectriz {f} :: Winkelhalbierende {f} [math.] \Mathematik
+bisemanal {adj} :: zweiwöchig \Zeit
+bisexual {adj} :: bisexuell \Sexualität
+bisexualidad {f} :: Bisexualität {f} \Sexualität
+bismuto {m} :: Wismut {n} \Elemente
+bisnieto {m} :: Urenkel {m} \Familie
+bisonte {m} :: Wisent {n} \Tiere
+bisoñé {m} :: Haarteil {n}
+bisturí {m} :: Skalpell {n} \Medizin
+bisutería {f} :: Modeschmuck {m} \Schmuck
+bit {m} :: Bit {n} [Informatik] \Computer
+bizantino {adj} :: byzantinisch \Geschichte
+bizarro; bizarra {adj} :: mutig
+bizco; bizca {adj} :: schielend
+bizcocho {m} :: Zwieback {n}; Biskuit {m} \Essen
+bizquear :: schielen
+blanco; blanca {adj} :: weiß \Farben
+blancura {f} :: Weiße {f} \Farben
+blando; blanda {adj} :: weich
+blandura {f} :: Weiche {f}
+blanqueador {adj} :: weißmachend
+blanquear :: weiß machen; bleichen \Farben
+blanquear :: waschen (Geld) \Geld \Verbrechen
+blanqueo {m} :: Weißen {n}; Bleichen {n}	
+blasfemar :: Gotteslästerung begehen \Religion
+blasfemia {f} :: Blasphemie {f}; Gotteslästerung {f} \Religion
+blasfemo {adj} :: blasphemisch; gotteslästerlich \Religion
+blenda {f} :: Zinkblende {f} [Chemie]
+blindado {m} :: Verkleidung {f}
+blindaje {m} :: Abschirmung {f}; Panzerung {f}
+blindar :: panzern
+blonda {f} :: Spitze {f} (Textil)
+bloqueador {adj} :: blockierend
+bloquear :: blockieren
+bloque {m} :: Block {m}
+bloqueo {m} :: Blockade {f}
+blusa {f} :: Bluse {f} \Kleidung
+boa {f} :: Boa {f} \Tiere
+bobada {f} :: Blödsinn {m}; Unsinn {m}; Dummheit {f}
+bobería {f} :: Blödsinn {m}; Unsinn {m}; Dummheit {f}
+bobina {f} :: Spule {f}
+bobinar :: aufrollen; aufspulen
+bobo {adj} :: dumm
+boca abajo :: auf dem Bauch
+boca arriba :: auf dem Rücken
+bocadillo {m} :: belegtes Brötchen {n} \Essen
+bocadillo {m} :: Sprechblase {f} \Literatur
+bocado {m} :: Bissen {m} \Essen
+boca {f} :: Mund {m} \Körper
+boca {f} :: Mündung {f} \Geographie
+bocata {f} :: belegtes Brötchen {n} \Essen
+bochorno {m} :: Schwüle {f}; Hitze {f}
+bochorno {m} :: Gesichtsröte {f}; Erröten {n}
+bocina {f} :: Hupe {f}
+bocinar :: hupen
+bocinazo {m} :: Hupen {n}
+bocio {m} :: Kropf {m} [Medizin]
+boda {f} :: Heirat {f}; Hochzeit {f}; Hochzeitsfest {f} \Familie \Feste
+bodega {f} :: Weinkeller {m}; Kellerei {f} \Trinken
+bodega {f} :: Spirituosenhandlung {f} \Trinken
+bodega {f} :: Lager {n}; Vorratskammer {n}
+bodeguero {m} :: Kellermeister {m} \Trinken \Berufe
+bofetada {f} :: Ohrfeige {f}
+bofetón {m} :: Ohrfeige {f}
+bohémico {adj} :: böhmisch \Länder
+bohemio {adj} :: leichtlebig \Personenbeschreibung
+boicotear :: boykottieren \Politik
+boicot {m} :: Boykott {m} \Politik
+boina {f} :: Baskenmütze {f} \Kleidung
+bola {f} :: Kugel {f}
+bolchevique {m} {f} :: Bolschewik {m}; Bolschewikin {f} \Geschichte
+bolero {m} :: Bolero {m} [Musik]
+boletería {f} :: Ticketverkauf {m}
+boletín {m} :: Bericht {m}; Bulletin {m}
+boleto {m} :: Ticket {n}; Fahrkarte {f}
+boliche {m} [Arg.] :: Kiosk {m}
+bólido {m} :: Sportwagen {m}
+bolígrafo {m} :: Kugelschreiber {m} \Schreiben
+bolita {f} :: Kügelchen {n}
+bolita {f} [Am.] :: Murmel {f}
+boliviano {adj} :: bolivianisch \Länder
+bolladura {f} :: Beule {f}
+bollería {f} :: Bäckerei {f} (für Teilchen)
+bollo {m} :: Teilchen {n}; Milchbrötchen {n}; Krapfen {m}
+bol {m} :: Schüssel {f}
+bolsa {f} :: Börse {f}
+bolsa {f} :: Tüte {f}
+bolsear :: auf der Tasche liegen; schnorren
+bolsillo {m} :: Hosentasche {f}
+bolsista {m} :: Börsenspekulant {m}; Börsianer {m}
+bolso {m} :: Tasche {f}
+bolsón {m} :: Tasche {f}
+boludo {m} [Arg.] :: Arschloch {n}
+bomba {f} :: Pumpe {f}
+bomba {f} :: Bombe {f}
+bombardear :: bombardieren
+bombástico {adj} :: bombastisch
+bombazo {m} :: Bombenexplosion {f}
+bombear :: pumpen
+bombear :: sprengen
+bombero {m} :: Feuerwehrmann {m} \Berufe
+bomberos {m} {pl} :: Feuerwehr {f}
+bombilla {f} :: Strohhalm {m}; Trinkhalm {m} \Trinken
+bombonera {f} :: Pralinenschachtel {f} \Essen
+bombón {m} :: Praline {f} \Essen
+bonaerense {adj} :: aus Buenos Aires \Städte
+bondad {f} :: Güte {f}
+bondadoso {adj} :: gütig
+bongo {m} :: Bongo {f} \Musik
+bonificación {f} :: Vergütung {f}
+bonificar :: vergüten
+bonito; bonita {adj} :: hübsch
+bonito {m} :: Bonito {m} (eine Thunfischart) \Essen \Fische
+bono {m} :: Gutschein {m}
+bonsái {m} :: Bonsai {m} \Pflanzen
+bonzo {m} :: Bonze {m}
+booleano {adj} :: boolesch [math.]
+boquera {f} :: Öffnung {f}	
+boquera {f} :: aufgesprungene Lippe {f} \Medizin
+boquerón {m} :: Anchovi {f} \Essen
+boquiabierto {adj} :: mit offenem Mund; erstaunt
+boquilla {f} :: Mundstück {n}
+bórax {m} :: Borax {n} [Chemie]
+bordado {adj} :: bestickt
+bordado {m} :: Stickerei {f}
+bordador {m} :: Sticker {m}
+bordar :: sticken; besticken
+borde {m} :: Rand {m}
+bordo {m} :: Bord {n}
+bordura {f} :: Bordüre {f}
+boreal {adj} :: nördlich
+boro {m} :: Bor {n} [Chemie]
+borrable {adj} :: löschbar
+borrachera {f} :: Trunkenheit {f}; Alkoholrausch {m} \Trinken
+borrachez {f} :: Trunkenheit {f}; Alkoholrausch {m} \Trinken
+borrachín {m} :: Trunkenbold {m} [abwertend] \Trinken
+borracho {adj} :: betrunken \Trinken
+borrador {m} :: Radiergummi {m} \Schreiben
+borraja {f} :: Borretsch {m}
+borrar :: ausradieren; löschen; durchstreichen
+borrego {m} :: Lamm {n} \Tiere \Essen
+borroso; borrosa {adj} :: verschwommen
+bosnio {adj} :: bosnisch \Länder
+bosnio {m} :: Bosnier {m} \Länder
+bosque {m} :: Wald {m}
+bostezar :: gähnen
+bostezo {m} :: Gähnen {n}
+bota {f} :: Stiefel {m} \Kleidung
+bota {f} :: Weinschlauch {m} \Trinken
+botánico {adj} :: botanisch
+botanista {m} {f} :: Botaniker {m}; Botanikerin {f}
+botar [Am.] :: wegwerfen; auswerfen
+botar :: springen
+botella {f} :: Flasche {f} \Trinken
+botellazo {m} :: Flaschenhieb {m}
+bote {m} :: Boot {n}
+botero {m} :: Bootsmann {m}
+botica {f} :: Apotheke {f} \Medizin
+boticario {m} :: Apotheker {m} \Berufe \Medizin
+botija {f} :: Schatz {m}
+botillería {f} :: Getränkeladen {m} \Trinken
+botín {m} :: Beute {f}; Diebesgut {n} \Verbrechen
+botiquín {m} :: Verbandskasten {m}
+botón {m} :: Knopf {m} \Kleidung
+boutique {f} :: Boutique {f} \Kleidung
+bóveda {f} :: Gewölbe {n} \Haus \Architektur
+bóvido {adj} :: Rinder- \Tiere
+bovino {adj} :: Rinder- \Tiere
+boxeador {m} :: Boxer {m} \Sport
+boxear :: boxen \Sport
+boxeo {m} :: Boxen {n} \Sport
+boya {f} :: Boje {f}; Schwimmer {m} (Angeln)
+bozal {m} :: Maulkorb {m}
+bragas {f} {pl}; braguitas {f} {pl} :: Slip {m}; Unterhose {f}
+bramar :: brüllen; heulen; brünften
+bramido {m} :: Brunftschrei {m}; Gebrüll {n}
+branquia {f} :: Kieme {f} \Fische
+branquial {adj} :: Kiemen- \Fische
+brasa {f} :: Glut {f}
+brasear :: auf der Glut grillen	
+brasero {m} :: offener Kohleofen {m} (als Schale oder Kiste)
+brasileño {adj} :: brasilianisch \Länder
+braveza {f} :: Mut {m}; Wildheit {f}
+bravo {adj} :: mutig; wild
+bravura {f} :: Mut {m}; Wildheit {f}
+brazalete {m} :: Armband {n} \Kleidung
+brazo {m} :: Arm {m} \Körper
+brebaje {m} :: Gebräu {n}
+brecha {f} :: Bresche {f}; Spalt {m}
+brécol {m} :: Brokkoli {m} \Pflanzen \Essen
+breva {f} :: Feige {f} \Pflanzen \Essen
+breve {adj} :: kurz; kurzzeitig
+brevedad {f} :: Kürze {f}
+brezo {m} :: Heidekraut {n} \Pflanzen
+bribón {m} :: Spitzbube {m}; Halunke {m}
+bricolaje {m} :: Basteln {n}; Werken {n}
+brigada {f} :: Brigade {f} \Militär
+brigadero {m} :: Brigadier {m}; Brigadegeneral {m} \Militär
+brillante {adj} :: glänzend; brillant; strahlend
+brillantez {f} :: Glanz {m}
+brillar :: glänzen; strahlen
+brillo {m} :: Glanz {m}; Leuchten {n}; Leuchtstärke {f}
+brincador {adj} :: springend
+brincar :: springen; überspringen
+brinco {m} :: Sprung {m}
+brindar :: anstoßen (Gläser)
+brindis {m} :: Trinkspruch {m} \Trinken
+briqueta {f} :: Brikett {n}
+brisa {f} :: Windhauch {m} \Wetter
+británico {adj} :: britisch \Länder
+broca {f} :: Bohrer {m}; Bohrkopf {m}; Bit {n} (zum Schrauben)
+brocha {f} :: Pinsel {m} \Kunst
+broche {m} :: Anstecknadel {f}
+broche {m} :: Verschluss {m} (Schmuck) \Kleidung
+brocheta {f} :: Krokette {f} \Essen
+broma {f} :: Scherz {m}; Witz {m}; Unfug {m}; Ulk {m}; Spaß {m} \Humor
+bromear :: scherzen \Humor
+bromo {m} :: Brom {n} [Chemie] \Elemente
+bronca {f} :: Streit {m}
+bronceado {m} :: Sonnenbräune {f} \Urlaub
+bronceador {m} :: Sonnencreme {f} \Urlaub
+broncear :: bräunen
+bronce {m} :: Bronze {f}; Bronzestatur {f}
+bronquial {adj} :: Bronchien- \Körper
+bronquios {m} {pl} :: Bronchien {f} {pl} \Körper
+bronquítico {adj} :: bronchitisch \Medizin
+bronquitis {f} :: Bronchitis {f} \Medizin
+brotar :: sprießen; austreiben
+brote {m} :: Spross {m}; Herd {m}
+broza {f} :: Laub {n}; Grünabfall {m}
+bruja {f} :: Hexe {f} \Geschichte
+brujería {f} :: Hexerei {f}
+brujo {m} :: Hexer {m} \Geschichte
+brújula {f} :: Kompass {m}
+bruma {f} :: Dunst {m}
+brumoso {adj} :: dunstig
+bruscamente {adv} :: plötzlich
+brusco {adj} :: plötzlich; brüsk
+bruselense {adj} :: Brüsseler; aus Brüssel \Städte
+brusquedad {f} :: Abruptheit {f}
+brutal {adj} :: brutal
+brutalidad {f} :: Brutalität {f}
+brutalizar :: brutal behandeln
+brutesco {adj} :: grotesk
+bruteza {f} :: Rohheit {f}
+bruto {adj} :: roh; dumm
+bruto {adj} :: Brutto
+buceador {adj} :: Tauch-
+bucear :: tauchen
+buche {m} :: Kropf {m} (Vögel) \Tiere
+bucle {m} :: Schleife {f} [Elektronik]
+bucle {m} :: Locke {f} \Körper
+budín {m} :: Pudding {m}; Pastete {f} \Essen
+budismo {m} :: Buddhismus {m} \Religion
+budista {m} {f} :: Buddhist {m}; Buddhistin {f} \Religion
+buen; buena; bueno {adj} :: gut
+¡buenos días! :: Guten Morgen.
+¡buenos días! :: Guten Tag.
+¡buenas tardes! :: Guten Tag.
+¡buenas noches! :: Gute Nacht.
+¡buenas noches! :: Guten Abend.
+buey {m} :: Ochse {m} \Tiere
+búfalo {m} :: Büffel {m} \Tiere
+bufanda {f} :: Schal {m} \Kleidung
+bufar :: schnauben
+bufete {m} :: Kanzlei {f}
+bufón {m} :: Narr {m}
+búho {m} :: Uhu {m} \Tiere
+buitre {m} :: Geier {m} \Tiere
+bujía {f} :: Zündkerze {f}
+bulevar {m} :: Boulevard {m} \Verkehr
+búlgaro {adj} :: bulgarisch \Länder
+búlgaro {m} :: Bulgare {m} \Länder
+bulimia {f} :: Bulimie {f} \Medizin
+bullente {adj} :: kochend
+bullir :: kochen; sieden; blubbern \Essen
+bulto {m} :: Paket {n}; Gepäckstück {n}
+búnker {m} :: Bunker {m} \Militär
+buque {m} :: Schiff {n} \Verkehr
+burbuja {f} :: Blase {f}; Seifenblase {f}
+burbujear :: brodeln; blubbern
+burbujeo {m} :: Geblubber {n}
+burdel {m} :: Bordell {n} \Sexualität
+burgués {adj} :: spießig
+burguesía {f} :: Bourgeoisie {f}
+burgués {m}; burguesa {f} :: Spießer {m}; Spießerin {f} \Personenbeschreibung
+burlador {adj} :: spötterisch
+burla {f} :: Spott {m}; Spaß {m}; Hänselei {f}
+burlarse de :: auslachen; hänseln
+burlesco {adj} :: skurril; burlesk
+burlón {m} :: Spötter {m}; Spaßmacher {m} \Humor
+burocracia {f} :: Bürokratie {f}
+burócrata {m} {f} :: Bürokrat {m}; Bürokratin {f} \Arbeit
+burocrático {adj} :: bürokratisch
+buró {m} :: Schreibtisch {m} \Arbeit \Haus
+burrada {f} :: Blödsinn {m}; Dummheit {f}
+burrito {m} [Méx.] :: Burrito {m} (gefüllte Tortilla) \Essen
+burro {adj} :: dumm
+burro {m} :: Esel {m} \Tiere
+bursátil {adj} :: Börsen- \Geld
+buscador {adj} :: suchend
+buscar :: suchen; holen
+buscavidas {m} :: Lebenskünstler {m}
+bus {m} :: Bus {m} \Verkehr
+búsqueda {f} :: Suche {f}
+busto {m} :: Büste {f}
+butaca {f} :: Sessel {m} \Möbel
+butano {m} :: Butan {n}
+butifarra {f} :: Bratwurst {f} \Essen
+buzo {m} :: Taucher {m}
+buzo {m} :: Overall {m}; Arbeitsanzug {m}; Trainingsanzug {m}
+buzón {m} :: Briefkasten {m} \Kommunikation
+byte {m} :: Byte {n} \Computer
+cuarto de baño {m} :: Badezimmer {n} \Haus
+de balde :: umsonst
+de bolsillo {adj} :: Taschen-
+en breve {adv} :: knapp; in Kürze
+en bruto :: unbearbeitet
+estar de baja :: krank geschrieben sein
+salsa boloñesa {f} :: Bolognesesoße {f} \Essen
+una barbaridad :: eine Unmenge; sehr viel
+

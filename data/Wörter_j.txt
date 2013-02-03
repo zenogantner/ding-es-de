@@ -1,0 +1,192 @@
+# Copyright (C) 2007 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+declaración jurada {f} :: eidesstattliche Erklärung {f}
+de media jornada {adj} :: halbtag \Arbeit
+El Jorobado de Notre Dame :: der Glöckner von Notre Dame
+estar en juego {v}; estar en el juego {v} :: auf dem Spiel stehen
+estar en su sano juicio {v} :: bei Verstand sein
+estar jodido {v} [vulg.] [Esp.] :: am Arsch sein [vulg.]
+jaba {f} [Am.] :: Kasten {m} (Getränke) \Trinken
+jaba {f} [Cuba] :: Korb {m}; Einkaufskorb {m}
+jaba de cerveza {f} [Am.] :: Kasten Bier {m} \Trinken
+jabonera {f} :: Seifenschale {f}
+jabón {m} :: Seife {f}
+jabonoso; jabonosa {adj} :: seifig
+jacinto {m} :: Hyacinthe {f} \Pflanzen
+jadeante {adj} :: keuchend
+jadear {v} :: keuchen
+jaiba {f} :: Krebs {m} \Tiere
+jaja (risa) :: haha (Gelächter)
+jalapeño {m} [Mex.] :: Pepperoni {f} \Essen
+jalea {f} :: Gelee {n} \Essen
+jalea {f} :: Wackelpudding {m}; Götterspeise {f} \Essen
+jaleo {m} :: Durcheinander {n}
+jaleo {m} :: Radau {m} [fam.]
+jaleo {m} :: Spektakel {n}
+jamaicano; jamaicana {adj} :: Jamaikanisch
+jamaicano {m} :: Jamaikaner {m}
+jamás {adv} :: je; jemals
+jaqueca {f} :: Kopfschmerzen {f} {pl}; Migräne {f} \Medizin
+jaque mate {m} :: Schach Matt {n} \Sport
+jaque {m} :: Schach {n} \Sport
+jarabe {m} :: Sirup {m}
+jarabe {m} :: Trunk {m}; Saft {m} (Medizin)
+jardinería {f} :: Gärtnerei {f}
+jardinero; jardinera {adj} :: Garten-
+jarra {f} :: Krug {m}; Kanne {f}
+jarro {m} :: Krug {m}; Kanne {f}
+jarrón {m} :: Vase {f}
+jaula {f} :: Käfig {m} \Tiere
+jefa {f} :: Chefin {f} \Arbeit
+jefatura {f} :: Leitung {f}; Firmenleitung {f} \Arbeit
+jerarca {m} {f} :: Hierarch {m}
+jerarquía {f} :: Rangordnung {f
+jerárquico; jerárquica {adj} :: hierarchisch
+jeringa {f} :: Spritze {f} \Medizin \Drogen
+jeringazo {m} :: Spritzen {n} \Medizin \Drogen
+jeroglífico; jeroglífica {adj} :: hyroglyphisch
+jeroglífico {m} :: Hieroglyphe {f}
+jeroglífico {m} :: Rätsel {n}; Bilderrätsel {n}
+jersey {m} :: Pullover {m} \Kleidung
+jeta {f} [pey.] :: Fresse [vulg.] {f}; Schnauze [vulg.] {f}
+jineta {f} [Am.] :: Reiterin {f} \Sport
+jineta {f} :: Reitkunst {f} \Sport
+jinetear {v} :: reiten \Sport
+jinete {m} :: Reiter {m} \Sport
+jinetera {f} [Cuba] :: Prostituierte {f}
+jinetero {m} [Cuba] :: Prostituierter {m}
+jitomate {m} [Mex.] :: Tomate {f} \Essen
+¡joder! [Esp.] [vulg.] :: Scheiße!; Verdammt!
+joderse {v} :: draufgehen [fam.]
+joderse {v} :: kaputtgehen [fam.]
+joder {v} :: kaputtmachen [fam.]
+joder {v} :: nerven [fam.]; ärgern; belästigen
+joder {v} [vulg.] :: ficken [vulg.]; vögeln [vulg.]
+jodido; jodida {adj} [vulg.] :: beschissen [vulg.]
+jodido; jodida {adj} [vulg.] :: verflixt [fam.]
+jornada completa {f} :: Vollzeitbeschäftigung {f} \Arbeit
+jornada {f} :: Arbeitstag {m} \Arbeit
+jornada flexible {f} :: Gleitzeit {f} \Arbeit
+jornada {f} :: Tag {m}
+jornada reducida {f} :: Teilzeitbeschäftigung {f} \Arbeit
+jorobado; jorobada {adj} :: buckelig \Personenbeschreibung
+joroba {f} :: Buckel {m} \Personenbeschreibung
+jota {f} :: Bisschen {n}; Kleinigkeit {f}
+jota {f} (letra) :: Jot {n} (Buchstabe)
+jote {m} [Am.] :: Geier {m}; Truthahngeier {m} \Tiere
+joule {m} :: Joule {n}
+jovencita {f} :: Fräulein {n}
+jovencito {m} :: junger Mann {m} (Anrede)
+joven {f} :: Jugendliche {f}
+joven {m} :: Jugendliche {m}
+jovial {adj} :: heiter; humorvoll
+joya {f} {pl} :: Schmuck {m}
+joya {f} :: Schmuckstück {n};
+joyería {f} :: Juweliergeschäft {n} Einkauf
+joyero {m} :: Juwelier {m} \Berufe
+joyero {m} :: Schmuckkästchen {n}
+juanete {m} :: Überbein {n}; Ballenzeh {m} \Medizin
+jubilación {f} :: Pensionierung {f}
+jubilación {f} :: Rente {f}; Pension {f}
+jubilado; jubilada {adj} :: pensioniert
+jubilar {v} :: in Rente schicken
+judía {f} [Esp.] :: Bohne {f} \Essen
+judías verdes {f} {pl} [Esp.] :: grüne Bohnen {f} {pl} \Essen
+judicial {adj} :: Gerichts-; gerichtlich; richterlich
+judío; judía {adj} :: jüdisch
+judío {m} :: Jude {m}
+juerga {f} :: Gelage {n}; Fest {n}; Feier {f}; Fete [fam.] {f}; Gaudi {f}
+jueza {f} :: Richterin {f} \Berufe
+jugada {f} :: Streich {m}
+jugada {f} :: Zug {m}; Spielzug {m}
+jugadora {f} :: Spielerin {f}
+jugarse la vida {v} :: das Leben riskieren
+jugarse {v} :: aufs Spiel setzen
+jugarse {v} :: riskieren
+jugo {m} [Am.] :: Saft {m} \Trinken
+jugoso; jugosa {adj} [Am.] :: saftig
+juguete {m} :: Spielzeug {n}
+juguetería {f} :: Spielzeuggeschäft {n}; Spielwarenladen {m}
+juguetón; juguetona {adj} :: verspielt
+juicio {m} :: Beurteilung {f}
+juicio {m} :: Prozess {m} (Gericht)
+juicio {m} :: Urteil {n}
+juicio {m} :: Vernunft {f}; Verstand {m}
+junco {m}; junquera {f} :: Binsen {m} \Pflanzen
+junquillar {m} :: Binsenfeld {n} \Pflanzen
+junta {f} :: Rat {m}
+junta {f} :: Sitzung {f}
+junta {f} :: Versammlung {f}
+juntarse {v} :: sich treffen
+juntar {v} :: verbinden
+juntar {v} :: versammeln
+juntar {v} :: zusammenbringen
+juntar {v} :: zusammenfügen
+junto; junta {adj} :: zusammen
+juntura {f} :: Gelenk {n} \Technik
+jurado; jurada {adj} :: eidlich; geschworen; eidesstattlich
+jurado {m} :: Geschworene {m}
+jurado {m} :: Geschworenen {f} {pl}
+jurado {m} :: Juror {m}; Preisrichter {m}
+jurado {m} :: Jury {f}
+juramento {m} :: Schwur {m}; Eid {m}
+jurar {v} :: schwören
+jurel {m} :: Stöcker {m}; Bastardmakrele {f} \Tiere \Essen
+jurisdicción {f} :: Rechtsprechung {f}
+justamente {adv} :: genau
+justamente {adv} :: gerade; gerade eben; just
+justicia {f} :: Gerechtigkeit {f}
+justicia {f} :: Justiz {f
+justicia {f} :: Recht {n}
+justificación {f} :: Entschuldigung {f}
+justificación {f} :: Rechtfertigung {f}
+justificar {v} :: belegen
+justificar {v} :: entschuldigen
+justificar {v} :: rechtfertigen
+justificativa {f}; carta justificativa {f} :: Entschuldigung {f}
+justificativo; justificativa {adj} :: entschuldigend
+justo; justa {adj} :: fair
+justo; justa {adj} :: genau
+justo; justa {adj} :: gerecht
+justo; justa {adj} :: knapp (Kleidung)
+justo; justa {adj} :: richtig; zutreffend
+juvenecer {v} :: verjüngen
+juvenil {adj} :: Jugend-; jugendlich
+juzgado {m} :: Gericht {n}
+juzgar {v} :: beurteilen
+juzgar {v} :: urteilen
+juzgar {v} :: verurteilen; richten
+mala jugada {f} :: böser Streich {m}; Betrügerei {f}; Gemeinheit {f}
+

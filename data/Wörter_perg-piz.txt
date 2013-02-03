@@ -1,0 +1,406 @@
+# Copyright (C) 2008 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+pergamino {m} :: Pergament {n}
+pericial {adj} :: fachkundig
+perico {m} :: Sittich {m} \Tiere
+periferia {f} :: Kreisumfang {m} \Mathematik
+periferia {f} :: Peripherie {f}
+periferia {f} :: Stadtrand {m}
+periferia {f} :: Umkreis {m}
+periférico {adj} :: am Rand liegend; peripher
+perifollo {m} :: Kerbel {m} \Essen \Kräuter
+perilla {f} :: Kinnbart {m} \Personenbeschreibung
+perímetro {m} :: Umfang {m}
+perímetro {m} :: Umkreis {m}
+periodicidad {f} :: Periodizität {f}
+periodismo {m} :: Journalismus {m}
+período {m}; periodo {m} :: Abschnitt {m}; Zeitraum {f}; Periode {f}
+período {m}; periodo {m} :: Menstruation {f}; Periode {f}
+período {m}; periodo {m} :: Periode {f}
+periquito {m} :: Wellensittich {m} \Tiere
+perista {m} :: Hehler {m} \Verbrechen
+peritaje {m} :: Expertise {f}
+peritaje {m} :: Gutachten {n}
+perito {adj} :: kundig
+perito {m} :: Fachmann {m}
+perito {m} :: Gutachter {m} \Berufe
+perito {m} :: Sachverständige {m} \Berufe
+peritonitis {f} :: Bauchfellentzündung {f} \Medizin
+perjudicado {adj} :: geschädigt
+perjudicar {v} :: benachteiligen
+perjudicar {v} :: beschädigen
+perjudicar {v} :: schädigen
+perjudicial {adj} :: schädlich
+perjurar {v} :: einen Meineid leisten \Verbrechen
+perjurio {m} :: Meineid {m} \Verbrechen
+permanecer {v} :: ausharren
+permanecer {v} :: bestehen; bestehen bleiben; fortbestehen; fortdauern
+permanecer {v} :: bleiben
+permanecer {v} :: dableiben
+permanecer {v} :: verweilen
+permanencia {f} :: Aufenthalt {m}
+permanente {adj} :: permanent; dauerhaft
+permanente {f} :: Dauerwelle {f}
+permanente; permanentemente {adv} :: ständig
+permeable {adj} :: durchlässig
+permeable {adj} :: undicht
+permisible {adj} :: zulässig
+permisivo {adj} :: nachgiebig
+¡permiso! [Am.] :: Entschuldigung!; Gestatten Sie!
+permiso {m} :: Erlaubnis {f}
+permiso {m} :: Genehmigung {f}
+permitirse {v} :: sich erlauben; sich herausnehmen
+permitir {v} :: erlauben
+permitir {v} :: ermöglichen
+permitir {v} :: genehmigen
+permitir {v} :: gestatten
+permitir {v} :: zulassen
+permutar {v} :: auswechseln
+permutar {v} :: permutieren
+permutar {v} :: vertauschen
+pernicioso {adj} :: gefährlich
+pernicioso {adj} :: perniziös
+pernicioso {adj} :: schädlich
+pernil {m} :: Eisbein {n} \Essen
+pernil {m} :: Haxe {f} \Essen
+perno {m} :: Bolzen {m} \technik
+pero {conj} :: jedoch; aber
+pero {conj}. :: sondern
+perpendicular {adj} :: senkrecht \Mathematik
+perpetrar {v} :: verüben; vergehen (Verbrechen) \Verbrechen
+perpetuación {f} :: Verewigung {f}
+perpetuar {v} :: verewigen
+perpetuo {adj} :: ewig
+perpetuo {adj} :: lebenslänglich (Strafe) \Recht
+perpleja {adj} :: perplex: stutzig; verdutzt; verblüfft
+perra {f} :: Hündin {f} \Tiere
+perrera {f} :: Hundezwinger {m} \Tiere
+perrero {m} :: Hundefänger {m} \Berufe
+persa {adj} :: persisch
+persecución {f} :: Verfolgung {f}
+perseguir {v} :: verfolgen
+perseverancia {f} :: Beharrlichkeit {f}
+perseverante {adj} :: beharrlich
+perseverar {v} :: ausharren
+persiana {f} :: Rollo {n}; Rollade {f}; Jalousie {f} \Haus
+persistencia {f} :: Ausdauer {f}
+persistencia {f} :: Beharrlichkeit {f}
+persistencia {f} :: Beständigkeit {f}
+persistente {adj} :: ausdauernd
+persistente {adj} :: bleibend
+persistente {adj} :: nachhaltig
+persistir (en) {v} :: bestehen (auf)
+persistir {v} :: andauern
+persistir {v} :: fortbestehen
+personaje {m} :: Figur {f}
+personal {adj} :: persönlich
+personal {m} :: Personal {n}; Belegschaft {f}
+personificación {f} :: Verkörperung {f}
+perspectiva {f} :: Ausblick {m}
+perspectiva {f} :: Perspektive {f}
+perspectiva {f} :: Zukunftsperspektive {f}
+persuadir {v} :: überreden
+persuadir {v} :: überzeugen
+persuasivo {adj} :: überzeugend
+pertenecer (a) {v} :: gehören (zu)
+perteneciente {adj} :: zugehörig
+pertenencia {f} :: Eigentum {n}
+pertenencia {f} :: Zugehörigkeit {f}
+pertinaz {adj} :: hartnäckig; zäh
+pertinente {adj} :: angebracht; angemessen; passend; zutreffend
+pertinente {adj} :: sachgemäß
+perturbación {f} :: Störung {f}
+perturbado {adj} :: verwirrt; gestört
+perturbador {m} :: Störenfried {m}
+perturbar {v} :: stören
+perturbar {v} :: verwirren
+peruano {m} | peruana {f} :: Peruaner {m} | Peruanerin {f}
+perversidad {f} :: Verdorbenheit {f}; Perversion {f}
+perverso {adj} :: böse
+perverso {adj} :: pervers
+perverso {adj} :: verdorben
+pervertir {v} :: pervertieren
+pervertir {v} :: verderben
+pervertir {v} :: verdrehen
+pervertir {v} :: verführen
+pesadez {f}; pesantez {f} :: Schwere {f}
+pesadez {f}; pesantez {f} :: Unfreundlichkeit {f}
+pesadilla {f} :: Alptraum {m}
+pesado {adj} :: anstrengend
+pesado {adj} :: belästigend
+pesado {adj} :: schwer
+pesado {adj} :: unsympathisch; unfreundlich
+pesadumbre {f} :: Kummer {m}; Sorge {f}
+pesa {f} :: Gewicht {n}; Wägestück {n}
+pesa {f} :: Waage {f} \Technik
+pésame {m} :: Beileid {n} \Tod
+pesar {m} :: Sorge {f}; Kummer {m}; Leid {n}
+pesar {v} :: abwiegen
+pesar {v} :: lasten
+pesar {v} :: wiegen
+pescadería {f} :: Fischgeschäft {n} \Einkauf
+pescadero {m} | pescadera {f} :: Fischhändler {m} | Fischhändlerin {f} \Berufe
+pescador {adj} :: fischend; angelnd
+pescador {m} | pescadora {f} :: Angler {m} | Anglerin {f} \Sport
+pescador {m} | pescadora {f} :: Fischer {m} | Fischerin {f} \berufe
+pesca {f} :: Angelsport {m} \Sport
+pesca {f} :: Fang {m}
+pesca {f} :: Fischerei {f}
+pesca {f} :: Fischfang {m}
+pescar {v} :: angeln
+pescar {v} [coloq.] [Chile] :: beachten
+pescar {v} [coloq.] :: schnappen; fangen
+pescar {v} :: fischen
+pescuezo {m} :: Hals {m} \Körper
+pese a :: trotz
+pesebre {m} :: Futterkrippe {f}
+pesebre {m} :: Krippe {f}
+pesetero {adj} :: geizig
+pesimismo {m} :: Pessimismus {m}
+pesimista {adj} :: pessimistisch
+pesimista {m} | pesimista {f} :: Pessimist {m} | Pessimistin {f}
+pésimo {adj} :: sehr schlecht
+peso {m} :: Gewicht {n}
+peso {m} :: Last {f} \Technik
+peso {m} :: Schwere {f}
+pesquera {f} :: Staudamm {m}
+pesquero {f} :: fischend; Fischer-; Fischerei-
+pesquero {f} :: Fischerboot {n}
+pesquisa {f} :: Fahndung {f}
+pesquisa {f} :: Nachforschung {f}
+pesquisa {f} :: Suche {f}
+pestaña {f} :: Karteikarte {f}
+pestaña {f} :: Reiter {m} (Akten)
+pestaña {f} :: Wimper {f} \Körper
+pestañear {v} :: blinzeln
+pestañeo {m} :: Blinzeln {n}
+peste bubónica {f} :: Beulenpest {f} \Medizin
+peste {f} :: ansteckende Krankheit {f} \Medizin
+peste {f} [coloq.] :: Kinderkrankheit {f} \Medizin
+peste {f} :: Seuche {f} \Medizin
+pesticida {m} :: Pestizid {n} \Landwirtschaft
+pestilente {adj} :: stinkend
+pestilente {adj} :: verpestend
+pestillo {m} :: Riegel {m} \Technik
+petaca {f} :: Etui {n}
+pétalo {m} :: Blütenblatt {n} \Pflanzen
+petardear {v} :: betrügen
+petardo {m} [coloq.] :: wertloses Zeug {n}
+petardo {m} :: Feuerwerkskörper {m}
+petición {f} :: Antrag {m}
+petición {f} :: Gesuch {n}
+petición {f} :: Petition {f}
+petiso {adj} :: klein
+petrificar {v} :: versteinern
+petrolera {f} :: Ölgesellschaft {f}
+petrolero {adj} :: Öl-
+petrolero [Chile] {adj} :: Diesel- \Auto
+petulante {adj} :: eitel
+peyorativo {adj} :: abschätzig; abwertend
+pez {f} :: Pech {n} (Material) \Technik
+pezón {m} :: Zitze {f} \Tiere
+pezuña {f} :: Huf {m} \Tiere
+pezuña {f} :: Klaue {f} \Tiere
+piadoso {adj} :: barmherzig
+piadoso {adj} :: fromm \Religion
+piadoso {adj} :: mitleidig
+piano de cola {m} :: Flügel {m} (Musikinstrument) \Musik
+pibe {m} [Arg.] :: kleiner Junge {m}
+picado {adj} :: angefressen (von Schädlingen)
+picado {adj} :: gehackt
+picado {adj} :: schlecht (Essen) \Essen
+picadura {f} :: Stich {m}
+picaflor {m} :: Kolibri {m} \Tiere
+picante {adj} :: pikant
+picaporte {m} :: Türklinke {f} \Haus
+picardía {f} :: Durchtriebenheit {f}; Verschmitztheit {f}; Pfiffigkeit {f}
+pícaro {adj} :: frech
+pícaro {adj} :: heimtückisch
+pícaro {adj} :: schlau
+picarse {v} :: sich ärgern
+picar {v} :: brennen (scharfes Essen)
+picar {v} :: hacken; zerhacken; kleinhacken
+picar {v} :: jucken
+picar {v} :: kribbeln
+picar {v} :: pieken
+picar {v} :: stechen
+picaza {f} :: Elster {f} \Tiere
+picazón {f} :: Jucken {n}
+picazón {f} :: Juckreiz {m} \Medizin
+picha {f} [coloq.] :: Penis {m} \Körper
+pichicata {adj} :: geizig
+pichicata {f} [Am.] [coloq.] :: Drogen {f} {pl} \Drogen
+pichicatearse {v} [Am.] [coloq.] :: drogen nehmen \Drogen
+pichicatero {m} [Am.] [coloq.] :: Drogensüchtiger {m} \Drogen
+pichón {m} :: junge Taube \Tiere \Essen
+pichula [coloq.] [Chile] :: Penis {m} \Körper
+pico {m} [Am.] [coloq.] :: Penis {m} \Körper
+pico {m} :: Gipfel {m}; Berggipfel {m}
+pico {m} :: Schnabel {m} \Tiere
+pico {m} :: Specht {m} \Tiere
+pico {m} :: Spitzhacke {f} \Technik
+picor {m} :: Brennen {n} \Medizin
+picor {m} :: Jucken {n}
+picor {m} :: Juckreiz {m} \Medizin
+picotear {v} :: picken
+piedad {f} :: Erbarmen {n}
+piedad {f} :: Frömmigkeit {f} \religion
+piedad {f} :: Mitleid {n}
+piedra pómez {f} :: Bimsstein {m}
+piel {f} :: Fell {n} \Tiere \Kleidung
+piel {f} :: Schale {f}
+pie {m} :: Fuß {m} \Körper
+pienso {m} :: Futter {n} (Nahrung) \Tiere
+pierna {f} :: Keule {f} \Tiere \Essen
+pieza {f} :: Ersatzteil {n} \Technik
+pieza {f} :: Musikstück {n} \Musik
+pieza {f} :: Stück {n}
+pieza {f} :: Teil {m}
+pieza {f} :: Zimmer {n}; Raum {m} \Haus
+pifiado {adj} :: fehlerhaft
+pifia {f} :: Fehler {m}
+pifiar {v} :: Fehler machen
+pigmentación {f} :: Pigmentierung {f}
+pigmento {m} :: Pigment {n}; Farbstoff {m}
+pigmeo {m} :: Pygmäe {m}
+pijo {m} | pija {f} :: Snob {m}
+pila {f} :: Batterie {f} \Technik
+pila {f} :: Haufen {m}; Stapel {m}
+pilar {m} :: Pfeiler {m} \Architektur
+pilar {m} :: Säule {f} \Architektur
+pileta {f} :: Becken {n}
+pillar {v} :: ertappen; erwischen
+pillar {v} :: erwischen
+pillar {v} :: fangen
+pillar {v} :: kriegen
+pillería {f} :: Gaunerei {f}
+pillo {adj} :: schlau
+pilón {m} :: Trog {m}
+pilotar {v} :: fliegen
+pilotar {v} :: steuern
+pilotear {v} :: lenken
+piloto {m} :: Lotse {m} \Berufe
+piloto {m} | piloto {f} :: Pilot {m} | Pilotin {f} \Berufe
+piloto {m} | piloto {f} :: Rennfahrer {m} | Rennfahrerin {f} \Sport
+piloto {m} | piloto {f} :: Steuermann {m} | Steuerfrau {f} \Berufe
+pilucho {adj} :: nackt
+pina {f} :: Felge {f} \Auto
+pinar {m} :: Kiefernwald {m} \Pflanzen
+pincelar {v} :: anstreichen
+pincel {m} :: Pinsel {m}
+pinchar {v} :: fixen \Drogen
+pinchar {v} :: flirten
+pinchar {v} :: stechen
+pinchazo {m} :: Platten {m} (Reifen) \Auto
+pinchazo {m} :: Stich {m}
+pincho {m} :: Dorn {m}
+pincho {m} :: Spieß {m} \Essen
+pinga {f} :: Schwanz {m} (Penis)
+pinga {m} [Chile] :: Asi {m}
+pingüino {m} :: Pinguin {m} \Tiere
+pintado {adj} :: bemalt
+pintado {adj} :: farbig
+pintado {m} :: Anstrich {m}
+pinta {f} :: Anschein {m}
+pinta {f} :: Aussehen {n}
+pinta {f} :: Fleck {m}
+pinta {f} :: Tupfer {m}
+pintarse {v} :: sich schminken
+pintar {v} :: anstreichen
+pintoresco {adj} :: pittoresk; malerisch
+pintura {f} :: Farbe {f}
+pintura {f} :: Gemälde {n} \Kunst
+pintura {f} :: Malerei {f} \Kunst
+pinza {f} :: Klammer {f}
+pinza {f} :: Klemme {f}
+pinza {f} :: Pinzette {f}
+pinza {f} :: Zange {f} \Technik
+pinzón {m} :: Fink {m} \Tiere
+piñón {m} :: Zahnrad {n}; Ritzel {n} \Technik
+piojento {adj} :: verlaust
+pionero {m} :: Pionier {m}
+pipa {f} :: Pfeife {f} \Drogen
+pipa {f} :: Weinfässchen {n}
+pique {m} :: Pik {n} \Spiele
+pirado {adj} :: verrückt
+piragua {f} :: Einbaum {m}
+piragua {f} :: Kanu {n}
+pirámide {f} :: Pyramide {f}
+piraña {f} :: Piranha {m} \Tiere
+pirata {m} :: Pirat {m} \Verbrechen
+piratear {v} :: rauben
+piratear {v} :: raubkopiern \Computer
+piratería {f} :: Piraterie {f}
+pirómano {m} :: Pyromane {m}; Brandstifter {m} \Verbrechen
+piropear {v} :: Komplimente machen
+pirrarse {v} :: abhauen (weg gehen)
+pirulí {m} :: Lutscher {m} \essen
+pisada {f} :: Fußstapfen {m}
+pisapapeles {m} :: Briefbeschwerer {m}
+pisar {v} :: auftreten
+pisar {v} :: treten
+piscicultura {f} :: Fischzucht {f}
+piscina cubierta {f} :: Hallenbad {n} \Sport
+piscina {f} :: Schwimmbad {n} \Sport
+piscina techada {f} :: Hallenbad {n} \Sport
+pisco {m} :: chilenischer Weinbrandt \Trinken
+piso {m} :: Fußboden {m} \Haus
+piso {m} :: Vorleger {m}; Teppich {m} \Haus
+pisotear {v} :: mit Füßen treten
+pista de aterrizaje {f} :: Landebahn {f}
+pista {f} :: Fahrbahn {f} \Auto \Verkehr
+pista {f} :: Fährte {f}
+pista {f} :: Hinweis {m}; Tipp {m}
+pista {f} :: Piste {f}
+pista {f} :: Platz {m} (Sport) \Sport
+pista {f} :: Track {m} \Musik \Computer
+pistolero {m} :: Revolverheld {m}
+pistón {m} :: Kolben {m} \Technik
+pitada {f} :: Pfiff {m}
+pitar {v} :: hupen \Auto
+pitar {v} :: pfeifen
+pitido {m} :: Pfiff {m}
+pitillo {m} :: Zigarette {f} \Drogen
+pito {m} :: Joint {m} \Drogen
+pito {m} :: Pfeife {f}
+pitón {m} :: Höcker {n} \Tiere
+pitón {m} :: Python {f} \Tiere
+pizarra {f} :: Schiefer {m}
+pizarreño {m} :: Dachplatte {f} \Haus
+pizarrón {m} :: Tafel {f}
+pizca {f} :: Bisschen {n}
+pizca {f} :: Priese {f}
+pizza {f} :: Pizza {f} \Essen
+

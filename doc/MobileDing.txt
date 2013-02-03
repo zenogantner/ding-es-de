@@ -1,0 +1,10 @@
+MobileDing
+----------
+
+Sebastian Bauer hat ein kleines Programm geschrieben, mit dem auf Java-fähigen
+Mobiltelefonen Wörterbuchdateien im ding-Format befragt werden können.
+Die spanisch-deutsche Vokabelliste wird gleich mitgeliefert.
+
+Es kann hier heruntergeladen werden:
+http://www.sebastianbauer.info/index.php?lang=en&page=mobileding
+

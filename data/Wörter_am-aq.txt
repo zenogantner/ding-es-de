@@ -1,0 +1,386 @@
+# Copyright (C) 2006 Matthias Buchmeier
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+ama de casa {f} :: Hausfrau {f}
+ama de llaves {f} :: Haushälterin {f}
+ama {f} :: Herrin {f}
+amamantar :: säugen; stillen
+amanerado; amanerada {adj} :: geziert
+amansar :: besänftigen
+amargado; amargada {adj} :: verbittert
+amargarse :: verbittern; sich ärgern
+amargo; amarga {adj} :: bitter
+amargura {f} :: Bitterkeit {f}; Bitternis {f}
+amar :: lieben
+amarra {f} :: Tau {n}; Ankertau {n}; Schiffstau {n}; Trosse {f}
+amarrar :: vertäuen; befestigen
+amasar :: kneten
+amatista {f} :: Amethyst {m}
+amazona {f} :: Amazone {f} (auch im übertragenen Sinne)
+amazona {f} :: Reiterin {f}
+ámbar {m} :: Bernstein {m}
+ambición {f} :: Ehrgeiz {m}
+ambicioso; ambiciosa {adj} :: ehrgeizig
+ambientar :: anpassen
+ambiente {adj} :: umgebend
+ambiente {m} :: Umgebung {f}
+ambiente {m} :: Umgebung {f}; Ambiente {n}
+ambigüedad {f} :: Zweideutigkeit {f}
+ambiguo; ambigua {adj} :: zweideutig
+ámbito {m} :: Umfeld {n}; Wirkungskreis {m}; Umkreis {m}; Bereich {m}
+ambo {m} [Am.] :: Anzug {m}
+ambos {adj} :: beide
+ambulante {adj} :: umherziehend; fahrend; Straßen-
+ameba {f} :: Amöbe {f}
+amén {m} :: Amen {n} \Religion
+amenaza {f} :: Bedrohung {f}
+amenazar :: bedrohen; drohen
+amianto {m} :: Asbest {m}
+amigable {adj} :: leutselig
+amiga {f} :: Freundin {f}
+amigo {m} :: Freund {m}
+amistad {f} :: Freundschaft {f}
+amnistía {f} :: Amnestie {f}; Begnadigung {f}
+amoblado; amoblada {adj} :: möbliert
+amoblar :: möblieren
+amo de :: Besitzer von
+amo {m} :: Herr {m}
+amoniaco {m} :: Ammoniak {n}
+amoral {adj} :: unmoralisch
+amordazar :: knebeln
+amorfo; amorfa {adj} :: unförmig
+amor {m} :: Liebe {f} \Gefühle
+amoroso; amorosa {adj} :: liebenswürdig; Liebes-
+amortiguador {m} :: Stoßdämpfer {m}
+amortización {f} :: Tilgung {f}; Abschreibung {f}
+amortizar :: amortisieren
+amparar :: beschützen; schützen
+ampararse :: sich schützen; Schutz suchen
+amparo {m} :: Schutz {m}
+amperímetro {m} :: Amperemeter {n}
+ampliación {f} :: Vergrößerung {f}; Ausbau {m}
+ampliar :: ausbauen
+amplificación {f} :: Verstärkung {f}
+amplificador {m} :: Verstärker {m}
+amplificar :: verstärken
+amplio; amplia {adj} :: weiträumig; geräumig; breit
+ampolla {f} :: Ampulle {f}; Phiole {f}
+ampolleta {f} :: Glühbirne {f} \Licht
+amputar :: amputieren \Medizin
+anales {m} {pl} :: Annalen {f} {pl} \Geschichte
+analfabeta {f} :: Analphabetin {f} \Bildung
+analfabeto {m} :: Analphabet {m} \Bildung
+análisis {m} :: Analyse {f}
+analizar :: analysieren
+analogía {f} :: Analogie {f}
+análogo; análoga {adj} :: analog
+ancestral {adj} :: altertümlich
+ancho; ancha {adj} :: breit; weit
+anchoa {f} :: Anchovi {f} \Essen \Fische
+anchura {f} :: Breite {f}
+anciano; anciana {adj} :: alt \Personenbeschreibung
+anciano {m} :: Senior {m} \Personenbeschreibung
+ancla {f} :: Anker {m}
+anclar :: ankern
+andante {adj} :: fahrend; reisend; wandernd
+andar :: laufen
+andrajo {m} :: Lumpen {m} [Kleidung]
+anécdota {f} :: Geschichte {f}; Anekdote {f}
+anécdota {m} :: Anekdote {f}
+anecdótico; anecdótica {adj} :: anekdotisch
+anegar :: überschwemmen
+anemia {f} :: Anämie {f}; Blutarmut {f} \Medizin
+anémona {f} :: Anemone {f} \Pflanzen
+anexar :: anschließen
+anexionar :: annektieren
+anexo {m} :: Anbau {m}; Anschluss {m}
+anfibio; anfibia {adj} :: amphibisch
+anfibio {m} :: Amphibie {m} \Tiere
+anfitrión {m} :: Gastgeber {m}
+anfitriona {f} :: Gastgeberin {f}
+ánfora {f} :: Amphore {f}
+ángel {m} :: Engel {m} \Religion
+ángel protector {m} :: Schutzengel {m} \Religion
+angelical {adj} :: engelhaft
+angora {f} :: Angorawolle {f} \Kleidung
+angosto; angosta {adj} :: eng
+angostura {f} :: Enge {f}
+angstrom {m} :: Angström {n} \Einheiten
+anguila {f} :: Aal {m} \Fische
+angular {adj} :: Winkel-
+ángulo {m} :: Winkel {m} \Mathematik
+ángulo recto {m} :: rechter Winkel {m} \Mathematik
+angustia {f} :: Beklemmung {f}
+anhelar :: ersehnen; wünschen; herbeiwünschen
+anhelo {m} :: Sehnsucht {f}
+anieblarse :: neblig werden
+anilina {f} :: Anilin {n}
+anillo {m} :: Ring {m}
+animado; animada {adj} :: lebhaft
+animador {m} :: Entertainer {m}; Animateur {m} \Berufe
+animadora {f} :: Entertainerin {f}; Animateurin {f} \Berufe
+animal {m} :: Tier {n} \Tiere
+ánima {m} :: Geist {m}
+animar :: aufmuntern
+anímico; anímica {adj} :: seelisch
+ánimo {m} :: Gemüt {n}
+animosidad {f} :: Feindseligkeit {f}
+animoso; animosa {adj} :: beseelt
+aniñado; aniñada {adj} :: kindhaft
+anión {m} :: Anion {n} \Chemie
+aniquilar :: auslöschen
+anís {m} :: Anis {m} \Pflanzen
+anisotropía {f} :: Anisotropie {f}
+anisótropo; anisótropa {adj} :: anisotrop
+aniversario {m} :: Geburtstag {m}
+anochecer {m} :: Abenddämmerung {f}
+anochecer :: Nacht werden; dämmern
+anoche :: letzte Nacht
+anodización {f} :: Eloxierung {f}
+ánodo {m} :: Anode {f} \Physik
+anomalía {f} :: Anomalie {f}
+anómalo :: anomal
+ano {m} :: Anus {m} \Körper
+anona {f} :: Chirimoya {f} \Pflanzen \Essen
+anonimato {m} :: Anonymität {f}
+anónimo; anónima {adj} :: anonym
+anorexia {f} :: Magersucht {f} \Medizin
+anormal {adj} :: abnorm; abartig
+anormalidad {f} :: Anomalie {f}
+anotación {f} :: Notiz {f}
+anotar :: aufschreiben
+ánsar {m} :: Wildgans {f} \Tiere
+ansia {f} :: Gier {f}
+ansiar :: sehnen
+ansiedad {f} :: Beklemmung {f}; Angstzustand {m}; innere Unruhe {f}
+ansioso; ansiosa :: begierig; sehnsüchtig \Gefühle
+ansioso de; ansiosa de :: erpicht auf
+antagónico; antagónica {adj} :: widerstreitend
+antagonismo {m} :: Antagonismus {m}
+antagonista {m} :: Gegenspieler {m}; Antagonist {m}
+ante :: angesichts; vor; gegenüber
+anteanoche {adv} :: vorgestern Abend \Zeit
+anteayer :: vorgestern
+antecedente {m} :: Vorfall {m}
+anteceder :: vorausgehen; vorhergehen
+antecesor {m} :: Vorgänger {m}
+antediluviano; antediluviana {adj} :: vorsintflutlich
+antelación {f} :: Vorwegnahme {f}
+antemano de {adv} :: vorher
+antena {m} :: Antenne {f}
+antepasado {m} :: Vorfahre {m} \Familie
+antepenúltimo; antepenúltima {adj} :: vorvorletzte
+anteponer :: vorziehen
+anterior {adj} :: vorherig
+anterioridad {f} :: Vorzeitigkeit {f}; Frühzeitigkeit {f}
+anteriormente {adv} :: vorher; zuvor
+anteriormente de :: davor
+antesala {f} :: Vorzimmer {n}
+antes de :: vor
+antes :: früher \Zeit
+antes :: vorher \Zeit
+antiácido {m} :: Säureblocker {m} \Chemie
+antiadherente {adj} :: Antihaft-
+antiarrugas :: Antifalten- \Kosmetik
+antibalas {adj} :: kugelsicher \Militär
+antibiótico {m} :: Antibiotikum {n} \Medizin
+anticaspa {adj} :: Antischuppen- \Kosmetik
+anticipado; anticipada {adj} :: vorgezogen
+anticipar :: vorziehen
+anticipo {m} :: Vorschuss {m}
+anticoagulante {m} :: gerinnungshemmendes Mittel {m}
+anticongelante {m} :: Frostschutzmittel {m}
+anticristo {m} :: Antichrist {m} \Religion
+anticuado; anticuada {adj} :: veraltet; altmodisch
+anticucho {m} :: Spießchen {m}
+anticuerpo {m} :: Antikörper {m}
+antideslizante {adj} :: rutschfest
+antídoto {m} :: Gegengift {n} \Medizin
+antifaz {m} :: Maske {f}
+antígeno {m} :: Antigen {n} \Medizin
+antigüedad {f} :: Antiquität {f}
+antiguo; antigua {adj} :: alt; antik
+antihéroe {m} :: Antiheld {m} \Literatur
+antílope {m} :: Antilope {f} \Tiere
+antimateria {f} :: Antimaterie {f} \Physik
+antimonio {m} :: Antimon {n} \Elemente
+antinatural {adj} :: widernatürlich
+antioxidante {m} :: Oxidationshemmer {m} \Chemie
+antipapa {m} :: Gegenpapst {m} \Religion \Geschichte
+antipartícula {m} :: Antiteilchen {n}
+antipatía {f} :: Antipathie {f}; Abneigung {f}
+antipático; antipática {adj} :: unsympathisch
+antípoda {f} :: Gegenpol {m}
+antireflectante {adj} :: entspiegelt
+antisocial {adj} :: asozial
+antojadizo; antojadiza {adj} :: launisch
+antojarse :: Heißhunger haben; Lust haben auf
+antojo {m} :: Heißhunger {m}
+anulación {f} :: Annullierung {f}
+anular :: annullieren
+anunciar :: ankündigen
+anuncio {m} :: Ankündigung {f}; Anzeige {f}
+anzuelo {m} :: Haken {m}
+añadir :: zufügen
+añejarse :: reifen
+añejo; añeja {adj} :: alt; reif
+año {m} :: Jahr {n}
+año nuevo {m} :: Silvester {m}
+añorar :: ersehnen
+apache {m} :: Apache {m}
+apacible {adj} :: gelassen; ruhig
+apaciguar :: schlichten
+apagar :: löschen; ausschalten
+apagón {m} :: Stromausfall {m}
+apalear :: verprügeln (mit Stock)
+aparato {m} :: Gerät {n}; Apparat {m}
+aparcamiento {m} :: Parkplatz {m}
+aparcar :: parken
+aparecer :: erscheinen; auftauchen
+aparecido; aparecida {adj} :: erschienen
+aparejar :: herrichten
+aparentar :: vorspielen; vorgeben; vorspiegeln
+aparente {adv} :: scheinbar
+aparición {f} :: Erscheinung {f}
+apariencia {f} :: Anschein {m}
+apariencia {f} :: Schein {m}; Anschein {m}
+apartado {m} :: Abschnitt {m}; Abteil {n}
+apartamento {m} :: Apartment {n}; Wohnung {f}
+apartar :: trennen
+aparte {adj} :: separat
+aparte {m} :: Absatz {m}
+apasionado; apasionada {adj} :: leidenschaftlich; passioniert
+apatía {f} :: Apathie {f}; Teilnahmslosigkeit {f}
+apático; apática {adj} :: apathisch; teilnahmslos
+apear :: absteigen
+apechugar :: den Gürtel enger schnallen
+apedrear :: steinigen
+apegarse a alguien :: jemandem zugetan sein
+apego {m} :: Anhänglichkeit {f}
+apelar :: appellieren
+apellido {m} :: Nachname {m}
+apenar :: bekümmern
+apenas {adv} :: kaum
+apéndice {m} :: Anhang {m}
+apertura {f} :: Öffnung {f}
+apestado; apestada {adj} :: stinkig
+apestar :: stinken
+apetecer :: schmecken
+apetecible {adj} :: schmackhaft; wünschenswert
+apetito {m} :: Appetit {m} \Essen
+apetitoso; apetitosa {adj} :: lecker
+ápice {m} :: Scheitelpunkt {m}
+apilar :: aufhäufen
+apio {m} :: Sellerie {f} \Essen \Pflanzen
+apisonadora {f} :: Walze {f}
+aplanar :: plätten; abtragen; abbaggern
+aplastar :: zerdrücken
+aplaudir :: applaudieren
+aplauso {m} :: Applaus {m}
+aplazar :: aufschieben
+aplicabilidad {f} :: Anwendbarkeit {f}
+aplicable {adj} :: anwendbar
+aplicación {f} :: Anwendung {f}
+aplicado; aplicada {adj} :: angewandt
+aplicar :: anwenden
+aplique {m} :: Wandlampe {f}
+aplomar :: beschweren
+apocado; apocada {adj} :: kleinmütig
+apocalíptico; apocalíptica {adj} :: apokalyptisch
+apocar :: verringern; erniedrigen
+apoderado {m} :: Bevollmächtigte {m}; Erziehungsberechtigte {m}
+apoderar :: bevollmächtigen
+ápodo {m} :: Spitzname {m}
+apolillado; apolillada {adj} :: verrottet; von Motten zerfressen
+apolillar :: verrotten; von Motten zerfressen werden
+aporrear :: verprügeln
+aportar :: einbringen; beisteuern
+aporte {m} :: Beitrag {m}
+aposento {m} :: Gemach {n}
+apostante {f} :: Wettende {f}
+apostante {m} :: Wettender {m}
+apostar :: wetten; tippen
+apóstol {m} :: Apostel {m} \Religion
+apostura {f} :: Stattlichkeit {f}; sicheres Auftreten {n}
+apoyar :: stützen; lehnen
+apoyo {m} :: Stütze {f}; Hilfe {f}
+apreciable {adj} :: nennenswert; wesentlich
+apreciar :: schätzen
+aprecio {m} :: Achtung {f}
+apremiar :: drängen; zusetzen
+aprender :: lernen
+aprendizaje {m} :: Lehre {f}; Lehrzeit {f} \Bildung
+aprendiz {m} :: Lehrling {m}
+aprensión {f} :: Besorgnis {f}
+aprensivo; aprensiva {adj} :: überängstlich
+apresurado; apresurada {adj} :: hastig
+apresurarse :: sich beeilen
+apretado; apretada {adj} :: eng; geizig
+apretar :: drücken
+apretujar :: drängeln
+aprobación {f} :: Bestehen {n}
+aprobado; aprobada {adj} :: bestanden
+aprobar {v} :: bestehen
+aprobar un examen {v} :: eine Prüfung bestehen \Bildung
+apropiado; apropiada {adj} :: geeignet
+apropiarse :: sich aneignen
+aprovechado; aprovechada {adj} :: ausgenutzt; schickt; ausnützerisch
+aprovechar :: ausnützen
+aprovecharse :: profitieren
+aproximación {f} :: Näherung {f}
+aproximadamente {adv} :: ungefähr
+aproximado; aproximada {adj} :: näherungsweise
+aproximar :: nähern
+aproximar :: runden; aufrunden; abrunden [math.] \Mathematik
+aproximarse :: näher kommen
+aproximativo; aproximativa {adj} :: näherungsweise
+aptitud {f} :: Tauglichkeit {f}; Eignung {f}
+apto; apta {adj} :: fähig
+apuesta {f} :: Wette {f}; Wetteinsatz {m}
+apunarse [Am.] :: die Höhenkrankheit bekommen
+apuntar :: zielen; zeigen auf; unterstreichen; aufschreiben
+apuñalar :: erstechen
+apurar :: drängen
+apuro {m} :: Not {f}; Bedrängnis {f}
+aquel :: dies
+aquella :: diese
+aquello :: dieser
+aquí {adv} :: hier
+aquietar :: beruhigen
+chaleco antibalas {m} :: kugelsichere Weste {f} \Militär
+pan amasado {m} [Chile] :: hausgemachtes Brot {m} \Essen
+papel de antecedentes {m} :: Führungszeugnis {n}
+vendedor ambulante {m} :: Straßenverkäufer {m} \Berufe
+

@@ -1,0 +1,116 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2006 Klaus Meinke
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+análisis numérico {m} :: Numerik {f}; numerische Mathematik {f}
+análisis combinatorio {m} :: Kombinatorik {f}
+análisis matemático {m} :: Analysis {f}
+binomio {m} :: Binom {n}
+cálculo infinitesimal {m} :: Infinitesimalrechnung {f}
+comprobación {f} :: Beweis {m}
+coseno {m} :: Kosinus {m}
+división {f} :: Division {f} [math.]
+estadística matemática {f} :: Statistik {f}
+fórmula {f} :: Formel {f} [math.]
+fracción {f} :: Bruch {m} [math.]
+fracción decimal {f} :: Dezimalbruch {m} [math.]
+función angular {f} :: Winkelfunktion {f} [math.]
+hipérbola {f} :: Hyperbel {f}
+hipotenusa {f} :: Hypotenuse {f}
+ilógico; ilógica :: unlogisch
+impar :: ungerade [math.]
+infinito; infinita {adj} :: unendlich
+línea {f} :: Gerade {f} [math.]
+línea {f} :: Linie {f}
+llave {f} :: geschweifte Klammer {f}
+lógica {f} :: Logik {f}
+lógica matemática {f} :: mathematische Logik {f}
+lógico; lógica :: logisch
+matemáticas {f} {pl} :: Mathematik {f}
+matemático; matemática :: mathematisch
+matriz {f} :: Matrix {f}
+menos :: minus; abzüglich
+multiplicar :: multiplizieren; ausmultiplizieren
+negativo; negativa :: negativ
+numerador {m} :: Zähler {m} [math.]
+número {m} :: Nummer {f}; Zahl {f}
+número de tres dígitos {m} :: dreistellige Zahl {f}
+número de tres cifras {m} :: dreistellige Zahl {f}
+número entero {m} :: ganze Zahl {f}
+número impar {m} :: ungerade Zahl {f}
+número natural {m} :: natürliche Zahl {f}
+número par {m} :: gerade Zahl {f}
+número romano {m} :: römische Zahl {f}
+par :: gerade [math.]
+paréntesis {m} :: Klammer {m}; runde Klammer {f}
+paréntesis angular {m} :: spitze Klammer {f}
+plano {m} :: Ebene {f}
+plano de simetría {m} :: Symmetrieebene {f}
+poner entre paréntesis :: in Klammern setzen [math.]
+por :: mal; malnehmen [math.]
+poligono {m} :: Vieleck {n} [math.]
+porcentaje {m} :: Prozentsatz {m}
+por ciento {m} :: Prozent {n}
+positivo; positiva :: positiv
+probabilidad {f} :: Wahrscheinlichkeit {f}
+prueba {f} :: Beweis {m}
+radio {m} :: Radius {m}
+recta {f} :: Gerade {f} [math.]
+rectangular :: rechtwinklig
+rectángulo {m} :: Rechteck {n}
+reflexión en un eje :: Achsenspiegelung [math.]
+reflexivo; reflexiva :: reflexiv [math.]
+relación {f} :: Relation {f} [math.]
+relación de equivalencia {f} :: Äquivalenzrelation {f}
+representatión grafica {f} :: zeichnerische Darstellung {f} [math.]
+rombo {m} :: Rhombus {m}; Raute {f}
+sacar factor común :: ausklammern [math.]
+segmento {m} :: Strecke {f} [math.]
+simetría {f} :: Symmetrie {f}
+simetría axial {f} :: Achsensymmetrie {f} [math.]
+simétrico; simétrica {adj} :: symmetrisch
+sistema decimal {m} :: Dezimalsystem {n} [math.]
+tabla {f} :: Tabelle {f}
+tabla de multiplicar {f} :: Einmaleins {n} [math.]
+teoría de la probabilidad {f} :: Wahrscheinlichkeitstheorie {f}
+transitivo; transitiva :: transitiv [math.]
+tres por cinco :: drei mal fünf [math.]
+triángolo {m} :: Dreieck {n} [math.]
+triángolo escaleno {m} :: ungleichseitiges Dreieck {n} [math.]
+triángolo equilátero {m} :: gleichseitiges Dreieck {n} [math.]
+triángolo rectángolo {m} :: rechtwinkliges Dreieck {n} [math.]
+triangular {adj} :: dreieckig
+triplicar :: verdreifachen
+vertical :: senkrecht; lotrecht; vertikal
+

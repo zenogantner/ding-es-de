@@ -1,0 +1,380 @@
+# Copyright (C) 2012 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+casa rodante {f} :: Wohnwagen {m}
+riachuelo {m} :: Bach {m}; Flüsschen {n}
+ribera {f} :: Ufer {n}
+ribetear {v} :: säumen
+ribete {m} :: Saum {m}
+ricamente {adv} :: herrlich
+ricamente {adv} :: reichlich
+rico {adj} :: herrlich; toll
+rico {adj} :: lecker; köstlich
+rico {adj} :: niedlich; reizend
+rico {adj} :: reich
+rico {adj} :: reichlich
+rico {adj} :: vermögend
+ridiculez {f} :: Lächerlichkeit {f}
+ridiculizar {v} :: verspotten; lächerlich machen
+ridículo {adj} :: lächerlich
+ridículo {m} :: Lächerlichkeit {f}
+riego {m} :: Bewässerung {f}; Bewässern {n}
+riel {m} :: Bahnschiene {f}
+riel {m} :: Gleis {n}
+riel {m} :: Schiene {f}
+rienda {f} :: Zügel {m}
+riera {f} :: Wassergraben {f}; Bewässerungsgraben {m}
+riesgo {m} :: Gefahr {f}
+riesgo {m} :: Wagnis {n}
+rifa {f} :: Verlosung {f}; Tombola {f}
+rifa {f} :: Zank {m}
+rifar {v} :: auslosen
+rifar {v} :: sich zanken
+rifar {v} :: verlosen
+rifle {m} :: Gewehr {n}
+rígidamente {adj} :: starr; rigide
+rigidez {f} :: Starre {f}
+rigidez {f} :: Starrheit {f}
+rigidez {f} :: Steifheit {f}
+rigidez {f} :: Strenge {f}
+rígido {adj} :: starr
+rígido {adj} :: steif
+rígido {adj} :: streng; rigide
+rigor {m} :: Genauigkeit {f}
+rigor {m} :: Strenge {f}; Härte {f}
+rigurosa {adj} :: genau
+rigurosa {adj} :: hart
+rigurosa {adj} :: rigoros
+rigurosa {adj} :: streng
+rigurosa {adj} :: unnachsichtig
+rima {f} :: Reim {m}
+rimar {v} :: reimen
+rimar {v} :: sich reimen
+rímel {m} :: Wimperntusche {f}
+rincón {m} :: Ecke {f}
+rincón {m} :: Winkel {m}
+rinoceronte {m} :: Rhinozeros {n}; Nashorn {n}
+riña {f} :: Zank {m}; Streit {m}
+riñón {m} :: Niere {f}
+ripiar {v} :: zerstückeln
+ripio {m} :: Bauschutt {m}
+ripio {m} :: Schüttung {m} (Steine)
+risa {f} :: Gelächter {n}
+risco {m} :: Fels {m}
+risco {m} :: Klippe {f}
+risueño {adj} :: freundlich
+risueño {adj} :: heiter
+risueño {adj} :: lächelnd
+risueño {adj} :: vergnügt
+rítmica {f} :: Rhythmik {f}
+rítmico {adj} :: rhythmisch
+ritmo {m} :: Rhythmus {m}
+ritmo {m} :: Takt {m}
+rito {m} :: Ritus {m}
+ritual {adj} :: rituell
+ritual {m} :: Ritual {n}
+rival {adj} :: gegnerisch; rivalisierend
+rivalidad {f} :: Feindschaft {f}
+rivalizar {v} :: rivalisieren
+rival {m} :: Gegner {m}
+rival {m} :: Konkurrent {m}
+rival {m} :: Rivale {m}
+rizado {adj} :: gekräuselt
+rizado {adj} :: gelockt; lockig; wellig (Haare)
+rizar {v} :: kräuseln
+rizar {v} :: locken
+rizoma {m} :: Rhizom {n}
+robado {adj} :: gestohlen; geraubt
+robar {v} :: ausrauben
+robar {v} :: berauben
+robar {v} :: bestehlen
+robar {v} :: stehlen
+roblar {v} :: nieten
+roblonar :: nieten
+roblón {m} :: Niete {f}; Bolzen {m}
+robo {m} :: Diebstahl {m}
+robo {m} :: Nepp {m}
+robusto {adj} :: kräftig
+robusto {adj} :: robust
+roca {f} :: Felsen {m}
+roca {f} :: Fels {m}
+roca {f} :: Gestein {n}
+roce {m} :: Berührung {f}
+roce {m} :: Reibung {f}
+rociado {adj} :: besprüht
+rociador {m} :: Düse {f}
+rociar {v} :: benetzen 
+rociar {v} :: bespritzen
+rociar {v} :: besprühen
+rociar {v} :: sprengen (Pflanzen)
+rociar {v} :: tauen
+rocío {m} :: Spray {m}
+rocío {m} :: Sprühregen {m}
+rococó {m} :: Rokoko {n}
+rocoso {adj} :: felsig
+rodaja {f} :: Rolle {f}
+rodaja {f} :: Scheibe {f} (Aufschnitt, Käse)
+rodaje {m} :: Dreharbeiten {f} {pl} (Film)
+rodal {m} :: Hügel {m}
+rodamiento {m} :: Kugellager {n} \Technik
+rodamiento {m} :: Lager {n} \Technik
+rodante {adj} :: rollend
+rodapié {m} :: Fußleiste {f}
+rodar {v} :: drehen
+rodar {v} :: drehen; Film drehen
+rodar {v} :: fahren
+rodar {v} :: kugeln
+rodar {v} :: rollen
+rodar {v} :: wälzen
+rodear {v} :: säumen; umsäumen
+rodear {v} :: umringen
+rodear {v} :: umrunden
+rodeo {m} :: Rodeo {n}
+rodeo {m} :: Umweg {m}
+rodillera {f} :: Knieschützer {m}
+rodillo {m} :: Farbrolle {f}; Farbwalze {f}
+rodillo {m} :: Nudelholz {n}
+rodillo {m} :: Rolle {f}
+rodillo {m} :: Walze {m}
+roer {v} :: nagen
+roer {v} :: zerfressen
+rogante {adj} :: bittend
+rogar {v} :: erbitten
+rogar {v} :: flehen
+roldana {f} :: Flaschenzug {m}
+rollo {m} :: Angelegenheit {f}; Affäre {f}; Szene {f}
+rollo {m} :: Film {m}
+rollo {m} :: Geschwätz {n}; Gerede {n}
+rollo {m} :: Rolle {f}
+rollo {m} :: Walze {f}
+rol {m} :: Rolle {f}
+romance {m} :: Romanze {f}
+romano {m} | romana {f} :: Römer {m} | Römerin {f}
+romanticismo {m} :: Romantik {f}
+romántico {adj} :: romantisch
+romaza {f} :: Ampfer {m}; Sauereampfer {m}
+rombo {m} :: Karo {n}
+romero {m} | romera {f} :: Pilger {m} | Pilgerin {f}
+romero {m} :: Rosmarin {m}
+rompecabezas {m} :: Rätsel {n}; Denksportaufgabe {f}
+rompehielos {m} :: Eisbrecher {m}
+rompeolas {m} :: Wellenbrecher {m}
+romperse {v} :: kaputt gehen
+romper {v} :: beschädigen
+romper {v} :: brechen (Knochen)
+romper {v} :: kaputt machen
+romper {v} :: zerbrechen
+romper {v} :: zerreißen
+romper {v} :: zerschlagen
+romper {v} :: zerstören
+rompible {adj} :: zerbrechlich
+roncador {adj} :: schnarchend
+roncador {m} :: Schnarcher {m}
+roncar {v} :: schnarchen
+roncear {v} :: trödeln; bummeln
+roncha {f} :: Quaddel {f}
+roncha {f} :: Strieme {f}
+ronchas {f} {pl} :: Ausschlag {f}
+ronco {adj} :: heiser
+ronco {adj} :: rau
+ronda {f} :: Runde {f}
+ronda {f} :: Rundgang {m}
+rondar {v} :: bummeln
+rondar {v} :: eine Runden drehen
+rondar {v} :: streifen
+rondar {v} :: umkreisen
+ron {m} :: Rum {m}
+ronquera {f} :: Heiserkeit {f}
+ronquido {m} :: Schnarchen {n}
+ronronear {v} :: schnurren
+ronroneo {m} :: Schnurren {n} (Katze)
+roña {f} :: Geiz {m}
+roña {f} :: Räude {f}
+roñería {f} :: Knauserei {f}
+roñoso {adj} :: knauserig
+roñoso {adj} :: räudig
+roñoso {adj} :: schäbig
+ropa de cama {f} :: Bettwäsche {f}
+ropa {f} :: Bekleidung {f}
+ropa {f} :: Klamotten {f} {pl} [coloq.]
+ropa {f} :: Wäsche {f}
+ropa interior {f} :: Unterwäsche {f}
+ropero {m} :: Kleiderschrank {m}
+roque {m} :: Felsen {m}
+roque {m} :: Stein {m}
+roque {m} :: Turm {m} (Schach)
+rosácea {f} :: Rosazea {f} \Medizin
+rosáceo {adj} :: rosenfarbig
+rosado {adj} :: rosa; rosarot
+rosado {m} :: Roséwein {m}
+rosado :: rötlich
+rosa {f} :: Rose {f}
+rosal {m} :: Rosenstock {m}; Rosenstrauch {m}
+rosbif {m} :: Roastbeef {n}
+rosca {f} :: Donut {m} (Gebäck)
+rosca {f} :: Gewinde {n} \Technik
+rosca {f} :: Schnecke {f} (Gebäck)
+roscar {v} :: Gewinde schneiden
+rosillo {adj} :: hellrot
+rosquilla {f} :: Kringel {m}; Brezel {f}
+rotación {f} :: Drehung {f}
+rotación {f} :: Rotation {f}
+rotar {v} :: rotieren
+rotativo {adj} :: Dreh-; drehbar
+rotatorio {adj} :: drehbar
+rotatorio {adj} :: drehend; rotierend
+roto {adj} :: kaputt [coloq.] 
+roto {adj} :: zerbrochen; gebrochen
+rotonda {f} :: Kreisverkehr {m}
+rotonda {f} :: Rotunde {f} \Technik
+rotor {m} :: Rotor {m}
+rotulador {m} :: Filzstift {m}
+rotulador {m} :: Marker {m}; Textmarker {m}
+rótula {f} :: Kniescheibe {f}
+rótula {f} :: Kugelgelenk {n} \Technik
+rotular {v} :: beschildern
+rotular {v} :: beschriften
+rotular {v} :: etikettieren
+rótulo {m} :: Etikett {n}
+rótulo {m} :: Schild {n}
+rotundidad {f} :: Bestimmtheit {f}
+rotundo {adj} :: bestimmt; entschieden
+rotundo {adj} :: ganz; vollständig; kategorisch
+rotura {f} :: Brechen {n}
+rotura {f} :: Bruch {m}
+rozadura {f} :: Schrammen {n}; Kratzer {m}
+rozamiento {m} :: Reibung {f}
+rozar {v} :: berühren
+rozar {v} :: reiben
+rozar {v} :: roden
+rozar {v} :: scheuern
+rozar {v} :: streifen
+roznar {v} :: knabbern
+rúbeo {adj} :: rötlich
+rubéola {f} :: Röteln {f} {pl} \Medizin
+rubeta {f} :: Unke {f}
+rubia {f} :: Blondine {f}
+rubí {m} :: Rubin {m}
+rubio {adj} :: blond
+rubio {adj} :: hellhaarig
+rubio {adj} (tabaco, cerveza) :: hell
+rublo {m} :: Rubel {m}
+rublo {m} :: Rupie {f}
+ruborizarse {v} :: erröten; rot werden
+rubor {m} :: Scham {f}; Schamröte {f}; Erröten {n}
+ruboroso {adj} :: schamrot; errötet
+rúbrica {f} :: Rubrik {f}
+rúbrica {f} :: Überschrift {f}
+rubro {m} :: Fach {n}; Gebiet {n}
+rudeza {f} :: Rauheit {f}; Derbheit {f} 
+rudimentario {adj} :: primitiv; rudimentär
+rudimento {m} :: Grundbegriff {m}
+rudo {adj} :: harsch; rüde
+rudo {adj} :: plump
+rudo {adj} :: rau; roh; grob
+rudo {adj} :: ungebildet
+rueca {f} :: Spinnrad {n}
+rueda de prensa {f} :: Pressekonferenz {f}
+rueda {f} :: Runde {f}
+rueda {f} :: runde Scheibe {f}
+ruedo {m} :: Arena {f}; Stierkampfarena {f}
+rufián {m} :: Ganove {m}; Gauner {m}; Schurke {m}
+rufián {m} :: Zuhälter {m}
+rufo {adj} :: angeberisch
+rugido {m} :: Brüllen {n}
+rugido {m} :: Knurren {n}
+rugido {m} :: Tosen {n}
+rugir {v} :: brausen
+rugir {v} :: brüllen
+rugir {v} :: tosen
+rugoso {adj} :: rau
+rugoso {adj} :: runzelig
+ruibarbo {m} :: Rhabarber {m}
+ruido {m} :: Geräusch {n}
+ruido {m} :: Krach {m}
+ruido {m} :: Lärm {m}
+ruido {m} :: Rauschen {n} (Radio, Fernsehen)
+ruidoso {adj} :: lärmend
+ruidoso {adj} :: laut
+ruidoso {adj} :: verrauscht
+ruin {adj} :: erbärmlich; armselig
+ruin {adj} :: gemein
+ruin {adj} :: schäbig; geizig; knauserig
+ruina {f} :: Ruin {m}
+ruina {f} :: Untergang {m}; Niedergang {m}
+ruina {f} :: Zusammenbruch {m}; Zerfall {m}
+ruinosa {adj} :: ruinös
+ruinosa {adj} :: schädlich
+ruinoso; en ruina {adj} :: baufällig
+ruiseñor {m} :: Nachtigall {f} \Vögel
+ruleta {f} :: Roulette {n}
+rulo {m} :: Locke {f}
+rulo {m} :: Lockenwickler {m}
+rulo {m} :: Walze {f}
+Rumania; Romanía :: Rumänien
+rumano {adj} :: rumänisch
+rumano {m} | rumana {f} :: Rumäne {m} | Rumänin {f}
+rumano {m} :: Rumänisch {n}
+rumba {f} :: Rumba {f} \Musik
+rumbear {v} :: feiern
+rumbo {m} :: Fahrtrichtung {f}
+rumbo {m} :: Kurs {m}
+rumbo {m} :: Richtung {f}
+rumbo {m} :: Weg {m}
+rumbo {m} :: Ziel {n}
+rumboso {adj} :: prunkvoll; prächtig
+rumiante {m} :: Wiederkäuer {m}
+rumiar {v} :: wiederkäuen
+rumorear {v} :: munkeln
+rumor {m} :: Geräusch {n}; Stimmengewirr {n}
+rumor {m} :: Gerücht {n}; Gemunkel {n}
+rumoroso {adj} :: lärmend
+runrunear {v} :: brummen, surren, schnurren
+runrún {m} :: Surren {n}; Schnurren {n}; Brummen {n}
+rupia {f} :: Rupie {f}
+ruptura {f} :: Abbruch {m} (Beziehungen)
+ruptura {f} :: Bruch {m}; Riss {m}
+rural {adj} :: ländlich; Land-
+Rusia :: Russland
+ruso {adj} :: russisch
+ruso {m} | rusa {f} :: Russe {m} | Russin {f}
+ruso {m} :: Russisch {n}
+rústico {adj} :: einfach; derb; grob; rustikal
+rustico {adj} :: ländlich; dörflich
+ruta {f} :: Strecke {f}
+ruta {f} :: Weg {m}; Straße {f}
+rutina {f} :: Routine {f}
+rutinario {adj} :: gewohnheitsmäßig; Gewohntheits-
+rutinario {adj} :: routinemäßig; Routine-
+rutinario {adj} :: routiniert
+

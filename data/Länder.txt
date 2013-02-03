@@ -1,0 +1,349 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# Länder, Erdteile, Regionen
+# zu tun: - Flüsse, Meere usw. in eigene Datei
+#         - Artikel einfügen wo nötig/sinnvoll
+#         - Genus-Informationen einfügen
+#         - Dateien mit Kantonen, Bundesländern, autonomen Regionen
+
+
+Afganistán :: Afghanistan {n}
+África {f} :: Afrika {n}
+africano; africana {adj} :: afrikanisch
+albanés; albanesa {adj} :: albanisch; aus Albanien
+albano; albana {adj} :: albanisch
+Albania {f} :: Albanien {n}
+alemán; alemana {adj} :: deutsch; aus Deutschland
+alemana {f} :: Deutsche {f}
+alemán {m} :: Deutscher {m}
+Alemania {f} :: Deutschland {n}
+Alemania occidental {f}; Alemania del Oeste {f} :: Westdeutschland {n}
+Alemania oriental {f}; Alemania del Este {f} :: Ostdeutschland {n}
+Alta Baviera {f} :: Oberbayern {n}
+Alto Volta :: Obervolta; Burkina Faso
+América {f} :: Amerika {n}
+América Central {f} :: Mittelamerika {n}; Zentralamerika {n}
+América del Norte {f}; Norteamérica {f} :: Nordamerika {n}
+América del Sur {f}; Sudamérica {f} :: Südamerika {n}
+América Latina {f} :: Lateinamerika {n}
+América meridional {f} :: Südamerika {n}
+americano; americana {adj} :: amerikanisch
+Andalucía {f} :: Andalusien {n}
+andaluz {adj} :: andalusisch; aus Andalusien
+Andes {m} {pl} :: Anden {f} {pl}
+andino; andina {adj} :: Anden-
+Andorra :: Andorra
+Angola :: Angola
+Antártida {f} :: Antarktis {f}
+antártico; antártica {adj} :: antarktisch
+Arabia :: Arabien
+Arabia Saudita; Arabia Saudí :: Saudi-Arabien
+Argelia {f} :: Algerien {n}
+argelino; argelina {adj} :: algerisch
+Argentina {f} :: Argentinien {n}
+argentino; argentina {adj} :: argentinisch
+argentino {m} :: Argentinier {m}
+argentina {f} :: Argentinierin {f}
+Armenia :: Armenien
+armenio; armenia {adj} :: armenisch; aus Armenien
+ártico; ártica {adj} :: arktisch
+Asia :: Asien
+Asia Menor :: Kleinasien; Vorderasien
+# ähem, da gibt es doch einen Unterschied, oder? Lieber mal nachprüfen
+asiático; asiática {adj} :: asiatisch
+Australia :: Australien
+australiano; australiana {adj} :: australisch
+Austria :: Österreich
+austriaco; austriaca {adj} :: österreichisch
+
+Baden-Wurtemberg {m} :: Baden-Württemberg {n}
+Bahréin :: Bahrain
+Baja Baviera {f} :: Niederbayern {n}
+Baja Sajonia {f} :: Niedersachsen {n}
+Balcanes {m} {pl} :: Balkan {m}
+balcánico; balcánica {adj} :: Balkan-; vom Balkan
+Baviera {f} :: Bayern {n}
+Baviera Alta {f} :: Oberbayern {n}
+Baviera Baja {f} :: Niederbayern {n}
+Bélgica :: Belgien
+Bielorrusia :: Weißrussland
+Birmania :: Birma; Burma
+Bolivia :: Bolivien
+Bósforo {m} :: Bosporus {m}
+Bosnia :: Bosnien
+Brandeburgo {m} :: Brandenburg {n}
+Brasil {m} :: Brasilien {n}
+británica; británico {adj} :: britisch
+Bulgaria :: Bulgarien
+California :: Kalifornien
+Camboya :: Kambodscha
+Camerún :: Kamerun
+canaria {f} :: Kanarin {f}
+canario {m} :: Kanare {m}
+canario; canaria {adj} :: kanarisch; von den Kanarischen Inseln
+castellano; castellana {adj} :: kastilisch; aus Kastilien
+castellano-manchego; castellana-manchega :: aus Kastilien-La Mancha
+catalán; catalana {adj} :: katalanisch
+catalán {m} :: Katalane {m}
+catalana {f} :: Katalanin {f}
+Cataluña :: Katalonien
+Centroáfrica :: Zentralafrika
+Cerdeña :: Sardinien
+Chad :: Tschad
+Chequia :: Tschechien
+República Checa {f} :: Tschechische Republik {f}
+Chile :: Chile
+chilena {f} :: Chilenin {f}
+chileno {m} :: Chilene {m}
+chileno; chilena {adj} :: chilenisch
+China :: China
+chinesca; chinesco {adj} :: chinesisch
+chino; china {adj} :: chinesisch
+Chipre :: Zypern
+Ciudad del Vaticano :: Vatikanstadt
+Colombia :: Kolumbien
+Córcega :: Korsika
+Corea :: Korea
+Corea del Norte :: Nordkorea
+Corea del Sur :: Südkorea
+Costa Rica :: Costa Rica
+Creta :: Kreta
+Crimea {f} :: Krim {f}
+Croacia :: Kroatien
+Cuba :: Kuba
+danés :: dänisch
+Danubio {m} :: Donau {f}
+Dinamarca :: Dänemark
+Ecuador :: Ecuador
+Egipto :: Ägypten
+El Salvador :: El Salvador
+Emiratos Árabes Unidos :: Vereinigte Arabische Emirate
+Escandinavia :: Skandinavien
+escandinavo; escandinava {adj} :: skandinavisch
+Escocia :: Schottland
+eslovaca {f} :: Slowakin {f}
+eslovaco {m} :: Slowake {m}
+eslovaco; eslovaca {adj} :: slowakisch
+Eslovaquia :: Slowakei
+eslovena {f} :: Slowenin {f}
+esloveno {m} :: Slowene {m}
+esloveno; eslovena {adj} :: slowenisch
+Eslovenia :: Slowenien
+España :: Spanien
+español; española {adj} :: spanisch
+español {m} :: Spanier {m}
+española {f} :: Spanierin {f}
+Estados Unidos :: Vereinigte Staaten
+EE.UU. :: USA
+Estiria :: Steiermark
+Estonia :: Estland
+estoniano; estoniana {adj} :: estnisch
+Etiopía :: Äthiopien
+Europa {f} :: Europa {n}
+Europa Central {f} :: Mitteleuropa {n}
+
+Filipinas {f} {pl} :: Philippinen {f} {pl}
+filipino; filipina {adj} :: philippinisch
+Finlandia :: Finnland
+Flandes :: Flandern
+francés; francesa {adj} :: französisch
+Francia :: Frankreich
+franja de Gaza {f}; Franja de Gaza {f} :: Gazastreifen {m}
+Frisia :: Friesland
+India {f} :: Indien {n}
+Indias Occidentales :: Westindien
+Inglaterra {f} :: England {n}
+inglés; inglesa {adj} :: englisch
+Irak; Iraq :: Irak {n}; Irak {m}
+Irán :: Iran {n}; Iran {m}
+Irlanda :: Irland
+Irlanda del Norte :: Nordirland
+irlandés; irlandesa {adj} :: irisch
+islandés; islandesa {adj} :: isländisch
+Islandia :: Island
+Islas Canarias {f} {pl} :: Kanarische Inseln {f} {pl}
+Islas Marshall {f} {pl} :: Marshall-Inseln {f} {pl}
+Israel :: Israel
+israelí {adj} :: israelisch; aus Israel
+israelí {m} :: Israeli {m}
+Italia :: Italien
+italiano; italiana {adj} :: italienisch
+Japón :: Japan
+japonés; japonesa {adj} :: japanisch
+japonés {m} :: Japaner {m}
+japonesa {f} :: Japanerin {f}
+#Kirguizia				Kirgisien
+#Kirguizistán				Kirgisien
+Letonia :: Lettland
+Levante {m} :: spanische Ostküste {f}
+levantino; levantina {adj} :: von der spanischen Ostküste; levantinisch
+libanés; libanesa {adj} :: libanesisch
+libanés {m} :: Libanese {m}
+libanesa {f} :: Libanesin {f}
+Líbano :: Libanon
+Libia :: Libyen
+libia {f} :: Libyerin {f}
+libio {m} :: Libyer {m}
+libio; libia {adj} :: libyisch
+Lituania :: Litauen
+Luxemburgo :: Luxemburg
+Macedonia :: Mazedonien; Makedonien
+Magreb {m} :: Maghreb {m}
+magrebí {adj} :: maghrebinisch; aus dem Maghreb
+Malasia {f}; Malaisia {f} :: Malaysia {n}
+Malí :: Mali
+Malta :: Malta
+manchego; manchega {adj} :: aus La Mancha
+Manchuria :: Mandschurei
+Marruecos :: Marokko
+marroquí {adj} :: marokkanisch; aus Marokko
+marroquí {m} :: Marokkaner {m}
+marroquí {f} :: Marokkanerin {f}
+mora {f} [pey.] :: Araberin {f}
+moro {m} [pey.] :: Araber {m}
+moro; mora [pey.] :: arabisch
+Méjico; México :: Mexiko
+Moldavia :: Moldawien {n}; Moldau
+Mónaco :: Monaco
+Montañas Rocosas {f} {pl} :: Rocky Mountains {m} {pl}; Rockies {m} {pl}
+Moravia :: Mähren {n}
+navarro; navarra {adj} :: aus Navarra
+Nepal :: Nepal {n}
+Nicaragua :: Nicaragua {n}
+Normandía :: Normandie {f}
+norteamericano; norteamericana {adj} :: nordamerikanisch
+norteuropeo; norteuropea {adj} :: nordeuropäisch
+# TODO: ee? e?
+Noruega :: Norwegen {n}
+Nueva Guinea :: Neuguinea
+Nueva Zelanda :: Neuseeland {n}
+Nuevo Méjico {m}; Nuevo México {m} :: New Mexiko {n}
+
+Oceanía :: Ozeanien
+Omán :: Oman
+otomano; otomana {adj} :: türkisch; osmanisch
+
+Países Bajos :: Niederlande
+Palatinado :: Pfalz
+Panamá :: Panama
+Pakistán; Paquistán :: Pakistan
+pakistaní; paquistaní {adj} :: pakistanisch
+Palestina :: Palästina
+paquistaní {m}; pakistaní {m} :: Pakistaner {m}
+paquistaní {f}; pakistaní {f} :: Pakistanerin {f}
+Patagonia :: Patagonien
+Peloponeso :: Peloponnes
+península Ibérica {f} :: iberische Halbinsel {f}
+Pensilvania :: Pennsylvanien; Pennsylvania
+Perú :: Peru
+peruano; peruana {adj} :: peruanisch; aus Peru
+Pirineos {m} {pl} :: Pyrenäen {m} {pl}
+polaco; polaca {adj} :: polnisch
+Polonia :: Polen
+Pomerania :: Pommern
+Portugal :: Portugal
+portugués :: portugiesisch
+Provenza {f} :: Provence {f}
+Puerto Rico :: Puerto Rico
+Punjab :: Pandschab
+
+Qatar :: Katar
+
+Rajastán :: Rajastan
+Reino Unido {m} :: Vereinigtes Königreich {n}
+Reino Unido de Gran Bretaña e Irlanda del Norte {m} :: Vereinigtes Königreich von Großbritannien und Nordirland {n}
+Renania :: Rheinland
+Renania del Norte-Westfalia :: NRW : Nordrhein-Westfalen
+República Centroafricana :: Zentralafrikanische Republik
+República Checa :: Tschechische Republik
+República Dominicana {f} :: Dominikanische Republik {f}
+rioplatense {adj} :: aus den Rio-de-la-Plata-Staaten
+Ródano {m} :: Rhône {f}
+Rodas :: Rhodos
+Rumania :: Rumänien
+Rusia :: Russland
+
+Saboya :: Savoyen
+Sahara {f} :: Sahara {f}
+Sajonia {f} :: Sachsen {n}
+Sajonia-Anhalt {f} :: Sachsen-Anhalt {n}
+San Gotardo :: Sankt Gotthard
+Selva Negra {f} :: Schwarzwald {m}
+Serbia; Servia :: Serbien
+serbio; serbia; servio; servia {adj} :: serbisch; aus Serbien
+Siberia :: Sibirien
+Sicilia :: Sizilien
+Silesia :: Schlesien
+Singapur :: Singapur
+Siria :: Syrien
+Suabia :: Schwaben
+Sudáfrica :: Südafrika
+Sudán :: Sudan
+Suecia :: Schweden
+sueco; sueca {adj} :: schwedisch
+Suiza {f} :: Schweiz {f}
+
+tailandés; tailandesa {adj} :: thailändisch; aus Thailand
+Tailandia :: Thailand
+Tayikistán :: Tadschikistan {n}
+Tejas; Texas :: Texas {n}
+Tenerife :: Teneriffa
+Tercer Mundo {m} :: Dritte Welt {f}
+Terranova :: Neufundland {n}
+Tesino {m} :: Tessin {n}; Kanton Tessin {m}
+Tibet :: Tibet {n}
+Tirol :: Tirol {n}
+Transilvania :: Siebenbürgen {n}; Transsylvanien {n}
+#Túnez; Tunicia				Tunesien
+Túnez :: Tunesien
+Turingia {f} :: Thüringen {n}
+Turquía {f} :: Türkei {f}
+
+Ucrania :: Ukraine
+UE : Unión Europea {f} :: EU : Europäische Union {f}
+Montes Urales :: Ural
+Uruguay :: Uruguay
+
+vasco; vasca {adj} :: baskisch
+venezolano; venezolana {adj} :: venezolanisch; aus Venezuela
+Venezuela :: Venezuela
+Vesubio {m} :: Vesuv {m}
+Vietnam :: Vietnam
+Vosgos {m} {pl} :: Vogesen {f} {pl}
+Westfalia :: Westfalen
+Wurtemberg :: Württemberg
+Yemen :: Jemen
+Zimbabue :: Zimbabwe; Simbabwe
+

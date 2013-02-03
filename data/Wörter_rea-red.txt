@@ -1,0 +1,433 @@
+# Copyright (C) 2011 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+de rechupete :: köstlich
+reabrir {v} :: wieder eröffnen
+reaccionario {adj} :: reaktionär; rückschrittlich \Politik
+reaccionar {v} :: reagieren
+reacción {f} :: Reaktion {f}
+reacción {f} :: Rückkopplung {f} \Technik
+reacción {f} :: Rückstoß {f} \Technik
+reacción {f} :: Rückwirkung {f}
+reacción {f} :: Verhalten {n}
+reacio {adj} :: abgeneigt
+reacio {adj} :: widerspenstig; störrisch
+reactivar {v} :: reaktivieren
+reactivo {adj} :: reagierend
+reactivo {adj} :: reaktiv
+reactivo {m} :: Reagenz {f} \Chemie
+reactor {m} :: Reaktor {m} \Technik
+reafirmar {v} :: bestätigen
+reajuste {m} :: Nachjustierung
+reajuste {m} :: Neuanpassung {f}
+reajuste {m} :: Umstellung {f}
+real {adj} :: königlich; Königs- \Adel
+real {adj} :: real
+real {adj} :: reell (Zahlen) \Mathematik
+real {adj} :: tatsächlich
+real {adj} :: wahr
+real {adj} :: wirklich
+realeza {f} :: Königshaus {n} \Adel
+realista {adj} :: realistisch
+realista {adj} :: realitätsnah
+realista {adj} :: royalistisch \Adel \Politik
+realista {m} | realista {f} :: Realist {m} | Realistin {f}
+realizable {adj} :: realisierbar; machbar
+realización {f} :: Ausführung {f}
+realización {f} :: Durchführung {f}
+realización {f} :: Umsetzung {f}
+realizar {v} :: ausführen
+realizar {v} :: betreiben
+realizar {v} :: bewerkstelligen
+realizar {v} :: durchführen
+realizar {v} :: erzielen
+realizar {v} :: machen
+realizar {v} :: tätigen
+realizar {v} :: zustande bringen
+realizar {v} :: zustande kommen
+realmente {adv} :: in der Tat; allerdings
+realmente {adv} :: tatsächlich
+realmente {adv} :: wahrlich
+realquilar {v} :: untervermieten
+realzar {v} :: hervorheben; unterstreichen
+reanimación {f} :: Wiederbelebung {f} \Medizin
+reanimar {v} :: beleben
+reanimar {v} :: wiederbeleben
+reanimar {v} :: wieder erwecken
+reaparecer :: wieder erscheinen
+reavivar {v} :: wiederbeleben
+rebaja {f} :: Ermäßigung {f}; Rabatt {m}; Preisnachlass {m} \Einkauf
+rebajar {v} :: ermäßigen; heruntersetzen; verbilligen \Einkauf
+rebajar {v} :: erniedrigen
+rebajar {v} :: mindern; niedriger machen
+rebajas {f} {pl} :: Ausverkauf {m}; Schlussverkauf {m} \Einkauf
+rebanada {f} :: Scheibe {f}
+rebanada {f} :: Schnitte {f}
+rebanar {v} :: in Scheiben schneiden
+rebaño {m} :: Herde {f} \Landwirtschaft \Tiere
+rebelarse {v} :: rebellieren
+rebelarse {v} :: sich auflehnen
+rebelde {adj} :: aufsässig
+rebelde {m,f} :: Rebelle {m} |Rebellin {f} \Politik
+rebeldía {f} :: Aufsässigkeit {f}; Widerspenstigkeit {f}
+rebelión {f} :: Aufstand {m}; Revolte {f} \Politik
+rebelión {f} :: Rebellion {f} \Politik
+reblandecer {v} :: weich machen
+rebobinar {v} :: zurück spulen
+rebosante {adj} :: überlaufend
+rebosante {adj} :: überquellend
+rebosar {v} :: strotzen
+rebosar {v} :: überlaufen
+rebotar {v} :: abprallen; abspringen; zurückprallen
+rebotar {v} :: zurückspringen
+rebotar {v} :: zurückstoßen
+rebozar {v} :: panieren \Essen
+rebozar {v} :: verhüllen
+rebullir {v} :: aufsprudeln
+rebuscar {v} :: durchforsten; durchsuchen
+recado {m} :: Auftrag {m}
+recado {m} :: Besorgung {f}
+recado {m} :: Bestellung {f}
+recado {m} :: Nachricht {f}
+recaer {v} :: rückfällig werden
+recaída {f} :: Rückfall {m}; Rückschlag {m} \Medizin
+recalcar {v} :: betonen
+recalcar {v} :: einbläuen
+recalcar {v} :: unterstreichen
+recalentar {v} :: aufwärmen
+recalentar {v} :: überhitzen
+recámara [Mexico] {f} :: Schlafzimmer {n} \Haus
+recambiar {v} :: austauschen; auswechseln
+recambio {m} :: Austausch {m}
+recambio {m} :: Auswechslung {f}
+recambio {m} :: Ersatzteil {n} \Technik \Auto
+recapacitar {v} :: genau nachdenken
+recapacitar {v} :: ins Gedächtnis zurückrufen
+recapacitar {v} :: wiederholen
+recapacitar {v} :: zusammenfassen
+recapitulación {f} :: Wiederholung {f}
+recapitulación {f} :: Zusammenfassung {f}
+recargable {adj} :: wiederaufladbar \Technik
+recarga {f} :: Aufladung {f} \Technik
+recarga {f} :: Nachfüllung {f}
+recargar {v} :: nachladen
+recargar {v} :: wiederaufladen \Technik
+recargo {m} :: Aufschlag {m}; Aufpreis {m}; Zuschlag {m}
+recatado {adj} :: behutsam; zurückhaltend
+recatado {adj} :: ehrbar; sittsam
+recatar {v} :: verbergen
+recatar {v} :: verdecken
+recato {m} :: Ehrbarkeit {f}; Sittsamkeit {f}
+recato {m} :: Vorsicht {f}
+recato {m} :: Zurückhaltung {f}
+recaudación {f} :: Einnahmen {f} {pl}
+recaudar {v} :: einfordern
+recaudar {v} :: eintreiben
+recaudar {v} :: einziehen
+recechar {v} :: pirschen
+rececho {m} :: Pirsch {f}
+recelar {v} :: argwöhnen; misstrauen
+recelo {m} :: Befürchtung {f}
+recelo {m} :: Misstrauen {n}
+receloso {adj} :: argwöhnisch
+receloso {adj} :: besorgt
+recepción {f} :: Aufnahme {f}
+recepción {f} :: Empfang {m}
+recepción {f} :: Erhalt {m}
+recepcionista {m,f} :: Empfangschef {m}| Empfangsdame {f}
+receptáculo {m} :: Behälter {m}
+receptivo {adj} :: empfänglich
+receptor {m} :: Empfänger {m}
+receptor {m} :: Receiver {m}
+recesión {f} :: Abschwung {m}; Rezession {f} \Wirtschaft
+receta {f} :: Rezept {n}; Verschreibung {f} \Medizin
+recetar {v} :: verordnen \Medizin
+recetar {v} :: verschreiben \Medizin
+rechazar {v} :: abhalten
+rechazar {v} :: ablehnen
+rechazar {v} :: abweisen
+rechazar {v} :: verweigern
+rechazar {v} :: zurückweisen
+rechazo {m} :: Ablehnung {f}
+rechazo {m} :: Abweisung {f}
+rechazo {m} :: Zurückweisung {f}
+rechiflar {v} :: auspfeifen; ausbuhen
+rechistar {v} :: mucksen
+rechoncho {adj} :: pummelig; mollig \Personenbeschreibung
+recibidor {m} :: Empfangszimmer {n}; Vorzimmer {n} \Haus
+recibimiento {m} :: Empfang {m}
+recibir {v} :: aufnehmen
+recibir {v} :: empfangen
+recibir {v} :: kriegen
+recibo {m} :: Beleg {m} \Kaufen
+recibo {m} :: Empfangsbescheinigung {f}
+recibo {m} :: Rechnung {f} \Kaufen
+reciclaje {m} :: Recycling {n}; Wiederverwertung {f} \Technik
+reciclar {v} :: wiederverwerten; recyceln \Technik
+recién {adv} :: kürzlich
+recién {adv} :: neu-; frisch
+recién {adv} :: soeben; gerade; gerade eben; eben
+recientemente {adv} :: kürzlich
+recinto {m} :: Bereich {m}
+recinto {m} :: Gehege {n} \Tiere
+recinto {m} :: Gelände {n}
+recio {adj} :: hart; stark
+recio {adj} :: streng; rau
+recipiente {m} :: Behälter {m}; Gefäß {n}
+recíprocamente {adv} :: gegenseitig
+reciprocidad {f} :: Gegenseitigkeit {f}
+recíproco {adj} :: gegenseitig
+recíproco {adj} :: reziprok
+recital {m} :: Konzert {n} \Musik
+recitar {v} :: aufsagen
+recitar {v} :: rezitieren
+recitar {v} :: vortragen
+reclamación {f} :: Beanstandung {f} \Kaufen
+reclamación {f} :: Beschwerde {f}
+reclamación {f} :: Reklamation {f} \Kaufen
+reclamación {f} :: Rückforderung {f}
+reclamar {v} :: beanstanden
+reclamar {v} :: beschweren
+reclamar {v} :: einfordern
+reclamar {v} :: in Anspruch nehmen
+reclamar {v} :: reklamieren \Kaufen
+reclamar {v} :: zurückfordern
+reclamo {m} :: Lockruf {m} \Tiere
+reclamo {m} :: Reklamation {f}
+reclinar {v} :: anlehnen
+reclinar {v} :: zurücklehnen
+recluir {v} :: einschließen
+recluir {v} :: einsperren
+reclusión {f} :: Einschließung {f}
+reclusión {f} :: Haft {f} \Verbrechen \Recht
+recluso {m} :: Gefangener {m} \Verbrechen \Recht
+recluso {m} :: Häftling {m}; Sträfling {m} \Verbrechen \Recht
+recluta {m,f} :: Rekrut {m}| Rekrutin {f} \Militär
+reclutamiento {m} :: Rekrutierung {f} \Militär
+reclutar {v} :: anwerben
+reclutar {v} :: rekrutieren
+recobrar {v} :: wiedererlangen; wiederbekommen
+recocer {v} :: auskochen
+recocer {v} :: verkochen
+recocido {adj} :: verkocht; zerkocht
+recoger {v} :: auflesen
+recoger {v} :: aufnehmen
+recoger {v} :: aufsammeln
+recoger {v} :: einholen
+recoger {v} :: einsammeln
+recoger {v} :: einziehen
+recoger {v} :: ergreifen; fangen
+recoger {v} :: ernten \Landwirtschaft
+recoger {v} :: holen
+recoger {v} :: pflücken \Landwirtschaft
+recoger {v} :: sammeln
+recogida {f} :: Abholung {f}
+recogida {f} :: Einsammeln {n}
+recogida {f} :: Erfassung {f}
+recogida {f} :: Leerung {f} (Briefkasten)
+recogido {adj} :: eingezogen
+recogido {adj} :: gedrungen; klein
+recolección {f} :: Sammlung {f}; Einsammeln {n}
+recolectar {v} :: aufsammeln
+recolectar {v} :: einsammeln
+recolectar {v} :: ernten \Landwirtschaft
+recomendable {adj} :: empfehlenswert
+recomendación {f} :: Empfehlung {f}
+recomendación {f} :: Rat {m}
+recomendado {adj} :: empfohlen
+recomendar {v} :: empfehlen
+recomenzar {v} :: von neuem anfangen
+recompensa {f} :: Belohnung {f}
+recompensa {f} :: Entschädigung {f}
+recompensa {f} :: Finderlohn {m}
+recompensar {v} :: belohnen
+recompensar {v} :: entschädigen
+recompensar {v} :: vergüten
+recomponer {v} :: wiederherstellen
+reconciliación {f} :: Versöhnung {f}
+reconciliar {v} :: versöhnen
+recóndito {adj} :: geheim; verborgen; versteckt
+recóndito {adj} :: hintergründig
+reconfortante {adj} :: stärkend; belebend
+reconocer {v} :: anerkennen
+reconocer {v} :: erkennen; wiedererkennen
+reconocer {v} :: zugeben; eingestehen
+reconocido {adj} :: anerkannt; geschätzt
+reconocimiento {m} :: Anerkennung {f}
+reconstituir {v} :: wiederherstellen
+reconstrucción {f} :: Rekonstruktion {f}
+reconstrucción {f} :: Wiederaufbau {m}
+reconstrucción {f} :: Wiederherstellung {f}
+reconstruir {v} :: rekonstruieren
+reconstruir {v} :: wieder aufbauen
+recopilación {f} :: Sammlung {f}
+recopilación {f} :: Zusammenstellung {f}
+recopilar {v} :: sammeln
+recopilar {v} :: zusammenstellen
+recordable {adj} :: denkwürdig
+recordar {v} :: gedenken
+recordar {v} :: sich erinnern
+recordatorio {m} :: Andenken {n}
+recordatorio {m} :: Erinnerung {f}
+recordatorio {m} :: Gedächtnisstütze {f}
+récord {m} :: Rekord {m} \Sport
+recorrer {v} :: abklappern
+recorrer {v} :: ablaufen
+recorrer {v} :: bereisen
+recorrer {v} :: durchgehen
+recorrer {v} :: zurücklegen (Strecke)
+recorrido {m} :: Ausflug {m} \Reise
+recorrido {m} :: Fahrt {f} \Reise
+recorrido {m} :: Strecke {f}; Wegstrecke {f} \Reise
+recortar {v} :: abschneiden; stutzen
+recortar {v} :: ausschneiden
+recortar {v} :: zurecht schneiden
+recorte {m} :: Ausschnitt {m} \Medien
+recorte {m} :: Schnitzel {n}
+recorte {m} :: Zuschnitt {m}
+recoser {v} :: flicken
+recostar {v} :: anlehnen
+recostar {v} :: liegen
+recostar {v} :: zurücklehnen
+recreación {f} :: Freizeit {f}; Erholung {f}
+recrear {v} :: entspannen
+recrear {v} :: erholen
+recrear {v} :: neu erschaffen
+recreativo {adj} :: entspannend
+recreativo {adj} :: erholsam
+recreo {m} :: Entspannung {f}
+recreo {m} :: Erholung {f}
+recreo {m} :: Pause {f} (Schule, Arbeit)
+recreo {m} :: Vergnügen {n}
+recta {f} :: gerade Linie {f}
+rectal {adj} :: rektal \Medizin
+rectangular {adj} :: rechteckig
+rectangular {adj} :: rechtwinklig
+rectángulo {m} :: Rechteck {n} \Mathematik
+rectificadora {f} :: Schleifmaschine {f} \Technik
+rectificar {v} :: begradigen
+rectificar {v} :: gleich richten \Technik
+rectificar {v} :: richtig stellen
+rectificar {v} :: schleifen \Technik
+rectificar {v} :: verbessern
+recto {adj} :: geradlinig
+recto {adj} :: rechtschaffen
+recto {adj} :: redlich
+recto {m} :: Enddarm {m} \Medizin
+recubierto {adj} :: überzogen
+recubierto {adj} :: verkleidet
+recubrimiento {m} :: Bezug {m}
+recubrimiento {m} :: Überzug {m}
+recubrimiento {m} :: Verkleidung {f} \Technik
+recubrir {v} :: beschichten
+recubrir {v} :: beziehen
+recuento {m} :: Zählung {f}; Abzählung {f}; Auszählung {f}
+recuerdo {m} :: Andenken {n}
+recuerdo {m} :: Erinnerung {f}
+recuerdo {m} :: Souvenir {n} \Reise
+recuerdos {m} {pl} :: Grüße {f} {pl}
+recuperación {f} :: Genesung {f}; Erholung {f} \Medizin
+recuperación {f} :: Wiederbeschaffung {f}
+recuperación {f} :: Wiedererhalt {m}
+recuperación {f} :: Zurückgewinnung {f}
+recuperarse {v} :: sich erholen
+recuperar (tiempo) {v} :: aufholen
+recuperar {v} :: nachholen
+recuperar {v} :: wiederbekommen
+recuperar {v} :: wiedererlangen
+recuperar {v} :: wiedergewinnen
+recuperar {v} :: wiederherstellen
+recuperar {v} :: zurückbekommen
+recuperar {v} :: zurückholen
+recurrente {adj} :: rekursiv
+recurrente {adj} :: rückfällig
+recurrir a {v} :: greifen zu
+recurrir a {v} :: in Anspruch nehmen
+recurrir {v} :: heranziehen
+recurrir {v} :: sich wenden an
+recurso {m} :: Geldmittel {n}
+recurso {m} :: Mittel {n}
+recurso {m} :: Quelle {f}
+recurso {m} :: Ressource {f}
+redacción {f} :: Niederschrift {f}; Abfassung {f}
+redacción {f} :: Redaktion {f} \Medien
+redactar {v} :: verfassen; abfassen; erstellen (Text) \Medien
+redactor {m} :: Redakteur {m} \Medien \Berufe
+redactor {m} :: Verfasser {m} \Medien
+redada {f} :: Fahndung {f} /Verbrechen
+redada {f} :: Fischzug {m}
+redención {f} :: Ablösung {f}
+redención {f} :: Ausweg {m}
+redención {f} :: Erlösung {f}
+red {f} :: Netzwerk {n}
+redimir {v} :: ablösen
+redimir {v} :: erlösen
+redimir {v} :: zurückkaufen
+rédito {m} :: Rendite {f} \Wirtschaft
+reditual {adj} :: einträglich
+redoblar {v} :: verdoppeln
+redoblar {v} :: zunehmen
+redoble {m} :: Verdopplung {f}
+redomado {adj} :: gerissen; schlau
+redondeado {adj} :: rundlich; abgerundet
+redondeado {m} :: Abrundung {f}
+redondear {v} :: runden
+redondear {v} :: rund machen
+redondear {v} :: voll machen (aufrunden)
+redondo {adj} :: abgerundet
+redondo {adj} :: rund; glatt (Zahl)
+redondo {m} :: Rundung {f}
+reducción {f} :: Abbau {m}
+reducción {f} :: Ermäßigung {f} \Kaufen
+reducción {f} :: Herabsetzung {f}
+reducción {f} :: Rabatt {m} \Kaufen
+reducción {f} :: Reduktion {f}
+reducción {f} :: Reduzierung {f}
+reducción {f} :: Senkung {f}
+reducción {f} :: Verminderung {f}
+reducción {f} :: Verringerung {f}
+reducido {adj} :: reduziert
+reducido {adj} :: verkleinert
+reducido {adj} :: verringert
+reducir {v} :: einkochen
+reducir {v} :: herabsetzen
+reducir {v} :: kürzen \Mathematik
+reducir {v} :: mindern
+reducir {v} :: senken (Kosten)
+reducir {v} :: verkleinern
+reducir {v} :: verringern
+redundancia {f} :: Redundanz {f}
+redundancia {f} :: Überfluss {m}
+redundante {adj} :: redundant
+

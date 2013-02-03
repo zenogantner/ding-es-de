@@ -1,0 +1,148 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+bebida {f} :: Getränk {n}
+refresco {m} :: Erfrischungsgetränk {n}; Getränk {n}
+beber :: trinken
+beber a :: trinken auf
+tomar :: trinken
+beber a morro :: aus der Flasche trinken; aus der Dose trinken
+
+sed {f} :: Durst {m}
+
+beodo; beoda :: betrunken
+borracho; borracha :: betrunken
+borracha {f} :: Säuferin {f}
+borracho {m} :: Säufer {m}
+curda {f} :: Rausch {m}
+ebrio; ebria :: betrunken
+embriagado; embriagada :: betrunken
+emborracharse :: sich betrinken
+embriaguez {f} :: Berauschtheit {f}; Betrunkenheit {f}
+resaca {f} :: Kater {m} (vom Trinken)
+tener resaca :: einen Kater haben
+sobrio; sobria :: nüchtern
+zorra {f} :: Rausch {m}
+merluza {f} :: Schwips {m}
+
+espita {f} :: Zapfhahn {m}
+
+cerveza {f} :: Bier {n}
+una caña :: ein kleines Bier
+una doble :: ein großes Bier
+cerveza sin alcohol {f} :: alkoholfreies Bier {n}
+clara {f} :: Radler {n}
+clara {f} :: Alsterwasser {n} [Norddeutschland]
+chop {m} [Am.] :: Schoppen {m} (Bier)
+una clara con limón :: ein Radler mit Zitronenlimonade
+
+arac {m} :: Arrak {m}
+coñac {m} :: Cognac {m}
+jerez {m} :: Sherry {m}
+mezcal {m} :: Mezcal {m} (mexikanischer Agavenschnaps)
+ron {m} :: Rum {m}
+soda {f} :: Soda {n}; Sodawasser {n}
+
+brandy {m} :: Weinbrand {m}; Brandy {m}
+vino {m} :: Wein {m}
+champán {m} :: Champagner {m}; Sekt {m}
+cava {m} :: Sekt {m}
+vino tinto {m} :: Rotwein {m}
+vino blanco {m} :: Weißwein {m}
+vino rosado {m}; rosado {m} :: Rosé {m}
+clarete {m} :: Rosé {m}
+vino espumoso {m} :: Schaumwein {m}
+vino de misa {m} :: Messwein {m}
+vino de mesa {m} :: Tafelwein {m}
+vino de país {m} :: Landwein {m}
+aperitivo {m} :: Aperitif {m}
+bíter {m} :: Bitter {m}; Aperitif {m}
+sidra {f} :: Apfelwein {m}; Cidre {m}; Cider {m}
+vinoso; vinosa :: weinartig
+vino de postre {m} :: Dessertwein {m}
+oporto {m} :: Portwein {m}
+#vino nuevo
+
+
+tempranillo {m} :: Tempranillo-Traube {f}
+vendimia {f} :: Weinlese {f}
+vendimiador {m} :: Weinleser {m}; Winzer {m}
+vendimiar :: Trauben lesen
+
+vitícola :: Weinbau-
+viticultor {m} :: Winzer {m}
+viticultora {f} :: Winzerin {f}
+viticultura {f} :: Weinbau {m}
+
+cata de vinos {f} :: Weinprobe {f}
+
+refresco {m} :: Erfrischungsgetränk {n}
+agua mineral {f} :: Mineralwasser {n}
+limonada {f} :: Limonade {f}
+tónica {f} :: Tonic Water {n}
+
+zumo de naranja {m} :: Orangensaft {m}
+exprimir :: auspressen
+
+vaso {m} :: Glas {n}
+copa {f} :: Glas {n}; Stielglas {n}
+copita {f} :: Gläschen {n}
+botella {f} :: Flasche {f}
+toda una botella :: eine ganze Flasche
+taza {f} :: Tasse {f}
+abridor {m}; abridora {f} :: Öffner {m}; Flaschenöffner {m}
+
+leche {f} :: Milch {f}
+nata {f} :: Sahne {f}
+té {m} :: Tee {m}
+tetera {f} :: Teekanne {f}
+café {m} :: Kaffee {m}
+café con leche {m} :: Kaffee mit Milch {m}; Milchkaffee {m}
+café solo {m} :: Espresso {m}; kleiner schwarzer Kaffee {m}
+café descafeinado {m} :: entkoffeinierter Kaffee {m}
+flojo :: dünn (Kaffee); wässrig
+carajillo {m} :: Kaffee mit Weinbrand {m}; Kaffee mit Schuss {m}
+infusión {f} :: Kräutertee {m}; Aufguss {m}
+manzanilla {f} :: Kamillentee {m}
+tila {f} :: Lindenblütentee {m}
+
+horchata {f} :: Erdmandelmilch {f}; Mandelmilch {f}; Horchata {f}
+
+copa {f} :: Longdrink {m}; Drink {m}
+cocktail {m}; coctel {m} [Am.]; cóctel {m} [Esp.] :: Cocktail {m}
+cocktail {m}; coctel {m} [Am.]; cóctel {m} [Esp.] :: Cocktailparty {f}; Empfang {m}
+
+¡salud! :: Prost!
+¡larga vida! :: Zum Wohl!
+

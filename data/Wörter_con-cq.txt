@@ -1,0 +1,759 @@
+# Copyright (C) 2006 Matthias Buchmeier
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+con :: mit
+concatenación {f} :: Verkettung {f}
+concatenar :: verketten
+concavidad {f} :: Höhlung {f}
+cóncavo {adj} :: hohl; konkav
+concebible {adj} :: erfassbar
+concebir :: entwerfen; ausdenken
+concebir :: fassen; auffassen
+concebir :: zeugen \Sexualität
+conceder :: gewähren
+concejal {m} :: Stadtrat {m}
+concejo {m} :: Rat {m}
+concentración {f} :: Konzentration {f}
+concentrado {adj} :: konzentriert
+concentrado {m} :: Konzentrat {n}
+concentrarse :: sich konzentrieren
+concentrar :: konzentrieren
+concepción {f} :: Auffassung {f}
+concepción {f} :: Empfängnis {f} \Sexualität
+concepción {f} :: Konzeption {f}; Idee {f}
+concepto {m} :: Konzept {n}
+conceptual {adj} :: konzeptionell
+concerniente a :: bezüglich
+concernir :: betreffen
+concertar :: vereinbaren
+concertista {m} :: Interpret {m} \Musik
+concertista {f} :: Interpretin {f} \Musik
+concesionario {m} :: Lizenznehmer {m}
+concesión {f} :: Bewilligung {f}
+concesión {f} :: Konzession {f}
+concesivo {adj} :: konzessiv
+concha de su madre {m} {f} [Chile]; conchasumadre {m} {f} [Chile] :: Arschloch {n} \Schimpfwörter
+concha de tu madre {m} {f} [Chile]; conchatumadre {m} {f} [Chile] :: Arschloch {n} \Schimpfwörter
+concha {f} [vulg.] :: Möse {f} [vulg.]; Muschi {f} [ugs.] \Sexualität \Körper
+concho {m} :: Bodensatz {m}
+conchudo {adj} [Am.] [coloq.] :: unverschämt
+conciencia {f} :: Gewissen {n}
+concienciar :: ins Gewissen rufen
+concienzudo {adj} :: gewissenhaft
+concierto {m} :: Konzert {n} \Musik
+conciliación {f} :: Versöhnung {f}
+conciliador {adj} :: versöhnlich
+conciliador {m} :: Schlichter {m}
+conciliar :: versöhnen
+conciliatorio {adj} :: versöhnend
+concilio {m} :: Konzil {n} \Religion \Geschichte
+concisión {f} :: Knappheit {f}
+concisión {f} :: Knappheit {f}; Kürze {f}
+conciso {adj} :: knapp
+cónclave {m} :: Konklave {f} \Religion
+concluir :: abschließen; beenden
+concluir :: schließen
+conclusión {f} :: Schluss {m}; Schlussfolgerung {f}
+conclusivo {adj} :: abschließend
+concluyente; contundente {adj} :: überzeugend (Beweis)
+concluyente {adj} :: folgerichtig; schlüssig
+concordancia {f} :: Übereinstimmung {f}
+concordante {adj} :: übereinstimmend
+concordar :: übereinstimmen
+concorde {adj} :: einvernehmlich
+concretamente {adv} :: konkret
+concretar :: konkretisieren
+concretizar :: konkretisieren
+concreto {adj} :: konkret
+concreto {m} :: Beton {m}
+concubina {f} :: Konkubine {f} \Familie \Geschichte
+concubinato {m} :: Konkubinat {n} \Familie \Geschichte
+concurrencia {f} :: Teilnahme {f}
+concurrencia {f} :: Zusammentreffen {n}
+concurrente {m} :: Teilnehmer {m}
+concurrir :: teilnehmen
+concursar :: an einem Wettbewerb teilnehmen
+concurso {m} :: Wettbewerb {m}
+condado {m} :: Landkreis {m} \Geographie
+condecorado {adj} :: ausgezeichnet (mit Orden)
+condecorar :: auszeichnen (mit Orden)
+conde {m} :: Graf {m} \Adel
+condenable {adj} :: verwerflich
+condena de muerte {f} :: Todesstrafe {f} \Politik \Verbrechen
+condenado {adj} :: verdammt
+condenado {adj} :: verurteilt \Verbrechen
+condenado {m} :: Verurteilter {m} \Verbrechen
+condena {f} :: Strafe {f}; Gefängnisstrafe {f} \Verbrechen
+condena {f} :: Verurteilung {f}
+condena perpetua {f} :: lebenslängliche Freiheitsstrafe {f} \Verbrechen
+condenar :: verurteilen \Verbrechen
+condensación {f} :: Kondensation {f}
+condensador {m} :: Kondensator {m} \Physik
+condensar :: kondensieren
+condición {f} :: Zustand {m}; Beschaffenheit {f}
+condición {f} :: Bedingung {f}
+condicional {adj} :: auf Bewährung \Verbrechen
+condicionar :: bedingen
+condicionar :: konditionieren
+condolencia {f} :: Beileid {f}
+condominio {f} :: Anwesen {n}
+condón {m} :: Kondom {n}; Präservativ {n} \Sexualität
+cóndor {m} :: Kondor {m} \Tiere
+conducción {f} :: Leitung {f} \Physik
+conducción {f} :: Steuerung {f}
+conducirse a [Am.] :: sich wenden an
+conducirse :: sich benehmen
+conducir :: fahren
+conducir :: leiten
+conducir :: steuern; lenken
+conducta {f} :: Benehmen {n}
+conducta {f} :: Verhalten {n}
+certificado de buena conducta {m} :: Führungszeugnis {n} \Verbrechen \Arbeit
+conductividad {f} :: Leitfähigkeit {f} \Physik
+conducto {m} :: Gang {m}
+conducto {m} :: Kanal {m}
+conductor {m} :: Fahrer {m}
+conectado; conectada {adj} :: online \Computer
+conectado; conectada {adj} :: verbunden
+conectar :: verbinden
+conector {m} :: Stecker {m}; Buchse {f}
+conexión {f} :: Anschluss {m}
+conexión {f} :: Steckverbindung {f}
+conexión {f} :: Verbindung {f}
+conexión {f} :: Verknüpfung {f}
+conexo {adj} :: verbunden
+confeccionar :: anfertigen
+confeccionar :: herstellen
+confección {f} :: Anfertigung {f}
+confección {f} :: Konfektion {f}
+confederal {adj} :: Bund-; Bundes-
+confesional {adj} :: konfessionell
+confesión {f} :: Beichte {f} \Religion
+confesión {f} :: Bekenntnis {n}
+confesión {f} :: Geständnis {n} \Verbrechen
+confiable {adj} :: vertrauenswürdig
+confianza {f} :: Vertrauen {n}
+confiar en :: vertrauen
+confiar :: trauen
+confidencial {adj} :: vertraulich
+confidente {m} :: Informant {m}
+confidente {f} :: Informantin {f}
+confidente {m} :: Vertrauter {m}
+confidente {f} :: Vertraute {f}
+configurable {adj} :: konfigurierbar \Computer
+configuración {f} :: Konfiguration {f} \Computer
+configurar :: konfigurieren \Computer
+confirmación {f} :: Bestätigung {f}
+confirmación {f} :: Firmung {f} \Religion
+confirmativo {adj} :: bestätigt
+confiscación {f} :: Konfiszierung {f}; Beschlagnahme {f}
+confiscar :: beschlagnahmen
+confitado {adj} :: kandiert
+confitar :: kandieren
+confitería {f} :: Süßwarengeschäft {f}
+conflictividad {f} :: Konflikthaftigkeit {f}
+conflictivo {adj} :: konfliktreich
+conflicto {m} :: Konflikt {m}
+confluencia {f} :: Flussgabelung {f} \Geographie
+confluente {adj} :: zusammenfließend
+confluir :: zusammenfließen \Geographie
+conformar las reglas :: die Regeln erfüllen
+conformarse con :: sich zufriedengeben mit; sich begnügen mit
+conformar :: zufriedenstellen
+conforme {adj} :: konform
+conforme a :: gemäß
+conformidad {f} :: Konformität {f}; Einverstandenheit {f}
+conformismo {m} :: Konformismus {m}
+conformista {adj} :: konformistisch
+conformista {m} {f} :: Konformist {m}; Konformistin {f}
+confortable {adj} :: komfortabel
+confortante {adj} :: stärkend
+confortar :: stärken
+confortar :: trösten
+confort {m} [Chile] :: Toilettenpapier {n} \Hygiene
+confort {m} :: Komfort {m}
+confrontación {f} :: Konfrontation {f}
+confrontar :: konfrontieren
+confundible {adj} :: verwechselbar
+confundido {adj} :: irritiert
+confundir con :: verwechseln mit
+confusión {f} :: Konfusion {f}
+confusión {f} :: Verwirrung {m}
+confuso {adj} :: konfus; unklar
+conga {f} :: Conga {f}; Congatrommel {f} \Musik
+congelación {f} :: Erstarren {n}
+congelación {f} :: Gefrieren {n}
+congelado {adj} :: gefroren
+congelarse :: erfrieren \Tod
+congelar :: einfrieren; gefrieren
+congeniar :: hervorbringen
+congénito {adj} :: angeboren
+congestionado {adj} :: verstopft
+congestionar :: verstopfen
+congestión {f} :: Stau {m} \Verkehr
+congestión {f} :: Verstopfung {f}
+congratulaciones {f} {pl} :: Glückwünsche {m} {pl}
+congratular :: gratulieren
+congregación {f} :: Kongregation {f}; Gemeinschaft {f}
+congregar :: versammeln
+congregar :: zusammenbringen
+congresista {m} {f} :: Kongressteilnehmer {m}; Kongressteilnehmerin {f}
+congreso {m} :: Kongress {m}
+congrio {m} :: Meeraal {m} \Fische
+congruencia {f} :: Kongruenz {f} \Mathematik
+congruencia {f} :: Übereinstimmung {f}
+congruente {adj} :: kongruent \Mathematik
+congruente {adj} :: übereinstimmend
+cónico {adj} :: kegelförmig
+cónico {adj} :: konisch \Mathematik
+conjugación {f} :: Konjugation {f}
+conjugar :: konjugieren; beugen
+conjugar :: verbinden
+conjugar :: vereinigen
+conjunción {f} :: Bindewort {n}; Konjunktion {f} \Grammatik
+conjuntamente {adv} :: gemeinsam
+conjuntivitis {f} :: Bindehautentzündung {f} \Medizin
+conjuntivo {adj} :: verbindend
+conjuntivo {m} :: Konjunktiv {m} \Grammatik
+conjunto {adj} :: zusammen
+conjunto {adj} :: zusammen; vereint
+conjunto {m} :: Band {f}; Gruppe {f} \Musik
+conjunto {m} :: Ensemble {n}
+conjunto {m} :: Gruppe {f}
+conjunto {m} :: Menge {f} \Mathematik
+conllevar :: mit sich bringen
+conllevar :: zur Folge haben
+conmemoración {f} :: Gedenken {f}
+en conmemoración de :: zur Erinnerung an; im Gedenken an
+conmemorar :: gedenken
+conmemorativo {adj} :: Gedenk-
+conmensurabilidad {f} :: Kommensurabilität {f} \Mathematik
+conmensurable {adj} :: kommensurabel \Mathematik
+conmensurable {adj} :: messbar
+conmensurable {adj} :: vergleichbar
+conminación {f} :: Bedrohung {f}
+conminar :: bedrohen
+conmocionar :: erschüttern; bewegen
+conmoción {f} :: Aufregung {f}
+conmoción {f} :: Erschütterung {f}
+conmovedor {adj} :: erschütternd
+conmover :: erschüttern; bewegen
+conmovido {adj} :: bewegt; erschüttert
+conmutable {adj} :: umschaltbar
+conmutación {f} :: Umschaltung {f}
+conmutación {f} :: Umwandlung {f}
+conmutador {m} :: Schalter {m}
+conmutador {m} :: Weiche {f}
+conmutar :: austauschen
+conmutar :: umpolen
+conmutar :: umschalten
+conmutatividad {f} :: Kommutativität {f} \Mathematik
+conmutativa; conmutativo {adj} :: kommutativ \Mathematik
+connotación {f} :: Nebenbedeutung {f}
+cono {m} :: Kegel {m} \Mathematik
+cono {m} :: Konus {m} \Mathematik
+conocido; conocida {adj} :: bekannt; berühmt
+conocimiento {f} :: Kenntnis {f}
+conocimiento {f} :: Wissen {n}
+conque {adv} :: deshalb; also
+conquistador {m} :: Eroberer {m} \Geschichte
+conquista {f} :: Eroberung {f} \Geschichte
+conquistar :: erobern
+consagrado {adj} :: heilig \Religion
+consagrar :: absegnen
+consagrar :: heiligen \Religion
+consciencia {f} :: Bewusstsein {n}
+consciente {adj} :: bewusst
+consecución {f} :: Erlangung {f}
+consecuencia {f} :: Folge {f}
+consecuencia {f} :: Konsequenz {f}
+consecuente {adj} :: konsequent
+consecuente {adj} :: zielstrebig
+consecutivo {adj} :: folgend
+conseguido {adj} :: erlangt
+conseguido {adj} :: erreicht
+conseguir :: besorgen
+conseguir :: erreichen
+conseguir :: schaffen
+a consecuencia :: infolge
+consejera {f} :: Beraterin {f}
+consejero {m} :: Berater {m}
+consenso {m} :: Einverständnis {n}
+consensual {adj} :: einvernehmlich
+consensuar :: zustimmen
+consentimiento {m} :: Erlaubnis {f}
+consentir :: erlauben
+consentir :: zustimmen
+conserje {m} :: Hausmeister {m} \Berufe
+conservación {f} :: Aufbewahrung {f}
+conservación {f} :: Erhaltung {f}; Erhalt {m}
+conservación {f} :: Konservierung {f}
+conservador {adj} :: konservativ \
+conserva {f} :: Konserve {f}
+conservar :: erhalten; pflegen
+conservatorio {m} :: Konservatorium {n}
+considerable {adj} :: beträchtlich
+consideración {f} :: Bedenken {n}
+consideración {f} :: Überlegung {f}
+considerar :: betrachten als
+considerar :: in Betracht ziehen
+consigna {f} :: Gepäckaufbewahrung {f}
+consigo :: mit sich
+consiguiente {adj} :: folgend
+consistencia {f} :: Konsistenz {f}
+consistente {adj} :: fest; stark
+consistir con :: bestehen in
+consistir de :: bestehen aus
+consolador {adj} :: tröstend
+consola {f} :: Konsole {f}
+consolar :: trösten
+consolidación {f} :: Konsolidierung {f}
+consolidar :: konsolidieren
+consolidar :: verfestigen
+consomé {m} :: Fleischbrühe {f}; Brühe {f} \Essen
+consonante {m} :: Konsonant {m} \Grammatik
+consorcio {m} :: Konsortium {n}
+constancia {f} :: Ausdauer {f}
+constancia {f} :: Beständigkeit {f}
+constante {adj} :: ständig
+constante {f} :: Konstante {f} \Physik
+consta que :: es steht fest dass
+constar :: feststehen
+constatar :: feststellen
+constelación {f} :: Konstellation {f}
+constipado {adj} :: verschnupft
+constitucional {adj} :: verfassungsgebend
+constitución {f} :: Konstitution {f}
+constitución {f} :: Verfassung {f} \Politik
+constituir :: bilden
+constituyente {adj} :: grundlegend
+constituyente {m} :: Bestandteil {m}
+constricción {f} :: Verengung {f}
+construcción {f} :: Aufbau {m}
+construcción {f} :: Konstruktion {f}
+constructivo {adj} :: konstruktiv
+constructora {f}; empresa constructora {f} :: Baufirma {f}
+constructor {m} :: Konstrukteur {m}
+construir :: aufbauen
+construir :: konstruieren
+consuelo {m} :: Trost {m}
+consulta {f} :: Anfrage {f}
+consulta {f} :: Sprechstunde {f}
+consultar :: fragen
+consultar :: konsultieren
+consultar :: nachfragen
+consultorio {m}; consulta {f} :: Praxis {f}; Arztpraxis {f}
+consumidor {m} :: Verbraucher {m}
+consumir :: aufbrauchen
+consumir :: konsumieren
+consumir :: verbrauchen
+consumismo {m} :: Konsumismus {m}
+consumista {m} :: Konsument {m}
+consumista {f} :: Konsumentin {f}
+consumo {m} :: Konsum {m}; Verbrauch {m}
+contabilidad {f} :: Buchhaltung {f} \Geld
+contabilizar :: Buch führen \Geld
+contactar :: kontaktieren
+contactar :: sich in Verbindung setzen mit
+contacto {m} :: Kontakt {m}
+contador {m}; contable {m} :: Buchhalter {m} \Berufe \Geld
+contagiar :: anstecken
+contaminación {f} :: Kontamination {f}
+contaminación {f} :: Umweltverschmutzung {f}
+contaminación {f} :: Verschmutzung {f}
+contaminación {f} :: Verseuchung {f}
+contaminante {adj} :: umweltschädlich
+contaminante {adj} :: verschmutzend
+contaminante {m} :: Schadstoff {m}
+contar :: gelten
+contar :: zählen
+contar :: erzählen
+contemplación {f} :: Beschaulichkeit {f}
+contemplación {f} :: Betrachtung {f}
+contemplativo {adj} :: beschaulich
+contemporáneo {adj} :: zeitgenössisch
+contemporáneo {m} :: Zeitgenosse {m}
+contención {f} :: Beherrschung {f}
+contención {f} :: Zurückhaltung {f}
+contenedor {m} :: Behälter {m}
+contenedor {m} :: Container {m}
+contenerse :: sich beherrschen
+contener :: anhalten (Urin; Luft usw.) \Körper
+contenido {m} :: Inhalt {m}
+contentar :: zufrieden stellen
+contestación {f} :: Beantwortung {f}
+contestación {f} :: Erwiderung {f}
+contestación {f} :: Protest {m}
+contestadora {f} :: Anrufbeantworter {m} \Kommunikation
+contestador {m} :: Anrufbeantworter {m} \Kommunikation
+contestar :: erwidern; antworten \Kommunikation
+contexto {m} :: Kontext {m}
+contextura {f} :: Kontextur {f}; Körperbau {m}
+contiguo {adj} :: angrenzend; Neben-
+continencia {f} :: Fassung {f}
+continental {adj} :: kontinental
+continente {m} :: Kontinent {m}
+contingente {m} :: Kontingent {n}
+contingente {m} :: Quote {f}
+continuación {f} :: Fortsetzung {f}
+a continuación :: danach; im Anschluss daran
+continuamente {adv} :: kontinuierlich
+continuidad {f} :: Kontinuität {f}; Stetigkeit {f}; Beständigkeit {f}; Fortdauer {f}
+continuo {adj} :: kontinuierlich
+contorno {m} :: Umgebung {f}
+contorsionar :: verrenken
+contorsión {f} :: Verrenkung {f}
+contorsionista {m} {f} :: Schlangenmensch {m}
+contra :: gegen
+en contra :: dagegen
+contraataque {m} :: Gegenangriff {m} \Militär
+contrabajo {m} :: Kontrabass {m} \Musik
+contrabandear :: schmuggeln \Verbrechen
+contrabandista {m} {f} :: Schmuggler {m}; Schmugglerin {f} \Verbrechen
+contrabando {m} :: Schmuggel {m} \Verbrechen
+contracción {f} :: Kontraktion {m}
+contracción {f} :: Wehe {f} \Körper \Medizin
+contráctil {adj} :: zusammenziehbar
+contradecir :: widersprechen \Kommunikation
+contradicción {f} :: Widerrede {f} \Kommunikation
+contradicción {f} :: Widerspruch {m} \Kommunikation
+contradictorio {adj} :: widersprüchlich
+contraer :: sich einfangen [ugs.] \Medizin
+contraer :: sich zuziehen \Medizin
+contraer :: zusammenziehen
+contragolpe {m} :: Gegenschlag {m}
+contraindicación {f} :: Gegenanzeige {f} \Medizin
+contra la corriente :: gegen de Strom
+contraluz {f} :: Gegenlicht {n} \Licht
+contramedida {f} :: Gegenmaßnahme {f}
+# nicht im RAE, aber viel verwendet
+contraofensiva {f} :: Gegenangriff {m}
+contraoferta {f} :: Gegenangebot {n}
+contraparte {f} :: Gegenstimme {f}
+# nicht im RAE, aber viel verwendet
+contrapartida {f} :: Stornierung {f}
+contrapeso {m} :: Gegengewicht {n}
+contraponer :: einwenden; widersprechen
+contraposición {f} :: Widerspruch {m}
+contraproducente {adj} :: kontraproduktiv
+contraprueba {f} :: Gegenbeweis {m}
+contrariar :: entgegenstellen
+contrario {adj} :: gegenteilig
+contrario {adj} :: gegnerisch
+contrario {m} :: Gegenteil {n}
+contrarreloj {m} :: Zeitfahren {n} \Sport
+contrarrestar :: entgegenwirken
+contrarrevolución {f} :: Gegenrevolution {f} \Politik
+contraseña {f} :: Passwort {n} \Computer
+contrastar :: kontrastieren
+contrastar :: sich abheben
+contraste {m} :: Kontrast {m}
+contratación {f} :: Einstellung {f}
+contratado {adj} :: beschäftigt
+contratar :: einstellen
+contratiempo {m} :: Unannehmlichkeit {f}
+contratista {m} :: Unternehmer {m}
+contribución {f} :: Beitrag {m}
+contribución {f} :: Steuer {f} \Geld
+contributivo {adj} :: Steuer- \Geld
+contribuyente {m} {f} :: Steuerzahler {m} \Geld
+controlable {adj} :: kontrollierbar
+controlador {m} :: Treiber {m} \Computer
+control {m} [coloq.] :: Fernbedienung {f}
+control {m} :: Kontrolle {f}
+control remoto {m} :: Fernbedienung {f}
+controversia {f} :: Kontroverse {f}
+contundencia {f} [Chile] [Perú] :: Reichhaltigkeit {f}
+contundencia {f} :: Schlagkraft {f}
+contundente {adj} :: überzeugend
+contundente [Chile] [Perú] {adj} :: reichhaltig (Essen) \Essen
+convalecencia {f} :: Rekonvaleszenz {f} \Medizin
+convaleciente {f} :: Genesende {f} \Medizin
+convaleciente {m} :: Genesender {m} \Medizin
+convalidar :: anerkennen
+convección {f} :: Konvektion {f}
+convencer :: überzeugen
+convencimiento {m}; convicción {f} :: Überzeugung {f}
+convencional {adj} :: herkömmlich
+convencional {adj} :: konventionell
+convención {f} :: Konvention {f}
+convención {f} :: Vereinbarung {f}
+convenido; convenida {adj} :: abgemacht
+conveniencia {f} :: Zweckmäßigkeit {f}
+conveniente {adj} :: zweckmäßig; Zweck-
+convenio {m} :: Übereinkunft {f}
+convenio {m} :: Vereinbarung {f}
+convenir :: vereinbaren
+convenir :: vorteilhaft sein
+convergencia {f} :: Konvergenz {f} \Mathematik
+convergente {adj} :: konvergent \Mathematik
+converger :: konvergieren \Mathematik
+conversable {adj} :: verhandelbar
+conversación {f} :: Unterhaltung {f} \Kommunikation
+conversador {adj} :: gesprächig \Kommunikation
+conversar :: kommunizieren \Kommunikation
+conversar :: sich unterhalten \Kommunikation
+conversión {f} :: Umwandlung {f}
+conversor {m} :: Umwandler {m}
+convertibilidad {f} :: Umwandelbarkeit {f}
+convertible {m} [Am.] :: Cabrio {n}; Cabriolet {m} \Verkehr
+convertidor {m} :: Wandler {m}
+convertirse :: werden
+convertir :: konvertieren
+convertir :: umwandeln
+convertir :: verwandeln
+convexidad {f} :: Auswölbung {f}
+convexo {adj} :: konvex Mathematik \Physik
+convicción {f} :: Überzeugung {f}
+convicto {m} :: Gefangener {m} \Verbrechen
+convicto {m} :: Verurteilter {m} \Verbrechen
+convidar :: teilen; abgeben
+convidar :: abgeben
+convidar :: anbieten
+convincente :: überzeugend
+convivencia {f} :: Zusammenleben {n}
+convocar :: ausrufen
+convocar :: einberufen
+convocatoria {f} :: Einberufung {f}
+convoy {m} :: Konvoi {m}
+convulsión {f} :: Krampf {m} \Medizin
+convulsivo {adj} :: krampfartig \Medizin
+cónyuge {m} {f} :: Ehepartner {m}; Ehepartnerin {f} \Familie
+coñac {m} :: Cognac {m} \Trinken
+coñac {m} :: Weinbrand {m} \Trinken
+coño {adj} [coloq.] [Chile] [pey.] :: spanisch \Länder
+¡coño! [Esp.] :: verdammt! \Schimpfwörter
+coño {m} [coloq.] [Chile] [pey.] :: Spanier {m} \Schimpfwörter \Länder
+coña {f} [coloq.] [Chile] [pey.] :: Spanierin {f} \Schimpfwörter \Länder
+coño {m} [vulg.] [Esp.] :: Fotze [vulg.] {f} \Körper \Sexualität \Schimpfwörter
+cooperación {f} :: Kooperation {f}; Zusammenarbeit {f}
+cooperar :: zusammenarbeiten
+cooperativa {f} :: Kooperative {f}; Genossenschaft {f}
+cooperativismo {m} :: Genossenschaftswesen {n}
+cooperativista {m} {f} :: Genossenschaftsmitglied {n}
+cooperativo {adj} :: kooperativ
+coordenada {f} :: Koordinate {f}
+coordinador {m} :: Koordinator {m}
+coordinar :: koordinieren
+copa {f} [Chile] :: Flocke {f}
+copa de avena {f} [Chile] :: Haferflocke {f} \Essen
+copa de nieve {f} [Chile] :: Schneeflocke {f} \Wetter
+copete {m} [Chile] [coloq.] :: alkoholische Getränke {f} {pl} \Trinken
+copia {f} :: Kopie {f}
+copiar :: abschreiben
+copiar :: kopieren
+copo {m} :: Flocke {f}
+copo de nieve {m} :: Schneeflocke {f} \Wetter
+coproducción {f} :: Koproduktion {f}
+coproductor {m} :: Koproduzent {m}
+copucha {f} [Chile] [coloq.]; copuche {f} [Chile] [coloq.] :: Klatsch {m}; Neuigkeit {f}
+copuchear; copuchar [Chile] [coloq.] :: klatschen \Kommunikation
+copular :: kopulieren \Sexualität
+coquetear :: kokettieren
+coqueteo {m} :: Koketterie {f}
+coquetería {f} :: Koketterie {f}
+coqueto; coqueta {adj} :: kokett
+coraje {m} :: Mut {m}
+corajudo; corajuda {adj} :: mutig
+coral {m} :: Koralle {f} \Tiere
+corazón {m} :: Herz {n} \Körper
+corchete {m} :: eckige Klammer {f}
+corchete angular {m} :: spitze Klammer {f}
+corchete {m} :: Haken {m}
+corcho {m} :: Kork {m}; Korken {m}
+cordel {m} :: Schnur {f}; Schnüre {f}
+cordial {adj} :: herzlich; freundlich
+cordialidad {f} :: Herzlichkeit {f}
+cordialmente :: mit freundlichen Grüßen
+cordillera {f} :: Gebirge {n}; Gebirgskette {f} \Geographie
+cordón {m} :: Kordel {f}; Schnur {f}
+cordón {m} :: Schnürsenkel {m} \Kleidung
+cordón umbilical {m} :: Nabelschnur {f} \Körper
+cordura {f} :: Vernunft {f}
+coreano; coreana {adj} :: koreanisch; aus Korea \Länder
+coreana {f} :: Koreanerin {f} \Länder
+coreano {m} :: Koreaner {m} \Länder
+coreógrafo {m} :: Choreograph {m} \Kunst \Berufe
+cormorán {m} :: Kormoran {m} \Tiere
+cornada {f} :: Hornstoß {m} (Stierkampf) \Stierkampf
+córnea {f} :: Hornhaut {f} \Medizin
+cornear :: mit den Hörnern aufspießen (Stierkampf) \Stierkampf
+corneta {f} :: Horn {n} \Tiere
+cornudo; cornuda {adj} :: gehörnt; betrogen
+coro {m} :: Chor {m} \Musik
+coro {m} :: Refrain {m} \Musik
+corona {f} :: Krone {f}
+coronaria {f} :: Herzschlagader {m} \Medizin
+coronar :: krönen \Geschichte
+coronel {m} :: Oberst {m} \Militär
+corporación {f} :: Körperschaft {f}
+corporación {f} :: Korporation {f}
+corporal {adj} :: körperlich \Körper
+corpulencia {f} :: Korpulenz {f} \Körper
+corpulento {adj} :: korpulent \Körper
+Corpus :: Fronleichnam \Religion
+corpus {m} :: Korpus {m} \Linguistik
+corral {m} :: Gehege {n} \Tiere
+corral {m} :: Weide {f} \Tiere
+correa {f} :: Keilriemen {m}
+correa {f} :: Leine {f}
+correa {f} :: Riemen {m}
+correccional {m} :: Besserungsanstalt {f}
+corrección {f} :: Korrektur {f}
+correcto; correcta {adj} :: korrekt; richtig
+corrector ortográfico {m} :: Rechtschreibprüfung {f} \Computer
+corredor de apuestas {m} :: Buchmacher {m} \Berufe
+corredor de bolsa {m} :: Börsenmakler {m} \Geld \Berufe
+corredor {m} :: Korridor {m} \Haus
+corregible {adj} :: verbesserungsfähig
+corregir :: korrigieren
+correlación {f} :: Korrelation {f}
+correlativo {adj} :: korrelativ
+correo aéreo {m} :: Luftpost {f} \Kommunikation
+correo electrónico {m} :: E-Mail {f} \Kommunikation \Computer
+correo {m} :: Post {f} \Kommunikation
+correos {m} {pl} :: Post {f}; Poststelle {n} \Kommunikation
+correoso {adj} :: verformbar
+correr :: aufziehen; zuziehen (Vorhang usw.)
+correr :: fließen
+correr :: rasen
+correr :: rennen
+correr :: verjagen; verscheuchen
+correr :: verschieben; verrücken
+correspondencia {f} :: Korrespondenz {f}
+corresponder :: entsprechen
+corresponder :: recht machen
+corresponder :: zustehen
+correspondiente {adj} :: entsprechend
+corresponsal {m} {f} :: Korrespondent {m}; Korrespondentin {f}
+corriente alterna {f} :: Wechselstrom {m}
+corriente continua {f} :: Gleichstrom {m}
+corriente {f} :: Strom {m}
+corriente {f} :: Strömung {f}
+corroer :: korrodieren
+corromper :: korrumpieren
+corrosión {f} :: Rost {m}; Korrosion {f}
+corrosivo {adj} :: korrosiv
+corrupción {f} :: Korruption {f} \Verbrechen
+corrupto; corrupta {adj} :: korrupt \Verbrechen
+corsario {m} :: Korsar {m}; Seeräuber {m} \Geschichte \Verbrechen
+corsé {m} :: Korsett {n}
+corso; corsa {adj} :: korsisch; aus Korsika \Länder
+cortafuegos {m} :: Firewall {f} \Computer
+cortarse :: sich schneiden
+corte de pelo {m} :: Haarschnitt {m} \Körper
+cortejar :: den Hof machen
+cortejo {m} :: Festzug {m}
+cortejo {m} :: Umwerbung {f}
+corte {m} :: Schnitt {m} \Medizin
+corte {m} :: Schnittwunde {f} \Medizin
+corteza {f} :: Höflichkeit {f}
+cortina {f} :: Gardine {f} \Haus
+cortisona {f} :: Cortison {n} \Medizin
+corto; corta {adj} :: kurz
+cortocircuito {m} :: Kurzschluss {m}
+cortometraje {m} :: Kurzfilm {m} \Film
+corvina {f} :: Adlerlachs {m} \Tiere
+corzo {m} :: Reh {n} \Tiere \Essen
+cosa {f} :: Sache {f}; Ding {n}; Angelegenheit {f}
+cosaco {m} :: Kosak {m} \Geschichte
+cosechadora {f} :: Mähdrescher {m} \Landwirtschaft
+cosecha {f} :: Ernte {f} \Landwirtschaft
+cosechar :: ernten \Landwirtschaft
+coser a mano :: mit der Hand nähen
+cosmético {adj} :: kosmetisch
+cósmico {adj} :: kosmisch
+cosmográfico {adj} :: kosmographisch
+cosmología {f} :: Kosmologie {f}
+cosmológico {adj} :: kosmologisch
+cosmólogo {m} :: Kosmologe {m}
+cosmonauta {m} {f} :: Kosmonaut {m}; Kosmonautin {f}
+cosmonauta {m} {f} :: Raumfahrer {m}
+cosmopolita {m} {f} :: Kosmopolit {m}
+cosmopolita {m} {f} :: Weltbürger {m}
+cosmopolitismo {m} :: Weltoffenheit {f}
+cosmos {m} :: Kosmos {m}; Weltall {n}
+cosquillar :: kitzeln \Körper
+cosquilloso {adj} :: kitzelig \Körper
+costa {f} :: Kosten {f} {pl} \Geld
+a la costa de los demás :: auf Kosten anderer
+costear :: bezahlen \Geld
+coste {m} :: Kosten {f} {pl} \Geld
+coste {m} :: Preis {m} \Geld
+costillar {m} :: Rippchen {n} {pl} \Essen
+costo del la vida {m} :: Lebenshaltungskosten {f} {pl}
+costo {m} :: Preis {m}
+costoso; costosa {adj} :: aufwändig
+costoso; costosa {adj} :: kostspielig
+costoso; costosa {adj} :: teuer
+costra {f} :: Kruste {f}
+costumbre {f} :: Brauch {m}; Sitte {f}; Gewohnheit {f}
+mala costumbre {f} :: Unsitte {f}
+costura {f} :: Naht {f} \Kleidung
+costurera {f} :: Näherin {f} \Berufe
+costurero {m} :: Näher {m} \Berufe
+costurero {m} :: Nähkästchen {n}
+cotangente {m} :: Kotangens {m} \Mathematik
+cotidianidad {f} :: Alltäglichkeit {f}
+cotidiano; cotidiana {adj} :: alltäglich
+cotilla {m} {f} :: Klatschmaul {n} \Kommunikation \Personenbeschreibung
+cotillear :: klatschen \Kommunikation
+cotilleo {m} :: Klatsch {m} \Kommunikation
+cotizar :: schätzen
+coto {m} :: Revier {n}
+cotón {m} :: Baumwolle {f}
+Coulomb {m} :: Coulomb {n} \Physik
+coyote {m} :: Kojote {m}; Steppenwolf {m} \Tiere
+coyuntura {f} :: Gelenk {n} \Körper
+coyuntura {f} :: Konjunktur {f}
+coz {f} :: Fußtritt {m}
+en conjunto {adv} :: insgesamt
+en conjunto :: insgesamt
+en conserva :: in der Dose
+estar conforme :: einverstanden sein
+estar confundido :: irritiert sein
+estoy congelado {adj} [coloq.] :: mir ist eiskalt
+fiebre convulsiva {f} :: Fieberkrampf {m} \Medizin
+fotocopia {f} :: Fotokopie {f}; Kopie {f}
+huevo a la copa {m} :: weiches Ei (im Glas) {n} \Essen
+inconformista {m} {f} :: Nonkonformist {m}; Nonkonformistin {f}
+inconmensurabilidad {f} :: Inkommensurabilität {f} \Mathematik
+inconmensurable {adj} :: inkommensurabel \Mathematik
+manzana confitada {f} :: kandierter Apfel {m} \Essen
+me consta que :: es scheint mir klar dass
+por consiguiente {adv} :: infolgedessen
+todo en conjunto {adv} :: im Großen und Ganzen
+verse confrontado con :: konfrontiert werden mit
+

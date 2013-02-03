@@ -1,0 +1,405 @@
+# Copyright (C) 2007 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+artes marciales {f} {pl} :: Kampfsport {m} \Sport
+en marcha {adj} :: laufend
+en mayúscula :: groß geschrieben
+los diez mandamientos :: die Zehn Gebote \Religion
+macabro {adj} :: makaber
+macanudo {adj} :: toll
+macedónico {adj} :: Mazedonisch
+maceta {f} :: Blumentopf {m}
+maceta {f} :: Holzhammer {m} \Werkzeug
+macetero {m} :: Blumenkübel {m}
+machacado {adj} :: verausgabt; fertig [ugs.]
+machacarse {v} [coloq.] :: sich verausgaben; sich quälen
+machacar {v} :: mahlen
+machacar {v} :: zermalmen
+machacón {m} :: blauer Fleck {m} \Medizin
+macha {f} [Chile] [Perú] :: essbare Muschel (Mesodesma donacium) \Tiere \Essen
+machi {f} [Chile] :: Medizinfrau {f} \Berufe
+macho {adj} :: männlich
+macho {m} :: Männchen {n}
+macho {m} :: Mann {m}
+machote {adj} :: sehr männlich
+machucar {v} :: zerquetschen
+macizo {adj} :: Klotz {m}
+macizo {adj} :: massiv
+macizo {m} :: Massiv {n}
+macroscópico {adj} :: makroskopisch
+madeja {f} :: Bündel {n}
+madre {adj} :: Mutter-
+madre {adj} :: toll
+madrugada {f} :: Morgengrauen {n}; früher Morgen {m}
+madrugar {v} :: die Nacht durchmachen
+madurar {v} :: reifen
+maestra {f} :: Handwerkerin {f} \Berufe
+maestra {f} :: Meisterin {f} \Berufe
+maestral {adj} :: Meister-; meisterlich
+maestranza {f} :: Meisterwerkstatt {f}
+maestro {adj} :: Meister-
+maestro {m} :: Meister {m} \Berufe
+maga {f} :: Zauberin {f} \Berufe
+magdalena {f} :: Magdalena {f} (kleiner Kuchen) \Essen
+magia {f} :: Zauberei {f}; Magie {f}
+mágico {adj} :: magisch; Zauber-
+magistrado {m} :: Magistrat {m}; Justizbeamter {m} \Berufe
+magma {f} :: Magma {n}
+magnesio {m} :: Magnesium {n} \Elemente
+magnético {adj} :: magnetisch \Physik
+magnetismo {m} :: Magnetismus {m} \Physik
+magnetización {f} :: Magnetisierung {f} \Physik
+magnetizar {v} :: magnetisieren \Physik
+magneto {m} :: Magnet {m} \Physik
+magnificar {v} :: vergrößern
+magnífico {v} :: wundervoll
+magnitud {f} :: Größe {f}
+mago {m} :: magisch
+mago {m} :: Zauberer {m}; Magier {m} \Berufe
+magro {adj} :: mager
+Mahoma :: Mohammed \Religion
+mahometano {adj} :: moslemisch; mohammedanisch \Religion
+maizal {m} :: Maisfeld {n} \Landwirtschaft
+maíz {m} :: Mais {m} \Essen \Planzen
+majestad {f} :: Majestät {f}
+majestuoso {adj} :: majestätisch
+majo {adj} [Esp.] :: hübsch
+malagradecido {adj} :: undankbar
+malaria {f} :: Malaria {f} \Medizin
+malaventurado {adj} :: unglücklich
+malaventura {f} :: Unglück {n}
+malaya [Chile] :: Rippe {f} (Fleisch, vom Rind) \Essen
+malayo {adj} :: malaysisch
+malcriado {adj} :: ungezogen; verzogen
+malcriar {v} :: verziehen (Kinder)
+maldad {f} :: Boshaftigkeit {f}; Bosheit {f}
+maldadoso {adj} :: boshaftig; böse
+maldecir {v} :: verfluchen
+maldición {f} :: Fluch {m}
+maldito {adj} :: verdammt; verflixt
+maldito {adj} :: verflucht
+maleado {adj} [Chile] :: kriminell; bösartig; gewalttätig
+malearse {v} [Chile] :: kriminell werden
+malearse {v} [Chile] :: runterkommen (Stadtviertel)
+maleta {f} :: Kofferraum {m}
+maletero {m} :: Kofferraum {m}
+maletín {m} :: Koffer {m}
+malévolo {adj} :: böse; böswillig
+maleza {f} :: Unkraut {n} \Pflanzen
+malformación {f} :: Fehlbildung {f}
+malgastar {v} :: verschwenden
+malhecho {adj} :: schlecht gemacht; verhunzt [ugs.]
+malherido {adj} :: übel zugerichtet
+malhumorado {adj} :: schlecht gelaunt \Gefühle
+malicia {f} :: Bösartigkeit {f}; Gemeinheit {f}
+malicioso {adj} :: gemein; böse
+malintencionado {adj} :: bösartig
+malla {f} :: Maschendraht {m} \Landwirtschaft
+mal, malo, mala {adj} :: schlecht
+malmirado {adj} :: unbeliebt
+malograr {v} :: misslingen
+malograr {v} :: verschwenden
+maloliente {adj} :: übel riechend
+malparado {adj} :: übel zugerichtet
+malparido {m} [Col.] :: Arschloch {n}
+malta {f} :: Malzbier {n} \Trinken
+malta {f} :: Malz {n} \Trinken
+maltés {adj} :: Malteser
+maltratar {v} :: misshandeln
+maltrato {m} :: Misshandlung {f}
+malvado {adj} :: böse; boshaft
+malva {f} :: Malve {f} \Pflanzen \Trinken
+mamadera {f} :: Flasche {f} (für Babys) \Trinken
+mamá {f} :: Mama {f} \Familie
+mamarracho {m} :: schlecht oder lächerlich gekleidete Person \Personenbeschreibung
+mamar {v} :: säugen (Tier) \Tiere
+mamar {v} :: stillen (Kind)
+mamífero {m} :: Säugetier {n} \Tiere
+mamón {m} [peyorativo] :: Baby {n}
+mamón {m} :: Säugling {m}
+mampara {f} :: Raumteiler {m}
+maña {f} :: Laune {f}; Zorn {m} \Gefühle
+mañana {adv} :: morgen
+manantial {m} :: Quelle {f}
+manchado {adj} :: fleckig
+mancha {f} :: Fleck {m}
+manchar {v} :: beflecken
+manco {adj} :: einarmig
+manco {adj} :: mangelhaft
+manda {f} [Chile] :: Gelübde {n} \Religion
+mandamiento {m} :: Befehl {m}; Gebot {n}
+mandar {v} :: das sagen haben; anführen
+mandar {v} :: schicken; senden
+mandar {v} :: zusenden; verschicken
+mandíbula {f} :: Kiefer {m} \Körper
+mando {m} [Esp.] :: Fernbedienung {f} \Technik
+mando {m} :: Kommando {n}; Befehl {m}
+mando {m} :: Macht {f}; Herrschaft {f}
+mandón {adj} :: herrschsüchtig
+mandril {m} :: Mandrill {m} \Tiere
+manducar {v} [coloq.] :: futtern; mampfen [ugs.]
+manejar {v} :: fahren
+manejar {v} :: führen (Fahrzeug, Maschine)
+manejar {v} :: führen (Waren)
+manejo {m} :: Führung {f}; Bedienung {f} (Maschinen)
+manejo {m} :: Handhabung {f}; Behandlung {f}
+manejo {m} :: Verwaltung {f}; Management {n}
+manera {f} :: Art {f}; Weise {f}
+manga {f} :: Ärmel {m} \Kleidung
+manganeso {m} :: Mangan {n} \Elemente
+mango {m} :: Henkel {m}
+mango {m} :: Mango {f} \Essen
+manguera {f} :: Schlauch {m}
+manía {f} :: Manie {f}; Marotte {f}
+manía {f} :: Wahn {m}
+maniático {adj} :: verrückt; manisch
+manicomio {m} :: Irrenanstalt {f}
+manicura {f} :: Maniküre {f}
+manifestación {f} :: Auftreten {n}; Anzeichen {n}
+manifestación {f} :: Kundgebung {f}; Demonstration {f} \Politik
+manifestación {f} :: Offenbarung {f}
+manifestarse {v} :: sich zeigen; sich offenbaren
+manifestar {v} :: bekunden; kundtun
+manifestar {v} :: demonstrieren \Politik
+manifiesto {adj} :: offenbar; offensichtlich
+manilla {f} :: Griff {m}
+maní {m} :: Erdnuss {f} \Essen \Pflanzen
+maniobra {f} :: Handhabung {f}; Bedienung {f}
+maniobra {f} :: Manöver {n}
+maniobra {f} :: Manövrieren {n}; Rangieren {n}
+maniobra {f} :: Werk {n}
+maniobrar {v} :: manövrieren
+maniobrar {v} :: sich betätigen
+manipulación {f} :: Handhabung {f}; Manipulation {f}
+manipulación {f} :: Hantieren {n}
+manipulación {f} :: Manipulierung {f}
+manipulador {adj} :: manipulierend
+manipulador {m} :: Helfer {m}
+manipular {v} :: handhaben; hantieren (mit)
+manipular {v} :: manipulieren
+maniquí {m} :: Schaufensterpuppe {f}
+manjar {m} :: Karamell {n} (karamelisierte Milch) \Essen
+manjar {m} :: (leckere) Speise {f} \Essen
+manojo {m} (de) :: Handvoll {f}
+manopla {f} :: Schlagring {m}
+manosear {v} :: betatschen [ugs.]
+manoseo {m} :: Betatschen {n}
+mañoso {adj} [Chile] :: jähzornig; launisch
+mañoso {adj} :: geschickt
+mansedad {f} :: Zahmheit {f}
+mansión {f} :: Villa {f}
+manso {adj} :: zahm; sanft; friedlich
+manta {f}; mantarraya {f} :: Manta {m}; Mantarochen {m} \Tiere
+manteca {f} :: Schmalz {m} \Essen
+mantecoso {adj} :: fettig
+mantel {m} :: Tischdecke {f}
+mantención {f} :: Unterhalt {m}; Versorgung {f}; Unterhaltung {f}
+mantener {v} :: aufrecht erhalten
+mantener {v} :: bewahren
+mantener {v} :: versorgen; unterhalten
+mantenimiento {m} :: Aufrechterhaltung {f}
+mantenimiento {m} :: Einhaltung {f}
+mantenimiento {m} :: Instandhaltung {f}; Wartung {f}
+manto {m} :: Umhang {m} \Kleidung
+manual {adj} :: Hand-; manuell
+manualmente {adv} :: mit der Hand; von Hand
+manual {m} :: Handbuch {n}; Gebrauchsanweisung {f}
+manuela {f} [coloq.] :: Selbstbefriedigung {f} \Sexualität
+manufactura {f} :: Manufaktur {f}; Fabrik {f}
+manuscrito {adj} :: handschriftlich
+manuscrito {m} :: Handschrift {f}
+manuscrito {m} :: Manuskript {n}
+manutención {f} :: Unterhalt {m}; Unterhaltungskosten {f}
+manutener {v} :: unterhalten; Unterhalt zahlen
+manzana {f} :: Häuserblock {m}; Block {m}
+manzanal {m} :: Apfelplantage {f} \Landwirtschaft
+mapache {m} :: Waschbär {m} \Tiere
+mapa {m} :: Karte {f}; Landkarte {f}; Straßenkarte {f}
+maquinación {f} :: Machenschaft {f}
+maquinaria {f} :: Maschinen {f} {pl}; Gerätschaften {f}
+maquinar {v} :: aushecken; ersinnen
+maquinista {m,f} :: Maschinist {m} \Berufe
+maquinista {m,f} :: Mechaniker {m} \Berufe
+maraca {f} :: Hure {f} \Schimpfwörter
+maracas {f} {pl} :: Rassel {f} \Musik
+maraqueta {f} :: Platz {m} (Brot) \Essen
+maravilla {f} :: Sonnenblume {f} \Essen \Planzen
+maravilla {f} :: Sonnenblumenkerne {f} {pl} \Essen
+maravilloso {adj} :: wunderbar; herrlich
+marca {f} :: Marke {f}
+marcar {v} :: markieren
+marcha {f} :: Ausgehen {n}
+marcha {f} :: Fahrt {f}
+marcha {f} :: Gang {m} (Fahrzeug)
+marchar {v} :: laufen; funktionieren
+marchar {v} :: marschieren
+marchito {adj} :: verwelkt \Pflanzen
+marchoso {adj} :: umtriebig; feierwütig
+marcial {adj} :: Kampf-
+marciano {adj} :: Mars-
+marciano {m} :: Marsmensch {m}
+marea {f} :: Gezeiten {f} {pl}
+marearse {v} :: schlecht werden
+marearse {v} :: schwindelig werden
+marear {v} :: schwindeln; schwindelig machen
+maremoto {m} :: Seebeben {n}
+mareo {m} :: Schwindel {m}
+margarita {f} :: Margerite {f} \Pflanzen
+margen {m} :: Rand {m}
+marginado {adj} :: ausgegrenzt
+marginal {adj} :: Neben-; nebensächlich
+marginal {adj} :: Rand-
+marica {m} :: Schwule {m} \Sexualität
+maricón {adj} :: scheiß [vulgär] \Schimpfwörter
+maricón {adj} :: schwul \Sexualität
+maricona {f} :: Lesbe {f} \Sexualität
+maricón {m} :: Arschloch {n} [vulgär] \Schimpfwörter
+maricón {m} :: Schwule {m}; Schwuchtel {f} \Schimpfwörter
+marimacho {m} :: männlich Frau {f}; Lesbe {f}
+marina {adj} :: Seefahrts-; Schiffs-
+marina {f} :: Marine {f}
+marina {f} :: Seefahrt {f}
+marinera {f} :: Matrose {m} (weiblich) \Berufe
+marinero {adj} :: See-; Meer-; Meeres-
+marinero {m} :: Matrose {m} \Berufe
+marinero {m} :: Seemann {m} \Berufe
+marino {adj} :: See-; Seemanns-; Matrosen-
+mariquita {m} :: Schwuchtel {f}
+mariscador {m} :: Fischer {m} (Meeresfrüchte) \Berufe
+mariscal {m} :: Gericht aus Meeresfrüchten {n} \Essen
+mariscar {adj} :: Meeresfrüchte ernten
+marisquería {f} :: Meeresfrüchte Verkauf {m}; Fischladen {m}
+marítimo {adj} :: maritim; Meer-; See-
+marmita {f} :: Kochtopf {m}
+mármol {m} :: Marmor {m}
+marmota {f} [coloq.] :: Schlafmütze {f} [ugs.]
+marmota {f} :: Murmeltier {n} \Tiere
+marquesa {f} [Chile] :: Bettgestell {n}
+marquesa {f} :: Marquise {f} \Adel
+marquesa {f} :: Marquise {f} (Vordach aus Stoff)
+marqués {m} :: Marquis {m} \Adel
+marrana {f} :: Sau {f} \Tiere
+marrana {f} :: Schlampe {f} \Schimpfwörter
+marrano {m} :: Dreckschwein {n}; Sau {f} \Schimpfwörter
+marrano {m} :: Eber {m} \Tiere
+marrasquino {m} :: kandierte Kirsche {f} \Essen
+marrón {m} :: Braun {n} \Farben
+marrón {m} :: Kastanie {f}; Marone {f} \Essen \Planzen
+marsupial {m} :: Beuteltier {n} \Tiere
+martillar {v} :: hämmern
+martillazo {m} :: Hammerschlag {m}
+martillo {m} :: Hammer {m} \Werkzeug
+martirio {m} :: Märtyrium {n}
+martirizar {v} :: zermürben; quälen
+marzapán {m} :: Marzipan {n} \Essen
+masa {f} :: Masse {f}
+masajista {m,f} :: Masseur {m}, Masseuse {f}
+mascada {f} :: Bissen {m}
+mascarada {f} :: Verkleidung {f}; Maske {f}
+máscara {f} :: Maske {f}
+mascarilla {f} :: Mundschutz {m}
+mas {conj} :: aber
+mas {conj} :: jedoch
+mascota {f} :: Haustier {n} \Tiere
+masculinidad {f} :: Männlichkeit {f}
+masetero {m} :: Blumentopf {m}
+masilla {f} :: Kitt {m}
+masilla {f} :: Knetmasse {f}
+masivo {adj} :: massiv
+masonería {f} :: Freimaurerei {f}
+masón {m} :: Freimaurer {m}
+masoquismo {m} :: Masochismus {m}
+masoquista {adj} :: masochistisch
+masoquista {m,f} :: Masochist {m}, Masochistin {f}
+masticar {v} :: kauen
+masturbación {f} :: Masturbation {f} \Sexualität
+masturbarse {v} :: sich masturbieren \Sexualität
+matadero {m} :: Schlachthof {m}; Schlächterei {f}
+matador {adj} :: tödlich; schrecklich
+matador {m} :: Schlachter {m}; Schlächter {m}
+matador {m} :: Stierkämpfer {m}; Matador {m}
+mata {f} :: Pflanze {f} \Planzen
+mata {f} :: Strauch {m}; Busch {m} \Planzen
+matambre {m} :: Schlachtplatte {f} \Essen
+matamoscas {m} :: Fliegenklatsche {f}
+matanza {f} :: Gemetzel {n}; Blutbad {n}
+matanza {f} :: Schlachtfest {n} \Essen
+matar {v} :: schlachten
+matasellos {m} :: Poststempel {m}
+matemática {f} :: Mathematik {f}
+matemático {m} :: Mathematiker {m}
+mate {m} [coloq.] :: Schädel {m} \Körper
+mate {m} :: Mate {m} (Tee) \Trinken
+mate {m} :: Trinkgefäß für Mate Tee
+materia {f} :: Materie {f}; Stoff {m}
+materia {f} :: Thema {n}; Materie {f}; Stoff {m}
+materialismo {m} :: Materialismus {m}
+materialista {m,f} :: Materialist {m}, Materialistin {f}
+material {m} :: Material {n}
+maternal {adj} :: Mutter-
+maternidad {f} :: Mutterschaft {f}
+materno {adj} :: mütterlich; mütterlicherseits
+matiz {f} :: Ton {m}; Nuance {f} \Farben
+matón {m} :: Schläger {m} (Person)
+matriculado {adj} :: eingeschrieben
+matrícula {f} :: Einschreibung {f} (an der Uni etc.)
+matrícula {f} :: Nummernschild {n}; Kennzeichen {n}
+matrimonial {adj} :: ehelich; Ehe-
+matrimonio {m} :: Ehepaar {n}
+matriz {f} :: Gebärmutter {f} \Körper
+matriz {f} :: Mutter-; Stamm-
+matrona {f} :: Hebamme {f} \Berufe
+matrona {f} :: Matrone {f}
+mausoleo {m} :: Mausoleum {n} \Tod
+máximo {adj} :: maximal
+máximo {m} :: Maximum {n}
+mayo {f} :: Majonäse {f} \Essen
+mayonesa {f} :: Majonäse {f} \Essen
+mayor {adj} :: Haupt-; hauptsächlich; groß
+mayor de edad {adj} :: volljährig
+mayordomo {m} :: Hausmeister {m} \Berufe
+mayoría de edad {f} :: Volljährigkeit {f}
+mayoría {f} :: Mehrheit {f}; Mehrzahl {f}
+mayoridad {f} :: Volljährigkeit {f}
+mayorista {m} :: Großhändler {m}
+mayormente {adv} :: hauptsächlich
+mayúscula {f} :: Großbuchstabe {m}
+mayúsculo {adj} :: groß; riesig
+mazmorra {f} :: Kerker {m}; Verlies {n}
+mazo {m} :: Fleischerhammer {m} \Werkzeug 
+mazo {m} :: Holzhammer {m} \Werkzeug
+mazorca {f} :: Gemüsemais {m} \Essen
+poner en marcha {v} :: zum Laufen bringen
+por la mañana {adv} :: morgens
+

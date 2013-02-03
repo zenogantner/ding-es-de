@@ -1,0 +1,153 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+Adén :: Aden
+Alejandría :: Alexandria
+almeriense :: aus Almería
+Amberes; Antuerpia; Antuérpia :: Antwerpen
+Aquisgrán :: Aachen
+Atenas :: Athen
+Augsburgo :: Augsburg
+Aviñón :: Avignon
+
+Basilea :: Basel
+Belén :: Bethlehem
+Belgrado :: Belgrad
+Berlín :: Berlin
+berlinés :: aus Berlin
+Berna :: Bern
+bilbaíno; bilbaína :: aus Bilbao
+Bogotá :: Bogota
+Bolonia :: Bologna
+Brujas :: Brügge
+Brunswick :: Braunschweig
+Bruselas :: Brüssel
+Burdeos :: Bordeaux
+
+El Cairo :: Kairo
+cairota :: aus Kairo
+Calcuta :: Kalkutta
+Ciudad de México :: Mexico City; Mexiko-Stadt
+Coblenza :: Koblenz
+Copenhague :: Kopenhagen
+cordobés :: aus Córdoba
+Corinto :: Korinth
+Cracovia :: Krakau
+Cusco; Cuzco :: Cusco; Cuzco (Stadt in Peru)
+cusqueño; cusqueña :: aus Cusco
+
+Dresde :: Dresden
+donostiarra :: aus San Sebastian
+Dunquerque :: Dünkirchen
+
+Edimburgo :: Edinburgh
+El Cabo :: Kapstadt
+Escafusa :: Schaffhausen
+Espira :: Speyer
+Estambul :: Istanbul
+Estocolmo :: Stockholm
+Estrasburgo :: Straßburg
+
+Florencia :: Florenz
+Francfort :: Frankfurt
+Francfort del Meno :: Frankfurt am Main
+Francfort del Oder :: Frankfurt an der Oder
+Friburgo :: Freiburg
+
+Ginebra :: Genf
+granadia :: aus Granada
+
+Hamburgo :: Hamburg
+Hanóver :: Hannover
+Lago Léman; Lago de Ginebra :: Genfer See
+La Haya :: Den Haag
+Lausana :: Lausanne
+Leningrado :: Leningrad
+Lieja :: Lüttich
+Lisboa :: Lissabon
+Londres :: London
+Lucerna :: Luzern
+
+Madrid :: Madrid
+madrileño; madrileña :: aus Madrid; Madrider
+gata {f} :: Madriderin {f}
+# verifizieren!
+Maguncia :: Mainz
+matritense :: aus Madrid
+Málaga :: Malaga
+malagueño; malagueña :: aus Malaga
+Marsella :: Marseille
+marsellés :: aus Marseille
+Milano :: Mailand
+Moscú :: Moskau
+moscovita :: aus Moskau; in Moskau
+Mulhouse :: Mühlhausen; Mulhouse
+Múnich :: München
+
+Nápoles :: Neapel
+Narbona :: Narbonne
+Nimega :: Nimwegen
+Niza :: Nizza
+Nueva York :: New York
+neoyorquino; neoyorquina :: aus New York; in New York
+Nuremberg :: Nürnberg
+
+Oldemburgo :: Oldenburg
+Oporto :: Porto
+
+París :: Paris
+Pekín :: Peking
+Praga :: Prag
+
+Ratisbona :: Regensburg
+Roma :: Rom
+
+Saarbruck :: Saarbrücken
+Salzburgo :: Salzburg
+Seúl :: Seoul
+
+Tánger :: Tanger
+Teherán :: Teheran
+Trento :: Trient
+Tréveris :: Trier
+Tubinga :: Tübingen
+Túnez :: Tunis
+
+Varsovia :: Warschau
+Versalles :: Versailles
+Viena :: Wien
+
+Zaragoza :: Saragossa
+Zúrich :: Zürich
+

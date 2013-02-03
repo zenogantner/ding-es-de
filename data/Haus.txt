@@ -1,0 +1,139 @@
+# Copyright (C) 2003, 2004, 2005 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# Haus, Zimmer, Möbel, Haushaltsgeräte
+
+aparato microondas {m} :: Mikrowelle {f}
+apartamento {m} :: Appartement {n}; Einzimmerwohnung {f}
+ascensor {m} :: Aufzug {m}; Lift {m}
+aspirador {m} :: Staubsauger {m}
+aspiradora {f} :: Staubsauger {m}
+ático {m} :: Dachgeschoss {n}
+ático {m} :: Dachwohnung {f}
+ático {m} :: Penthouse {n}
+azotea {f} :: Dachgeschoss {n}
+balcón {m} :: Balkon {m}
+banco {m} :: Bank {f}; Sitzbank {f}
+bañera {f} :: Badewanne {f}
+baño {m} :: Bad {n}; Badezimmer {n}
+batidora {f} :: Mixer {m}
+bidé {m} :: Bidet {n}
+bombilla {f} :: Glühbirne {f}
+butaca {f} :: Sessel {m}
+cajón {m} :: Schublade {f}
+calefacción {f} :: Heizung {f}
+casa {f} :: Haus {n}
+chimenea {f} :: Schornstein {m}; Kamin {m}; Schlot {m}; Rauchfang {m}
+cocina {f} :: Küche {f} (Raum)
+columna {f} :: Säule {f} [Architektur]
+comedor {m} :: Esszimmer {n}; Speisesaal {m}; Kantine {f}
+congelador {m} :: Gefrierschrank {m}; Gefriertruhe {f}
+cortina {f} :: Vorhang {m}
+cristal {m} :: Glas {n}; Fensterscheibe {f}
+cuarto {m} :: Zimmer {n}
+cuarto de estar {m} :: Wohnzimmer {n}
+despacho {m} :: Arbeitszimmer {n}
+despensa {f} :: Speisekammer {f}; Vorratskammer {f}
+dormitorio {m} :: Schlafzimmer {n}
+ducha {f} :: Dusche {f}
+dueño {m} :: Wohnungseigentümer {m}; Hauseigentümer {m}
+dueña {f} :: Wohnungseigentümerin {f}; Hauseigentümerin {f}
+edificio {m} :: Gebäude {n}
+electrodoméstico {m} :: Haushaltsgerät {n}; Elektrogerät {n}
+escritorio {m} :: Schreibtisch {m}
+escritorio {m} :: Arbeitszimmer {n}
+espejo {m} :: Spiegel {m}
+estantería {f} :: Regal {n}; Regalwand {f}
+exprimidor {m} :: Fruchtpresse {f}
+fregadero {m} :: Spülbecken {n}
+frigorífico {m} :: Kühlschrank {m}
+habitación {f} :: Zimmer {n}
+heladera {f} [Am.] :: Kühlschrank {m}
+inodoro {m} :: Klo {n}; WC {n}
+lámpara {f} :: Lampe {f}
+lavabo {m} :: Waschbecken {n}
+lavabo {m} :: Toilette {f}
+lavadora {f} :: Waschmaschine {f}
+llave {f} :: Schlüssel {m}
+máquina de coser {f} :: Nähmaschine {f}
+mayordomo {m} :: Hausverwalter {m}; Gutsverwalter {m}
+mayordoma {f} :: Hausverwalterin {f}; Gutsverwalterin {f}
+mesa {f} :: Tisch {m}
+microondas {m} :: Mikrowelle {f}; Mikrowellenherd {m}
+morada {f} :: Zuhause {n}; Wohnung {f}; Wohnsitz {m}
+morar :: wohnen
+muebles {m} {pl} :: Möbel {n} {pl}
+muro {m} :: Mauer {f}
+nevera {f} :: Kühlschrank {m}
+número de casa {m} :: Hausnummer {f}
+pared {f} :: Wand {f}; Mauer {f}
+pasillo {m} :: Gang {m}; Flur {m}
+pila {f} :: Becken {n}; Spülbecken {n}
+piso {m} :: Stockwerk {n}; Etage {f}
+piso {m} :: Wohnung {f}
+planta {f} :: Stockwerk {n}; Geschoss {n}
+planta {f} :: Grundriss {m}
+planta baja {f} :: Erdgeschoss {n}
+portera {f} :: Pförtnerin {f}
+portero {m} :: Pförtner {m}
+puerta {f} :: Tür {f}; Tor {n}
+refrigerador {m} :: Kühlschrank {m}; Kühlanlage {f}
+repostería {f} :: Anrichte {f}
+sala {f} :: Raum {m}; Saal {m}
+sala de estar {f} :: Wohnzimmer {n}
+silla {f} :: Stuhl {m}
+sillón {m} :: Sessel {m}
+sofá {m} :: Sofa {n}
+en el sofá :: auf dem Sofa
+tabla de planchar {f} :: Bügelbrett {n}
+tapiz {m} :: Wandteppich {m}
+terraza {f} :: Terrasse {f}
+tostador {m}; tostador de pan {m}; tostadora {f} :: Toaster {m}
+trastero {m}; cuarto trastero {m} :: Abstellkammer {f}; Rumpelkammer {f}; Abstellraum {m}
+sótano {m} :: Keller {m}; Untergeschoss {n}
+váter {m}; wáter {m} :: Klo {n}; WC {n}; Klosett {n}
+ventana {f} :: Fenster {n}
+villa {f} :: Villa {f}
+
+
+# TÄTIGKEITEN IM HAUSHALT / HAUS
+abrasivo {m} :: Scheuermittel {n}
+barrer :: kehren; fegen
+barrer el suelo :: den Boden fegen; den Boden kehren
+lavar :: waschen
+limpiar :: säubern; reinigen; putzen
+pasar la aspiradora :: staubsaugen
+renovar :: renovieren
+renovado; renovada :: renoviert
+

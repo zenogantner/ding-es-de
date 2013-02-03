@@ -1,0 +1,776 @@
+# Copyright (C) 2006 Matthias Buchmeier
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2006 Klaus Meinke
+# Copyright (C) 2004 Simon Kmiecik
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+dado {m} :: Würfel {m} (Spiel)
+dar cosas [coloq.] {v} :: unangenehm sein
+dar la vuelta {v} :: umdrehen; wenden
+darse cuenta de algo {v} :: etwas bemerken
+darse prisa {v} :: sich beeilen
+datar {v} :: datieren
+dato {m} :: Angabe {f}
+dato {m} :: Hinweis {m}
+datos {m} {pl} :: Daten {f} {pl}
+dañado {adj} :: beschädigt
+dañar {v} :: schädigen; schaden
+dañino {adj} :: schädlich
+daño {m} :: Schaden {m}
+deber {m} :: Pflicht {f}
+debajo :: unten; unterhalb
+debajo de :: unter; unterhalb von
+deber {v} :: schulden; verdanken
+debido a {adv} :: wegen
+debilidad {f} :: Schwäche {f}
+debilitar {v} :: schwächen; entkräften
+debilitarse {v} :: schwach werden
+década {f} :: Jahrzehnt {n} \Zeit
+decaer {v} :: verfallen
+decaimiento {m} :: Mattigkeit {f}
+decaída {f} :: Verfall {m}
+decaído {adj} :: heruntergekommen; verfallen
+decaído {adj} :: schwach; matt
+decapitar {v} :: köpfen; enthaupten \Geschichte \Verbrechen
+decencia {f} :: Anstand {m}
+decente {adj} :: dezent; anständig
+decepcionado {adj} :: enttäuscht \Gefühle
+decepcionar {v} :: enttäuschen
+decepción {f} :: Enttäuschung {f} \Gefühle
+decididamente {adv} :: entschlossen
+decidido {adj} :: entschlossen; bestimmt
+decidir {v} :: entscheiden
+decidirse {v} :: sich entscheiden
+decisivo {adj} :: entscheidend
+decisión {f} :: Entscheidung {f}
+declaración {f} :: Deklaration {f}; Erklärung {f} \Politik
+declarar {v} :: aussagen; bezeugen
+declarar {v} :: bekannt geben; bekunden
+declarar {v} :: deklarieren (Zoll)
+declarar {v} :: feststellen
+declararse {v} :: sich bekennen
+declinar {v} :: ablehnen
+declinar {v} :: beugen
+dedicación {f} :: Engagement {n}; Fleiß {m}
+dedicación {f} :: Hingabe {f}
+dedicación {f} :: Widmung {f}
+dedicar a {v} :: verwenden für
+dedicar {v} :: widmen
+dedicarse a :: sich beschäftigen mit; sich befassen mit; sich widmen
+dedo del pie {m} :: Zeh {m}; Zehe {f} \Körper
+deducción {f} :: Ableitung {f}
+deducción {f} :: Folgerung {f}; Schlussfolgerung {f}
+deducción {f} :: Preisnachlass {m}; Abzug {m} \Geld
+deducir {v} :: ableiten
+deducir {v} :: abziehen
+deducir {v} :: folgern; schließen
+defecar {v} :: Stuhlgang haben \Körper
+defecto {m} :: Fehler {m}; Defekt {m}
+defectuoso {adj} :: defekt; schadhaft
+defender {v} :: verteidigen
+defensa {f} :: Verteidigung {f}
+defensivo {adj} :: defensiv
+defensor {m} :: Verteidiger {m}
+deficiencia {f} :: Mangel {m}; Fehlerhaftigkeit {f}
+deficiente mental {m} :: geistig Behinderter {m}
+deficiente mental {f} :: geistig Behinderte {f}
+deficiente {adj} :: behindert
+deficiente {adj} :: fehlerhaft
+deficiente {adj} :: mangelhaft (Schulnote)
+deficiente {m} :: Behinderter {m}
+deficiente {f} :: Behinderte {f}
+definición {f} :: Definition {f}
+definido {adj} :: bestimmt; definiert
+definir {v} :: definieren; festlegen; bestimmen
+definitivo {adj} :: bestimmt; definitiv
+definitivo {adj} :: endgültig
+deformación {f} :: Verformung {f}; Deformierung {f}
+deformar {v} :: verformen; deformieren
+deforme {adj} :: unförmig; hässlich
+defraudar {v} :: betrügen
+defraudar {v} :: enttäuschen
+degeneración {f} :: Degeneration {f}; Ausartung {f}; Entartung {f}
+degenerado {adj} :: degeneriert; entartet
+degenerado {adj} :: pervers
+degradación {f} :: Abbau {m}
+degradación {f} :: Degradierung {f}
+degradar {v} :: abbauen
+degradar {v} :: degradieren; abstufen
+degradar {v} :: verkommen; verwahrlosen
+degustación {f} :: Verkostung {f}; Kostprobe {f} \Essen \Trinken
+degustar {v} :: probieren; kosten; verkosten \Essen \Trinken
+dejadez {f} :: Nachlässigkeit {f}
+dejadez {f} :: Schlampigkeit {f} [ugs.]
+dejado {adj} :: nachlässig
+dejado {adj} :: schlampig [ugs.]
+dejarse caer {v} :: sich fallen lassen
+dejarse llevar {v} :: sich gehen lassen
+delante :: vorne; voran; davor
+delante de :: vor
+delante de :: in Gegenwart von
+de delante; por delante :: von vorn
+tener por delante {v} :: vor sich haben
+delantero {adj} :: Vorder-; Vor-; vordere
+delatar {v} :: verraten; petzen [ugs.]
+delegación {f} :: Amt {n}
+delegación {f} :: Delegation {f}
+delegación {f} :: Geschäftsstelle {f}
+delegar {v} :: abordnen; entsenden
+delegar {v} :: delegieren
+deletrear {v} :: buchstabieren
+deletrear {v} :: entziffern
+delicadeza {f} :: Empfindlichkeit {f}
+delicado; delicada {adj} :: heikel; schwierig; verfänglich
+delicado; delicada {adj} :: schlank; zierlich
+delicado; delicada {adj} :: zart
+delicia {f} :: Köstlichkeit {f}; Genuss {m}
+delicia {f} :: Vergnügen {n}
+delicioso {adj} :: lecker; köstlich
+delirio {m} :: Delirium {n}; Wahn {m}; Wahnvorstellung {f}
+demacrado {adj} :: abgemagert; ausgemergelt
+demacrado {adj} [Am.] :: niedergeschlagen
+demanda {f} :: Bedarf {f}
+demanda {f} :: Klage {f}
+demanda {f} :: Nachfrage {f}
+demandado {m} :: Angeklagter {m}
+demandar :: verklagen; anklagen
+lo demás :: das Übrige
+los demás :: die Anderen
+por lo demás {adv} :: im übrigen
+demasiado; demasiada :: zu viel; zu; zu sehr
+democracia {f} :: Demokratie {f} \Politik
+demográfico; demográfica {adj} :: demographisch \Politik
+democrático {adj} :: demokratisch \Politik
+demoler {v} :: abreißen; abbrechen
+demoler {v} :: zerstören; demolieren
+demonio {m} :: Dämon {m}
+demonio {m} :: Teufel {m}
+demorar {v} :: aufhalten
+demorar {v} :: aufschieben; verschieben
+demorar {v} :: dauern
+demorarse {v} :: lange brauchen
+demorarse {v} :: sich hinziehen
+demorarse {v} :: sich verzögern
+demoscópico; demoscópica {adj} :: demoskopisch \Politik
+demostración {f} :: Beweis {m}
+demostración {f} :: Vorführung {f}
+denigrante {adj} :: erniedrigend; herabsetzend
+denominador {m} :: Nenner {m} [math.] \Mathematik
+densidad {f} :: Dichte {f}
+denso {adj} :: dicht
+dentista {m} :: Zahnarzt {m} \Medizin
+dentista {f} :: Zahnärztin {f} \Medizin
+dentro :: darin; drinnen
+por dentro :: von innen
+dentro de (+tiempo) :: in (+Zeit); innerhalb von (+Zeit); binnen (+Zeit)
+dentro de :: im
+dentro de poco :: bald
+denuncia {f} :: Anzeige {f}
+denuncia {f} :: Denunziation {f}; Anschwärzung {f}
+denuncia {f} :: Strafanzeige {f}; Anzeige {f}
+departamento {m} :: Abteilung {f}
+departamento {m} :: Behörde {f}
+departamento {m} [Am.] :: Wohnung {f}; Appartement {n}
+dependencia {f} :: Abhängigkeit {f}
+dependiente {adj} :: abhängig
+dependiente {m} :: Angestellter {m} \Arbeit
+dependiente {f} :: Angestellte {f} \Arbeit
+deplorable {adj} :: bedauernswert; erbärmlich; jämmerlich
+deportar {v} :: ausweisen; verbannen
+deportar {v} :: deportieren; verschleppen
+depositar {v} :: deponieren; einlagern
+depositar {v} :: einzahlen
+depravado {adj} :: verkommen; sittenlos
+depresivo {adj} :: bedrückend
+depresivo {adj} :: depressiv; bedrückt \Gefühle
+depresión {f} :: Depression {f}; Konjunkturtief {n}
+depresión {f} :: Depression {f}; Niedergeschlagenheit {f} \Gefühle
+depresión {f} :: Senke {f}
+depresión {f} :: Tief {n}; Tiefdruckgebiet {n}
+deprimente {adj} :: deprimierend
+deprimido {adj} :: deprimiert; bedrückt \Gefühle
+deprimir {v} :: deprimieren \Gefühle
+deprimirse {v} :: deprimiert werden \Gefühle
+deprisa {adv} :: schnell; eilig
+depósito {m} :: Behälter {m}; Reservoir {n}
+depósito {m} :: Einzahlung {f} \Geld
+depósito {m} :: Speicher {m}; Lager {n}
+a la derecha :: rechts
+derechista {adj} :: rechts; rechtsgerichtet [Politik] \Politik
+derecho {adj} :: aufrecht; stehend
+derecho {adj} :: aufrichtig
+derecho {adj} :: gerade
+derecho {adj} :: recht
+derecho {m} :: Anspruch {m}; Anrecht {n}
+derecho {m} :: Gebühr {f}; Abgabe {f} \Geld
+derecho {m} :: Jura {f}
+derecho {m} :: Recht {n}; Berechtigung {f}
+derecho {m} :: Recht {n}; Gesetz {n}
+derecho {m} :: Steuer {f} \Geld \Politik
+derecho; todo derecho; siempre derecho {adv} :: geradeaus
+derivado {adj} :: abgeleitet
+derivado {m} :: Derivat {n}
+derivar {v} :: ableiten \Mathematik
+derramar {v} :: gießen; vergießen; ausschütten; verschütten
+derrame de sangre {m} :: Blutung {f}; Bluterguss {m} \Medizin
+derrame {m} :: Auslauf {m}; Ausströmen {n}
+derrame {m} :: Auslaufen {n}; Erguss {m}
+derrame {m} :: Leck {n}
+derretir {v} :: schmelzen; auftauen
+derretirse {v} :: schmelzen; zerfließen
+derrochador {m} :: Verschwender {m}
+derrochar {v} :: verschwenden
+derroche {m} :: Verschwendung {f}
+derrumbarse {v} :: zusammenbrechen; zusammenfallen
+derrumbe {m} :: Erdrutsch {m}
+desabrigado {adj} :: dünn angezogen
+desabrigado {adj} :: ungeschützt
+desafiar {v} :: herausfordern
+desafortunado {adj} :: unglücklich
+desafortunado {m} :: Unglücklicher {m}
+desafío {m} :: Herausforderung {f}
+desagradable {adj} :: peinlich; unangenehm
+desagradecido {adj} :: undankbar
+desagrado {m} :: Missfallen {n} \Gefühle
+desagüe {m} :: Abfluss {m}; Ablauf {m}
+desajuste {m} :: Unordnung {f}
+desaliñado {adj} :: ungewürzt \Essen
+desalojo {m} :: Räumung {f}
+desamor {m} :: Lieblosigkeit {f}
+desamparar {v} :: im Stich lassen; verlassen
+desaparecer {v} :: verschwinden
+desaparecido {adj} :: verschollen
+desaparecido {adj} :: verschwunden
+desaparecido {m} :: Verschollener {m}; Vermisster {m}
+desaparición {f} :: Verschwinden {n}
+desapercibido {adj} :: unbeachtet; unauffällig
+pasar desapercibido :: nicht auffallen
+desarrollado {adj} :: entwickelt
+desarrollo {m} :: Entwicklung {f}; Ablauf {m}; Entfaltung {f}
+desaseado {adj} :: ungepflegt; unsauber
+desastre {m} :: Katastrophe {f}
+desastroso {adj} :: furchtbar; schrecklich
+desatar {v} :: auslösen
+desatar {v} :: lösen; losmachen; aufmachen
+desatornillar {v} :: losschrauben
+desbordarse {v} :: über die Ufer treten (Fluss)
+desbordarse {v} :: überlaufen
+descafeinado {adj} :: entkoffeiniert \Trinken
+descalificación {f} :: Disqualifikation {f}
+descalzo {adj} :: barfuß
+descampado {m} :: offenes Feld {n}
+descansado {adj} :: ausgeruht
+descapotable {m} :: Cabrio {n}; Cabriolet {n} \Verkehr
+descarado {adj} :: unverschämt
+descargar {v} :: abladen; entladen; ausladen
+descargarse {v} :: losgehen; sich entladen (Schusswaffe)
+descartar {v} :: ausschließen; verwerfen
+descendencia {f} :: Abstammung {f}
+descender {v} :: absinken; sinken
+descender {v} :: abstammen
+descender {v} :: heruntersteigen; heruntergehen; absteigen
+descifrar {v} :: entschlüsseln; dechiffrieren \Kommunikation \Mathematik
+descifrar {v} :: entziffern
+descomponer {v} :: zerlegen; auseinander nehmen
+descomponerse {v} :: auseinander gehen
+descomponerse {v} :: kaputt gehen [ugs.]
+descomposición {f} :: Fäulnis {f}; Verwesung {f}; Zersetzung {f}
+descomposición {f} :: Zerfall {m}
+descompuesto {adj} :: faulig; verwest \Essen
+descompuesto {adj} :: kaputt [ugs.]; zerbrochen
+desconfiado {adj} :: misstrauisch \Gefühle
+desconfianza {f} :: Misstrauen {n} \Gefühle
+desconfiar {v} :: misstrauen \Gefühle
+descongelar {v} :: auftauen
+desconocido {adj} :: unbekannt
+desconocido {m} :: Fremde {m}
+descremado {adj} :: entrahmt \Trinken
+leche descremada {f} :: entrahmte Milch {f} \Trinken
+describir {v} :: beschreiben
+descripción {f} :: Beschreibung {f}
+descriptivo {adj} :: beschreibend
+descubierto {adj} :: unbedeckt; aufgedeckt
+descubierto {m} :: Kontoüberziehung {f} \Geld
+descubierto; descubierta {adj} :: entdeckt
+descubrimiento {m} :: Entdeckung {f}
+descubrir {v} :: aufdecken
+descubrir {v} :: entdecken; herausfinden
+descuento {m} :: Rabat {m}; Ermäßigung {f} \Geld
+descuidado {adj} :: nachlässig; schlampig [ugs.]
+descuidar {v} :: nachlässig sein
+descuidar {v} :: unbesorgt sein; sorglos sein
+descuido {m} :: Fahrlässigkeit {f}
+descuido {m} :: Sorglosigkeit {f}
+descuido {m} :: Unaufmerksamkeit {f}
+desde :: von (Ort) aus
+desde aquí :: von hier aus
+desde luego :: natürlich; selbstverständlich
+desdicha {f} :: Unglück {n}
+desdichado {adj} :: unglücklich
+deseable {adj} :: wünschenswert
+desechable {adj} :: Einweg-; wegwerfbar
+desechar {v} :: wegwerfen
+desechos {m} {pl} :: Abfall {m}; Müll {m}
+desembarcar {v} :: von Bord gehen; aussteigen
+desempleado {adj} :: arbeitslos
+desempleado {m} :: Arbeitsloser {m} \Arbeit
+desempleo {m} :: Arbeitslosigkeit {f} \Arbeit
+desencadenar {v} :: auslösen; entfesseln
+desencadenar {v} :: losketten
+desenchufar {v} :: aus dem Stecker ziehen
+deseo {m} :: Wunsch {m}
+deseoso {adj} :: begierig
+desequilibrado {adj} :: aus dem Gleichgewicht gekommen
+desequilibrado {adj} :: unausgeglichen
+desequilibrio {m} :: Ungleichgewicht {n}; Unausgeglichenheit {f}
+desesperación {f} :: Verzweiflung {f} \Gefühle
+desesperante {adj} :: zum Verzweifeln
+desesperar {v} :: zur Verzweiflung bringen
+desesperarse {v} :: verzweifeln \Gefühle
+desfilar {v} :: aufmarschieren
+desfile de moda {m} :: Modenschau {f}
+desfile {m} :: Prozession {f}; Umzug {m}
+desgarrar {v} :: zerreißen
+desgarrón {m} :: Riss {m}
+desgastarse {v} :: sich abnutzen; verschleißen
+desgaste {m} :: Verschleiß {m}; Abnutzung {f}
+desgracia {f} :: Unglück {n}; Unfall {m}
+desgraciadamente {adv} :: leider; unglücklicherweise
+desgraciado {adj} :: unglücklich
+desgraciado {m} [Am.] :: Schuft {m}
+deshabitado {adj} :: unbewohnt
+deshacer {v} :: auseinander nehmen; zerlegen
+deshacer {v} :: lösen; auflösen
+deshacer {v} :: vernichten; zerstören
+deshacerse de alguien {v} :: jemanden loswerden
+estar deshecho :: am Boden zerstört sein \Gefühle
+deshidratación {f} :: Austrocknung {f}
+deshonra {f} :: Schande {f}
+desierto {adj} :: verlassen; tot (Ort)
+desierto {adj} :: wüst
+desierto {m} :: Wüste {f}
+desigual {adj} :: ungleich; nicht gleichberechtigt \Politik
+desigualdad {f} :: Ungleichheit {f} \Politik
+desilusionado {adj} :: desillusioniert; enttäuscht \Gefühle
+desilusionar {v} :: enttäuschen
+desinfección {f} :: Desinfizierung {f}
+desinfectante {adj} :: desinfizierend
+desinfectar {v} :: desinfizieren
+desinflado {adj} :: platt (Reifen, Ball usw.)
+desinflarse {v} :: die Luft verlieren; platt werden
+desinterés {m} :: Desinteresse {n}
+deslizar {v} :: gleiten; rutschen
+desmayado {adj} :: ohnmächtig
+desmayarse {v} :: in Ohnmacht fallen
+desmayo {m} :: Ohnmacht {f}
+desmentir {v} :: leugnen; abstreiten
+desmenuzar {v} :: zerkleinern
+desmoronamiento {m} :: Einsturz {m}; Verfall {m}
+desnudar {v} :: entkleiden; ausziehen \Kleidung
+desnudez {f} :: Nacktheit {f}
+desnudo {adj} :: nackt; entkleidet
+desnutrición {f} :: Unterernährung {f} \Medizin
+desnutrido {adj} :: unterernährt \Medizin
+desobedecer {v} :: nicht gehorchen
+desobediencia {f} :: Ungehorsam {m}
+desobediente {adj} :: ungehorsam
+desocupado {adj} :: unbelegt; unbesetzt frei
+desocupar {v} :: frei machen; räumen
+desolación {f} :: Trostlosigkeit {f}
+desolado {adj} :: trostlos
+desorden {m} :: Unordnung {f}
+desordenado {adj} :: unordentlich
+desordenar {v} :: in Unordnung bringen
+despachar {v} :: abfertigen
+despacho {m} :: Büro {n}
+despacio {adj} :: langsam
+despacio {adj} :: leise
+despacio {adv} :: langsam; sachte
+despacio {adv} [Am.] :: leise
+desparejo; despareja :: ungleich
+despecho {m} :: Trotz {m}
+por despecho :: aus Trotz
+despectivo; despectiva {adj} :: verächtlich
+despedida {f} :: Abschied {m}
+despegado {adj} :: abgelöst
+despegar {v} :: abheben; starten (Flugzeug)
+despegar {v} :: ablösen; lösen
+despegue {m} :: Abheben {n}; Start {m} (Flugzeug)
+despelucharse [Am.] :: sich ausziehen
+despensa {f} :: Vorratskammer {f} \Essen
+desperdiciar {v} :: verschwenden
+desperdicio {m} :: Müll {m}; Abfall {m}
+desperdicio {m} :: Verschwendung {f}
+despertar {v} :: wecken; aufwecken; erwecken \Schlafen
+despertarse {v} :: aufwachen \Schlafen
+despido {m} :: Entlassung {f} \Arbeit
+despido {m} :: Verabschiedung {f}
+despierto {adj} :: wach \Schlafen
+despistado {adj} :: zerstreut
+despistar {v} :: ablenken
+desplazar {v} :: verschieben; umstellen; verstellen
+despoblado {adj} :: unbewohnt
+desposar {v} :: verheiraten; trauen \Familie
+despreciable {adj} :: verachtenswert
+despreciar {v} :: verachten
+desprender {v} :: lösen; lockern; ablösen
+desprenderse {v} :: sich lösen; abgehen
+desprendimiento {m} :: Ablösung {f}; Lockerung {f}
+despreocupado {adj} :: unbekümmert; sorglos
+después de todo :: letzten Endes
+destacado {adj} :: herausragend
+destacar {v} :: sich abheben; herausragen
+destapar {v} :: öffnen
+desterrado; desterrada :: verbannt \Geschichte
+destierro {m} :: Verbannung {f} \Geschichte
+destilar {v} :: destillieren \Trinken
+destilería {f} :: Destillerie {f} \Trinken
+destinado a :: bestimmt für
+destino {m} :: Reiseziel {n}; Bestimmungsort {m}
+destino {m} :: Schicksal {n}
+destino {m} :: Ziel {n}; Bestimmung {f}
+destituir :: absetzen; des Amtes entheben \Politik
+destituir de su cargos :: seiner Ämter entheben; ihrer Ämter entheben \Politik
+destornillador {m} :: Schraubenzieher {m} \Werkzeug
+destornillar {v} :: abschrauben
+destrozar {v} :: zerreißen
+destrozo {m} :: Zerreißen {n}
+destrucción {f} :: Zerstörung {f}
+destructivo {adj} :: destruktiv; zerstörerisch
+destruir {v} :: zerstören
+desusado; desusada :: ungewohnt; ungewöhnlich
+desvalorización {f} :: Wertverlust {m}
+desvalorizarse {v} :: Wert verlieren
+desvanecerse {v} :: verschwinden; vergehen
+desvergonzado {adj} :: frech
+desvergüenza {f} :: Frechheit {f}; Unverschämtheit {f}
+desvestirse {v} :: sich ausziehen \Kleidung
+desviar {v} :: umleiten
+desván {m} :: Dachboden {m}
+desvío {m} :: Umleitung {f}
+desértico {adj} :: Wüsten-
+detallado {adj} :: detailliert; ausführlich
+detallar {v} :: ausführlich beschreiben
+detalle {m} :: Detail {n}
+detección {f} :: Erfassung {f}
+detectar {v} :: detektieren; erfassen
+detective {m} :: Detektiv {m} \Berufe
+detención {f} :: Anhalten {n}
+detención {f} :: Verhaftung {f} \Verbrechen
+detener {v} :: anhalten
+detener {v} :: verhaften \Verbrechen
+detenida {f} :: Verhaftete {f} \Verbrechen
+detenido {m} :: Verhafteter {m} \Verbrechen
+detergente lavaplatos {m} :: Spülmittel {n}
+detergente {m} :: Waschmittel {n}; Reinigungsmittel {n}
+determinación {f} :: Bestimmtheit {f}
+deteriorar {v} :: beschädigen
+deterioro {m} :: Verfall {m}
+determinado {adj} :: bestimmt
+determinar {v} :: bestimmen
+detestar {v} :: hassen \Gefühle
+detonación {f} :: Detonation {f}
+detonar {v} :: detonieren
+detrás :: hinten
+detrás de :: hinter
+deudor {m} :: Schuldner {m} \Geld
+devaluación {f} :: Wertminderung {f} \Geld
+devastador {adj} :: verheerend
+devastar {v} :: verheeren
+devoción {f} :: Frömmigkeit {f} \Religion \Personenbeschreibung
+devoción {f} :: Verehrung {f} \Gefühle
+devoción {f} :: Zuneigung {f} \Gefühle
+devolución {f} :: Rückgabe {f}
+devolver {v} :: erbrechen
+devolver {v} :: zurückgeben; zurückbringen
+devolverse {v} :: sich übergeben
+devorar {v} :: verschlingen \Essen
+devoto {adj} :: ergeben; untertänig
+devoto {adj} :: fromm \Religion \Personenbeschreibung
+diabla {f} :: Teufelin {f}
+diablo {m} :: Teufel {m} \Religion
+diabólico {adj} :: teuflisch; diabolisch
+diagnosticar {v} :: diagnostizieren \Medizin
+diagnóstico {m} :: Diagnose {f} \Medizin
+diagonal {adj} :: schräg; diagonal
+diámetro {m} :: Durchmesser {m}
+diariamente {adv} :: täglich \Zeit
+diarrea {f} :: Durchfall {m} \Medizin
+dibujar {v} :: zeichnen
+dibujo {m} :: Zeichnung {f}
+dibujo {m} :: Muster {n}
+dibujo {m} :: Zeichen {n}
+dicha {f} :: Glück {n}
+dicho {adj} :: besagt; gesagt
+dicho {m} :: Spruch {m}
+dichoso {adj} :: glücklich
+dictamen {m} :: Gutachten {n}
+dictador {m} :: Diktator {m} \Politik
+dictadora {f} :: Diktatorin {f} \Politik
+dictar {v} :: befehlen
+dictar {v} :: diktieren
+dictar {v} :: vorschreiben
+diente {m} :: Zahn {m} \Körper
+diestro {adj} :: flink
+diestro {adj} :: geschickt
+diestro {m} :: Rechtshänder {n}
+dieta {f} :: Diät {f}
+dieta {f} :: Kost {f}
+dietas {f} {pl} :: Diäten {f} {pl} [Politik] \Politik
+dietético {adj} :: Diät-
+difamación {f} :: Verleumdung {f}
+difamar {v} :: verleumden
+diferencia {f} :: Differenz {f}
+diferencia {f} :: Streit {m}
+diferencia {f} :: Unterschied {m}
+diferenciar {v} :: differenzieren \Mathematik
+diferenciar {v} :: unterscheiden
+diferente {adj} :: verschieden; anders
+dificultad {f} :: Schwierigkeit {f}
+difundir {v} :: verbreiten
+difunto {adj} :: verstorben \Tod
+difuso {adj} :: verschwommen; diffus
+difícil {adj} :: schwierig; schwer
+difícilmente {adv} :: schwer; schwerlich; kaum
+digestivo {adj} :: Verdauungs- \Körper
+digestivo {adj} :: verdauungsfördernd
+digestión {f} :: Verdauung {f} \Körper
+dignarse {v} :: sich herablassen
+dignidad {f} :: Würde {f}
+digno {adj} :: würdig
+dije {adj} [Chile] :: nett; angenehm (Person)
+dilatar :: dehnen; ausdehnen
+dilatación {f} :: Dehnung {f} \Medizin
+dilema {m} :: Dilemma {n}
+diligencia {f} :: Erledigung {f}
+diluir {v} :: auflösen
+diluir {v} :: verdünnen
+diluvio {m} :: Sintflut {f}
+dimensión {f} :: Abmessung {f}
+dimensión {f} :: Dimension {f}
+dimensión {f} :: Größe {f}; Abmessung {f}
+dimensión {f} :: Größenordnung {f}
+dimisión {f} :: Rücktritt {m} \Politik
+dinamo {m} :: Dynamo {m} \Technik
+dinamo {m} :: Lichtmaschine {m} \Technik
+dineral {m} :: viel Geld {m} \Geld
+dinámico {adj} :: dynamisch; kraftvoll
+diploma {m} :: Diplom {n}
+diplomado {adj} :: Diplom-
+diplomático {adj} :: diplomatisch
+diputado {m} :: Abgeordnete {m}
+dirección {f} :: Direktorium {n}
+dirección {f} :: Führung {f}
+dirección {f} :: Richtung {f}
+dirección {f} :: Steuerung {f}
+directamente {adv} :: direkt
+directiva {f} :: Anweisung {f}
+directivo {adj} :: leitend; führend
+directo {adj} :: direkt
+en directo {adj} :: live
+dirigente {m} :: Leiter {m}; Anführer {m}
+dirigir {v} :: leiten
+dirigir {v} :: steuern; lenken
+dirigirse a {v} :: sich wenden an
+discado {m} [Am.] :: Vorwahl {m} (Telefonanbieter)
+discar [Am.] :: wählen (Telefon)
+disciplina {f} :: Disziplin {f}
+disciplina de vota {f} :: Fraktionsdisziplin {f} \Politik
+disciplinado {adj} :: diszipliniert
+disconforme {adj} :: nicht einverstanden
+discoteca {f} :: Diskothek {f} \Gastronomie
+discreción {f} :: Diskretion {f}; Verschwiegenheit {f}
+discreción {f} :: Feingefühl {n}
+discrepancia {f} :: Diskrepanz {f}
+discrepancia {f} :: Meinungsverschiedenheit {f}
+discreto {adj} :: diskret
+discreto {adj} :: taktvoll
+discreto {adj} :: verschwiegen
+discriminación {f} :: Diskriminierung {f} \Politik
+discriminación {f} :: Unterscheidung {f}
+discriminar {v} :: diskriminieren
+discriminar {v} :: unterscheiden
+disculpa {f} :: Entschuldigung {f}
+pedir disculpa :: sich entschuldigen
+discurso {m} :: Rede {f}; Ansprache {f}
+discípulo {m} :: Jünger {m}
+discípulo {m} :: Schüler {m}
+diseñador {m} :: Designer {m}
+diseñador {m} :: Konstrukteur {m}
+diseñar {v} :: entwerfen
+diseñar {v} :: konstruieren
+diseñar {v} :: zeichnen
+disfraz {m} :: Verkleidung {f}
+disfrutar {v} :: genießen
+disgustado {adj} :: verärgert \Gefühle
+disgusto {m} :: Unannehmlichkeit {f}
+disidencia {f} :: Abfall {m}; Spaltung {f} \Politik
+disidente {m} :: Abtrünniger {m}; Dissident {m} \Politik
+disidente {f} :: Abtrünnige {f}; Dissidentin {f} \Politik
+disidente {adj} :: abtrünnig \Politik
+disidir {v} :: abspalten \Politik
+disminuido {adj} :: verringert
+disolverse {v} :: sich lösen; sich auflösen
+disparar {v} :: loslegen
+disparar {v} :: schießen \Militär \Waffen
+dispararse {v} :: sich zerstreuen
+disparate {m} :: Unsinn {m}
+disparo {m} :: Schuss {m}
+disponer {v} :: bereitstellen; stellen
+disponer {v} :: bestimmen
+disponer de {v} :: verfügen über
+disponibilidad {f} :: Verfügbarkeit {f}
+disponible {adj} :: verfügbar
+dispuesto a todo :: zu allem bereit
+dispuesto; dispuesta {adj} :: bereit; fertig
+distancia {f} :: Entfernung {f}; Abstand {m}; Distanz {f}
+distanciamiento {m} :: Distanzierung {f}
+distanciamiento {m} :: Entfremdung {f}
+distanciar {v} :: distanzieren
+distanciar {v} :: entfernen
+distanciarse de {v} :: sich distanzieren von
+distante {adj} :: entfernt; fern; entlegen
+distinción {f} :: Auszeichnung {f}
+distinción {f} :: Unterscheidung {f}
+distinguido {adj} :: geehrt, verehrt
+distinguir {v} :: auseinander halten
+distinguir {v} :: unterscheiden
+distinto; distinta {adj} :: deutlich; klar
+distinto; distinta {adj} :: verschieden; unterschiedlich
+distracción {f} :: Unachtsamkeit {f}; Zerstreutheit {f}
+distracción {f} :: Unterhaltung {f}; Vergnügen {n}
+distraer {v} :: ablenken; zerstreuen
+distraerse {v} :: sich vergnügen; sich unterhalten
+distraído {adj} :: zerstreut; abgelenkt
+distribución {f} :: Auslieferung {f}
+distribución {f} :: Einteilung {f}
+distribución {f} :: Verteilung {f}
+distribuidor {m} :: Lieferant {m}; Händler {m}
+distribuir {v} :: ausliefern
+distribuir {v} :: einteilen
+distribuir {v} :: verteilen
+distrito {m} :: Bezirk {m}; Verwaltungsbezirk {m}
+diurno {adj} :: täglich
+diversidad {f} :: Vielfalt {f}; Vielfältigkeit {f}
+diversión {f} :: Abwechslung {f}
+diversión {f} :: Unterhaltung {f}; Vergnügen {n}
+diverso {adj} :: divers; vielfältig
+divertirse {v} :: sich vergnügen
+dividir {v} :: aufteilen; verteilen
+dividir {v} :: auseinander bringen; trennen
+dividir {v} :: dividieren
+dividirse {v} :: sich trennen
+divino {adj} :: göttlich
+divino {adj} [coloq.] :: großartig; toll
+división de poderes {f} :: Gewaltenteilung {f} \Politik
+divorcio {m} :: Scheidung {f} \Familie
+divulgación {f} :: Bekanntmachung {f}; Verbreitung {f}
+divulgar {v} :: verbreiten; bekannt machen
+diálogo {m} :: Dialog {m}
+doblaje {m} :: Synchronisation {f} (Film)
+doblar {v} :: falten
+doblar {v} :: synchronisieren (Film)
+doblar {v} :: verdoppeln \Zahlen
+doble :: doppelt \Zahlen
+docena {f} :: Dutzend {n}
+dócil {adj} :: nachgiebig; fügsam
+doctora {m} :: Doktorin {m}
+doctrina {f} :: Doktrin {f} \Politik
+documentar {v} :: dokumentieren
+documento {m} :: Dokument {n}
+doler {v} :: schmerzen; weh tun \Medizin
+dolido {adj} :: beleidigt
+doloroso {adj} :: schmerzhaft
+doméstico {adj} :: Haus-
+animal doméstico {m} :: Haustier {n}
+domiciliado en :: wohnhaft in
+domicilio {m} :: Wohnsitz {m}
+dominante {adj} :: dominierend; vorherrschend
+dominante {adj} :: herrschend
+dominante {adj} :: herrschsüchtig
+dominar {v} :: beherrschen
+dominar {v} :: bewältigen
+dominar {v} :: unter Kontrolle haben
+dominio {m} :: Beherrschung {f}
+dominio {m} :: Bereich {m}
+dominio {m} :: Bewältigung {f}
+dominio {m} :: Domäne {f} \Computer
+dominio {m} :: Herrschaft {f}
+dominio {m} :: Kenntnis {f}
+donante de sangre {m} :: Blutspender {m} \Medizin
+donante de sangre {f} :: Blutspenderin {f} \Medizin
+donante {m} :: Spender {m}
+donante {f} :: Spenderin {f}
+donativo {m} :: Schenkung {f}; Geschenk {n}
+donde :: da, wo; wo \Pronomen
+dondequiera {adv} :: irgendwo
+dopaje {m} :: Doping {n} \Sport
+dopar {v} :: dopen \Sport
+dorado {adj} :: golden; goldfarben \Farben
+dormido {adj} :: schlafend; eingeschlafen \Schlafen
+dormilona {f} :: Langschläferin {f} \Schlafen
+dormilón {m} :: Langschläfer {m} \Schlafen
+dormirse {v} :: einschlafen \Schlafen
+dormitorio {m} :: Schlafzimmer {n} \Schlafen \Haus
+dosificación {f} :: Dosierung {f}
+dosificar {v} :: dosieren
+dosis {f} :: Dosis {f}
+dotado {adj} :: begabt
+drama {m} :: Drama {n}
+drama {m} :: Schauspiel {n}
+dramático {adj} :: dramatisch
+droga {f} :: Droge {f} \Drogen
+drogarse {v} :: Drogen nehmen \Drogen
+drogarse {v} :: sich berauschen \Drogen
+drástico {adj} :: drastisch
+ducharse {v} :: sich duschen
+duda {f} :: Zweifel {m}
+sin duda :: ohne Zweifel; zweifellos
+dudoso; dudosa :: zweifelhaft
+duelo {m} :: Duell {n}
+duelo {m} :: Trauer {f}
+dueño {m} :: Eigentümer {m}
+dueña {f} :: Eigentümerin {f}
+duna {f} :: Düne {f} \Geographie
+duplicado {m} :: Kopie {f}; Duplikat {f}
+duplicar :: verdoppeln
+duque {m} :: Herzog {m} \Adel
+duquesa {f} :: Herzogin {f} \Adel
+duración {f} :: Dauer {f}
+duración {f} :: Haltbarkeit {f}
+duradero {adj} :: dauerhaft; beständig
+duradero {adj} :: haltbar
+durar {v} :: dauern; andauern; überdauern
+duro; dura :: hart; schwierig
+

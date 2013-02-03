@@ -1,0 +1,331 @@
+# Copyright (C) 2006 Matthias Buchmeier
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+craneal {adj} :: Schädel- \Körper
+cráneo {m} :: Schädel {m} \Körper
+craquear :: cracken \Chemie
+cráter {m} :: Krater {m} \Geographie
+creación {m} :: Schöpfung {f} \Religion
+creacionismo {m} :: Kreationismus {m} \Religion
+creacionista {f} :: Kreationistin {f} \Religion
+creacionista {m} :: Kreationist {m} \Religion
+creador {m} :: Schöpfer {m} \Religion
+crear :: erschaffen
+crear :: kreieren
+creatina {f} :: Kreatin {n}
+creatividad {f} :: Kreativität {f}
+creativo {adj} :: kreativ; schöpferisch
+crecer :: aufwachsen
+crecer :: wachsen
+crecido {adj} :: ausgewachsen
+creciente {adj} :: zunehmend; wachsend
+luna creciente {f} :: zunehmender Mond {m} \Astronomie
+crecimiento {m} :: Wachstum {n}; Zunahme {f}
+credencial {m}; carta credencial {f} :: Beglaubigungsschreiben {n}
+credibilidad {f} :: Glaubwürdigkeit {f}
+crédito {m} :: Abspann {m} (Kino) \Film
+crédito {m} :: Kredit {m} \Geld
+credo {m} :: Glaubensbekenntnis {n} \Religion
+credulidad {f} :: Leichtgläubigkeit {f}
+crédulo {adj} :: leichtgläubig
+creencia {f} :: Glauben {m}
+creer +Adj :: halten
+creerse :: sich halten für
+creer :: glauben
+creíble {adj} :: glaubhaft
+creído {adj} :: eingebildet (Person) \Personenbeschreibung
+crema chantilli {f} [Am.] :: Schlagsahne {f} \Essen
+cremación {f} :: Feuerbestattung {f} \Tod
+crema {f} :: Creme {f} \Essen
+crema {f} :: Sahne {f} \Essen
+crematorio {adj} :: Verbrennung- \Feuer
+crematorio {m} :: Krematorium {n} \Tod
+cremoso {adj} :: cremig
+crespo {adj} :: kraus
+cresta {f} :: Kamm {m} (Hühner, Hahn) \Vögel
+sacar la cresta [coloq.] :: verprügeln
+creyente {m} {f} :: Gläubige {m} {f} \Religion
+criada {f} :: Dienstmädchen {n} \Berufe
+criadero {m} :: Zucht {f}
+criadilla {f} :: Hoden {m} \Essen
+criado {m} :: Diener {m} \Berufe
+criador {m} :: Züchter {m}
+cría {f} [coloq.] :: Kind {n}
+crianza {f} :: Aufzucht {f}
+criar :: aufziehen
+criar :: züchten
+criatura {f} :: Kreatur {f}
+crimen {m} :: Verbrechen {n} \Verbrechen
+criminal {adj} :: kriminell \Verbrechen
+criminalidad {f} :: Kriminalität {f} \Verbrechen
+criminalizar :: kriminalisieren \Verbrechen
+criminal {m} {f} :: Verbrecher {m}; Verbrecherin {f} \Verbrechen
+criogénico {adj} :: kryogen
+cripta {f} :: Krypta {f} \Architektur \Tod
+críptico {adj} :: kryptisch
+criptografía {f} :: Kryptographie {f} \Computer \Mathematik
+crisantemo {m} :: Chrysantheme {f} \Pflanzen
+crisis {f} :: Krise {f}
+cristalería {f} :: Glasware {f}
+cristalino {adj} :: kristallin
+cristalización {f} :: Kristallisation {f}
+cristalizar :: kristallisieren
+cristal {m} :: Glas {n}
+cristal {m} :: Kristall {m}
+cristalino; cristalina {adj} :: kristallklar
+cristalografía {f} :: Kristallographie {f}
+cristiandad {f} :: Christlichkeit {n} \Religion
+cristianismo {m} :: Christentum {n} \Religion
+cristiano {adj} :: christlich \Religion
+cristiano {m}; cristiana {f} :: Christ {m}; Christin {f} \Religion
+cristo :: Christus \Religion
+criterio {m} :: Kriterium {n}
+criticar :: kritisieren
+criticismo {m} :: Kritizismus {m}
+crítico {adj} :: kritisch
+crítico {m}; crítica {f} :: Kritiker {m}; Kritikerin {f}
+criticón {m} :: Nörgler {m} \Personenbeschreibung
+crochet {m}; croché {m} :: Häkelei {f}
+# crochet nicht in RAE
+cromado {adj} :: verchromt
+cromatografía {f} :: Chromatographie {f} \Chemie
+cromo {m} :: Chrom {n} \Elemente
+cromosoma {m} :: Chromosom {n} \Körper
+crónico {adj} :: chronisch \Medizin
+cronista {m} {f} :: Chronist {m}; Chronistin {f} \Geschichte
+cronológico {adj} :: chronologisch
+croqueta {f} :: Krokette {f} \Essen
+cruce {m} :: Kreuzung {f} \Verkehr
+crucero {m} :: Kreuzfahrt {f} \Urlaub
+crucero {m} :: Kreuzfahrtschiff {n} \Verkehr \Urlaub
+crucial {adj} :: entscheidend
+crucificar :: kreuzigen \Religion
+crucifijo {m} :: Kruzifix {n} \Religion
+crucigrama {m} :: Kreuzworträtsel {n}
+crudo {adj} :: roh
+cruel {adj} :: grausam
+crueldad {f} :: Grausamkeit {f}
+crujiente {adj} :: knusprig
+crujir :: knacken
+crujir :: knuspern
+crujir :: krachen
+crustáceo {m} :: Krustentier {n} \Tiere
+cruzada {f} :: Kreuzzug {m} \Geschichte \Religion
+cruzado {adj} :: gekreuzt
+cruzado {adj} :: verschränkt (Arme, Beine) \Körper
+quedarse con los brazos cruzados :: untätig bleiben
+cruzar :: durchqueren
+cruzar :: kreuzen
+cruz {f} :: Kreuz {n}
+cuaderno {m} :: Heft {n} \Schreiben
+cuadrado {adj} :: quadratisch
+cuadrado {m} :: Quadrat {n}
+cuadra {f} [Chile] :: Häuserblock {m}; Block {m}
+cuadrángulo {adj} :: viereckig
+cuadrángulo {m} :: Viereck {n}
+cuadrático {adj} :: quadratisch
+cuadrilátero {m} :: Viereck {n}
+cuadrilla {f} :: Gruppe {f}
+cuadro {m} :: Gemälde {n}; Bild {n} \Kunst
+cuadrúpedo {adj} :: vierbeinig \Tiere
+cuadrúpedo {m} :: Vierbeiner {m} \Tiere
+cuádruple {adj} :: vierfach
+cuajada {f} :: Bruch {m}
+cuajada {f} :: Dickmilch {f} \Essen
+cuajada {f} :: Frischkäse {m} \Essen
+cuajada {f} :: Quark {m} \Essen
+# TODO: cuajada ist eigentlich etwas eigenes, weder Frischkäse noch Quark ...
+cuajar :: gerinnen
+cuajo {m} :: Lab {n}
+¿cuál?; ¿cuáles? :: welche; welcher; welches
+cual; cuál? :: welcher; welche
+cualidad {f} :: Eigenschaft {f}
+cualidad {f} :: Qualität {f}
+cualificado {adj} :: qualifiziert
+cualificar :: qualifizieren
+cualitativo {adj} :: qualitativ
+cualquier; cualquiera :: irgendein; irgendeine
+cuántico {adj} :: Quanten- \Physik
+mecánica cuántica {f} :: Quantenmechanik {f} \Physik
+cuantificación {f} :: Quantisierung {f} \Physik
+cuantificar :: quantifizieren
+cuantificar :: quantisieren \Physik
+cuantitativo {adj} :: quantitativ
+cuanto antes :: möglichst band
+cuanto {m} :: Quant {n}; Quantum {n} \Physik
+cuarentena {f} :: Quarantäne {f} \Medizin
+cuarentón {adj} :: vierzigjährig (Person) \Personenbeschreibung
+cuarto de baño {m} :: Badezimmer {n} \Haus
+cuarto {m} :: Viertel {n}
+cuatrero {m} [Chile] :: Viehdieb {m} \Verbrechen
+cubano {adj} :: kubanisch
+cubano {m}; cubana {f} :: Kubaner {m}; Kubanerin {f} \Länder
+cúbico {adj} :: Kubik-
+cubismo {m} :: Kubismus {m} \Kunst
+cubo de hielo {m} :: Eiswürfel {m} \Trinken
+cubo {m} :: Würfel {m}
+cubrecama {m} :: Bettüberwurf {m} \Schlafen
+cubrir :: abdecken
+cubrir :: bedecken
+cubrir :: zudecken
+cucharada {f} :: Löffelvoll {m}
+cucharadita {f} :: kleiner Löffelvoll {m}
+cucharita {f} :: kleiner Löffel {m}
+cucharón {m} :: Kelle {f}
+cuchilla {f} :: Klinge {f}
+cuco {m} [coloq.] :: böses Gespenst {n}
+cuco {m} :: Kuckuck {m} \Tiere
+cucurucho {m} :: Hörnchen {n}
+cucurucho {m} :: Papiertüte {f}
+cuellicorto {adj} :: kurzhälsig
+cuello {m} :: Kragen {m}
+cuenca {f} :: Becken {n}
+cuenco {m} :: Schüssel {f}
+cuento {m} :: Märchen {n}
+cuera {f} [coloq.] [Chile] :: Figur {f}
+cuerda {f} :: Leine {f}
+dar cuerda :: aufziehen (Uhr, Spielzeug usw.)
+cuerda {f} :: Saite {f} \Musik
+cuerdo {adj} :: gescheit
+cuerno {m} :: Horn {n} \Tiere
+cuesta abajo {adv} :: bergab
+cuesta arriba {adv} :: bergauf
+cuesta {f} :: Abhang {m}
+cuestionable {adj} :: fragwürdig
+cuestionario {m} :: Fragebogen {m}
+cuestionar :: in Frage stellen
+cuestión {f} :: Sache {f}; Frage {f}; Angelegenheit {f}
+cuestión {f} :: Fragestellung {f}; Frage {f}
+cuetear [coloq.] [Chile] :: Funken sprühen
+cueva {f} :: Höhle {f} \Geographie
+cuidado {m} :: Sorge {f}; Sorgfalt {f}; Pflege {f}
+cuidador {m} [Am.] :: Behüter {m} (Gebäude)
+cuidador {m} :: Tierwärter {m} \Tiere
+cuidadosamente {adv} :: vorsichtig
+cuidadoso; cuidadosa {adj} :: sorgfältig; vorsichtig
+cuidarse de :: sich hüten vor
+cuidarse :: auf sich aufpassen
+cuidar :: acht geben
+cuidar :: aufpassen
+cuidar :: pflegen
+cuido {m} :: Betreuung {f}
+cuido {m} :: Pflege {f}
+culantro {m} :: Koriander {m} \Essen
+culata {f} :: Gewehrkolben {m} \Waffen
+le salió el tiro por la culata :: der Schuss ist nach hinten losgegangen \Redewendungen
+culeado {m}; culeada {m} [vulg.] [Chile] :: Arschloch {n} [vulg.] \Schimpfwörter
+culear [vulg.] [Chile] :: ficken [vulg.]
+culminación {f} :: Höhepunkt {m}
+culombio {m} :: Coulomb {n} \Physik
+culo {m} [coloq.] :: Arsch {m} [vulg.]; Hintern {m} \Körper
+culón {adj} :: mit großem Hintern
+culpabilidad {f} :: Schuldigkeit {f}
+culpabilizar :: beschuldigen
+culpa {f} :: Schuld {f}
+culpable {adj} :: schuldig
+sentirse culpable :: sich schuldig fühlen \Gefühle
+culpar :: beschuldigen
+cultivador {m} :: Landwirt {m} \Berufe \Landwirtschaft
+cultivador {m} :: Züchter {m} \Landwirtschaft
+cultivar :: anbauen \Landwirtschaft
+cultivar :: kultivieren
+cultivar :: züchten (Pflanzen)
+cultivo {m} :: Anpflanzung {f} \Landwirtschaft
+cultura {f} :: Kultur {f}; Bildung {f}
+cultural {adj} :: kulturell; Kultur-
+culturizarse :: sich bilden \Bildung
+cumplimiento {m} :: Ausführung {f}; Vollziehung {f}; Vollstreckung {f}
+por cumplimiento :: der Form halber
+por cumplir :: aus Höflichkeit; anstandshalber
+cumulativo {adj} :: kumulativ
+cuna {f} :: Geburtsstätte {f}
+cuna {f} :: Wiege {f}
+cuña {f} [coloq.] [Chile] :: Beziehungen {f} {pl}
+cuña {f} [coloq.] [Chile] :: Vitamin B {n} [ugs.]
+cuña {f} :: Keil {m}
+cuota {f} :: Quote {f}
+cuota {f} :: Rate {f}
+cupido {m} :: Kupido {m}
+cupo {m} :: Kontingent {n}
+cupo {m} :: Quote {f}
+cupón {m} :: Kupon {m}
+cúpula {f} :: Kuppel {f} \Architektur
+curable {adj} :: heilbar \Medizin
+curación {f} :: Heilung {f} \Medizin
+curado {adj} [coloq.] [Am.] :: besoffen [ugs.]
+curado {adj} :: gereift; reif (Schinken, Käse usw.) \Essen
+cura {f} [coloq.] [Am.] :: Alkoholrausch {m} \Trinken
+cura {f} [coloq.] [Am.] :: Besäufnis {f} [ugs.] \Trinken
+cura {f} :: Genesung {f} \Medizin
+cura {f} :: Heilung {f} \Medizin
+cura {f} :: Kur {f} \Medizin
+cura {m} :: Pfarrer {m} \Religion \Berufe
+curandero {m} :: Heiler {m} \Berufe
+curarse [coloq.] [Am.] :: sich besaufen [ugs.] \Trinken
+curar :: heilen \Medizin
+curar :: kurieren \Medizin
+curar :: reifen
+curativa {f} :: Heilmethode {f} \Medizin
+curativo; curativa {adj} :: heilend
+curdo; curda {adj} :: kurdisch \Länder
+curdo {m}; curda {f} :: Kurde {m}; Kurdin {f} \Länder
+curiosamente {adv} :: kurioserweise
+curiosamente {adv} :: merkwürdigerweise
+curiosidad {f} :: Neugierde {f}
+curioso; curiosa {adj} :: neugierig; wissbegierig
+curioso; curiosa {adj} :: seltsam; kurios; merkwürdig; verwunderlich
+curioso; curiosa {adj} :: reinlich; sorgsam; sorgfältig
+curioso {m}; curiosa {f} :: Gaffer {m}; Gafferin {f}
+curro {m} [coloq.] :: Arbeit {f}
+cursar :: einen Kurs belegen
+cursi {adj} :: kitschig
+cursivo {adj} :: kursiv
+curso {m} :: Kurs {m} \Bildung
+curso {m} :: Lauf {m}; Verlauf {m}
+cursor {m} :: Cursor {m} \Computer
+curtidor {m} :: Gerber {m} \Berufe
+curtiduría {f} :: Gerberei {f}
+curtir :: gerben
+curvado {adj} :: gekrümmt
+curva {f} :: Kurve {f}
+curvatura {f} :: Krümmung {f}
+curvo; curva {adj} :: gekrümmt; kurvig
+cúspide {f} :: Spitze {f}
+custodia {f} :: Gewahrsam {m} \Verbrechen
+custodia {f} :: Vormundschaft {f} \Familie
+custodiar :: verwahren
+cutáneo {adj} :: Haut- \Körper
+cuyo; cuya :: dessen; deren
+

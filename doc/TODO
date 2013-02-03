@@ -1,0 +1,136 @@
+So kannst Du helfen:
+ - die Liste verwenden
+ - Das Basis-Vokabular vervollständigen, also sehr elementare Vokabeln
+   vorschlagen.
+ - Mir Fachbegriffe aus neuen Wortfeldern schicken.
+ - Die Liste um lateinamerikanische Begriffe erweitern.
+ - Ich brauche schöne, freie Übersichtsgrafiken zu den Wortfeldern.
+ - Korrekturen - wenn Du einen Fehler findest, schreibe
+   bitte eine E-Mail an es-de@zenogantner.de.
+
+Nächste Schritte:
+ - [coloquial] --> [coloq.], [Medizin] --> [med.], [Zoologie] --> [zool.]
+ - Korrekturvorschläge
+ - check_entry.pl ab 'X' ausführen
+ - Wörter_e.txt aufsplitten
+ 
+ - Wortfelder automatisch generieren; nur noch alphabetisch geordnete Wortliste.
+ - Genau prüfen ab 'an' (Tags, fehlende weibliche Formen)
+ - Restliche Vokabeln von 'a' bis 'd' aus Allgemein.txt nach Wörter*.txt
+   verschieben
+ - Wörter von Beginn komplett taggen, Tagset einigermaßen festlegen
+ - Umstellung auf das ding-Format fortführen (Nutzung von Sub-Einträgen)
+ - Spanische Marker auf der linken Seite, deutsche auf der Rechten
+   (z.B. [Esp.] und [Süddeutschland])
+ - Orthographie: Skript für verschiedene regionale Varianten anpassen
+ - Skript, welches Ländernamen und passende Adjektive usw. aus der Wikipedia
+   zieht
+ - Adjektive mit {adj} versehen
+ - Prüf-Skript: Auf korrekte Marker prüfen
+ - Präpositionen aus den verschiedenen Dateien in die neue Präpositionen.txt
+ - Länder, chemische Elemente, Sprachen: Listen erweitern
+ - Verben-Allgemein wieder auflösen
+ - doc/copyright: Dort die Situation genau klarstellen, nicht in der Datei
+   README. doc/copyright.de und doc/copyright.es schreiben.
+
+Irgendwann:
+ - Eintrag.txt klar strukturieren, damit die Regeln einfach verständlich sind.
+ - kleine Homepage (wurde bereits auf openfacts.berlios.de begonnen)
+ - Bestimmte Wörter an aspell-Maintainer weitergeben.
+ - doc/THANKS
+ - Kurzen Text zur Motivation schreiben.
+ - FIX bin/anmerkungen.pl
+
+Zu prüfende Einzelwörter:
+ - el viajar ...
+ - esponjarse				{nicht in Herder}
+ - Kirgisien				{Google}
+ - maschinenschreiben			{Seite über Rechtschreibung}
+ - el lazareto				die Quarantänestation {unsicher}
+ - wáter (steht nicht in RAE)
+ - fragen wegen trigueros (pl/sg.)
+ - la rosca				der Kuchen (rund)
+   # una rosca ist ein kranzförmiges Gebäck, von der Form her einem Donut ähnlich
+ - #la adulta				Erwachsene {f} #vielleicht modern??
+ - el año próximo			nächstes Jahr (Zeit.txt)
+
+
+Dateien durchgehen und korrekte Verwendung der Anmerkungen prüfen.
+Fertig:
+ - Arbeit.txt
+ - Essen.txt
+
+Basiswortschatz zusammenstellen (viele sehr einfache Worte wie "bien" usw.
+sind noch nicht dabei).
+
+reflexive Verben (Spanisch) überprüfen
+
+Wortfeld Medien in passende Felder aufsplitten
+
+Mehr umgangssprachliche Ausdrücke.
+
+Mehr Wortfelder:
+ alle Wortfelder, die es auf http://dict.tu-chemnitz.de gibt
+ Abkürzungen
+ Auto
+ Partikel
+ Präpositionen (Liste, die die Kinder in der Schule auswendig lernen müssen ;-)
+ Maße und Einheiten
+ Astrologie (Sternzeichen)
+ Werkzeug
+ Möbel
+ Sex, Fortpflanzung, Liebe
+ Datei: alte Rechtschreibung
+ Menschliche Beziehungen (zus. zu Familie)
+ berühmte Film- und Buchtitel
+ Parteien
+ spanische Eigennamen
+ katalanische Eigennamen
+ galicische Eigennamen
+ baskische Eigennamen
+
+orthographie.pl:
+ - Filter für {Anmerkungen} einbauen
+ - Automatisches Erstellen von check.tmp und Aufruf von aspell
+ - Debian-Package spellutils anschauen
+ - aspell-wrapper für Perl anschauen
+ - prüfe Einträge in alter Rechtschreibung ebenfalls (oder ignoriere sie)
+ - Warnung bei Zeilen, die nur aus Tabs und Leerzeichen bestehen?
+
+Testfälle für alle Skripte.
+
+Offene Fragen:
+ - Format für semantische Erläuterungen
+ - Format für grammatikalische Erläuterungen
+   (z.B. Platzhalter bei Verbformen mit/ohne Präpositionen, Hinweis auf
+   nachfolgende Form: z.B. Gerund oder Infinitiv)
+ - Format für unveränderliche Substantive (z.B. paraguas)?
+ - Wie werden Kontraktionen ("del") eingetragen und erläutert?
+ - Einheitliche Bezeichnungen für die Fachgebiete/Kategorien, am besten
+   basierend auf irgendeinem Standard.
+   - Klima, Wetter -> Meteorologie ??
+ - Einheitliche Bezeichnungen für regionale Varianten:
+   basierend auf einem ISO-Code?? Es sollte für den Leser verständlich sein...
+ - Umstellung von der Bestimmung des Geschlechts aufgrund der Artikel zu
+   den Anmerkungen {f}, {n} und {m} - Artikel kämen dann nur noch ein
+   Begriffen vor, bei denen sie fester Bestandteil sind.
+
+
+Version 0.1
+ - offene Fragen klären
+ - Länderliste komplettieren.
+ - Zahlen vervollständigen: v.a. Ordinalzahlen
+Version 0.2
+ - Basiswortschatz Spanisch/Deutsch komplett (was ist der Basiswortschatz??)
+   vgl. http://vocabulaire.eduinfo.com/
+ - Savannah-Website vollständig
+ - alles auf Spanisch und Deutsch dokumentieren
+Version 0.3
+ - alles korrekturgelesen
+Version 0.4
+ - vorhandene Vokabeln um zugehörige andere Wortarten erweitert
+
+Später:
+ - kleine Web-Anwendung für Korrekturen/Zusätze
+ - Weitere Skripte: ->dict-Format, evtl. weitere Formate
+ - Wortfelder als HTML-Seiten aufbereiten und auf Website stellen.

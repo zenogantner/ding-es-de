@@ -1,0 +1,220 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2004 Simon Kmiecik
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+actitud {f} :: Einstellung {f}; Haltung {f}
+activo; activa {adj} :: fleißig
+adaptado; adaptada {adj} :: angepasst
+adolescencia {f} :: Jugend {f}
+adolescente {m} :: Heranwachsender {m}; Teenager {m}
+adolescente {f} :: Heranwachsende {f}; Teenager {m}
+adulto {m} :: Erwachsener {m}
+adulto; adulta {adj} :: erwachsen; ausgewachsen; voll entwickelt
+adultez {f} :: Erwachsenenalter {n}; Männlichkeit {f}
+edad adulta {f} :: Erwachsenenalter {n}
+afamado; afamada {adj} :: berühmt
+agradable {adj} :: angenehm; nett; freundlich [Person]
+ambicioso; ambiciosa {adj} :: strebsam; ehrgeizig
+ameno; amena {adj} :: unterhaltsam; lieblich; zierlich; reizend
+apellido {m} :: Nachname {m}
+arrogancia {f} :: Stolz {m}; Anmaßung {f}; Arroganz {f}; Überheblichkeit {f}
+arrogante {adj} :: arrogant; hochmütig; vermessen; anmaßend
+adinerado; adinerada {adj} :: vermögend
+aguerrido; aguerrida {adj} :: abgehärtet
+amabilidad {f} :: Liebenswürdigkeit {f}
+amable {adj} :: liebenswürdig; freundlich
+animado; animada {adj} :: belebt; lebhaft; munter
+estar animado :: munter sein
+aspecto {m} :: Aussehen {n}
+aspectos {m} {pl} :: Eigenschaften {f} {pl} [Person]
+astuto; astuta {adj} :: schlau; verschlagen; hinterlistig; listig
+
+bombón {m} :: hübsches Mädchen {n}
+bravo; brava {adj} :: tapfer; mutig
+
+capaz {adj} :: fähig; imstande; tauglich
+cariñoso; cariñosa {adj} :: liebevoll; zärtlich
+casero; casera {adj} :: häuslich
+chica {f} :: Mädchen {n}
+chico {m} :: Junge {m}
+ciego; ciega {adj} :: blind
+de color :: farbig [Person]
+complexión {f} :: Statur {f}; Körperbau {m}
+de complexión normal :: von normaler Statur
+comportamiento {m} :: Benehmen {n}
+comportarse :: sich benehmen; sich verhalten; sich betragen
+comprensivo; comprensiva {adj} :: verständnisvoll
+cortés {adj} :: höflich
+cortesía {f} :: Höflichkeit {f}
+cualidades {f} {pl} :: Eigenschaften {f} {pl} [Person]
+culto; culta {adj} :: kultiviert; gebildet; höflich
+cumplidor; cumplidora {adj} :: zuverlässig; gewissenhaft; pflichtbewusst
+cumplimentero; cumplimentera {adj} :: übertrieben höflich
+curioso; curiosa {adj} :: neugierig
+
+dama {f} :: Dame {f}
+delgado; delgada {adj} :: schlank; dünn
+delgadez {f} :: Schlankheit {f}
+descortés :: unhöflich
+disciplinado; disciplinada {adj} :: diszipliniert
+discreto; discreta {adj} :: diskret
+divertido; divertida {adj} :: lustig; unterhaltsam; amüsant
+
+edad {f} :: Alter {n}
+elegante {adj} :: elegant; schick; fein; anmutig
+encantador; encantadora {adj} :: bezaubernd; reizend; entzückend; goldig
+encanto {m} :: Charme {m}; Reiz {m}; Zauber {m}
+esclarecido; esclarecida {adj} :: berühmt; herausragend
+espantoso; espantosa {adj} :: hässlich; sehr hässlich
+estupidez {f} :: Dummheit {f}
+estúpido; estúpida {adj} :: dumm
+extrovertido; extrovertida {adj} :: extrovertiert; extravertiert
+
+falsía {f} :: Falschheit {f}
+fiable {adj} :: zuverlässig
+feo; fea {adj} :: hässlich
+flojera {f} :: Faulheit {f}; Schlaffheit {f}
+flojo; floja {adj} :: faul
+
+generosidad {f} :: Großzügigkeit {f}
+genio {m} :: Genie {n}; Gemütsart {f}
+gentil {adj} :: nett
+gilipollas {m} :: Arschloch {n}
+gilipollas {f} :: Arschloch {n}
+gracia {f} :: Grazie {f}
+grácil {adj} :: grazil; zierlich
+grueso; gruesa {adj} :: dick; groß
+guapo; guapa {adj} :: hübsch; schön (Person)
+
+habilidad {f} :: Fähigkeit {f}
+hermoso; hermosa {adj} :: schön; wunderschön (Person)
+hermoso; hermosa {adj} :: niedlich (Kind)
+hermosura {f} :: Schönheit {f}
+hombre {m} :: Mensch {m}; Mann {m}
+humildad {f} :: Demut {f}; Bescheidenheit {f}
+humilde {adj} :: demütig; bescheiden
+
+idiota {m} :: Idiot {m}
+ilustre {adj} :: berühmt; erlaucht
+ínclito; ínclita {adj} :: berühmt
+incompetencia {f} :: Unfähigkeit {f}; Inkompetenz {f}; Unzuständigkeit {f}
+incompetente {m} :: Unfähiger {m}
+incompetente {f} :: Unfähige {f}
+incompetente {adj} :: unfähig; inkompetent
+inocente {adj} :: harmlos; naiv
+
+joven {adj} :: jung
+labia {f} :: Zungenfertigkeit {f}; Eloquenz {f}
+llamarse :: heißen
+listo; lista {adj} :: klug; gerissen; geschickt
+
+madurez {f} :: Erwachsensein {f}; Reife {f}
+masculino; masculina {adj} :: maskulin; männlich
+mayor {adj} :: groß; erwachsen
+mendaz {adj} :: verlogen
+mentiroso; mentirosa {adj} :: verlogen
+miedoso; miedosa {adj} :: ängstlich; furchtsam
+modestia {f} :: Bescheidenheit {f}
+modesto; modesta {adj} :: bescheiden
+mojigatería {f} :: Scheinheiligkeit {f}; Bigotterie {f}
+mojigato; mojigata {adj} :: heuchlerisch; scheinheilig; bigott
+mono; mona {adj} :: nett; süß; niedlich
+muchacha {f} :: Mädchen {n}
+mujer {f} :: Frau {f}
+
+nombre {m} :: Name {m}
+
+obediente {adj} :: gehorsam
+orgullo {m} :: Stolz {m}; Hochmut {m}
+orgulloso; orgullosa {adj} :: hochmütig; stolz
+ser orgulloso :: stolz sein; hochmütig sein
+
+pecho {m} :: Mut {m}
+perezoso; perezosa {adj} :: faul
+persona {f} :: Person {f}
+personalidad {f} :: Persönlichkeit {f}
+personaje {m} :: Persönlichkeit {f}; Person {f}
+pesado; pesada {adj} :: lästig; nervig; unerträglich; zudringlich; langweilig
+pesadumbre {f} :: Schwerfälligkeit {f}; Gram {m}; Kummer {m}
+pijo; pija {adj} :: schicki-micki
+pijo {m} :: Kind reicher Eltern {n}; Snob {m}
+presentable {adj} :: vorzeigbar; annehmbar
+prudencia {f} :: Klugheit {f}; Vorsicht {f}; Behutsamkeit {f}; Umsicht {f}; Überlegtheit {f}
+pudibundo; pudibunda {adj} :: prüde
+pudor {m} :: Schamhaftigkeit {f}; Sittsamkeit {f}; Züchtigkeit {f}
+pudor {m} :: Bescheidenheit {f}
+
+de raza :: Rasse-; rassig
+rechoncho; rechoncha {adj} :: pummelig
+rivalidad {f} :: Rivalität {f}
+romántico; romántica {adj} :: romantisch
+
+sarcástico; sarcástica {adj} :: sarkastisch
+sencillo; sencilla {adj} :: einfach; schlicht; unkompliziert (Person)
+señor {m} :: Herr {m}; Mann {m}
+Señor ... :: Herr ... [Anrede]
+Señora ... :: Frau ... [Anrede]
+señora {f} :: Frau {f}; Dame {f}
+señorita {f} :: Fräulein {n}
+sentido del humor {m} :: Sinn für Humor {m}
+seriedad {f} :: Ernsthaftigkeit {f}
+serio; seria {adj} :: ernst; ernsthaft; aufrichtig; seriös; gesetzt
+sexo {m} :: Geschlecht {n}
+simpático; simpática {adj} :: nett; sympathisch
+simple {adj} :: einfach; dumm; einfältig (Person)
+sincero; sincera {adj} :: aufrichtig; ehrlich; gerade; rechtschaffen; offen; offenherzig; lauter
+sociable {adj} :: gesellig
+superficial {adj} :: oberflächlich
+
+talla {f}; estatura {f}; altura {f} :: Körpergröße {f}
+talle {f} :: Figur {f}
+tendencia {f} :: Neigung {f}
+testarudo; testaruda {adj} :: stur; dickköpfig
+tipo {m} :: Typ {m}; Kerl {m}
+tonto; tonta {adj} :: dumm; doof
+tozudez {f} :: Dickköpfigkeit {f}
+tozudo; tozuda {adj} :: dickköpfig
+
+vago; vaga {adj} :: faul
+valeroso; valerosa {adj} :: tapfer; mutig
+valiente {adj} :: tapfer; mutig; wacker
+vejez {f} :: Alter {n}; Alter {n}
+ventrudo; ventruda {adj} :: dickbäuchig
+viril {adj} :: männlich; viril
+virtud {f} :: Tugend {f}
+virtud {f} :: Fähigkeit {f}
+virtud cardinal {f} :: Kardinaltugend {f}
+
+zaino; zaina {adj} :: falsch; hinterhältig
+

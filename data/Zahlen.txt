@@ -1,0 +1,117 @@
+# Copyright (C) 2003, 2005, 2006 Zeno Gantner
+# Copyright (C) 2006 Klaus Meinke
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+número {m} :: Zahl {f}; Nummer {f}
+
+cero :: null
+un; uno :: eins
+dos :: zwei
+tres :: drei
+cuatro :: vier
+cinco :: fünf
+seis :: sechs
+siete :: sieben
+ocho :: acht
+nueve :: neun
+diez :: zehn
+once :: elf
+doce :: zwölf
+trece :: dreizehn
+catorce :: vierzehn
+quince :: fünfzehn
+dieciséis :: sechzehn
+diecisiete :: siebzehn
+dieciocho :: achtzehn
+diecinueve :: neunzehn
+veinte :: zwanzig
+veintiún; veintiuno :: einundzwanzig
+veintidós :: zweiundzwanzig
+veintitrés :: dreiundzwanzig
+veinticuatro :: vierundzwanzig
+veinticinco :: fünfundzwanzig
+veintiséis :: sechsundzwanzig
+veintisiete :: siebenundzwanzig
+veintiocho :: achtundzwanzig
+veintinueve :: neunundzwanzig
+treinta :: dreißig
+treinta y uno :: einunddreißig
+treinta y dos :: zweiunddreißig
+cuarenta :: vierzig
+cincuenta :: fünfzig
+sesenta :: sechzig
+setenta :: siebzig
+ochenta :: achtzig
+noventa :: neunzig
+cien; ciento :: hundert; einhundert
+
+cero {m} :: Null {f}
+
+decena {f} :: Dutzend {n}
+
+primer; primero; primera :: erster; erste; erstes
+segundo; segunda :: zweiter; zweite; zweites
+tercer; tercero; tercera :: dritter; dritte; drittes
+cuarto; cuarta :: vierter; vierte; viertes
+quinto; quinta :: fünfter; fünfte; fünftes
+sexto; sexta :: sechster; sechste; sechstes
+séptimo; sétimo; séptima; sétima :: siebter; siebenter; siebte; siebente; siebtes; siebentes
+octavo; octava :: achter; achte; achtes
+nono; noveno; nona; novena :: neunte; neunter; neuntes
+décimo; décima :: zehnter; zehnte; zehntes
+undécimo; undécima :: elfter; elfte; elftes
+duodécimo; duodécima :: zwölfter; zwölfte; zwölftes
+decimotercero; decimotercera :: dreizehnter; dreizehnte; dreizehntes
+vigésima segundo; vigésima segunda :: zweiundzwanzigster; zweiundzwanzigste; zweiundzwanzigstes
+vigésimo quinto; vigésimo quinta :: fünfundzwanzigster; fünfundzwanzigste; fünfundzwanzigstes
+# zusammengeschrieben auch möglich?
+
+medio; media :: halb
+
+veintena :: zwanzig Stück
+céntuplo :: hundertfach
+céntuplo {m} :: Hundertfaches {n}
+centena {f} :: Hundert {n}
+centenar {m} :: Hundert {n}
+centenares de :: Hunderte von; Hunderte
+ciento {m} :: Hundert {n}
+
+millón {m} :: Million {f}
+billón {m} :: Billion {f}
+trillón {m} :: Trillion {f}
+
+mitad {f} :: Hälfte {f}; Mitte {f}
+
+en cuarto lugar :: viertens
+

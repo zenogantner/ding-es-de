@@ -1,0 +1,299 @@
+# Copyright (C) 2006 Matthias Buchmeier
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+cianato {m} :: Cyanat {n} \Chemie
+ciánico; ciánica {adj} :: Cyan- \Chemie
+cianuro {m} :: Zyanid {n} \Chemie
+ciática {f} :: Ischias {f} \Medizin
+cibernética {f} :: Kybernetik {f} \Computer
+cibernético; cibernética {adj} :: kybernetisch \Computer
+cicatriz {f} :: Narbe {f} \Medizin
+cicatrización {f} :: Wundheilung {f} \Medizin
+cicatrizar :: vernarben; verheilen \Medizin
+cicatrizante {adj} :: vernarbend; wundheilend \Medizin
+ciclar :: schleifen; polieren
+cíclico; cíclica {adj} :: zyklisch
+ciclo {m} :: Zyklus {m}
+ciclo {m} :: Menstruationszyklus {m} \Medizin
+cicloidal {adj} :: zykloidisch \Mathematik
+cicloide {f} :: Zykloide {f} \Mathematik
+ciclomotor {m} :: Moped {n} \Verkehr
+ciclón {m} :: Zyklon {m} \Meteorologie
+ciclónico {adj} :: zyklonisch \Meteorologie
+cíclope {m} :: Zyklop {m}
+ciclópeo; ciclópea {adj} :: riesig
+ciclotrón {m} :: Zyklotron {n} \Physik
+Cid {m} :: Cid {m} (span. Nationalheld) \Geschichte
+ciega {f} :: Blinde {f}
+ciego {m} :: Blinder {m}
+ciego; ciega {adj} :: verblendet; geblendet
+ciego; ciega {adj} :: verschlossen; verstopft
+cielito {m} :: Schätzchen {n}
+ciencia {f} :: Wissenschaft {f}
+ciencia {f} :: Wissen {n}; Kenntnis {f}
+cienmilésimo; cienmilésima {adj} :: hunderttausendst {adj} \Zahlen
+ciempiés {m} :: Tausendfüßler {m} \Tiere
+científica {f} :: Wissenschaftlerin {f}
+científico; científica {adj} :: wissenschaftlich
+científico {m} :: Wissenschaftler {m}
+cierre {m} :: Reißverschluss {m}
+cierre {m} :: Verschluss {m}
+cierre {m} :: Schließung {f}
+ciertamente {adv} :: sicher; bestimmt
+cierto; cierta {adj} :: sicher; wahr; gewiss
+por cierto :: übrigens
+ciervo {m} :: Hirsch {m} \Tiere
+cierva {f} :: Hirschkuh {f} \Tiere
+cifra {f} :: Zahlenangabe {f}; Nummer {f}
+cifra {f} :: Ziffer {f} \Mathematik
+cifrar :: beziffern
+cigarrillo {m} :: Zigarette {f} \Drogen
+cigarrito {m} :: Zigarillo {n} \Drogen
+cigarro {m} :: Zigarette {f} \Drogen
+cigarro {m} :: Zigarre {f} \Drogen
+cigoto {f} :: Zygote {f} \Biologie
+cigüeña {f} :: Storch {m} \Tiere
+cilantro {m} :: Koriander {m} \Essen
+ciliar {adj} :: Wimpern-; Augenbrauen-
+cilio {m} :: Wimper {m}
+cilíndrico {adj} :: zylindrisch
+cilindro {m} :: Zylinder {m}; Walze {f}
+cima {f} :: Gipfel {m}; Höhepunkt {m}
+címbalo {m} :: Zimbel {f} \Musik
+cimentar :: gründen
+cimiento {m} :: Fundament {n}; Grundstein {m}
+cimiento {m} :: Wurzel {f}; Quelle {f}; Anfang {m}
+cinc {m} :: Zink {n} \Elemente
+cincel {m} :: Meißel {m}
+cincelar :: meißeln
+cincomesino {m} :: frühgeborenes Kind {n} (nach 5 Monaten)
+cincuentena {f} :: Fünfzig {n}
+cincuentenario {m} :: fünfzigjähriges Jubiläum {n}
+cincuentón {m} :: Fünfzigjähriger {m}
+cincuentona {f} :: Fünfzigjährige {f}
+cineasta {m} :: Filmfreund {m}; Filmproduzent {m}
+cinéfilo {m} :: Filmliebhaber {m}
+cinematográfico; cinematográfica {adj} :: Film-
+cinematógrafo {m} :: Filmemacher {m}; Regisseur {m}
+cínico {adj} :: zynisch
+cinismo {m} :: Zynismus {m}
+cinta {f} :: Band {n}
+cinta adhesiva {f} :: Klebeband {n}
+circo {m} :: Zirkus {m}
+circo ambulante {m} :: Wanderzirkus {m}
+circuito {m} :: Schaltung {f} \Physik
+circuito {m} :: Schaltkreis {m}; Stromkreis {m}
+circuito {m} :: Rennstrecke {f} \Sport
+circuito {m} :: Runde {f}; Rundfahrt {f}; Rundgang {m}
+circuito {m} :: Kreislauf {m}
+circuito {m} :: Kreisbewegung {f}; Kreisbahn {f}
+circulación {f} :: Verkehr {m} \Verkehr
+circulación {f} :: Zirkulation {f}; Kreislauf {m}
+circulación sanguínea {f} :: Blutkreislauf {m}
+circular {adj} :: kreisförmig; Kreis-
+circulatorio; circulatoria {adj} :: Kreislauf-
+circulatorio; circulatoria {adj} :: Verkehr- \Verkehr
+aparato circulatorio {m} :: Kreislaufsystem {n}; Kreislauf {m} \Medizin
+circular :: zirkulieren; umlaufen; kreisen
+circular :: kursieren; umlaufen
+circular :: fahren
+circular :: kreisen
+círculo {m} :: Kreis {m}
+círculo vicioso {m} :: Teufelskreis {m}
+circuncidar :: beschneiden
+circuncisión {f} :: Beschneidung {f}
+circundante {adj} :: umgebend
+circundar :: umfassen; umgeben
+circunferencia {f} :: Kontur {f}; Umkreis {m}
+circunferente {adj} :: begrenzend
+circunferir :: begrenzen; beschränken
+circunnavegar :: umfahren
+circunscribir :: begrenzen; beschränken
+circunscripción {f} :: Eingrenzung {f}
+circunspección {f} :: Umsicht {f}; Besonnenheit {f}
+circunspecto; circunspecta {adj} :: zurückhaltend
+circunstante {adj} :: anwesend; umgebend
+circunstancia {f} :: Umstand {m}; Gegebenheit {f}
+circunstancial {adj} :: umständehalber
+cirílico {adj} :: kyrillisch
+cirrosis {f} :: Zirrhose {f} \Medizin
+cirrótico; cirrótica {adj} :: zyrrotisch \Medizin
+cirugía {f} :: Chirurgie {f} \Medizin
+cirugía {f} :: Operation {f} \Medizin
+cirujano {m} :: Chirurg {m} \Medizin
+cisión {f} :: Riss {m}
+cisma {m} :: Spaltung {m}
+cisne {m} :: Schwan {m} \Tiere
+cisterciense {m} :: zirrhotisch {m} \Religion
+cisterna {f} :: Zisterne {f}; Wasserspeicher {m}
+cistitis {f} :: Blasenentzündung {f} \Medizin
+cisura {f} :: Riss {m}
+cita {f} :: Verabredung {f}
+citar :: vorladen
+citar :: verabreden
+citar :: erwähnen; nennen; anführen
+cita {f} :: Rendezvous {n}
+citación {f} :: Vorladung {f}
+citado; citada {adj} :: zitiert; erwähnt
+citología {f} :: Zytologie {f}; Zelllehre {f} \Biologie
+citólogo {m} :: Zytologe {m} \Biologie
+citoplasma {m} :: Zytoplasma {n} \Biologie
+citrato {m} :: Citrat {n} \Biologie \Chemie
+cítrico; cítrica {adj} :: Zitrus-; Zitronen-
+ciudadanía {f} :: Staatbürgerschaft {f} \Politik
+ciudadela {f} :: Zitadelle {f}
+cívico; cívica {adj} :: Bürger-
+civil {adj} :: Zivil-; zivil
+civil {m} :: Zivilist {m}
+civilizar :: zivilisieren
+civilización {f} :: Zivilisation {f}
+civismo {m} :: Bürgersinn {m}
+clamar :: anflehen
+clamar [coloq.] :: zetern
+clamor {m} :: Jammergeschrei {n}; Klage {f}
+clamor {m} :: Geschrei {m}
+clamoroso; clamorosa {adj} :: außergewöhnlich; überwältigend
+clan {m} :: Klan {m}
+clandestinidad {f} :: Heimlichkeit {f}; Verborgenheit {f}
+clandestinidad {f} :: Untergrund {m}
+clandestinidad {f} :: Illegalität {f}
+clandestino; clandestina {adj} :: heimlich; geheim
+clandestino; clandestina {adj} :: unter der Hand; Schwarz-
+clandestino; clandestina {adj} :: Untergrund-
+clandestino; clandestina {adj} :: illegal
+trabajo clandestino {m} :: Schwarzarbeit {f} \Arbeit
+clara de huevo {f}; clara {f} :: Eiweiß {n} \Essen
+claramente {adv} :: deutlich; klar; klar und deutlich; eindeutig
+claridad {f} :: Helligkeit {f}
+claridad {f} :: Klarheit {f}
+claridad {f} :: Deutlichkeit {f}
+claridad {f} :: Bildschärfe {f}; Schärfe {f}
+claridad {f} :: Offenheit {f}
+clarificador {m} :: Klärung {f}
+clarificar :: klären
+clarificar :: aufklären
+clarín {m} :: Horn {n} \Musik
+clarinete {f} :: Klarinette {f} \Musik
+clarinetista {m} :: Klarinettenspieler {m} \Musik
+clarividencia {f} :: Hellseherei {f}
+clarividente {adj} :: hellseherisch
+claro; clara {adj} :: klar
+claro; clara {adj} :: hell
+claro; clara {adj} :: deutlich
+claro; clara {adj} :: offensichtlich
+clase {f} :: Klasse {f}; Sorte {f}
+clase social {f}; clase {f} :: Gesellschaftsschicht {f}; Schicht {f}
+clase media {f} :: Mittelstand {m}
+clase baja {f} :: Unterschicht {f}; Unterklasse {f}
+clase obrera {f} :: Arbeiterklasse {f}
+clasismo {m} :: Klassismus {m} [abwertend]; Klassenbewusstsein {f}
+clasista {adj} :: klassistisch [abwertend]; klassenbewusst
+clasista {m} :: Klassist {m} [abwertend]
+clasicismo {m} :: Klassizismus {m}
+clasicista {adj} :: klassizistisch
+clásico; clásica {adj} :: klassisch
+clasificable {adj} :: klassifizierbar
+clasificación {f} :: Klassifizierung {f}
+clasificador {m} :: Aktenordner {m}; Ordner {m}
+clasificadora {f} :: Sortiermaschine {f}; Sortierer {m}
+clasificador {adj} :: sortierend
+clasificar :: klassifizieren
+clasificar :: bestimmen
+clasificar :: einordnen; ordnen
+clasificar :: bewerten; werten
+clasificar :: sortieren
+clasificatorio; clasificatoria {adj} :: entscheidend
+claustro {m} :: Kreuzgang {m} \Religion
+claustro {m} :: Kloster {n} \Religion
+claustro {m} :: Kollegium {n} \Bildung
+claustro {m} :: Versammlung {f} (Schule, Uni, usw.) \Bildung
+claustrofobia {f} :: Klaustrophobie {f}
+claustrofóbico; claustrofóbica {adj} :: klaustrophobisch
+cláusula {f} :: Klausel {f}
+clausura {f} :: Schließung {f}; Sperrung {f}
+clausura {f} :: Klausur {f}
+clausura {f} :: Abschluss {m}
+clausurar :: schließen; sperren
+clavar :: nageln; festnageln
+clavado; clavada {adj} :: genagelt; angenagelt; festgenagelt
+clavado; clavada {adj} :: befestigt
+clavado; clavada {adj} :: pünktlich
+clavado; clavada {adj} :: identisch
+clavado; clavada {adj} :: verdutzen
+clave {f} :: Schlüssel {m}
+clave {f} :: Lösung {f}
+clave {f} :: Passwort {n}; Losung {f}
+clave {f} :: Code {m}
+clave {f} :: Notenschlüssel {m} \Musik
+clavel {m} :: Nelke {f} \Pflanzen
+clavícula {f} :: Schlüsselbein {n} \Körper
+clavicular {adj} :: Schlüsselbein- \Körper
+clavo {m} :: Nagel {m}
+clavo de olor {m} :: Gewürznelke {f}; Nelke {f} \Essen
+clemátide {f} :: Klematis {f} \Pflanzen
+clemencia {f} :: Barmherzigkeit {f}; Gnade {f}
+clemente {adj} :: barmherzig \Religion
+clementina {f} :: Clementine {f} \Essen
+cleptomanía {f} :: Kleptomanie {f}
+cleptómano; cleptómana {adj} :: kleptomanisch
+cleptómano {m} :: Kleptomane {m}
+clic {m} :: Mausklick {m}; Klick {m} \Computer
+cliché {m} :: Klischee {n}
+clientela {f} :: Kundschaft {f}
+climático; climática {adj} :: klimatisch
+climatizado; climatizada {adj} :: klimatisiert
+climatizar :: klimatisieren
+climatología {f} :: Klimakunde {f}
+climatológico; climatológica {adj} :: klimatologisch
+clímax {f} :: Höhepunkt {m}; Klimax {f}
+clínico {adj} :: klinisch
+clip {m} :: Büroklammer {f}
+clíper {m} :: Klipper {m}
+clítoris {f} :: Klitoris {f} \Körper \Sexualität
+cloaca {f} :: Kloake {f}
+clon {m} :: Klon {m} \Biologie
+clonar :: klonen \Biologie
+clonación {f} :: Klonen {n} \Biologie
+clónico; clónica {adj} :: Klon- \Biologie
+clorado; clorada {adj} :: chloriert
+clorar :: chlorieren
+clorato {m} :: Chlorat {n} \Chemie
+cloro {m} :: Chlor {n} \Elemente
+clorofílico; clorofílica {adj} :: Chlorophyll- \Biologie
+clorofilo {m} :: Chlorophyll {n} \Biologie
+cloroformo {m} :: Chloroform {n}
+cloruro {m} :: Chlorid {n} \Chemie
+club {m} :: Club {m}; Verein {m}
+

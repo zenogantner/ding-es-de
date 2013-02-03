@@ -1,0 +1,223 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# siehe auch: Medizin
+anatomía {f} :: Anatomie {f}
+anatómico; anatómica {adj} :: anatomisch
+
+abdominal {adj} :: abdominal, Bauch-
+ala de la nariz {m} :: Nasenflügel {m}
+amígdala {f} :: Mandel {f} [Anatomie]
+anal {adj} :: anal
+antebrazo {m} :: Unterarm {m}
+aorta {f} :: Aorta {f}
+axila {f} :: Achsel {f}; Achselhöhle {f}
+barba {f} :: Bart {m}
+bazo {m} :: Milz {f} [Anatomie]
+bíceps {m} :: Bizeps {m}; zweiköpfiger Armmuskel {m}
+bigote {m} :: Schnurrbart {m}
+boca {f} :: Mund {m}
+bocio {m} :: Kropf {m}
+brazo {m} :: Arm {m}
+cabeza {f} :: Kopf {m}
+cadera {f} :: Hüfte {f}
+calva {f} :: Glatze {f}
+calvicie {f} :: Glatze {f}
+calvo; calva :: kahl; glatzköpfig
+cara {f} :: Gesicht {n}
+carne de gallina {f} :: Gänsehaut {f}
+cejudo; cejuda {adj} :: mit buschigen Augenbrauen
+cerebro {m} :: Gehirn {n} [Anatomie]
+cintura {f}; cinto {m} :: Taille {f}
+clítoris {m} :: Klitoris {f}
+codo {m} :: Ellbogen {m}; Ellenbogen {m}
+columna vertebral {f} :: Wirbelsäule {f}
+corazón {m} :: Herz {n} [Anatomie]
+costilla {f} :: Rippe {f}
+cuello {m} :: Hals {m}
+cuerpo {m} :: Körper {m}
+cutis {m} :: Haut {f}; Gesichtshaut {f}
+dedo {m} :: Finger {m}
+dedo {m} :: Zeh {m}; Zehe {f}
+escroto {m} :: Hodensack {m}; Skrotum {n} [Anatomie]
+espalda {f} :: Rücken {m}
+espina dorsal {f} :: Rückgrat {n} [Anatomie]
+estómago {m} :: Magen {m}; Bauch {m}
+faringe {f} :: Rachen {m}
+frente {f} :: Stirn {f}
+garganta {f} :: Kehle {f}; Hals {m}
+glande {m} :: Eichel {f} [Anatomie]
+gordo; gorda {adj} :: dick
+gordito; gordita {adj} :: dick; dicklich; etwas dicklich
+grano {m} :: Pickel {m}
+hígado {m} :: Leber {f}
+hombro {m} :: Achsel {f}; Schulter {f}
+hueso {m} :: Knochen {m}
+huevos {m} {pl} [coloq.] :: Eier {n} {pl} [ugs.]; Hoden {m} {pl}
+intestino delgado {m} :: Dünndarm {m}
+jarrete {m} :: Kniekehle {f}
+labio {m} :: Lippe {f}
+lágrima {f} :: Träne {f}
+mama {f} :: weibliche Brust {f}
+mano {f} :: Hand {f}
+mejilla {f} :: Wange {f}; Backe {f}
+menisco {m} :: Meniskus {m} [Anatomie]
+mentón {m} :: Kinn {n} [Anatomie]
+miembro {m} :: Glied {n}; Penis {m} [Anatomie]
+mucosa {f} :: Schleimhaut {f} [Anatomie]
+nuca {f}; cerviz {f}; pescuezo {m} :: Nacken {m}; Genick {n}
+ojo {m} :: Auge {n}
+oreja {f} :: Ohr {n}
+orificio uterino {m} :: Muttermund {m} [Anatomie]
+orina {m} :: Urin {m}
+óvulo {m} :: Eizelle {f}
+palma {f} :: Handfläche {f} [Anatomie]
+panza {f} :: Bauch {m}; Wanst {m}
+pecho {m} :: Busen {m}; Brust {f}
+pene {m} :: Penis {m}
+pezón {m} :: Brustwarze {f}
+pie {m} :: Fuß {m}
+a sus pies :: zu seinen Füßen; zu ihren Füßen
+piel {f} :: Haut {f}
+pierna {f} :: Bein {n}
+pulgar {m} :: Daumen {m}
+rabadilla {f} :: Steißbein {n} [Anatomie]
+rodilla {f} :: Knie {f} [Anatomie]
+rostro {m} :: Gesicht {n}; Antlitz {n}; Angesicht {n}
+sangre {f} :: Blut {n}
+seso {m} :: Gehirn {n}; Verstand {m}
+talle {f} :: Taille {f}
+tambor auditivo {m} :: Trommelfell {n}
+testa {f} :: Kopf {m}
+testículo {m} :: Hoden {m}
+teta {f} :: Brust {f}; Titte {f}
+tetilla {f} :: (männliche) Brustwarze {f}
+tripa {f} :: Darm {m}; Bauch {m}
+tripas {f} {pl} :: Eingeweide {f}
+vagina {f} :: Vagina {f}; Scheide {f}
+ventral {adj} :: Bauch- [Anatomie]
+
+# HAARE
+afro {m}; afropeinado {m} :: Afrolook {m}; Afro {m}
+canas {f} {pl} :: graue Haare {n} {pl}
+tener canas :: alt sein
+cano; cana {adj} :: grau; weiß (Haare)
+permanente {f} :: Dauerwelle {f}
+flequillo {m} :: Pony {m}
+rizo {m} :: Locke {f}
+
+# KÖRPERPFLEGE, KOSMETIK
+afeitarse :: sich rasieren
+algodón {m} :: Watte {f}
+bastoncillo de algodón {m} :: Wattestäbchen {n}
+bigudí {m} :: Lockenwickler {m}
+brocha de afeitar {f} :: Rasierpinsel {m}
+cepillo {m} :: Bürste {f}
+cepillo de dientes {m} :: Zahnbürste {f}
+champú {m} :: Shampoo {n}
+cosmética {f} :: Kosmetik {f}
+crema dental {f} :: Zahncreme {f}
+hoja de afeitar {f} :: Rasierklinge {f}
+lavarse :: sich waschen
+lavarse los dientes :: Zähne putzen
+limpiarse los dientes :: Zähne putzen
+masaje {f} :: Massage {f}
+navaja de afeitar {f} :: Rasiermesser {n}
+pastilla de jabón {f} :: Stück Seife {n}
+peine {m} :: Kamm {m}
+peinar :: kämmen
+peinarse :: sich kämmen
+perfumado; perfumada {adj} :: parfümiert
+ponerse crema en la cara :: das Gesicht eincremen
+rapar :: rasieren; schneiden; scheren; abrasieren
+rasurar :: rasieren
+rasurarse :: sich rasieren
+rizador {m}; rizadora {f} :: Lockenwickler {m}
+
+# KÖRPERFUNKTIONEN UND -ZUSTÄNDE
+# siehe auch: Schlafen.txt, Personenbeschreibung.txt
+abochornado; abochornada {adj} :: errötet
+abochornar :: überhitzen; erröten; einen heißen Kopf kriegen
+adelgazar :: dünn werden; abnehmen; schlank werden
+adrenalina {f} :: Adrenalin {n}
+agobio {m} :: Erschöpfung {f}
+anabólico; anabólica {adj} :: Stoffwechsel-
+anabolismo {m} :: Stoffwechsel {m}
+aspiración {f} :: Einatmen {n}; Atemholen {n}
+aspirar :: einatmen
+congestionado; congestionada {adj} :: mit hochrotem Kopf
+engordar :: zunehmen; dick werden
+inhalar algo :: etwas einatmen; etwas inhalieren
+inspirar :: einatmen
+mear :: pinkeln [ugs.]; pissen [vulg.]
+mearse :: in die Hose pinkeln [ugs.]
+menopausia {f} :: Wechseljahre {f}; Menopause {f}
+menstruación {f} :: Menstruation {f}; Periode {f}; Regel {f}
+mierda {f} :: Scheiße {f} [vulg.]
+orinar :: urinieren; Wasser lassen
+ponerse colorado :: rot werden
+ponerse rojo :: rot werden
+rascarse :: sich kratzen
+respiración {f} :: Atmung {f}; Atmen {n}
+respirar :: atmen
+respirar :: einatmen
+respirar hondo :: tief einatmen
+sudar :: schwitzen
+sudor {m} :: Schweiß {m}; Schwitzen {n}
+sudoroso; sudorosa {adj} :: schweißbedeckt
+suspirar :: seufzen
+trémulo; trémula {adj} :: zitternd
+
+ponerse a dieta :: sich auf Diät setzen
+
+
+# FORTPFLANZUNG, ZEUGUNG usw.
+afilarse a alguien [vulg.] :: jemanden ficken [vulg.]
+anticonceptivo {m} :: Verhütungsmittel {n}
+capaz de engendrar :: zeugungsfähig
+coger [Am.] :: ficken [vulg.]
+erección {f} :: Erektion {f}
+eyaculación {f} :: Ejakulation {f}; Samenerguss {m}
+eyacular :: ejakulieren
+fértil :: fruchtbar; fertil
+fertilidad {f} :: Fruchtbarkeit {f}
+follar :: ficken [vulg.]; vögeln; bumsen [ugs.]
+fuerza procreadora {f} :: Zeugungskraft {f}
+generación {f}; procreación {f} :: Zeugung {f}
+joder :: ficken [vulg.]
+nacimiento {m} :: Geburt {f}
+potencia {f}; potencia generadora {f} :: Zeugungskraft {f}
+potente :: zeugungsfähig
+sexo {m} :: Sex {m}
+

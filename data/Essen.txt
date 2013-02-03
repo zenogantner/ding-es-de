@@ -1,0 +1,478 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+# Essen
+# siehe auch: Tiere, Pflanzen, Pilze, Trinken, Gastronomie
+
+
+# SOSSEN
+aceite {m} :: Öl {n}; Olivenöl {n}
+aceite de almendras {m} :: Mandelöl {n}
+aceite de coco {m} :: Kokosfett {n}; Kokosöl {n}
+aceite de hígado de bacalao {m} :: Lebertran {m}; Fischtran {m}
+aceite de girasol {m} :: Sonnenblumenöl {n}
+aceite de mesa {m} :: Speiseöl {n}
+aceite de oliva {m} :: Olivenöl {n}
+aceite de palma {m} :: Palmkernöl {n}
+aceite vegetal {m} :: Pflanzenöl {n}; Salatöl {n}
+aceitoso; aceitosa :: ölig
+aceitunil :: Oliven-
+adobo {m} :: Marinade {f}
+adobo {m} :: Marinieren {n}; Pökeln {n}
+alioli {m}; ajiaceite {m} :: Soße aus Knoblauch und Öl {f}
+ajillo {m} :: Knoblauchsoße {f}
+al ajillo {adj} :: in Knoblauchsoße
+bechamel {f}; besamel {f}; besamela {f} :: Béchamelsoße {f}
+mahonesa {f} :: Mayonnaise {f}
+vinagre {m} :: Essig {m}
+
+
+# GESCHMACK
+ácido; ácida {adj} :: sauer
+agridulce {adj} :: süß-sauer; süßsauer
+agrio; agria {adj} :: sauer (Milch)
+amargo; amarga {adj} :: bitter
+aromático; aromática {adj} :: würzig
+dulce {adj} :: süß
+dulzura {f} :: Süße {f}
+picante {adj} :: scharf
+salado; salada {adj} :: salzig
+
+corrector de acidez {m} :: Säureregulator {m}
+endulzar; edulcorar {v} :: süßen
+salar {v} :: salzen
+condimentar {v} :: würzen
+sazonar {v} :: würzen
+aromatizar {v} :: würzen
+
+tapa {f} :: Häppchen {n}; Tapa {f}
+ración {f} :: Portion {f}
+
+tortilla {f}; tortilla española {f}; tortilla de patatas {f} :: Tortilla {f}
+pincho de tortilla {m} :: Stück Tortilla {n}
+tortilla francesa {f} :: Omelette {n}
+huevo revuelto {m}; revuelto {m} :: Rührei {n}; Omelette {n}
+empanadilla {f} :: Fleischpastete {f}
+ensaladilla rusa {f} :: russischer Salat {m}
+albóndiga {f} :: Frikadelle {f}; Fleischkloß {m}; Bulette {f}; Fleischpflanzerl {n} [Bayern]
+albóndiga {f} :: Kloß {m}; Knödel {m}; Klops {m}
+empanada {f} :: Pastete {f}
+espagueti {m} {pl} :: Spaghetti {m} {pl}; Spagetti {m} {pl}
+menestra {f} :: Gemüseeintopf {m}
+paella {f} :: Paella {f}
+
+estar satisfecho; estar satisfecha {v} :: satt sein
+satisfecho; satisfecha {adj} :: satt
+
+comida basura {f} :: Junkfood {n}
+hamburguesa {f} :: Hamburger {m}
+hamburguesa de queso {f} :: Cheeseburger {m}
+
+# KÜCHENGERÄTE
+batidor {m} :: Schneebesen {m}
+cacerola {f} :: Topf {m}; Kochtopf {m}; Kasserolle {f}
+cazo {m} :: Stieltopf {m}
+cazuela {f} :: Topf {m}; Kochtopf {m}
+ensaladera {f} :: Salatschüssel {f}
+fuente {f} :: Schüssel {f}
+marmita {f} :: Topf {m}; Kessel {m}
+olla {f} :: Topf {m}; Kochtopf {m}
+paellera {f} :: Paella-Pfanne {f}
+pasapurés {m} :: Püriermaschine {f}
+sartén {f} :: Pfanne {f}; Bratpfanne {f}
+
+tarro {m} :: Einmachglas {n}
+lata {f} :: Dose {f}; Konserve {f}; Konservendose {f}
+vasija {f} :: Gefäß {n}
+
+bocadillo {m} :: belegtes Brot {n}
+
+queso {m} :: Käse {m}
+queso azul {m} :: Schimmelkäse {m}; Blauschimmelkäse {m}; Edelschimmelkäse {m}
+queso de cabra {m} :: Ziegenkäse {m}
+queso de oveja {m} :: Schafskäse {m}
+loncha {f} :: Scheibe (Käse, Wurst) {f}
+mantequilla {f} :: Butter {f}
+mermelada {f} :: Marmelade {f}
+margarina {f} :: Margarine {f}
+
+chorizo {m} :: Paprikawurst {f}
+jamón {m} :: Schinken {m}
+jamón serrano {m} :: roher, luftgetrockneter Schinken {m}; Serrano-Schinken {m}
+morcilla {f} :: spanische Blutwurst mit Reis {f}
+fabada {f} :: Fabada {f} (asturischer Bohneneintopf mit Speck und Blutwurst)
+
+pan {m} :: Brot {n}
+hogaza {f} :: Laib Brot {m}
+
+# FRÜHSTÜCK
+churro {m} :: Spritzgebäck {n}
+churros {m} {pl} :: Spritzgebäck {n}
+copo de avena {m} :: Haferflocke {f}
+copos de avena {m} {pl} :: Haferflocken {f} {pl}
+
+
+# FISCH
+# siehe auch: Tiere.txt
+pescado {m} :: Fisch {m} [Essen]
+angula {f} :: Glasaal {m}
+atún {m} :: Thunfisch {m}
+bonito {m} :: Bonito {m}
+boquerones en vinagre {m} {pl} :: Sardellen in Essig {f} {pl}
+boquerón {m} :: Sardelle {f}
+caballa {f} :: Makrele {f}
+emperador {m} :: Schwertfisch {m}
+dorada {f} :: Goldbrasse {f}
+lenguado {m} :: Seezunge {f}
+lubina {f} :: Wolfsbarsch {m}
+mero {m} :: Zackenbarsch {m}
+merluza {f} :: Seehecht {m}
+rape {m} :: Seeteufel {m}
+raya {f} :: Rochen {m}
+rodaballo {m} :: Steinbutt {m}
+sardina {f} :: Sardine {f}
+salmón {m} :: Lachs {m}
+tiburón {m} :: Hai {m}; Haifisch {m}
+trucha {f} :: Forelle {f}
+
+# MEERESFRÜCHTE
+marisco {m}; mariscos {m} {pl} :: Meeresfrüchte {f} {pl}
+almeja {f} :: Venusmuschel {f}
+berberecho {m} :: Herzmuschel {f}
+bogavante {m} :: Hummer {m}
+calamar {m} :: Tintenfisch {m}
+calamares a la Romana {m} {pl} :: panierte Tintenfischringe {m} {pl}
+camarón {m} :: Garnele {f}
+cangrejo {m} :: Krebs {m}
+cangrejo de río {m} :: Flusskrebs {m}
+chipirón {m} :: (eine kleine Art von) Tintenfisch {m}
+chipirones en su tinta {m} {pl} :: kleine Tintenfische im eigenen Saft {m} {pl}
+chipirones {m} {pl} :: kleine Tintenfische {m} {pl} (Baby-Calamari)
+cigalas {f} {pl} :: Kronenhummer {m}
+langosta {f} :: Languste {f}
+langostino {m} :: Garnele {f}
+mejillón {m} :: Miesmuschel {f}
+mejillones {m} {pl} :: Miesmuscheln {f} {pl}
+navaja {f} :: Schwertmuschel {f}
+nécora {f} :: Ruderkrabbe {f}
+percebe {m} :: Entenmuschel {f}
+quisquilla {f} :: Sandgarnele {f}
+ostra {f} :: Auster {f}
+rabas {f} {pl} :: Tintenfischarme {m} {pl}
+sepia {f} :: Tintenfisch {m}
+vieira {f} :: Jakobsmuschel {f}; Pilgermuschel {f}
+
+
+# NACHSPEISE, SÜSSES
+algodón azucarado {m} :: Zuckerwatte {f}
+biscote {m} :: Zwieback {m}
+bombón {m} :: Praline {f}
+caracola {f} :: Schnecke {f} [Essen]
+chocolate {m} :: Schokolade {f}
+crep {f}; filloa {f} :: Crêpe {f}; Pfannkuchen {m}
+flan {m} :: Vanillecreme mit Karamelsauce {f}
+miel {f} :: Honig {m}
+nata {f} :: Sahne {f}
+pastel {m} :: Kuchen {m}; Torte {f}
+postre {m} :: Nachspeise {f}
+sorbete {m} :: Sorbet {n}
+tarta {f} :: Torte {f}
+tarta helada {f} :: Eistorte {f}
+tarta nupcial {f} :: Hochzeitstorte {f}
+torta {f} :: Torte {f}; Fladen {m}; Stollen {m}
+vainilla {f} :: Vanille {f}
+
+
+# OBST
+# siehe auch: Pflanzen
+fruta {f} :: Obst {n}; Frucht {f}
+fruta de temporada {f} :: Obst der Saison {n}
+frutal :: fruchtig; Obst-
+albaricoque {m} :: Aprikose {f}
+ananás {m} :: Ananas {f}
+banana {f} [Arg.] [Col.] [Ecuad.] [Par.] [Ur.] :: Banane {f}; Bananenstaude {f}
+baya {f} :: Beere {f}
+cereza {f} :: Kirsche {f}
+ciruela {f} :: Pflaume {f}
+clementina {f} :: Klementine {f}
+damasco {m} :: Aprikose {f} (bestimmte Varietät)
+dátil {m} :: Dattel {f}
+durazno {m} [Am.] :: Pfirsich {m}
+frambuesa {f} :: Himbeere {f}
+fresa {f} :: Erdbeere {f}
+casis {f} :: schwarze Johannisbeere {f}
+macedonia {f} :: Obstsalat {m}
+mora {f} :: Brombeere {f}
+nectarina {f} :: Nektarine {f}
+lima {f} :: Limette {f}
+limón {m} :: Zitrone {f}
+mandarina {f} :: Mandarine {f}
+manzana {f} :: Apfel {m}
+melocotón {m} :: Pfirsich {m}
+melón {m} :: Honigmelone {f}; Melone {f}
+membrillo {m} :: Quitte {f}
+naranja {f} :: Orange {f}
+papaya {f} :: Papaya {f}
+pera {f} :: Birne {f}
+piña {f}; piña tropical {f} :: Ananas {f}
+plátano {m} :: Banane {f}
+pomelo {m} :: Pampelmuse {f}; Grapefruit {f}
+sandía {f} :: Wassermelone {f}
+uva {f} :: Traube {f}; Weintraube {f}
+zarzamora {f} :: Brombeere {f}
+
+maduro; madura {adj} :: reif
+mollar {adj} :: weich (Obst)
+
+avellana {f} :: Haselnuss {f}
+cacahuete {m} :: Erdnuss {f}
+ajonjolí {m} :: Sesam {m}
+piñón {m} :: Pinienkern {m}
+pistacho {m} :: Pistazie {f} {f}
+
+# GEMÜSE
+verdura {f} :: Gemüse {n}
+aceituna {f} :: Olive {f}
+acelga {f} :: Mangold {m}
+achicoria {f} :: Chicoree {m} {f}; Chicorée {m} {f}; Schickoree {m} {f}
+aguacate {m} :: Avocado {f}
+alcachofa {f} :: Artischocke {f}
+arveja {f} [Am.] :: Erbse {f}
+berenjena {f} :: Aubergine {f}
+brécol {m} :: Broccoli {m}; Brokkoli {m}
+calabaza {f} :: Kürbis {m}
+calabacín {m} :: Zucchini {f}
+canónigo {m}; hierba de canónigos {f} :: Feldsalat {m}; Rapunzel {f}
+chucrut {m} :: Sauerkraut {n}
+coliflor {f} :: Blumenkohl {m}
+colinabo {m} :: Kohlrabi {m}
+espinacas {f} {pl} :: Spinat {m}
+espárrago {m}; espárragos {m} {pl} :: Spargel {m}
+espárrago triguero {m}; trigueros {m} {pl} :: wilder Spargel {m}; grüner Spargel {m}
+judía {f} :: Bohne {f}
+judías verdes {f} {pl} :: grüne Bohnen {f} {pl}
+lechuga {f} :: Kopfsalat {m}; Salat {m}
+lenteja {f} :: Linse {f}
+lentejas {f} {pl} :: Linsen {f}
+patata {f} :: Kartoffel {f}
+patatas fritas {f} {pl} :: Pommes frites {f} {pl}
+patatas fritas {f} {pl} :: Chips {m} {pl}; Kartoffelchips {m} {pl}
+pepino {m} :: Gurke {f}
+pepinillo {m} :: Essiggurke {f}
+pimiento {m} :: Paprika {m}; Paprikaschote {f}
+rapónchigo {m} :: Feldsalat {m}; Rapunzel {f}; Rapunzel {f}
+tomate {m} :: Tomate {f}
+zanahoria {f} :: Karotte {f}; Möhre {f}; gelbe Rübe {f}; Mohrrübe {f}
+
+
+# GEWÜRZE
+# siehe auch: Pflanzen
+condimento {m} :: Gewürz {n}
+especia {f} :: Gewürz {n}
+albahaca {f} :: Basilikum {n}
+ajete {m} :: junger Knoblauch {m}
+ajo {m} :: Knoblauch {m}
+cabeza de ajo {f} :: Knoblauchknolle {f}
+canela {f} :: Zimt {m}
+diente de ajo {m} :: Knoblauchzehe {f}
+berro {m} :: Kresse {f}; Brunnenkresse {f}
+curry {m} :: Curry {m}
+eneldo {m} :: Dill {m}
+laurel {m} :: Lorbeer {m}
+mejorana {f} :: Majoran {m}
+menta {f} :: Minze {f}; Pfefferminze {f}
+nuez moscada {f} :: Muskatnuss {f}
+perejil {m} :: Petersilie {f}
+pimentón {m} :: Paprika {m}; Paprikagewürz {n}
+pimienta {f} :: Pfeffer {m}
+sal {f} :: Salz {n}
+sal fina {f}; sal refinada {f} :: Salz {n}; Kochsalz {n}
+sal gorda {f} :: grobes Salz {n}
+sal marina {f} :: Meersalz {n}
+
+
+# FLEISCH
+ancas de rana {f} {pl} :: Froschschenkel {m} {pl}
+asado; asada {adj} :: gebraten
+asado {m} :: Braten {m}
+aves {f} {pl} :: Geflügel {n}
+bife {m}; bisté {m}; bistec {m} :: Beefsteak {n}
+biftec {m} :: Beefsteak {n}
+carne {f} :: Fleisch {n}
+carne de cerdo {f} :: Schweinefleisch {n}
+cebolla {f} :: Zwiebel {f}
+de cerdo {adj} :: vom Schwein
+churrasco {m} [Arg.] :: Steak {n}
+cochinillo {m} :: Ferkel {n}; Spanferkel {n}
+codornices rellenas {f} {pl} :: gefüllte Wachteln {f} {pl}
+codorniz {f} :: Wachtel {f}
+cordero {m} :: Lamm {n}
+cordero lechal {m} :: Milchlamm {n}
+embutido {m} :: Wurst {f}
+embutidos {m} {pl} :: Wurstwaren {f} {pl}
+foie-gras {m}; foie gras {m} :: Leberpastete {f}
+lomo {m} :: Lende {f}; Schweinelende {f}
+magro {m} :: mageres Schweinefleisch {n}
+paté {m} :: Pastete {f}
+pernil {m} :: Keule {f}; Schlegel {m}
+pollo {m} :: Hähnchen {n}
+pollo al ajillo {m} :: Knoblauchhähnchen {n}
+salchicha {f} :: Wurst {f}; Würstchen {n}
+ternera {f} :: Kalb {n}; Kalbfleisch {n}
+ternero {m} :: Kalb {n}; Stierkalb {n}
+vacuno {m} :: Rind {n}; Rindfleisch {n}
+vacuno; vacuna {adj} :: Rind-; Rinder-
+
+
+desayunar {v} :: frühstücken
+desayuno {m} :: Frühstück {n}
+almorzar {v} :: zu Mittag essen
+almuerzo {m} :: zweites Frühstück {n}; Gabelfrühstück {n}; Mittagessen {n}
+almuerzo {m} :: Mittagessen {n}
+comida {f} :: Mittagessen {n}
+merendar {v} :: vespern
+merienda {f} :: kleiner Imbiss am Nachmittag {m}; Nachmittagstee {m}; Vesperbrot {n}; Picknick {n}
+cenar {v} :: zu Abend essen
+cena {f} :: Abendessen {n}; Abendbrot {n}
+aperitivo; aperitiva {adj} :: appetitanregend
+aperitivo {m} :: kleine Vorspeise {f}; Vorspeise {f}
+
+banquete {m} :: Bankett {n}; Festessen {n}
+
+alimentación {f} :: Ernährung {f}
+alimentos {m} {pl} :: Lebensmittel {n} {pl}
+comida {f} :: Essen {n}; Gericht {n}; Speise {f}
+mesa {f} :: Tisch {m}
+mesa {f} :: Küche {f}; Essen {n}; Gericht {n}
+plato {m} :: Gericht {n}; Speise {f}
+
+
+# BACKEN
+afrecho {m} [Am.] :: Kleie {f}
+azúcar {m} :: Zucker {m}
+esponjarse {v} :: aufgehen (Teig)
+harina {f} :: Mehl {n}
+huevo {m} :: Ei {n}
+levadura {f} :: Hefe {f}; Sauerteig {m}
+leva en polvo {f} :: Backpulver {n}
+masa {f} :: Teig {m}
+salvado {m} :: Kleie {f}
+
+caldo {m} :: Brühe {f}; Fleischbrühe {f}
+sopa {f} :: Suppe {f}
+
+yogur {m}; yogurt {m} :: Joghurt {n}; Jogurt {n}
+yogur para beber {m} :: Trinkjoghurt {n}
+
+# GETREIDE
+cereales {m} {pl} :: Getreide {n}
+arroz {m} :: Reis {m}
+avena {f} :: Hafer {m}
+cebada {f} :: Gerste {f}
+centeno {m} :: Roggen {m}
+maíz {m} :: Mais {m}
+mijo {m} :: Hirse {f}
+sémola {f} :: Grieß {m}
+trigo {m} :: Weizen {m}
+trigo sarraceno {m} :: Buchweizen {m}
+
+aromático; aromática {adj} :: aromatisch
+
+mantel {m} :: Tischtuch {n}
+puchero {m} :: Topf {m}
+
+# LEBENSMITTELGESCHÄFTE
+carnicería {f} :: Metzgerei {f}
+charcutería {f} :: Metzgerei {f}; Wurstwarengeschäft {n}
+panadero {m} :: Bäcker {m}
+panadería {f} :: Bäckerei {f}
+
+trozo {m} :: Stück {n}
+en un trozo {adj} :: am Stück
+a trozos {adj} :: stückweise
+
+receta {f} :: Rezept {n}
+al gusto {adv} :: nach Geschmack
+cortado; cortada {adj} :: geschnitten
+
+cocinero {m} :: Koch {m}
+cocinera {f} :: Köchin {f}
+cocina {f} :: Küche {f}
+cocina {f} :: Herd {m}
+
+acaramelar {v} :: karamelisieren
+achicharrar {v} :: anbrennen lassen (Essen)
+adobar {v} :: marinieren; pökeln; einlegen
+agregar {v} :: hinzugeben
+ahumado; ahumada {adj} :: geräuchert
+ahumar {v} :: räuchern
+añadir {v} :: hinzugeben
+cocer {v} :: kochen; backen
+cocinar {v} :: kochen; zubereiten
+cortar {v} :: schneiden
+dar la vuelta {v} :: wenden
+freír {v} :: braten
+mondar {v} :: schälen [Küche]
+pelar {v} :: schälen
+picar {v} :: schneiden
+meter en el horno {v} :: in den Ofen schieben
+montar {v} :: schlagen (Sahne, Eiweiß)
+rallar {v} :: reiben; raspeln [Küche]
+revolver {v} :: umrühren
+retirar los platos {v} :: das Geschirr abräumen
+tapar {v} :: zudecken; abdecken (Kochtopf, Glas)
+tostar {v} :: toasten
+
+frito; frita {adj} :: gebraten
+a la plancha {adj} :: vom Grill
+
+abrelatas {m} :: Dosenöffner {m}
+
+cubierto {m} :: Besteck {n}; Essbesteck {n}
+plato {m} :: Teller {m}
+cuchillo {m} :: Messer {n}
+tenedor {m} :: Gabel {f}
+cuchara {f} :: Löffel {m}
+cucharilla {f} :: Teelöffel {m}
+servilleta {f} :: Serviette {f}
+
+mascar {v} :: kauen
+
+culinario; culinaria {adj} :: kulinarisch; Küchen-; Koch-
+culinario; culinaria {adj} :: kulinarisch; Ess-
+arte culinario {m} :: Kochkunst {f}
+
+¡Que aproveche! :: Guten Appetit.
+¡Buen provecho! :: Guten Appetit.
+

@@ -1,0 +1,257 @@
+# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2004 Simon Kmiecik
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+animal {m} :: Tier {n}
+animal domestico {m} :: Haustier {n}
+abeja {f} :: Biene {f}
+abejarrón {m}; abejorro {m} :: Hummel {f}
+ácaro {m} :: Milbe {f}
+águila {m} :: Adler {m}
+alacrán {m} :: Skorpion {m}
+albatros {m} :: Albatros {m}
+alcatraz {f} [Am.] :: Pelikan {m}
+alce {m} :: Elch {m}
+alpaca {f} :: Alpaka {n}
+alondra {f} :: Lerche {f}
+alondra común {f} :: Feldlerche {f} [Zoologie]
+anaconda {f} :: Anaconda {f}
+anguila {f} :: Aal {m}
+angula {f} :: Jungaal {m}
+ánsar {m} :: Gans {f}
+anta {f} :: Elch {m}
+anta {f} [Am.] :: Tapir {m}
+araña {f} :: Spinne {f}
+ardilla {f} :: Eichhörnchen {n}
+armadillo {m} :: Gürteltier {n}
+asno {m} :: Esel {m}
+azor {m} :: Habicht {m}; Hühnerhabicht {m}
+babosa {f} :: Nacktschnecke {f}
+bayo {m} :: Falbe {m}
+bígaro {m} :: Strandschnecke {f}
+bisonte {m} :: Bison {m}
+boa {f} :: Boa {f}
+bogavante {m} :: Hummer {m}
+bóvido {m} :: Rind {n} [Zoologie]
+buey {m} :: Ochse {m}
+burro {m} :: Esel {m}
+caballo {m} :: Pferd {n}
+caballo de mar {m} :: Seepferdchen {n}
+cabra {f} :: Ziege {f}
+cabra montés {f} :: Steinbock {m}
+cabrón {m} :: Ziegenbock {m}
+cachorro {m} :: Welpe {m}
+cachorro {m} :: Junges {n} (Hund, Löwe, Tiger, Wolf, Bär, ...)
+camello {m} :: Kamel {n}
+canguro {m} :: Känguruh {n}
+canario {m} :: Kanarienvogel {m}
+caracol {m} :: Schnecke {f}
+caracola {f} :: Schnecke {f}; Meeresschnecke {f}
+carpa {f} :: Karpfen {m}
+castor {m} :: Biber {m}
+cerda {f} :: Sau {f}
+cerdo {m} :: Schwein {n}
+cerdo hormiguero {m} :: Erdferkel {n}
+chimpancé {m} :: Schimpanse {m}
+cochina {f} :: Sau {f}
+cochinillo {m} :: Ferkel {n}; junges Schwein {n}
+cochino {m} :: Schwein {n}
+colibrí {m} :: Kolibri {m}
+conejillo de Indias {m} :: Meerschweinchen {n}
+conejo {m} :: Kaninchen {n}
+corneja {f} :: Krähe {f}
+cresa {f} :: Made {f}
+cucaracha {f} :: Kakerlak {m}
+cuclillo {m} :: Kuckuck {m}
+cuco {m} :: Kuckuck {m}
+cuervo {m} :: Krähe {f}
+culebra {f} :: Schlange {f}
+dogo {m} :: Dogge {f}
+elefante {m} :: Elefant {m}
+elefante marino {m} :: Seeelefant {m}
+erizo {m} :: Igel {m}
+erizo de mar {m} :: Seeigel {m}
+escarabajo {m} :: Käfer {m}
+escualo {m} :: Hai {m}; Haifisch {m}
+fletán {m} :: Heilbutt {m}
+foca {f} :: Seehund {m}
+gallina {f} :: Huhn {n}; Henne {f}
+gallo {m} :: Hahn {m}
+ganso {m} :: Gans {f}; Gänserich {m}; Ganter {m}
+gata {f} :: Katze {f}
+gatito {m} :: Kätzchen {n}; Kätzlein {n}
+gato {m} :: Katze {f}; Hauskatze {f}; Kater {m}
+gato doméstico {m} :: Hauskatze {f}
+gato salvaje {m} :: Wildkatze {f}
+gatuno; gatuna :: katzenhaft; katzenartig; Katzen-
+gavilán {m} :: Sperber {m}
+gaviota {f} :: Möwe {f}
+gorila {m} :: Gorilla {m}
+gorrión {m} :: Spatz {m}; Sperling {m}
+guepardo {m} :: Gepard {m}
+hipocampo {m} :: Seepferdchen {n}
+hormiga {f} :: Ameise {f}
+hormiga blanca {f} :: Termite {f}
+insecto {m} :: Insekt {n}
+jabalí {m} :: Wildschwein {n}; Keiler {m}
+jabalina {f} :: Wildschwein {n}; Wildsau {f}
+jaguar {m} :: Jaguar {m}
+jirafa {f} :: Giraffe {f}
+koala {m} :: Koala {m}; Koalabär {m}
+lagarto {m} :: Eidechse {f}
+lemming {m} :: Lemming {m}
+leopardo {m} :: Leopard {m}; Panther {m}
+leopardo de las nieves {m}; onza {f} :: Schneeleopard {m}; Irbis {m}
+libélula {f} :: Libelle {f}
+lince {m} :: Luchs {m}
+lince rojo {m} :: Rotluchs {m}
+loba {f} :: Wölfin {f}
+lobo {m} :: Wolf {m}
+mariposa {f} :: Schmetterling {m}
+marsupial {m} :: Beuteltiere {n}
+marta {f} :: Marder {m}
+martinete {m} :: Nachtreiher {m}
+martín pescador {m} :: Eisvogel {m}
+medusa {f} :: Qualle {f}
+mero {m} :: Zackenbarsch {m}
+mielga {f} :: Dornhai {m}
+morsa {f} :: Walross {n}
+mosca {f} :: Fliege {f}
+mono {m} :: Affe {m}; Äffchen {n}
+morena {f} :: Muräne {f}
+morueco {m} :: Widder {m}
+mulo {m} :: Maultier {n}; Maulesel {m}
+ñu {m} :: Gnu {n}
+oca {f} :: Gans {f}
+ocelote {m} :: Ozelot {m} [Zoologie]
+oso {m} :: Bär {m}
+oso hormiguero {m} :: Ameisenbär {m}
+ostra {f} :: Auster {f}
+oveja {f} :: Schaf {n}
+pájaro {m} :: Vogel {m}
+paloma {f} :: Taube {f}
+paquidermo {m} :: Dickhäuter {m}; Elefant {m}
+pardillo {m} :: Hänfling {m}
+pavo {m} :: Truthahn {m}; Pute {f}
+perro {m} :: Hund {m}
+pez {m} :: Fisch {m}
+pico {m} :: Specht {m}
+piojo {m} :: Laus {f}
+pollito {m} :: Küken {n}
+polluelo {m} :: Küken {n}
+poni {m}; poney {m} :: Pony {n}
+puerca {f} :: Sau {f}
+puerco {m} :: Schwein {n}
+puerco espín {m} :: Stachelschwein {n}
+pulga {f} :: Floh {m}
+pulgón {m} :: Blattlaus {f}
+raposa {f} :: Fuchs {m}
+rata {f} :: Ratte {f}
+ratón {m} :: Maus {f}
+rebeco {m} :: Gemse {f}; Gämse {f}
+reno {m} :: Rentier {n}
+rodaballo {m} :: Steinbutt {m}
+roedor {m} :: Nagetier {n}
+rorcual {m} :: Finnwal {m}
+selacio {m} :: Hai {m}; Haifisch {m}
+sello {m} :: Seehund {m}
+simio {m} :: Affe {m}
+tapir {m} :: Tapir {m}
+tigre {m} :: Tiger {m}
+tigresa {f} :: Tigerin {f}
+toro {m} :: Stier {m}; Bulle {m}
+tortuga {f} :: Schildkröte {f}
+turón {m} :: Iltis {m}
+urogallo {m} :: Auerhahn {m}
+urraca {f} :: Elster {f}
+vaca {f} :: Kuh {f}; Rind {n}
+venado {m} :: Hirsch {m}
+verraco {m} :: Eber {m}; Keiler {m}
+visón {m} :: Nerz {m}
+yacaré {m} [Am.] :: Alligator {m}
+yak {m}; yac {m} :: Jak {m}; Yak {m}
+yegua {f} :: Stute {f}
+yeguada {f} :: Pferdeherde {f}
+zángano {m} :: Drohne {f}
+zorra {f} :: Füchsin {f}
+zorro {m} :: Fuchs {m}
+
+# ORGANE, KÖRPERTEILE
+agalla {f} :: Kieme {f}
+agallas {f} {pl} :: Kiemen {f} {pl}
+ala {f} :: Flügel {m}
+branquia {f} :: Kieme {f}
+cola {f} :: Schwanz {m}; Schweif {m} [Anatomie] [Zoologie]
+concha {f} :: Muschel {f}; Muschelschale {f}
+cresta {f} :: Kamm {m} [Anatomie]
+espina {f} :: Gräte {f}
+hocico {m} :: Schnauze {f}; Rüssel {m}; Maul {n}
+marfil {m} :: Elfenbein {n}
+pata {f} :: Pfote {f}
+pico {m} :: Schnabel {m}
+pluma {f} :: Feder {f}
+rabo {m} :: Schwanz {m} [Anatomie] [Zoologie]
+rabón {adj} :: schwanzlos; kurzschwänzig
+trompa {f} :: Rüssel {m}
+zarpa {f} :: Pranke {f}
+
+# ANSAMMLUNGEN, ORTE
+acuario {f} :: Aquarium {n}
+banco {m}; banco de peces {m} :: Schwarm {m}; Fischschwarm {m}
+boyada {f} :: Ochsenherde {f}; Kuhherde {f}
+manada {f} :: Herde {f}; Rudel {n}; Schar {f}; Schwarm {m}
+nido {m} :: Nest {n}
+perrera {f} :: Hundehütte {f}
+
+# VERBEN
+abrevar {v} :: tränken
+acoplar {v} :: zusammenfügen; einspannen (Zugtiere)
+acorralar {v} :: einzäunen; einsperren (Tiere)
+adiestrar {v} :: zähmen; abrichten
+amaestrar :: dressieren
+desplegar las alas {v} :: die Flügel ausbreiten
+domar {v} :: zähmen; bändigen
+ladrar {v} :: bellen
+maullar {v} :: miauen
+mayar {v} :: miauen
+menear la cola {v} :: mit dem Schwanz wedeln
+Miau :: Miau
+rebuznar {v} :: iahen (Esel)
+
+# SONSTIGES
+abejero {m}; colmenero {m} :: Imker {m}
+abrevadero {m} :: Tränke {f}
+apicultor {m} :: Imker {m}
+apicultura {f} :: Imkerei {f}
+collar {m} :: Halsband {n}
+

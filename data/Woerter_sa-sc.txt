@@ -1,0 +1,394 @@
+# Copyright (C) 2012 Matthias Buchmeier
+#
+# This file is part of ding-es-de
+#
+# ding-es-de is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation; either version 2, or
+# (at your option) any later version.
+#
+# You can also redistribute it and/or modify it under the terms
+# of the GNU Free Documentation License as published by the Free
+# Software Foundation; with no front cover texts, no back cover
+# texts and no invariant sections; either version 1.2, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# and the GNU Free Documentation License along with this program;
+# if not, write to the Free Software Foundation, Inc., 675 Mass Ave,
+# Cambridge, MA 02139, USA.
+#
+# ding-es-de is also licensed under the
+# Creative Commons Attribution-ShareAlike License, version 1.0 or later.
+#
+# If you have not receiced a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/1.0/
+# or send a letter to
+# Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+sábado {m} :: Sabbat {m}
+sábana {f} :: Bettlaken {n}; Laken {n} \Haus
+sabana {f} :: Savanne {f} \Geographie
+sabañón {m} :: Frostbeule {f} \Medizin
+sabático {adj} :: Sabbat-
+sabelotodo {m} :: Besserwisser {m}; Klugscheißer {m} \Kommunikation
+saber {m} :: Kenntnis {f}; Fähigkeit {f}
+saber {v} :: können (Fähigkeit)
+saber {v} :: kennen
+saber {v} :: schmecken
+sabido {adj} :: gescheit
+sabido {adj} :: neunmalklug [abwertend]
+sabiduría {f} :: Klugheit {f}
+sabiduría {f} :: Weisheit {f}
+sabihondo {m}; sabiondo {m} :: Besserwisser {m} \Kommunikation
+sabio {adj} :: gelehrt
+sabio {adj} :: weise
+sabio {m} :: Weise {m}
+sabio {m} :: Gelehrte {m}
+sabor {m} :: Geschmack {m}
+saborear {v} :: schmecken
+saborear {v} :: auskosten
+saborear {v} :: genießen
+sabotaje {m} :: Sabotage {f} \Verbrechen
+sabotear {v} :: sabotieren \Verbrechen
+saboteador {m} :: Saboteur {m} \Verbrechen
+sabroso {adj} :: lecker
+sabroso {adj} :: köstlich
+sabroso {adj} :: schmackhaft
+sabroso {adj} :: würzig \Essen
+sabueso {m} :: Schnüffler {m}
+sabueso {m} :: Spürhund {m}
+sacacorchos {m} :: Korkenzieher {m} \Trinken
+saca {f} :: Entnahme {f}
+sacamanchas {m} :: Fleckenmittel {n}
+sacapuntas {m} :: Spitzer {m}; Anspitzer {m}
+sacar adelante {v} :: voranbringen
+sacar a la luz {v} :: an den Tag bringen
+sacar brillo {v} :: polieren \Technik
+sacar conclusiones {v} :: Schlüsse ziehen
+sacar de quicio {v} [fig.] :: aus den Angeln heben
+sacar en limpio {v} :: ins Reine bringen
+sacar fotos {v} :: fotografieren
+sacarina {f} :: Süßstoff {m} \Essen
+sacarina {f} :: Saccharin {n} \Essen
+sacar la cuenta {v} :: ausrechnen
+sacar las uñas [fig.] {v} :: die Krallen zeigen
+sacarosa {f} :: Saccharose {f} \Essen
+sacar provecho de {v} :: profitieren von; Nutzen ziehen aus
+sacar punta {expr} :: spitzen; anspitzen (Stifte)
+sacar {v} :: abheben (Geld) \Geld
+sacar {v} :: entfernen
+sacar {v} :: entnehmen
+sacar {v} :: herausziehen
+sacar {v} :: herausnehmen
+sacar {v} :: herausbringen
+sacar {v} :: ausführen
+sacar {v} :: holen; herausholen
+sacar {v}; quitar {v} :: wegnehmen
+sacerdote {m} :: Priester {m} \Religion
+sacerdotisa {f} :: Priesterin {f} \Religion
+saciar {v} :: sättigen
+saciar {v} :: befriedigen
+saciar {v} :: stillen (Hunger, Durst)
+saciedad {f} :: Sattheit {f}
+saciedad {f} :: Sättigung {f}
+saco {m} [Am.] :: Jackett {n} \Kleidung
+saco {m} :: Sack {m}
+sacramento {m} :: Sakrament {n} \Religion
+sacrificio {m} :: Opfer {n}
+sacrificio {m} :: Opferung {f} \Religion
+sacrilegio {m} :: Frevel {m}
+sacrilegio {m} :: Sakrileg {n} \Religion
+sacrílego {adj} :: frevelhaft; frevlerisch \Religion
+sacrílego {m} :: Frevler {m}
+sacristán {m} :: Messdiener {m} \Religion
+sacristán {m} :: Sakristan {m} \Religion
+sacristía {f} :: Sakristei {f} \Religion
+sacro {adj} :: heilig \Religion
+sacro {adj} :: religiös (Kunst) \Religion
+sacrificar {v} :: opfern
+sacrificar {v} :: schlachten (Tiere)
+sacudida {f} :: Erschütterung {f}
+sacudida {f} :: Stoß {m}
+sacudir {v} :: ausklopfen (Teppich)
+sacudir {v} :: ausschütteln
+sacudir {v} :: erschüttern
+sacudir {v} :: rütteln
+sacudir {v} :: schütteln
+sacudir {v} :: schütten
+sádico {m} | sádica {f} :: Sadist {m} | Sadistin {f}
+sádico {adj} :: sadistisch
+sadismo {m} :: Sadismus {m}
+sadomasoquista {adj} :: sadomasochistisch \Sexualität
+sadomasoquista {m} | sadomasoquista {f} :: Sadomasochist {m} | Sadomasochistin {f} \Sexualität
+saeta {f} :: Zeiger {m} (Uhr, Kompass) \Technik
+safari {m} :: Safari {f}
+sagacidad {f} :: Scharfsinn {m}
+saga {f} :: Saga {f} \Kommunikation
+sagaz {adj} :: scharfsinnig
+sagaz {adj} :: listig; schlau
+sagitario {m} :: Schütze {m} (Tierkreiszeichen, Sternbild)
+sahumerio {m} :: Räuchern {n} \Essen
+sahumar {v} :: räuchern \Essen
+sajar {v} :: einschneiden
+sajón {adj} :: sächsisch
+sajón {m} :: Sachse {m}
+Sajonia {f} :: Sachsen
+salacidad {f} :: Geilheit {f}
+salado {adj} :: witzig; schlagfertig
+salado {adj} :: gesalzen \Esssen
+sala {f} :: Saal {m}
+sala {f} :: Salon {m}
+sala {f} :: Aula {f}
+sala {f}; sala de estar {f} :: Wohnzimmer {n} \Haus
+salamandra {f} :: Salamander {m} \Tiere
+salamandra {f} :: Ofen {m} \Haus
+salamanquesa {f} :: Gecko {m} \Tiere
+salami {m} :: Salami {f} \Essen
+salar {m} :: Salzwüste {v} \Geographie
+salar {v} :: pökeln \Essen
+salaz {adj} :: lüstern; geil [coloq.]
+salchichón {m} :: Hartwurst {f}; Salami {f} \Essen
+saldo {m} :: Guthaben {n} \Geld
+saldo {m} :: Kontostand {m} \Geld
+saldo {m} :: Saldo {m} \Geld
+saledizo {adj} :: hervorspringend
+saledizo {f} :: Vorbau {m}; Erker {m} \Architektur
+salero {m} :: Salzstreuer {m} \Essen \Küche
+salero {m} :: Charme {m}; Witz {m} \Kommunikation
+saleroso {adj} :: charmant; geistreich; witzig
+salida {f} :: Abfahrt {f}
+salida {f} :: Abzug {m}
+salida {f} :: Ausfahrt {f}
+saliente {adj} :: ausgehend
+saliente {adj} :: vorstehend
+saliente {adj} :: hervorspringend
+saliente {m} :: Vorsprung {m}; Überhang {m} (Felsen)
+salina {f} :: Saline {f}
+salina {f} :: Salzbergwerk {n}
+salino {adj} :: salzig; Salz-
+salir adelante {v} :: vorwärts kommen
+salir a luz {v} :: zum Vorschein kommen
+salir bien {v} :: gelingen; glücken
+salir mal {v} :: misslingen; missglücken; schief gehen
+salirse {v} :: auslaufen
+salir {v} :: abfahren
+salir {v} :: abreisen
+salir {v} :: ausgehen
+salir {v} :: fortgehen
+salir {v} :: herausgehen
+salir {v} :: herauskommen
+salir {v} :: hinauskommen
+salir {v} :: hinausgehen
+salir {v} :: werden
+saliva {f} :: Speichel {m}; Spucke {f} \Körper
+salivar {v} :: sabbern
+salmo {m} :: Psalm {m} \Religion
+salmonete {m} :: Seebarbe {f} \Fische
+salmón {m} :: Lachs (Farbe) \Farben
+salmuera {f} :: Salzlake {f} \Essen
+salón {m} :: Saal {m}
+salón {m} :: Salon {m}
+salón {m} :: Messe {f}; Ausstellung {f}
+salpicadero {m} :: Armaturenbrett {n} \verkehr
+salpicar {v} :: spritzen; bespritzen
+salpicar {v} :: sprenkeln
+salpicar {v} :: beschmutzen
+salpullido {m} :: Hautausschlag {m} \Medizin
+salsa {f} :: Soße {f} \Essen
+saltabancos {m} :: Taschenspieler {m}; Gaukler {m}
+saltador {m} :: Springer {m} \Sport
+saltador {m} :: Sprungseil {n}
+saltador {adj} :: springend
+saltamontes {m} :: Grashüpfer {m}; Heuschrecke {f} \Insekten
+saltar a la vista {v} :: ins Auge springen
+saltar {v} :: federn; springen
+saltar {v} :: herausspringen
+saltar {v} :: hüpfen; hopsen
+saltar {v} :: überspringen
+saltar {v} :: zerspringen
+saltear {v} :: überfallen
+salteador {m} :: Straßenräuber {m}; Wegelagerer {m} \Verbrechen
+saltimbanqui {m} :: Gaukler {m}
+salto {m} :: Umbruch {m}
+salto {m} :: Absprung {m}
+salto {m} :: Sprung {m}
+salto {m} :: Satz {m} (Sprung)
+salto {m} :: steiles Gefälle {n} \Geographie
+salto {m} :: Salto {m} \Sport
+salto {m} :: Wasserfall {m} \Geographie
+salto {m} :: Schlucht {f} \Geographie
+salubre {adj} :: heilsam; gesund
+saludable {adj} :: gesund; heilsam
+¡salud! :: Prost!; Zum Wohl! \Trinken
+salud {f} :: Gesundheit {f}
+saludo {m} :: Begrüßung {f} \Kommunikation
+saludo {m} :: Gruß {m} \Kommunikation
+salvación {f} :: Rettung {f}
+salvación {f} :: Erlösung {f} \Religion
+salvado {m} :: Kleie {f} \Essen
+salvado {adj} :: gerettet
+salvador {adj} :: heilend
+salvador {adj} :: rettend
+salvadoreño {adj} :: salvadorianisch
+salvador {m} :: Erlöser {m} \Religion
+salvador {m} :: Heiland {m} \Religion
+salvador {m} :: Retter {m}
+salva {f} :: Salve {f}
+salvaje {adj} :: roh
+salvajada {f} :: Grausamkeit {f}; Rohheit {f}
+salvamanteles {m} :: Untersetzer {m}
+salvamento {m} :: Rettung {f}
+salvar {v} :: bergen
+salvar {v} :: retten
+salvar {v} :: erlösen \Religion
+salvar {v} :: befreien
+salvarse {v} :: davonkommen
+salvavidas {m} :: Rettungsring {m}
+salvavidas {m} :: Lebensretter {m}
+salvia {f} :: Salbei {m} \Kräüter
+salvo {adj} :: heil
+salvo {adj} :: sicher
+salvo {adj} :: unbeschädigt
+salvo {adv} :: außer; abgesehen von
+salvo {prp} :: vorbehalten; bis auf
+salvo que :: es sei denn
+samaritano {m} :: Samariter {m}
+sanable {adj} :: heilbar
+sanador {m} :: Heiler {m}
+sanador {m} :: Heilpraktiker {m} \Medizin
+saña {f} :: Hass {m}; Groll {m}; Wut {f}
+sanar {v} :: genesen; gesund werden
+sanar {v} :: heilen
+sancionar {v} :: bestrafen
+sanción {f} :: Sanktion {f}
+sanción {f} :: Strafe {f}
+sancochar {v} :: köcheln
+sandez {f} :: Unsinn {m}
+sándwich {m} :: Sandwich {n} \Essen
+saneado {adj} :: hygienisch
+saneado {adj} :: saniert
+saneamiento {m} :: Sanierung {f}
+saneamiento {m} :: Entseuchung {f}
+sangrado {m} :: Einrückung {f} (Zeilen)
+sangrar {v} :: einrücken (Text)
+sangrar {v} :: bluten
+sangre {f} :: Geblüt {n}
+sangre {f} :: Herkunft {f}
+sanatorio {m} :: Sanatorium {n}
+sancionable {adj} :: strafbar
+sancionar {v} :: sanktionieren
+sangría {f} :: Bowle {f} \Trinken
+sangría {f} :: Sangria {f} \Trinken
+sangría {f} :: Einrückung {f} (Zeilen)
+sangriento {adj} :: blutig
+sangriento {adj} :: blutrünstig
+sanguijuela {f} :: Blutegel {m}; Egel {m} \Tiere
+sanguijuela {f} [fig.] :: Blutsauger {m}
+sanguinario {adj} :: blutrünstig
+sanguinario {adj} :: grausam
+sanguíneo {adj} :: Blut-
+sanguinolenta {adj} :: blutig
+sanidad {f} :: Gesundheit {f}
+sanidad {f} :: Gesundheitswesen {n}
+sanitario {adj} :: Gesundheits-
+sanitario {adj} :: sanitär
+sano y salvo {expr} :: unbeschädigt;  wohlbehalten
+¡sanseacabó! :: Schluss!, Basta!
+santa {f} :: Heilige {f} \Religion
+santera {f} :: Voodoopriesterin {f}; Wunderheilerin {f} \Religion
+santería {f} :: Voodookult {m}; Magie {f}
+santero {m} :: Voodoopriester {m}; Wunderheiler {m}
+sano {adj} :: heilsam
+sano {adj} :: sicher
+sañoso {adj} :: wütend
+santidad {f} :: Heiligkeit {f} \Religion
+santificación {f} :: Heiligsprechung {f} \Religion
+santificación {f} :: Heiligung {f}
+santificar {v} :: heiligen \Religion
+santificar {v} :: weihen \Religion
+santificado {adj} :: geheiligt \Religion
+santiguamiento {m} :: Bekreuzigen {n} \Religion
+santo {adj} :: heilig \Religion
+santo {adj} :: fromm \Religion
+santo {adj} :: gütig
+santo {m} :: Heilige {m} \Religion
+santo {m} :: Namenspatron {m}
+santo {m}; día del santo {m} :: Namenstag {m}
+santuario {m} :: Heiligtum {n} \Religion
+santuario {m} :: Kapelle {f} \Religion
+santuario {m} :: Wallfahrtsort {m} \Religion
+sañudo {adj} :: wütend
+sápido {adj} :: schmackhaft
+sapo {m} :: Unke {f} \Tiere
+sapo {m} :: Kröte {f} \Tiere
+sapo {m} [Chile] :: Spanner {m}
+sapo {m} :: Verräter {m}
+saqueador {m} :: Plünderer {m}
+saquear {v} :: plündern
+saque {m} :: Aufschlag {m} (Tennis) \Sport
+sarampión {m} :: Masern {f} \Medizun
+sarcasmo {m} :: Sarkasmus {m} \Kommunikation
+sarcástico {adj} :: spöttisch \Kommunikation
+sarcófago {m} :: Sarkophag {m}
+sardina {f} :: Sardine {f} \Fische
+sargento {m} :: Sergeant {m}
+sargento {m} :: Unteroffizier {m} \Militär
+sargento {m} :: Feldwebel {m} \Militär
+sargo {m} :: Brasse {f} \Fische
+sarmiento {m} :: Ranke {f} \Pflanzen
+sarmiento {m} :: Rebe {f} \Pflanzen
+sarna {f} :: Krätze {f} \Medizin
+sarna {f} :: Räude {f} \Tiere
+sarnoso {adj} :: räudig \Tiere
+sarpullido {m} :: Ausschlag {m} \Medizin
+sarro {m} :: Belag {m}; Zahnbelag {m} \Medizin \Körper 
+sarroso {adj} :: belegt (Zähne, Zunge) \Medizin
+sarta {f} :: Schnur {f}
+sastre {m} | sastra {f} :: Schneider {m} | Schneiderin {f} \Berufe
+sastrería {f} :: Schneiderei {f}
+Satanás {m} :: Satan {m} \Religion
+Satanás {m} :: Satansbraten {m} [coloq.]
+satélite {m} :: Satellit {m} \Technik
+satélite {m} :: Trabant {m}
+satín {m} :: Satin {m} \Kleidung
+sátira {f} :: Satire {f} \Kommunikation
+satírico {adj} :: satirisch \Kommunikation
+satírico {m} | satírica {f} :: Satiriker {m} | Satirikerin {f}
+satirizar {v} :: verspotten \Kommunikation
+sátiro {m} :: Satyr {m}
+satisfacción {f} :: Befriedigung {f}
+satisfacción {f} :: Erfüllung {f}
+satisfacción {f} :: Genugtuung {f}
+satisfacción {f} :: Zufriedenheit {f}
+satisfacción {f} :: Freude {f}
+satisfacer {v} :: befriedigen
+satisfacer {v} :: sättigen
+satisfacer {v} :: zufrieden stellen
+satisfactorio {adj} :: befriedigend
+satisfactorio {adj} :: zufriedenstellend
+satisfecho {adj} :: überdrüssig
+satisfecho {adj} :: zufrieden
+saturación {f} :: Sättigung {f}
+saturado {adj} :: gesättigt
+grasas saturadas {f} {pl}  :: gesättigte Fette {n} {pl} \Essen
+saturar {v} :: sättigen
+Saturno {m} :: Saturn {m} \Planeten
+sauce llorón {m} :: Trauerweide {f} \Pflanzen
+saúco {m} :: Holunder {m} \Pflanzen
+saudí {adj} :: saudiarabisch \Länder
+saudí {m} | saudí {f} :: Saudiaraber {m} | Saudiaraberin {f} \Länder
+sauna {f} :: Sauna {f}
+saurio {m} :: Saurier {m} \Tiere
+savia {f} :: Pflanzensaft {m}
+saxofón {m} :: Saxophon {n} \Musik
+saxofonista {m} | saxofonista {f} :: Saxophonist {m} | Saxophonistin {f} \Beruf \Musik
+saxo {m} :: Saxophon {n} \Musik
+sazonar {v} :: abschmecken \Küche
+sazón {m} :: Würze {f} \Küche
+scanner {m} :: Scanner {m} \Technik
