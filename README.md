@@ -104,7 +104,7 @@ Danke
 Copyright-Hinweis
 -----------------
 
-(C) 2003, 2004, 2005, 2006 by Zeno Gantner and others
+(C) 2003, 2004, 2005, 2006, 2021 by Zeno Gantner and others
 
 Die Skripte im Verzeichnis bin/ können unter den Bedingungen der GNU General
 Public License, Version 2 oder später, wie von der Free Software Foundation
