@@ -1,12 +1,12 @@
-Spanisch-Deutsche Vokabelsammlung für ding
+Spanisch-Deutsche Vokabelsammlung fÃ¼r ding
 ------------------------------------------
 
-Diese Sammlung ist unter Umständen noch nicht vollständig und alltagstauglich.
-Es kann sein, dass Du sehr einfache und grundlegende Wörter nicht
-findest. Sollte dies der Fall sein, so wäre ich über eine Benachrichtigung
+Diese Sammlung ist unter UmstÃ¤nden noch nicht vollstÃ¤ndig und alltagstauglich.
+Es kann sein, dass Du sehr einfache und grundlegende WÃ¶rter nicht
+findest. Sollte dies der Fall sein, so wÃ¤re ich Ã¼ber eine Benachrichtigung
 an zeno.gantner@gmail.com sehr dankbar.
 
-Auch wenn ich mich um die Korrektheit der Einträge bemühe, kann ich sie nicht
+Auch wenn ich mich um die Korrektheit der EintrÃ¤ge bemÃ¼he, kann ich sie nicht
 garantieren.
 
 
@@ -22,7 +22,7 @@ Die Vokabeln sind nach Wortfeldern in verschiedene Dateien im Verzeichnis
 data/ verteilt.
 
 Vokabeln, die nicht unter einem bestimmten Wortfeld eingeordnet wurden,
-stehen in den Dateien "Allgemein.txt", "Konjunktionen.txt", "Präpositionen.txt",
+stehen in den Dateien "Allgemein.txt", "Konjunktionen.txt", "PrÃ¤positionen.txt",
 "Pronomen.txt" und "Verben-Allgemein.txt".
 
 Weitere Informationen befinden sich im Verzeichnis doc/.
@@ -33,16 +33,16 @@ Installation
 Das Skript "txt2ding" wandelt die Textdateien in das Format, das von ding
 gelesen wird, um.
 
-1. Richte in ding eine Suchmethode ein, indem Du im Menü "Einstellungen"
-   das Element "Suchmethoden..." auswählst. Dann klicke auf "Neu"->"Dictionary".
-   Es erscheint ein neues Fenster, wo die nötigen Einstellungen vornehmen
+1. Richte in ding eine Suchmethode ein, indem Du im MenÃ¼ "Einstellungen"
+   das Element "Suchmethoden..." auswÃ¤hlst. Dann klicke auf "Neu"->"Dictionary".
+   Es erscheint ein neues Fenster, wo die nÃ¶tigen Einstellungen vornehmen
    kannst, z.B.:
 
      Name		es <-> de
      Such-Kommando	egrep
      Optionen		-h
 
-     Wörterbuch		(die Datei es-de, die im selben Verzeichnis wie
+     WÃ¶rterbuch		(die Datei es-de, die im selben Verzeichnis wie
                          dieses README sein sollte)
 
      Sprache 1:		Spanisch
@@ -51,25 +51,25 @@ gelesen wird, um.
 
      ... und so weiter
 
-   Dann auf "Übernehmen" klicken.
+   Dann auf "Ãœbernehmen" klicken.
 
 2. Durch den Aufruf von "Einstellungen"->"Einstellungen speichern" wird die
    neue Suchmethode dauerhaft gespeichert.
 
 Optional:
 
-3. Erneutes Generieren der Wörterbuchdatei aus den Quelldateien.
+3. Erneutes Generieren der WÃ¶rterbuchdatei aus den Quelldateien.
 
-   Führe im Verzeichnis ding-es-de/ (in dem auch diese Datei liegt)
+   FÃ¼hre im Verzeichnis ding-es-de/ (in dem auch diese Datei liegt)
    folgenden Befehl aus:
 
    bin/txt2ding.pl data/*.txt | bin/compile_dictionary.pl > es-de
 
-   Dies erzeugt eine neue Datei mit dem Namen "es-de", bzw. überschreibt
+   Dies erzeugt eine neue Datei mit dem Namen "es-de", bzw. Ã¼berschreibt
    sie, falls sie schon existiert.
 
 
-Fehler, Beiträge, usw.
+Fehler, BeitrÃ¤ge, usw.
 ----------------------
 
 Wenn Du einen Fehler (falsche Vokabel, Rechtschreibung, unklare Dokumentation
@@ -77,13 +77,13 @@ usw.) findest, schicke mir bitte eine Nachricht an es-de@zenogantner.de,
 damit ich den Fehler berichtigen kann.
 
 Wenn Du Spanisch als Muttersprache sprichst, und ein paar Minuten Zeit und Lust
-hast, kannst Du helfen, als Korrekturleser die Qualität dieser Vokabelsammlung
+hast, kannst Du helfen, als Korrekturleser die QualitÃ¤t dieser Vokabelsammlung
 zu verbessern. Schreibe mir einfach eine Mail an es-de@zenogantner.de, damit
 ich das Ganze koordinieren kann.
 
-Außerdem freue ich mich immer über neue Worfelder bzw. zusätzliche Vokabeln
-für die existierenden. Die Vokabeln dürfen allerdings nicht einfach aus
-vorhandenen Sammlungen/Wörterbüchern herauskopiert werden, da sonst die
+AuÃŸerdem freue ich mich immer Ã¼ber neue Worfelder bzw. zusÃ¤tzliche Vokabeln
+fÃ¼r die existierenden. Die Vokabeln dÃ¼rfen allerdings nicht einfach aus
+vorhandenen Sammlungen/WÃ¶rterbÃ¼chern herauskopiert werden, da sonst die
 Urheberrechte der Autoren dieser Werke verletzt werden. D.h. Du musst die
 Vokabeln, die Du mir zuschickst, selbst zusammengetragen haben.
 
@@ -91,20 +91,20 @@ Vokabeln, die Du mir zuschickst, selbst zusammengetragen haben.
 Danke
 -----
 
-Matthias Buchmeier (ca. 4700 Einträge, die mit "a" bis "c" beginnen)
-Elena García Aguado (Korrekturen)
+Matthias Buchmeier (ca. 4700 EintrÃ¤ge, die mit "a" bis "c" beginnen)
+Elena GarcÃ­a Aguado (Korrekturen)
 all meinen Spanischlehrerinnen
 Frank Richter (Autor von ding)
-Simon Kmiecik (zusätzliche Vokabeln und Korrekturen)
+Simon Kmiecik (zusÃ¤tzliche Vokabeln und Korrekturen)
 Sebastian Bauer (Entwickler von MobileDing, siehe doc/MobileDing.txt)
 Jan (Hinweise zum README)
-Nikolai Löwen (zusätzliche Vokabeln und Korrekturen)
+Nikolai LÃ¶wen (zusÃ¤tzliche Vokabeln und Korrekturen)
 Andrei Mitrofanow (Hinweise auf fehlende Vokabeln)
 Gero Gudschun (Korrekturen und Vokabeln)
 Emmanuel Dammerer (Ausbau des Wortfeldes Himmel/Astronomie)
-Klaus Meinke (Ausbau des Wortfeldes Mathematik, weitere Ergänzungen)
-Björn Jacke, Santiago Rodríguez und Jesús Carretero (Autoren der Wortlisten,
-mit denen ding-es-de auf Rechtschreibfehler geprüft wird)
+Klaus Meinke (Ausbau des Wortfeldes Mathematik, weitere ErgÃ¤nzungen)
+BjÃ¶rn Jacke, Santiago RodrÃ­guez und JesÃºs Carretero (Autoren der Wortlisten,
+mit denen ding-es-de auf Rechtschreibfehler geprÃ¼ft wird)
 Kevin Atkinson (GNU Aspell)
 Larry Wall (Perl)
 Mike Haertel und Paul Eggert (GNU textutils)
@@ -116,25 +116,25 @@ Copyright-Hinweis
 
 (C) 2003, 2004, 2005, 2006 by Zeno Gantner and others
 
-Die Skripte im Verzeichnis bin/ können unter den Bedingungen der GNU General
-Public License, Version 2 oder später, wie von der Free Software Foundation
+Die Skripte im Verzeichnis bin/ kÃ¶nnen unter den Bedingungen der GNU General
+Public License, Version 2 oder spÃ¤ter, wie von der Free Software Foundation
 herausgegeben, verwendet, modifziert und/oder verbreitet werden.
 
-Die restlichen Dateien können unter den Bedingungen von GNU FDL und/oder
+Die restlichen Dateien kÃ¶nnen unter den Bedingungen von GNU FDL und/oder
 GNU GPL, wie von der Free Software Foundation herausgegeben, sowie unter
 den Bedingungen der "Creative Commons Attribution-ShareAlike License",
 herausgegeben von CreativeCommons.org, verwendet, modifiziert und/oder
 verbreitet werden.
 
-Sie können eine oder mehrere der folgenden Lizenzen wählen:
- * GNU Free Documentation License, Version 1.2 oder später
- * GNU General Public License, Version 2 oder später
- * Creative Commons Attribution-ShareAlike License, Version 1.0 oder später
+Sie kÃ¶nnen eine oder mehrere der folgenden Lizenzen wÃ¤hlen:
+ * GNU Free Documentation License, Version 1.2 oder spÃ¤ter
+ * GNU General Public License, Version 2 oder spÃ¤ter
+ * Creative Commons Attribution-ShareAlike License, Version 1.0 oder spÃ¤ter
 
 GNU FDL 1.2, GNU GPL 2, Creative Commons Attribution-ShareAlike License  1.0
-sollten diesem Paket beiliegen, falls nicht, können Sie unter
+sollten diesem Paket beiliegen, falls nicht, kÃ¶nnen Sie unter
 http://www.gnu.org/ bzw. http://creativecommons.org den Text der Lizenzen
 einsehen.
 
-Dort finden Sie auch (rechtlich nicht bindende) Übersetzungen der Lizenzen.
+Dort finden Sie auch (rechtlich nicht bindende) Ãœbersetzungen der Lizenzen.
 
