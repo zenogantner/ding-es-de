@@ -83,11 +83,11 @@ my $number_of_entries = @filtered;
 print << "ENDHEADER";
 # Spanish :: German word list
 # Version :: $version $date
-# Copyright (c) :: Zeno Gantner <es-de\@zenogantner.de>, Matthias Buchmeier, and others 2003-2012
+# Copyright (c) :: Zeno Gantner <zeno.gantner\@gmail.com>, Matthias Buchmeier, and others 2003-2021
 # License :: GNU General Public License, Version 2 or later
 # License :: GNU Free Documentation License, Version 1.2 or later
 # License :: Creative Commons Attribution-ShareAlike License, Version 1.0
-# URL :: http://savannah.nongnu.org/projects/ding-es-de
+# URL :: https://github.com/zenogantner/ding-es-de
 # $number_of_entries entries
 ENDHEADER
 
