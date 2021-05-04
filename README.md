@@ -25,7 +25,7 @@ Vokabeln, die nicht unter einem bestimmten Wortfeld eingeordnet wurden,
 stehen in den Dateien "Allgemein.txt", "Konjunktionen.txt", "Präpositionen.txt",
 "Pronomen.txt" und "Verben-Allgemein.txt".
 
-Weitere Informationen befinden sich im Verzeichnis doc/.
+Weitere Informationen befinden sich im Verzeichnis `doc/`.
 
 
 Installation
@@ -38,6 +38,7 @@ gelesen wird, um.
    Es erscheint ein neues Fenster, wo die nötigen Einstellungen vornehmen
    kannst, z.B.:
 
+```
      Name		es <-> de
      Such-Kommando	egrep
      Optionen		-h
@@ -50,65 +51,54 @@ gelesen wird, um.
      Sprache 2:		Deutsch
 
      ... und so weiter
+```
 
    Dann auf "Übernehmen" klicken.
 
-2. Durch den Aufruf von "Einstellungen"->"Einstellungen speichern" wird die
-   neue Suchmethode dauerhaft gespeichert.
+2. Durch den Aufruf von "Einstellungen"->"Einstellungen speichern" wird die neue Suchmethode dauerhaft gespeichert.
 
 Optional:
 
 3. Erneutes Generieren der Wörterbuchdatei aus den Quelldateien.
 
-   Führe im Verzeichnis ding-es-de/ (in dem auch diese Datei liegt)
+   Führe im Verzeichnis `ding-es-de/` (in dem auch diese Datei liegt)
    folgenden Befehl aus:
 
-   bin/txt2ding.pl data/*.txt | bin/compile_dictionary.pl > es-de
+   `bin/txt2ding.pl data/*.txt | bin/compile_dictionary.pl > es-de`
 
-   Dies erzeugt eine neue Datei mit dem Namen "es-de", bzw. überschreibt
-   sie, falls sie schon existiert.
+   Dies erzeugt eine neue Datei mit dem Namen `es-de`, bzw. überschreibt sie, falls sie schon existiert.
 
 
 Fehler, Beiträge, usw.
 ----------------------
 
-Wenn Du einen Fehler (falsche Vokabel, Rechtschreibung, unklare Dokumentation
-usw.) findest, schicke mir bitte eine Nachricht an zeno.gantner@gmail.com,
-damit ich den Fehler berichtigen kann.
+Wenn Du einen Fehler (falsche Vokabel, Rechtschreibung, unklare Dokumentation usw.) findest, schicke mir bitte eine Nachricht an zeno.gantner@gmail.com, damit ich den Fehler berichtigen kann.
 
-Wenn Du Spanisch als Muttersprache sprichst, und ein paar Minuten Zeit und Lust
-hast, kannst Du helfen, als Korrekturleser die Qualität dieser Vokabelsammlung
-zu verbessern. Schreibe mir einfach eine Mail an zeno.gantner@gmail.com, damit
-ich das Ganze koordinieren kann.
-
-Außerdem freue ich mich immer über neue Worfelder bzw. zusätzliche Vokabeln
-für die existierenden. Die Vokabeln dürfen allerdings nicht einfach aus
-vorhandenen Sammlungen/Wörterbüchern herauskopiert werden, da sonst die
-Urheberrechte der Autoren dieser Werke verletzt werden. D.h. Du musst die
-Vokabeln, die Du mir zuschickst, selbst zusammengetragen haben.
+Außerdem freue ich mich immer über neue Worfelder bzw. zusätzliche Vokabeln für die existierenden.
+Die Vokabeln dürfen allerdings nicht aus vorhandenen Sammlungen/Wörterbüchern herauskopiert werden, da unter Umständen die Urheberrechte der Autoren dieser Werke verletzt werden.
+Du musst die Vokabeln, die Du mir zuschickst, selbst zusammengetragen haben.
 
 
 Danke
 -----
 
-Matthias Buchmeier (ca. 4700 Einträge, die mit "a" bis "c" beginnen)
-Elena García Aguado (Korrekturen)
-all meinen Spanischlehrerinnen
-Frank Richter (Autor von ding)
-Simon Kmiecik (zusätzliche Vokabeln und Korrekturen)
-Sebastian Bauer (Entwickler von MobileDing, siehe doc/MobileDing.txt)
-Jan (Hinweise zum README)
-Nikolai Löwen (zusätzliche Vokabeln und Korrekturen)
-Andrei Mitrofanow (Hinweise auf fehlende Vokabeln)
-Gero Gudschun (Korrekturen und Vokabeln)
-Emmanuel Dammerer (Ausbau des Wortfeldes Himmel/Astronomie)
-Klaus Meinke (Ausbau des Wortfeldes Mathematik, weitere Ergänzungen)
-Björn Jacke, Santiago Rodríguez und Jesús Carretero (Autoren der Wortlisten,
-mit denen ding-es-de auf Rechtschreibfehler geprüft wird)
-Kevin Atkinson (GNU Aspell)
-Larry Wall (Perl)
-Mike Haertel und Paul Eggert (GNU textutils)
-Free Software Foundation (Hosting des Projekts auf savannah.nongnu.org)
+ - Matthias Buchmeier (ca. 4700 Einträge, die mit "a" bis "c" beginnen)
+ - Elena García Aguado (Korrekturen)
+ - all meinen Spanischlehrerinnen
+ - Frank Richter (Autor von ding)
+ - Simon Kmiecik (zusätzliche Vokabeln und Korrekturen)
+ - Sebastian Bauer (Entwickler von MobileDing, siehe doc/MobileDing.txt)
+ - Jan (Hinweise zum README)
+ - Nikolai Löwen (zusätzliche Vokabeln und Korrekturen)
+ - Andrei Mitrofanow (Hinweise auf fehlende Vokabeln)
+ - Gero Gudschun (Korrekturen und Vokabeln)
+ - Emmanuel Dammerer (Ausbau des Wortfeldes Himmel/Astronomie)
+ - Klaus Meinke (Ausbau des Wortfeldes Mathematik, weitere Ergänzungen)
+ - Björn Jacke, Santiago Rodríguez und Jesús Carretero (Autoren der Wortlisten, mit denen ding-es-de auf Rechtschreibfehler geprüft wird)
+ - Kevin Atkinson (GNU Aspell)
+ - Larry Wall (Perl)
+ - Mike Haertel und Paul Eggert (GNU textutils)
+ - Free Software Foundation (Hosting des Projekts auf savannah.nongnu.org)
 
 
 Copyright-Hinweis
