@@ -73,12 +73,12 @@ Fehler, Beiträge, usw.
 ----------------------
 
 Wenn Du einen Fehler (falsche Vokabel, Rechtschreibung, unklare Dokumentation
-usw.) findest, schicke mir bitte eine Nachricht an es-de@zenogantner.de,
+usw.) findest, schicke mir bitte eine Nachricht an zeno.gantner@gmail.com,
 damit ich den Fehler berichtigen kann.
 
 Wenn Du Spanisch als Muttersprache sprichst, und ein paar Minuten Zeit und Lust
 hast, kannst Du helfen, als Korrekturleser die Qualität dieser Vokabelsammlung
-zu verbessern. Schreibe mir einfach eine Mail an es-de@zenogantner.de, damit
+zu verbessern. Schreibe mir einfach eine Mail an zeno.gantner@gmail.com, damit
 ich das Ganze koordinieren kann.
 
 Außerdem freue ich mich immer über neue Worfelder bzw. zusätzliche Vokabeln
