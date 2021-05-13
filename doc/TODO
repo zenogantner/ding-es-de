@@ -1,61 +1,61 @@
 So kannst Du helfen:
  - die Liste verwenden
- - Das Basis-Vokabular vervollständigen, also sehr elementare Vokabeln
+ - Das Basis-Vokabular vervollstÃ¤ndigen, also sehr elementare Vokabeln
    vorschlagen.
  - Mir Fachbegriffe aus neuen Wortfeldern schicken.
  - Die Liste um lateinamerikanische Begriffe erweitern.
- - Ich brauche schöne, freie Übersichtsgrafiken zu den Wortfeldern.
+ - Ich brauche schÃ¶ne, freie Ãœbersichtsgrafiken zu den Wortfeldern.
  - Korrekturen - wenn Du einen Fehler findest, schreibe
    bitte eine E-Mail an es-de@zenogantner.de.
 
-Nächste Schritte:
+NÃ¤chste Schritte:
  - [coloquial] --> [coloq.], [Medizin] --> [med.], [Zoologie] --> [zool.]
- - Korrekturvorschläge
- - check_entry.pl ab 'X' ausführen
- - Wörter_e.txt aufsplitten
+ - KorrekturvorschlÃ¤ge
+ - check_entry.pl ab 'X' ausfÃ¼hren
+ - WÃ¶rter_e.txt aufsplitten
  
  - Wortfelder automatisch generieren; nur noch alphabetisch geordnete Wortliste.
- - Genau prüfen ab 'an' (Tags, fehlende weibliche Formen)
- - Restliche Vokabeln von 'a' bis 'd' aus Allgemein.txt nach Wörter*.txt
+ - Genau prÃ¼fen ab 'an' (Tags, fehlende weibliche Formen)
+ - Restliche Vokabeln von 'a' bis 'd' aus Allgemein.txt nach WÃ¶rter*.txt
    verschieben
- - Wörter von Beginn komplett taggen, Tagset einigermaßen festlegen
- - Umstellung auf das ding-Format fortführen (Nutzung von Sub-Einträgen)
+ - WÃ¶rter von Beginn komplett taggen, Tagset einigermaÃŸen festlegen
+ - Umstellung auf das ding-Format fortfÃ¼hren (Nutzung von Sub-EintrÃ¤gen)
  - Spanische Marker auf der linken Seite, deutsche auf der Rechten
-   (z.B. [Esp.] und [Süddeutschland])
- - Orthographie: Skript für verschiedene regionale Varianten anpassen
- - Skript, welches Ländernamen und passende Adjektive usw. aus der Wikipedia
+   (z.B. [Esp.] und [SÃ¼ddeutschland])
+ - Orthographie: Skript fÃ¼r verschiedene regionale Varianten anpassen
+ - Skript, welches LÃ¤ndernamen und passende Adjektive usw. aus der Wikipedia
    zieht
  - Adjektive mit {adj} versehen
- - Prüf-Skript: Auf korrekte Marker prüfen
- - Präpositionen aus den verschiedenen Dateien in die neue Präpositionen.txt
- - Länder, chemische Elemente, Sprachen: Listen erweitern
- - Verben-Allgemein wieder auflösen
+ - PrÃ¼f-Skript: Auf korrekte Marker prÃ¼fen
+ - PrÃ¤positionen aus den verschiedenen Dateien in die neue PrÃ¤positionen.txt
+ - LÃ¤nder, chemische Elemente, Sprachen: Listen erweitern
+ - Verben-Allgemein wieder auflÃ¶sen
  - doc/copyright: Dort die Situation genau klarstellen, nicht in der Datei
    README. doc/copyright.de und doc/copyright.es schreiben.
 
 Irgendwann:
- - Eintrag.txt klar strukturieren, damit die Regeln einfach verständlich sind.
+ - Eintrag.txt klar strukturieren, damit die Regeln einfach verstÃ¤ndlich sind.
  - kleine Homepage (wurde bereits auf openfacts.berlios.de begonnen)
- - Bestimmte Wörter an aspell-Maintainer weitergeben.
+ - Bestimmte WÃ¶rter an aspell-Maintainer weitergeben.
  - doc/THANKS
  - Kurzen Text zur Motivation schreiben.
  - FIX bin/anmerkungen.pl
 
-Zu prüfende Einzelwörter:
+Zu prÃ¼fende EinzelwÃ¶rter:
  - el viajar ...
  - esponjarse				{nicht in Herder}
  - Kirgisien				{Google}
- - maschinenschreiben			{Seite über Rechtschreibung}
- - el lazareto				die Quarantänestation {unsicher}
- - wáter (steht nicht in RAE)
+ - maschinenschreiben			{Seite Ã¼ber Rechtschreibung}
+ - el lazareto				die QuarantÃ¤nestation {unsicher}
+ - wÃ¡ter (steht nicht in RAE)
  - fragen wegen trigueros (pl/sg.)
  - la rosca				der Kuchen (rund)
-   # una rosca ist ein kranzförmiges Gebäck, von der Form her einem Donut ähnlich
+   # una rosca ist ein kranzfÃ¶rmiges GebÃ¤ck, von der Form her einem Donut Ã¤hnlich
  - #la adulta				Erwachsene {f} #vielleicht modern??
- - el año próximo			nächstes Jahr (Zeit.txt)
+ - el aÃ±o prÃ³ximo			nÃ¤chstes Jahr (Zeit.txt)
 
 
-Dateien durchgehen und korrekte Verwendung der Anmerkungen prüfen.
+Dateien durchgehen und korrekte Verwendung der Anmerkungen prÃ¼fen.
 Fertig:
  - Arbeit.txt
  - Essen.txt
@@ -63,26 +63,26 @@ Fertig:
 Basiswortschatz zusammenstellen (viele sehr einfache Worte wie "bien" usw.
 sind noch nicht dabei).
 
-reflexive Verben (Spanisch) überprüfen
+reflexive Verben (Spanisch) Ã¼berprÃ¼fen
 
 Wortfeld Medien in passende Felder aufsplitten
 
-Mehr umgangssprachliche Ausdrücke.
+Mehr umgangssprachliche AusdrÃ¼cke.
 
 Mehr Wortfelder:
  alle Wortfelder, die es auf http://dict.tu-chemnitz.de gibt
- Abkürzungen
+ AbkÃ¼rzungen
  Auto
  Partikel
- Präpositionen (Liste, die die Kinder in der Schule auswendig lernen müssen ;-)
- Maße und Einheiten
+ PrÃ¤positionen (Liste, die die Kinder in der Schule auswendig lernen mÃ¼ssen ;-)
+ MaÃŸe und Einheiten
  Astrologie (Sternzeichen)
  Werkzeug
- Möbel
+ MÃ¶bel
  Sex, Fortpflanzung, Liebe
  Datei: alte Rechtschreibung
  Menschliche Beziehungen (zus. zu Familie)
- berühmte Film- und Buchtitel
+ berÃ¼hmte Film- und Buchtitel
  Parteien
  spanische Eigennamen
  katalanische Eigennamen
@@ -90,47 +90,47 @@ Mehr Wortfelder:
  baskische Eigennamen
 
 orthographie.pl:
- - Filter für {Anmerkungen} einbauen
+ - Filter fÃ¼r {Anmerkungen} einbauen
  - Automatisches Erstellen von check.tmp und Aufruf von aspell
  - Debian-Package spellutils anschauen
- - aspell-wrapper für Perl anschauen
- - prüfe Einträge in alter Rechtschreibung ebenfalls (oder ignoriere sie)
+ - aspell-wrapper fÃ¼r Perl anschauen
+ - prÃ¼fe EintrÃ¤ge in alter Rechtschreibung ebenfalls (oder ignoriere sie)
  - Warnung bei Zeilen, die nur aus Tabs und Leerzeichen bestehen?
 
-Testfälle für alle Skripte.
+TestfÃ¤lle fÃ¼r alle Skripte.
 
 Offene Fragen:
- - Format für semantische Erläuterungen
- - Format für grammatikalische Erläuterungen
-   (z.B. Platzhalter bei Verbformen mit/ohne Präpositionen, Hinweis auf
+ - Format fÃ¼r semantische ErlÃ¤uterungen
+ - Format fÃ¼r grammatikalische ErlÃ¤uterungen
+   (z.B. Platzhalter bei Verbformen mit/ohne PrÃ¤positionen, Hinweis auf
    nachfolgende Form: z.B. Gerund oder Infinitiv)
- - Format für unveränderliche Substantive (z.B. paraguas)?
- - Wie werden Kontraktionen ("del") eingetragen und erläutert?
- - Einheitliche Bezeichnungen für die Fachgebiete/Kategorien, am besten
+ - Format fÃ¼r unverÃ¤nderliche Substantive (z.B. paraguas)?
+ - Wie werden Kontraktionen ("del") eingetragen und erlÃ¤utert?
+ - Einheitliche Bezeichnungen fÃ¼r die Fachgebiete/Kategorien, am besten
    basierend auf irgendeinem Standard.
    - Klima, Wetter -> Meteorologie ??
- - Einheitliche Bezeichnungen für regionale Varianten:
-   basierend auf einem ISO-Code?? Es sollte für den Leser verständlich sein...
+ - Einheitliche Bezeichnungen fÃ¼r regionale Varianten:
+   basierend auf einem ISO-Code?? Es sollte fÃ¼r den Leser verstÃ¤ndlich sein...
  - Umstellung von der Bestimmung des Geschlechts aufgrund der Artikel zu
-   den Anmerkungen {f}, {n} und {m} - Artikel kämen dann nur noch ein
+   den Anmerkungen {f}, {n} und {m} - Artikel kÃ¤men dann nur noch ein
    Begriffen vor, bei denen sie fester Bestandteil sind.
 
 
 Version 0.1
- - offene Fragen klären
- - Länderliste komplettieren.
- - Zahlen vervollständigen: v.a. Ordinalzahlen
+ - offene Fragen klÃ¤ren
+ - LÃ¤nderliste komplettieren.
+ - Zahlen vervollstÃ¤ndigen: v.a. Ordinalzahlen
 Version 0.2
  - Basiswortschatz Spanisch/Deutsch komplett (was ist der Basiswortschatz??)
    vgl. http://vocabulaire.eduinfo.com/
- - Savannah-Website vollständig
+ - Savannah-Website vollstÃ¤ndig
  - alles auf Spanisch und Deutsch dokumentieren
 Version 0.3
  - alles korrekturgelesen
 Version 0.4
- - vorhandene Vokabeln um zugehörige andere Wortarten erweitert
+ - vorhandene Vokabeln um zugehÃ¶rige andere Wortarten erweitert
 
-Später:
- - kleine Web-Anwendung für Korrekturen/Zusätze
+SpÃ¤ter:
+ - kleine Web-Anwendung fÃ¼r Korrekturen/ZusÃ¤tze
  - Weitere Skripte: ->dict-Format, evtl. weitere Formate
  - Wortfelder als HTML-Seiten aufbereiten und auf Website stellen.

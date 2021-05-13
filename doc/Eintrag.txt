@@ -1,5 +1,5 @@
-Anmerkung: Diese Datei wird derzeit überarbeitet.
-           Informationen, die sich wahrscheinlich ändern werden, sind mit
+Anmerkung: Diese Datei wird derzeit Ã¼berarbeitet.
+           Informationen, die sich wahrscheinlich Ã¤ndern werden, sind mit
 	   drei Fragezeichen ("???") gekennzeichnet.	   
 
 Allgemein
@@ -8,14 +8,14 @@ Der spanische Eintrag steht links, der deutsche rechts.
 Trennzeichen sind ein oder mehrere Tabulatoren.
 
 Synonyme Bedeutungen werden immer mit Semikolon (;) getrennt.
-Hat ein Wort mehrere Bedeutungen, so sollten auch verschiedene Einträge
-dafür erstellt werden (zumal es wahrscheinlich ist, dass die unterschiedlichen
+Hat ein Wort mehrere Bedeutungen, so sollten auch verschiedene EintrÃ¤ge
+dafÃ¼r erstellt werden (zumal es wahrscheinlich ist, dass die unterschiedlichen
 Bedeutungen auch eine Zuordnung zu verschiedenen Wortfeldern bedingen).
 
 Kommentare beginnen mit "#".
 
-Zwischenüberschriften, die eine Datei noch einmal thematisch gliedern,
-sind Kommentare, die in Großbuchstaben geschrieben werden.
+ZwischenÃ¼berschriften, die eine Datei noch einmal thematisch gliedern,
+sind Kommentare, die in GroÃŸbuchstaben geschrieben werden.
 
 Allgemeine Anmerkungen stehen in runden Klammern: "(...)"
 
@@ -24,7 +24,7 @@ Wortarten werden in geschweiften Klammern vermerkt.
 Adjektive
 ---------
 Spanisch (linke Seite)
-<männliche Form>; <weibliche Form> (darüber bin ich mir noch nicht ganz sicher)
+<mÃ¤nnliche Form>; <weibliche Form> (darÃ¼ber bin ich mir noch nicht ganz sicher)
 oder
 <allgemeine Form>
 
@@ -34,29 +34,29 @@ jeweils mit Genus
 
 Hinweis auf eine Pluralform {pl} nach dem Genus
 Wenn nur {pl}, aber kein Genus angegeben ist, ist gemeint, dass das Nomen
-in dieser Form sowohl männlich als auch weiblich sein kann:
+in dieser Form sowohl mÃ¤nnlich als auch weiblich sein kann:
 parientes {m} {pl}	Verwandte {pl}
 
-Reihenfolge bei gleichen Wörtern
+Reihenfolge bei gleichen WÃ¶rtern
 --------------------------------
 <Nomen>
 <Adjektiv>
 <Verb>
 <Verbformen>
 <reflexives Verb>
-<Verb mit Präpositionen>
+<Verb mit PrÃ¤positionen>
 
 Reihenfolge innerhalb eines Eintrages:
-Bei verschiedenen Schreibweisen sollte die häufigere bzw. korrektere
-nach vorne, ggf. sollte eine Quelle/Begründung für diese Maßnahme als
-Kommentar eine Zeile später angegeben werden.
+Bei verschiedenen Schreibweisen sollte die hÃ¤ufigere bzw. korrektere
+nach vorne, ggf. sollte eine Quelle/BegrÃ¼ndung fÃ¼r diese MaÃŸnahme als
+Kommentar eine Zeile spÃ¤ter angegeben werden.
 
 
-Abkürzungen
+AbkÃ¼rzungen
 -----------
 z.B.
 
-EG : Europäische Gemeinschaft
+EG : EuropÃ¤ische Gemeinschaft
 
 
 Anmerkungen
@@ -76,7 +76,7 @@ regionale Varianten:
 [Mad.]		Madrid			wie RAE
 
 [Am.]		Lateinamerika		wie RAE
-[Am. Mer.]	Südamerika		wie RAE
+[Am. Mer.]	SÃ¼damerika		wie RAE
 [Arg.]		Argentinien		wie RAE
 [Bol.]		Bolivien		wie RAE
 [Chile]		Chile			wie RAE
@@ -86,24 +86,24 @@ regionale Varianten:
 [Ecuad.]	Ecuador			wie RAE
 [El Salv.]	El Salvador		wie RAE
 [Hond.]		Honduras		wie RAE
-[Méx.]		Mexiko			wie RAE
+[MÃ©x.]		Mexiko			wie RAE
 ???[MA]		Mittelamerika
 [Nic.]		Nicaragua		wie RAE
 [Par.]		Paraguay		wie RAE
-[Perú]		Peru			wie RAE
+[PerÃº]		Peru			wie RAE
 [Ur.]		Uruguay			wie RAE
 [Ven.]		Venezuela		wie RAE
 
 [Schweiz]
-[Österreich]			ding-en: [Ös.]
-[Süddeutschland]
+[Ã–sterreich]			ding-en: [Ã–s.]
+[SÃ¼ddeutschland]
 [Bayern]
 [Norddeutschland]
 [Ostdeutschland]
 [alte Rechtschreibung]
 
-Abkürzungen:
-ABK : Abkürzung
+AbkÃ¼rzungen:
+ABK : AbkÃ¼rzung
 
 Sprachebenen, Stil:
 [pey.] [abwertend]
@@ -115,7 +115,7 @@ Sprachebenen, Stil:
 ?[coloquial] [ugs.]	RAE: [coloq.] ding-en: [coll.] [ugs.]
 [fig.]			wie RAE
 
-Fachsprachen (nur wenn zur Unterscheidung notwendig, sonst zur Erläuterung ...):
+Fachsprachen (nur wenn zur Unterscheidung notwendig, sonst zur ErlÃ¤uterung ...):
 [Anatomie]		ding-en: [anat.]
 ???[Anrede]
 [Architektur]		ding-en: [arch.]
@@ -134,7 +134,7 @@ Fachsprachen (nur wenn zur Unterscheidung notwendig, sonst zur Erläuterung ...):
 [Essen]			ding-en: [cook.]
 [Film]
 ???[Finanzwesen]	stattdessen nur [Geld]?
-[Fußball]
+[FuÃŸball]
 [Gastronomie]		ding-en: [cook.]
 [Geld]			RAE: Com.
 			ding-en: [geogr.]
@@ -146,21 +146,21 @@ Fachsprachen (nur wenn zur Unterscheidung notwendig, sonst zur Erläuterung ...):
 ???[Kind]
 [Kleidung]
 [Klima]
-[Küche]			ding-en: [cook.]
+[KÃ¼che]			ding-en: [cook.]
 [Kunst]
 [Linguistik]
 [Literatur]
 [Mannschaftssport]
 [math.]			ding-en: [math.]
 [Medizin]		ding-en: [med.], RAE: [Med.]
-[Militär]		ding-en: [mil.]
+[MilitÃ¤r]		ding-en: [mil.]
 [Musik]			ding-en: [mus.]
 [Mythologie]
 [Optik]		
 			ding-en: [ornith.]
 ???[Person]
 [Pflanze]		ding-en: [bot.]
-[Physik]		RAE: [Fís.]
+[Physik]		RAE: [FÃ­s.]
 [Politik]		ding-en: [pol.]
 [Post]
 [Religion]
@@ -181,17 +181,17 @@ ding-en: [Sprw.]/[prov.]
 ding-en: [naut.] [ornith.]
 
 {s}     Singular
-{pl}	Plural - wenn nur oder hauptsächlich die Pluralform üblich ist, bzw.
-                 wenn die Übersetzung im Singular ist
+{pl}	Plural - wenn nur oder hauptsÃ¤chlich die Pluralform Ã¼blich ist, bzw.
+                 wenn die Ãœbersetzung im Singular ist
 
 Wortarten
 {adj}	Adjektiv
 {adv}	Adverb
-{prep}	Präposition
+{prep}	PrÃ¤position
 {v}	Verb
-	TODO: wie werden Verben mit Präp. usw. gekennzeichnet?
+	TODO: wie werden Verben mit PrÃ¤p. usw. gekennzeichnet?
 
-???Fälle
+???FÃ¤lle
 {Nominativ}
 {Dativ}
 {Geniv}
@@ -211,12 +211,12 @@ coger [Am.]		ficken [vulg.]
 Themenlisten
 ------------
 
-Die Themenlisten sollen demnächst automatisch aus Tags der Form 
-\Thema erzeugt werden. Ein oder mehrere Tags können an das Zeilenende 
-zu den Einträgen angefügt werden.
+Die Themenlisten sollen demnÃ¤chst automatisch aus Tags der Form 
+\Thema erzeugt werden. Ein oder mehrere Tags kÃ¶nnen an das Zeilenende 
+zu den EintrÃ¤gen angefÃ¼gt werden.
 Beispiel:
 
-facho {m} [coloq.] :: Faschist {m} \Politik \Schimpfwörter
+facho {m} [coloq.] :: Faschist {m} \Politik \SchimpfwÃ¶rter
 
 Bisher gibt es folgende Tags:
 
@@ -243,11 +243,11 @@ Feuer
 Film
 Fische
 Gastronomie
-Gefühle
+GefÃ¼hle
 Geld
 Geographie
 Geschichte
-Gewürz
+GewÃ¼rz
 Grammatik
 Haus
 Humor
@@ -255,23 +255,23 @@ Hygiene
 Informatik
 Kleidung
 Kommunikation
-Körper
+KÃ¶rper
 Kosmetik
-Kräuter
-Küche
+KrÃ¤uter
+KÃ¼che
 Kunst
-Länder
+LÃ¤nder
 Landwirtschaft
 Licht
 Linguistik
 Literatur
-Märchen
+MÃ¤rchen
 Mathematik
 Medien
 Medizin
 Meteorologie
-Militär
-Möbel
+MilitÃ¤r
+MÃ¶bel
 Musik
 Personenbeschreibung
 Pflanzen
@@ -285,16 +285,16 @@ Redewendungen
 Reisen
 Reiten
 Religion
-Schimpfwörter
+SchimpfwÃ¶rter
 Schlafen
 Schmuck
 Schreiben
 Schuhe
-Sexualität
+SexualitÃ¤t
 Spiele
 Sport
 Sprachen
-Städte
+StÃ¤dte
 Stierkampf
 Technik
 Theater
@@ -304,7 +304,7 @@ Trinken
 Urlaub
 Verbrechen
 Verkehr
-Vögel
+VÃ¶gel
 Waffen
 Werkzeug
 Wetter
@@ -315,9 +315,9 @@ Zeit
 OFFENE FRAGEN
 -------------
 
- - Erläuterungen/Erklärungen auch in geschweiften Klammern?
+ - ErlÃ¤uterungen/ErklÃ¤rungen auch in geschweiften Klammern?
    ding-en: runde Klammern, z.B. Eintrag zu Bern
- - Was ist der Gültigkeitsbereich der verschiedenen Anmerkungen?
- - Einträge für die korrekte Verwendung von Präpositionen in einem
+ - Was ist der GÃ¼ltigkeitsbereich der verschiedenen Anmerkungen?
+ - EintrÃ¤ge fÃ¼r die korrekte Verwendung von PrÃ¤positionen in einem
    bestimmten Kontext?
- - Bildungsvorschriften für Verben
+ - Bildungsvorschriften fÃ¼r Verben

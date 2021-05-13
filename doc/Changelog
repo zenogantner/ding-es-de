@@ -3,7 +3,7 @@
 	* Version 0.0.i
 	* README.md ersetzt README, Inhalt aktualisiert.
 	* Entfernt: obsoletes Skript txt2ding.pl, CVS-Artefakte.
-	* Tiere: ca. 20 neue oder aktualisierte Einträge
+	* Tiere: ca. 20 neue oder aktualisierte EintrÃ¤ge
 	* jetzt ????? Vokabeln
 
 2006-12-17	Zeno Gantner <es-de@zenogantner.de>
@@ -16,93 +16,93 @@
     * Skript check_entries.pl erweitert
     * Skript orthographie.pl: kleine Modifikationen
     * erweiterte Wortfelder: Bildung, Mathematik, Zahlen
-    * aufgelöste Wortfelder: Alphabet
+    * aufgelÃ¶ste Wortfelder: Alphabet
     * Fehler korrigiert: 6
-    * weibliche Formen ergänzt: 4
-    * Doppeleinträge entfernt: 22
+    * weibliche Formen ergÃ¤nzt: 4
+    * DoppeleintrÃ¤ge entfernt: 22
     * jetzt 13.162 Vokabeln
 
 2006-09-18	Zeno Gantner <es-de@zenogantner.de>
     * Version 0.0.c
     * Matthias Buchmeier hat ca. 3200 mit 'b' und 'c' beginnende Vokabeln
       beigesteuert. Vielen Dank!
-    * Allgemein.txt: Vokabeln bis 'b' in die Dateien Wörter*.txt verschoben
-    * Anmerkung "[LA]" durch "[Am.]" ersetzt (wie im Wörterbuch der RAE)
+    * Allgemein.txt: Vokabeln bis 'b' in die Dateien WÃ¶rter*.txt verschoben
+    * Anmerkung "[LA]" durch "[Am.]" ersetzt (wie im WÃ¶rterbuch der RAE)
     * Vokabeln sind jetzt teilweise mit Tags versehen, um automatisch Wortfelder
-      aus einer einzigen Vokabelliste erzeugen zu können; Skripte wurden
+      aus einer einzigen Vokabelliste erzeugen zu kÃ¶nnen; Skripte wurden
       entsprechend angepasst.
     * neues Skript: ding2rockbox.pl (produziert noch falsche Daten, muss
-      noch überarbeitet werden)
-    * doc/Eintrag.txt ein wenig aktualisiert (noch nicht vollständig)
+      noch Ã¼berarbeitet werden)
+    * doc/Eintrag.txt ein wenig aktualisiert (noch nicht vollstÃ¤ndig)
     * Umstellung der Dateien in data/ auf das ding-Format
     * Erweitert: Allgemein, Medizin, Schlafen, Trinken
     * Fehler korrigiert: 3
-    * Doppeleinträge entfernt: 4
+    * DoppeleintrÃ¤ge entfernt: 4
     * jetzt 10240 Vokabeln
 
 2006-05-31	Zeno Gantner <es-de@zenogantner.de>
     * Version 0.0a
     * Matthias Buchmeier hat ca. 1500 mit 'a' beginnende Vokabeln beigesteuert.
-      Vielen Dank dafür!
+      Vielen Dank dafÃ¼r!
     * Die Liste ist jetzt alphabetisch geordnet.
     * neue Skripte: check_entries.pl, compile_dictionary.pl
-    * Erweitert bzw. verändert:
+    * Erweitert bzw. verÃ¤ndert:
 		 Adjetivos posesivos, Allgemein, Alphabet, Arbeit, Computer,
-		 Einheiten, Familie, Farben, Feste, Gefühle, Geld, Geographie,
+		 Einheiten, Familie, Farben, Feste, GefÃ¼hle, Geld, Geographie,
 		 Geschichte, Grammatik, Himmel (vielen Dank an Emmanuel
-		 Dammerer), Kleidung, Kommunikation, Konjunktionen, Körper,
+		 Dammerer), Kleidung, Kommunikation, Konjunktionen, KÃ¶rper,
 		 Literatur, Mathematik, Medizin, Musik, Personenbeschreibung,
-		 Philosophie, Pronomen, Redewendungen, Religion, Sätze,
+		 Philosophie, Pronomen, Redewendungen, Religion, SÃ¤tze,
 		 Schlafen, Schreiben, Sport, Sprachen, Tiere, Tod, Urlaub,
 		 Verben-Allgemein, Verkehr, Wetter, Wissenschaft, Zahlen, Zeit
     * Neu: Typographie.txt
     * neue Basisvokabeln: 3
     * Fehler korrigiert: 33
-    * Mehrfacheinträge entfernt: 6
-    * weibliche Formen hinzugefügt: 17
+    * MehrfacheintrÃ¤ge entfernt: 6
+    * weibliche Formen hinzugefÃ¼gt: 17
     * jetzt 7216 Vokabeln
 
 2006-02-21	Zeno Gantner <es-de@zenogantner.de>
 
     * Komplett auf das neue Format umgestellt
-    * Kleine Änderung in txt2ding.pl
+    * Kleine Ã„nderung in txt2ding.pl
     * Erweitert: Allgemein, Alphabet, Arbeit, Bildung, Computer, Drogen,
 		 Einheiten, Essen, Geographie, Grammatik, Kleidung,
-		 Kommunikation, Körper, Kunst, Länder, Medien,
-		 Politik ("Kanzlerin"), Schlafen, Sprachen, Städte, Tiere,
+		 Kommunikation, KÃ¶rper, Kunst, LÃ¤nder, Medien,
+		 Politik ("Kanzlerin"), Schlafen, Sprachen, StÃ¤dte, Tiere,
 		 Tod, Urlaub, Verben
     * Basisvokabeln: 8 mehr
-    * zusätzliche weibliche Formen: 6
-    * Mehrfach- oder unnötige Einträge entfernt: 8
+    * zusÃ¤tzliche weibliche Formen: 6
+    * Mehrfach- oder unnÃ¶tige EintrÃ¤ge entfernt: 8
     * Fehler korrigiert: 12
     * jetzt 5745 Vokabeln
 
 2005-07-12	Zeno Gantner <es-de@zenogantner.de>
 
     * Erweitert: Allgemein, Bildung, Drogen, Einkaufen, Farben, Grammatik, Haus,
-                 Kommunikation, Körper, Medizin, Musik, Personenbeschreibung,
+                 Kommunikation, KÃ¶rper, Medizin, Musik, Personenbeschreibung,
 		 Pflanzen, Schlafen, Sport, Sprache, Tiere, Verbrechen, Verkehr,
 		 Wissenschaft, Zeit
     * Neu: Tod.txt
-    * auf das neue Format umgestellt: Bildung, Drogen, Geographie, Haus, Körper,
+    * auf das neue Format umgestellt: Bildung, Drogen, Geographie, Haus, KÃ¶rper,
 				      Mathematik, Medizin, Sprachen,
 				      Wissenschaft, Zeit
     * Basisvokabeln: 8 mehr
-    * zusätzliche weibliche Formen: 9
+    * zusÃ¤tzliche weibliche Formen: 9
     * Fehler korrigiert: 3
-    * Mehrfacheinträge entfernt: 2
+    * MehrfacheintrÃ¤ge entfernt: 2
     * jetzt 5621 Vokabeln
 
 
 2005-06-06	Zeno Gantner <es-de@zenogantner.de>
 
     * Erweitert: Allgemein, Essen, Geschichte, Haus, Kleidung, Kommunikation,
-    		 Länder, Militär, Schlafen, Schreibwaren, Tiere,
+    		 LÃ¤nder, MilitÃ¤r, Schlafen, Schreibwaren, Tiere,
 		 Verben-Allgemein, Wissenschaft
     * Neu: Pilze.txt
     * auf das neue Format umgestellt: Allgemein, Tiere
     * Fehler korrigiert: 1
-    * Mehrfacheinträge entfernt: 2
+    * MehrfacheintrÃ¤ge entfernt: 2
     * jetzt 5540 Vokabeln
 
 
@@ -113,18 +113,18 @@
 		 Politik, Pronomen, Wetter, Zeit
     * Basisvokabeln: 8 mehr
     * Fehler korrigiert: 2
-    * Mehrfacheinträge entfernt: 2
+    * MehrfacheintrÃ¤ge entfernt: 2
     * jetzt 5487 Vokabeln
 
 
 2005-03-31	Zeno Gantner <es-de@zenogantner.de>
 
     * README - kleinen Fehler korrigiert, Hinweis auf MobileDing und Dank an
-               Sebastian Bauer eingefügt
+               Sebastian Bauer eingefÃ¼gt
     * doc/MobileDing.txt - neu angelegt
-    * doc/copyright - Jahreszahl 2005 hinzugefügt
+    * doc/copyright - Jahreszahl 2005 hinzugefÃ¼gt
     * doc/Eintrag.txt - modifiziert
-    * Erweitert: Allgemein, Alphabet, Arbeit, Gefühle, Geld, Körper, Kunst,
+    * Erweitert: Allgemein, Alphabet, Arbeit, GefÃ¼hle, Geld, KÃ¶rper, Kunst,
 	         Personenbeschreibung, Politik, Religion, Schlafen
     * Basisvokabeln: 2 mehr
     * jetzt 5417 Vokabeln
@@ -133,14 +133,14 @@
 2005-02-24	Zeno Gantner <es-de@zenogantner.de>
 
     * doc/Eintrag.txt
-    * README - Veraltete Anleitung korrigiert (Danke an Jan für den Hinweis)
+    * README - Veraltete Anleitung korrigiert (Danke an Jan fÃ¼r den Hinweis)
     * Erweitert: Allgemein, Arbeit, Bildung, Computer, Essen, Familie,
-    		 Gastronomie, Gefühle, Himmel, Kommunikation, Länder, Literatur,
+    		 Gastronomie, GefÃ¼hle, Himmel, Kommunikation, LÃ¤nder, Literatur,
 		 Medien, Personenbeschreibung, Pflanzen, Politik,
-		 Sport (Eurocopa-Special, leider etwas verspätet), Städte,
+		 Sport (Eurocopa-Special, leider etwas verspÃ¤tet), StÃ¤dte,
 		 Tiere, Trinken, Verben-Allgemein, Verbrechen, Verkehr,
 		 Wissenschaft, Zeit
-    * Neu: Gewässer.txt, Konjunktionen.txt, Präpositionen.txt, Schlafen.txt,
+    * Neu: GewÃ¤sser.txt, Konjunktionen.txt, PrÃ¤positionen.txt, Schlafen.txt,
            Schreibwaren.txt
     * Fehler korrigiert: 4
     * Dubletten entfernt: 1
@@ -148,18 +148,18 @@
 
 2004-06-15	Zeno Gantner <es-de@zenogantner.de>
 
-    * doc/Eintrag.txt - ein paar Gedanken/Vorschläge zur Formatierung
-    * README - Erwähnung der Savannah-Projektseite
-    * Vielen Dank an Simon Kmiecik für die Ergänzungen und Korrekturen.
+    * doc/Eintrag.txt - ein paar Gedanken/VorschlÃ¤ge zur Formatierung
+    * README - ErwÃ¤hnung der Savannah-Projektseite
+    * Vielen Dank an Simon Kmiecik fÃ¼r die ErgÃ¤nzungen und Korrekturen.
     * Einige Eintragungen von Allgemein.txt in ihre jew. Wortfelddateien
       verschoben.
     * Erweitert: Adjetivos posesivos, Allgemein, Alphabet, Arbeit, Bildung,
 		 Computer, Drogen, Einkauf, Essen, Familie, Farben, Gastronomie,
-		 Gefühle, Geld, Geographie, Geschichte, Grammatik, Haus,
-		 Kleidung, Körper, Kunst, Länder, Literatur, Mathematik,
-		 Medizin, Militär, Musik, Politik, Personenbeschreibung,
-		 Philosophie, Pflanzen, Pronomen, Religion, Sätze, Sport,
-		 Sprachen, Städte, Tiere, Trinken, Verben-Allgemein, Verbrechen,
+		 GefÃ¼hle, Geld, Geographie, Geschichte, Grammatik, Haus,
+		 Kleidung, KÃ¶rper, Kunst, LÃ¤nder, Literatur, Mathematik,
+		 Medizin, MilitÃ¤r, Musik, Politik, Personenbeschreibung,
+		 Philosophie, Pflanzen, Pronomen, Religion, SÃ¤tze, Sport,
+		 Sprachen, StÃ¤dte, Tiere, Trinken, Verben-Allgemein, Verbrechen,
 		 Verkehr, Wetter, Wissenschaft, Zeit
     * Neue Wortfelder: Einheiten, Kommunikation
     * Basisvokabeln: 34 mehr
@@ -169,14 +169,14 @@
 
 2004-02-26	Zeno Gantner <es-de@zenogantner.de>
 
-    * doc/Eintrag.txt und README geändert
-    * (c)-Meldung auf das Jahr 2004 ausgedehnt (für modifizierte Dateien)
+    * doc/Eintrag.txt und README geÃ¤ndert
+    * (c)-Meldung auf das Jahr 2004 ausgedehnt (fÃ¼r modifizierte Dateien)
     * Creative Commons Attribution Share-Alike License 1.0 (oder neuer) als
-      mögliche Lizenz hinzugefügt, Hinweise in den Dateien ergänzt,
-      Lizenz im Verzeichnis doc/ hinzugefügt
+      mÃ¶gliche Lizenz hinzugefÃ¼gt, Hinweise in den Dateien ergÃ¤nzt,
+      Lizenz im Verzeichnis doc/ hinzugefÃ¼gt
     * Erweitert: Allgemein (ein bisschen), Arbeit, Haus,
                  Literatur (Dank an Simon Kmiecik),
-                 Medizin, Militär, Musik, Politik,
+                 Medizin, MilitÃ¤r, Musik, Politik,
                  Religion (ein bisschen), Verkehr, Wetter
     * Neue Dateien: Einkauf.txt, Geld.txt
     * Basisvokabeln: 10 mehr
@@ -186,7 +186,7 @@
 
 2004-01-25	Zeno Gantner <es-de@zenogantner.de>
 
-    * Erweitert: Essen, Gefühle, Kleidung, Körper, Personenbeschreibung,
+    * Erweitert: Essen, GefÃ¼hle, Kleidung, KÃ¶rper, Personenbeschreibung,
                  Politik
     * Basisvokabeln: 33 mehr
     * Fehler korrigiert: 7
@@ -195,7 +195,7 @@
 
 2003-12-27	Zeno Gantner <es-de@zenogantner.de>
 
-    * (c) in alle Dateien eingefügt
+    * (c) in alle Dateien eingefÃ¼gt
     * Verzeichnisse eingerichtet
     * kleinen Fehler in txt2ding korrigiert
     * Neue Dateien: Adjetivos_posesivos.txt, Feste.txt, Schlafen.txt
@@ -213,7 +213,7 @@
 
     * Neue Dateien: Alphabet.txt Drogen.txt Kunst.txt Verbrechen.txt
     * gefundene Rechtschreib- und andere Fehler: 40
-      (z.T auch bei neuen Vokabeln, Zahl könnte also zu hoch gegriffen sein)
+      (z.T auch bei neuen Vokabeln, Zahl kÃ¶nnte also zu hoch gegriffen sein)
     * Basis-Vokabeln: 23 mehr
     * Zahlen bis 33, Zehnerzahlen bis 100 komplett
     * txt2ding.pl und orthographie.pl robuster gemacht
@@ -223,25 +223,25 @@
 2003-07-22	Zeno Gantner <es-de@zenogantner.de>
 
     * Basis-Vokabeln: 17 mehr
-    * Rechtschreibprüfung: 8 Fehler gefunden und korrigiert
+    * RechtschreibprÃ¼fung: 8 Fehler gefunden und korrigiert
     * jetzt 3048 Vokabeln
     * Arbeit.txt korrekturgelesen (Elena)
 
 2003-06-15	Zeno Gantner <es-de@zenogantner.de>
 
-    * neue Wortfelder: Gefühle, Mathematik, Musik, Philosophie, Pronomen,
-      Städte
-    * Listen teilweise mit aspell geprüft (43 Fehler gefunden und
+    * neue Wortfelder: GefÃ¼hle, Mathematik, Musik, Philosophie, Pronomen,
+      StÃ¤dte
+    * Listen teilweise mit aspell geprÃ¼ft (43 Fehler gefunden und
       korrigiert)
     * Swadesh-Liste entfernt
     * Naturwissenschaften und Wissenschaft zu einer Datei Wissenschaft.txt
       fusioniert
-    * verschiedene Bedeutungen sind jetzt durchgängig mit Semikolon
+    * verschiedene Bedeutungen sind jetzt durchgÃ¤ngig mit Semikolon
       getrennt
     * einige Anpassungen an die neue Rechtschreibung
-    * weitere kleine Hinzufügungen und Korrekturen
+    * weitere kleine HinzufÃ¼gungen und Korrekturen
     * jetzt 2817 Vokabeln
 
 2003-06-04	Zeno Gantner <es-de@zenogantner.de>
 
-    * erste Veröffentlichung (2305 Vokabeln)
+    * erste VerÃ¶ffentlichung (2305 Vokabeln)
