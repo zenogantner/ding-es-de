@@ -24,9 +24,9 @@ Wortarten werden in geschweiften Klammern vermerkt.
 Adjektive
 ---------
 Spanisch (linke Seite)
-<männliche Form>; <weibliche Form> (darüber bin ich mir noch nicht ganz sicher)
+<männliche Form>, <weibliche Form> {adj}
 oder
-<allgemeine Form>
+<allgemeine Form> {adj}
 
 Nomen
 -----

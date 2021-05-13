@@ -1,5 +1,5 @@
 # Copyright (C) 2006, 2007, 2008, 2009, 2010, 2011, 2012 Matthias Buchmeier
-# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2003, 2004, 2005, 2006, 2021 Zeno Gantner
 # Copyright (C) 2006 Klaus Meinke
 # Copyright (C) 2004 Simon Kmiecik
 #
@@ -11222,16 +11222,16 @@ optimismo {m} :: Optimismus {m}
 optimista {adj} :: optimistisch
 optimista {adj} :: optimistisch; zuversichtlich
 optimista {m} | optimista {f} :: Optimist {m} | Optimistin {f}
-óptimo {adj} :: beste
-óptimo {adj} :: optimal
+óptimo, óptima  {adj} :: beste
+óptimo, óptima  {adj} :: optimal
 óptimo {m} :: Optimum {n}
 óptimo, óptima {adj} :: ausgezeichnet
 opuesto {adj} :: Gegen-
 opuesto {adj} :: gegensätzlich
 opuesto {adj} :: gegenüberliegend
 opulencia {f} :: Üppigkeit {f}; Reichtum {n}
-opulento {adj} :: ausgiebig; üppig
-opulento {adj} :: luxuriös
+opulento, opulenta {adj} :: ausgiebig; üppig
+opulento, opulenta {adj} :: luxuriös
 oración {f} :: Gebet {n} \Religion
 oración {f} :: Rede {f}
 oráculo {m} :: Orakel {n} \Religion
