@@ -31,7 +31,7 @@ Weitere Informationen befinden sich im Verzeichnis `doc/`.
 Installation
 ------------
 
-1. Richte in ding eine Suchmethode ein, indem Du im Menü "Einstellungen"
+1. Richte in [ding](https://www-user.tu-chemnitz.de/~fri/ding/) eine Suchmethode ein, indem Du im Menü "Einstellungen"
    das Element "Suchmethoden..." auswählst. Dann klicke auf "Neu"->"Dictionary".
    Es erscheint ein neues Fenster, wo die nötigen Einstellungen vornehmen
    kannst, z.B.:
