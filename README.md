@@ -64,7 +64,7 @@ Optional:
    Führe im Verzeichnis `ding-es-de/` (in dem auch diese Datei liegt)
    folgenden Befehl aus:
 
-   `bin/txt2ding.pl data/*.txt | bin/compile_dictionary.pl > es-de`
+   `bin/compile_dictionary.pl data/*.txt > es-de`
 
    Dies erzeugt eine neue Datei mit dem Namen `es-de`, bzw. überschreibt sie, falls sie schon existiert.
 
