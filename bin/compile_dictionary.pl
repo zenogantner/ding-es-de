@@ -30,11 +30,6 @@ use strict;
 #    along with this program; if not, write to the Free Software
 #    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
-use locale;
-use POSIX qw(locale_h);
-setlocale(LC_CTYPE, "es_ES.utf8");
-# TODO: Locale per Parameter übergeben.
-
 my $mark_double_entries = 0;
 if (defined $ARGV[0]) {
     if ($ARGV[0] eq '--mark-double-entries') {
@@ -75,21 +70,6 @@ foreach my $entry (@ordered) {
     }
     $old_entry = $entry;
 }
-
-# TODO: optional, bzw. aus Variablen/Parametern generieren
-my $version = '0.0i';
-my $date = localtime;
-my $number_of_entries = @filtered;
-print << "ENDHEADER";
-# Spanish :: German word list
-# Version :: $version $date
-# Copyright (c) :: Zeno Gantner <zeno.gantner\@gmail.com>, Matthias Buchmeier, and others 2003-2021
-# License :: GNU General Public License, Version 2 or later
-# License :: GNU Free Documentation License, Version 1.2 or later
-# License :: Creative Commons Attribution-ShareAlike License, Version 1.0
-# URL :: https://github.com/zenogantner/ding-es-de
-# $number_of_entries entries
-ENDHEADER
 
 foreach my $entry (@filtered) {
     print $entry;
