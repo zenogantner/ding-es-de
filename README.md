@@ -30,8 +30,6 @@ Weitere Informationen befinden sich im Verzeichnis `doc/`.
 
 Installation
 ------------
-Das Skript "txt2ding" wandelt die Textdateien in das Format, das von ding
-gelesen wird, um.
 
 1. Richte in ding eine Suchmethode ein, indem Du im Menü "Einstellungen"
    das Element "Suchmethoden..." auswählst. Dann klicke auf "Neu"->"Dictionary".
