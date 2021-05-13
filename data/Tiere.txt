@@ -1,4 +1,4 @@
-# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2003, 2004, 2005, 2006, 2021 Zeno Gantner
 # Copyright (C) 2004 Simon Kmiecik
 #
 # This file is part of ding-es-de
@@ -36,6 +36,7 @@ animal {m} :: Tier {n}
 animal domestico {m} :: Haustier {n}
 abeja {f} :: Biene {f}
 abejarrón {m}; abejorro {m} :: Hummel {f}
+abubilla {f} :: Wiedehopf {m} [Zoologie]
 ácaro {m} :: Milbe {f}
 águila {m} :: Adler {m}
 alacrán {m} :: Skorpion {m}
@@ -64,6 +65,7 @@ boa {f} :: Boa {f}
 bogavante {m} :: Hummer {m}
 bóvido {m} :: Rind {n} [Zoologie]
 buey {m} :: Ochse {m}
+buitre {m} :: Geier {m} [Zoologie]
 burro {m} :: Esel {m}
 caballo {m} :: Pferd {n}
 caballo de mar {m} :: Seepferdchen {n}
@@ -71,12 +73,15 @@ cabra {f} :: Ziege {f}
 cabra montés {f} :: Steinbock {m}
 cabrón {m} :: Ziegenbock {m}
 cachorro {m} :: Welpe {m}
-cachorro {m} :: Junges {n} (Hund, Löwe, Tiger, Wolf, Bär, ...)
+cachorro {m} :: Junges {n} (Hund, Löwe, Tiger, Wolf, Bär, ...) [Zoologie]
+calandria común {f} :: Kalanderlerche {f}
+camachuelo común {m} :: Gimpel {m}
 camello {m} :: Kamel {n}
 canguro {m} :: Känguruh {n}
 canario {m} :: Kanarienvogel {m}
 caracol {m} :: Schnecke {f}
 caracola {f} :: Schnecke {f}; Meeresschnecke {f}
+cardelina {f} :: Stieglitz {m}; Distelfink {m}
 carpa {f} :: Karpfen {m}
 castor {m} :: Biber {m}
 cerda {f} :: Sau {f}
@@ -103,12 +108,13 @@ erizo {m} :: Igel {m}
 erizo de mar {m} :: Seeigel {m}
 escarabajo {m} :: Käfer {m}
 escualo {m} :: Hai {m}; Haifisch {m}
+estrella de mar {m} :: Seestern {m}
 fletán {m} :: Heilbutt {m}
 foca {f} :: Seehund {m}
 gallina {f} :: Huhn {n}; Henne {f}
 gallo {m} :: Hahn {m}
 ganso {m} :: Gans {f}; Gänserich {m}; Ganter {m}
-gata {f} :: Katze {f}
+gata {f} :: Katze {f}; Kätzin {f}
 gatito {m} :: Kätzchen {n}; Kätzlein {n}
 gato {m} :: Katze {f}; Hauskatze {f}; Kater {m}
 gato doméstico {m} :: Hauskatze {f}
@@ -116,6 +122,8 @@ gato salvaje {m} :: Wildkatze {f}
 gatuno; gatuna :: katzenhaft; katzenartig; Katzen-
 gavilán {m} :: Sperber {m}
 gaviota {f} :: Möwe {f}
+golondrina {f} :: Schwalbe {f} [Zoologie]
+golondrina común {f} :: Rauchschwalbe {f} [Zoologie]
 gorila {m} :: Gorilla {m}
 gorrión {m} :: Spatz {m}; Sperling {m}
 guepardo {m} :: Gepard {m}
@@ -126,10 +134,12 @@ insecto {m} :: Insekt {n}
 jabalí {m} :: Wildschwein {n}; Keiler {m}
 jabalina {f} :: Wildschwein {n}; Wildsau {f}
 jaguar {m} :: Jaguar {m}
+jilguero {m}; jilguero común {m}; jilguero europeo {m} :: Stieglitz {m}; Distelfink {m}
 jirafa {f} :: Giraffe {f}
 koala {m} :: Koala {m}; Koalabär {m}
 lagarto {m} :: Eidechse {f}
 lemming {m} :: Lemming {m}
+león marino {m} :: Seelöwe {m}
 leopardo {m} :: Leopard {m}; Panther {m}
 leopardo de las nieves {m}; onza {f} :: Schneeleopard {m}; Irbis {m}
 libélula {f} :: Libelle {f}
@@ -166,6 +176,10 @@ pavo {m} :: Truthahn {m}; Pute {f}
 perro {m} :: Hund {m}
 pez {m} :: Fisch {m}
 pico {m} :: Specht {m}
+pinzón {m} :: Fink {m}
+pinzón {m} :: Buchfink {m}
+pinzón vulgar {m} :: Buchfink {m}
+pinzón real {m} :: Bergfink {m}
 piojo {m} :: Laus {f}
 pollito {m} :: Küken {n}
 polluelo {m} :: Küken {n}
@@ -196,6 +210,7 @@ urogallo {m} :: Auerhahn {m}
 urraca {f} :: Elster {f}
 vaca {f} :: Kuh {f}; Rind {n}
 venado {m} :: Hirsch {m}
+vencejo {m} :: Mauersegler {m}
 verraco {m} :: Eber {m}; Keiler {m}
 visón {m} :: Nerz {m}
 yacaré {m} [Am.] :: Alligator {m}
