@@ -3,16 +3,16 @@
 use strict;
 
 # Lese ding-Files ein und ordne alles alphabetisch.
-# Exakt identische Eintr?ge werden als Fehler gemeldet oder ignoriert.
+# Exakt identische Einträge werden als Fehler gemeldet oder ignoriert.
 # Themen-Tags werden entfernt.
 
 # Beispiel-Aufruf: compile_dictionary.pl data/*.txt > es-de
 
 # Parameter:
-#  --mark-double-entries     markiere Doppeleintr?ge (ansonsten werden sie
+#  --mark-double-entries     markiere Doppeleinträge (ansonsten werden sie
 #                            ignoriert)
 
-# Korrekturen und Verbesserungsvorschl?ge an es-de@zenogantner.de
+# Korrekturen und Verbesserungsvorschläge an zeno.gantner@gmail.com
 
 # (c) 2006 by Zeno Gantner
 #
@@ -33,7 +33,7 @@ use strict;
 use locale;
 use POSIX qw(locale_h);
 setlocale(LC_CTYPE, "es_ES.utf8");
-# TODO: Locale per Parameter ?bergeben.
+# TODO: Locale per Parameter übergeben.
 
 my $mark_double_entries = 0;
 if (defined $ARGV[0]) {
