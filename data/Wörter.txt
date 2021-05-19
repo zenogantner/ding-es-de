@@ -1407,7 +1407,7 @@ badén {m} :: Mulde {f}; Rinne {f}
 bafle {m} :: Lautsprecher {m}
 bagaje {m} :: Gepäck {n}
 bagatela {f} :: Bagatelle {f} \Verbrechen
-bah! :: Ausruf der Geringschätzung oder des Erstaunens	
+¡bah! :: Ausruf der Geringschätzung oder des Erstaunens
 bahía {f} :: Bucht {f}
 bailable {adj} :: tanzbar
 bailador {adj} :: Tanz-
@@ -1530,7 +1530,7 @@ barrio residencial {m} :: Wohnviertel {n}
 barrita {f} :: Stift {m}; Stäbchen {n}
 barroco {adj} :: barock
 barro {m} :: Matsch {m}; Lehm {m}
-barroso {adj} :: matschig	
+barroso {adj} :: matschig
 barrote {m} :: Gitterstab {m}; Stange {f}
 basalto {m} :: Basalt {m}
 basarse :: basieren auf; beruhen auf
@@ -1544,7 +1544,7 @@ bastardo {m} :: Bastard {m}; unehelicher Sohn {m}; Mischling {m} \Familie
 bastar :: genug sein; ausreichen
 bastión {f} :: Bastion {f}
 bastonazo {m} :: Stockhieb {m}
-bastoncillo {m} :: Stöckchen {n}; Stäbchen {n}	
+bastoncillo {m} :: Stöckchen {n}; Stäbchen {n}
 bastón {m} :: Stock {m}
 basura {adj} :: Müll-; Schrott-; Trash-
 basura {f} :: Abfall {m}; Müll {m}
@@ -1605,7 +1605,7 @@ bendito {adj} :: gesegnet; geweiht \Religion
 beneficencia {f} :: Wohltätigkeit {f}
 beneficiar :: begünstigen; Nutzen ziehen
 beneficio {m} :: Gewinn {m}; Profit {m}
-beneficioso {adj} :: nützlich; gewinnbringend	
+beneficioso {adj} :: nützlich; gewinnbringend
 benéfico {adj} :: wohltätig
 benevolencia {f} :: Gutmütigkeit {f}
 benevolente; benévolo {adj} :: gutmütig
@@ -1733,7 +1733,7 @@ blandura {f} :: Weiche {f}
 blanqueador {adj} :: weißmachend
 blanquear :: waschen (Geld) \Geld \Verbrechen
 blanquear :: weiß machen; bleichen \Farben
-blanqueo {m} :: Weißen {n}; Bleichen {n}	
+blanqueo {m} :: Weißen {n}; Bleichen {n}
 blasfemar :: Gotteslästerung begehen \Religion
 blasfemia {f} :: Blasphemie {f}; Gotteslästerung {f} \Religion
 blasfemo {adj} :: blasphemisch; gotteslästerlich \Religion
@@ -1828,7 +1828,7 @@ bonsái {m} :: Bonsai {m} \Pflanzen
 bonzo {m} :: Bonze {m}
 booleano {adj} :: boolesch [math.]
 boquera {f} :: aufgesprungene Lippe {f} \Medizin
-boquera {f} :: Öffnung {f}	
+boquera {f} :: Öffnung {f}
 boquerón {m} :: Anchovi {f} \Essen
 boquiabierto {adj} :: mit offenem Mund; erstaunt
 boquilla {f} :: Mundstück {n}
@@ -1889,7 +1889,7 @@ bramido {m} :: Brunftschrei {m}; Gebrüll {n}
 branquia {f} :: Kieme {f} \Fische
 branquial {adj} :: Kiemen- \Fische
 brasa {f} :: Glut {f}
-brasear :: auf der Glut grillen	
+brasear :: auf der Glut grillen
 brasero {m} :: offener Kohleofen {m} (als Schale oder Kiste)
 brasileño {adj} :: brasilianisch \Länder
 braveza {f} :: Mut {m}; Wildheit {f}
@@ -5296,7 +5296,7 @@ detener {v} :: verhaften \Verbrechen
 detenida {f} :: Verhaftete {f} \Verbrechen
 detenido {m} :: Verhafteter {m} \Verbrechen
 detergente lavaplatos {m} :: Spülmittel {n}
-detergente lavaplatos {m} :: Spülmittel {n}; Geschirrspülmittel {n} 
+detergente lavaplatos {m} :: Spülmittel {n}; Geschirrspülmittel {n}
 detergente lavavajillas {m} :: Spülmittel {n}; Geschirrspülmittel {n}
 detergente {m} :: Waschmittel {n}; Reinigungsmittel {n}
 deteriorar {v} :: beschädigen
@@ -8212,7 +8212,7 @@ indispensabilidad {f} :: Unerlässlichkeit {f}
 indispensable {adv} :: unerlässlich; unverzichtbar
 indisponer {v} :: verärgern
 indisposición {f} :: Unwohlsein {n}
-indispuesto; indispuesta {adj} :: unwohl 
+indispuesto, indispuesta {adj} :: unwohl
 indistinguible {adj} :: ununterscheidbar
 individual {adj} :: einzeln
 individual {adj} :: individuell
@@ -8222,7 +8222,7 @@ individualista {m,f} :: Individualist {m}; Individualistin {f}
 individual {m} :: Set {n} (Tisch)
 individuo {m} :: Individuum {n}
 individuo {m} [pey.] :: Person {f}
-indocumentado; indocumentada {adj} :: undokumentiert
+indocumentado, indocumentada {adj} :: undokumentiert
 índole {m} :: Art {f}; Wesen {n}; Charakter {m}
 indolencia {f} :: Gleichgültigkeit {f}; Teilnahmslosigkeit {f}
 indolente {adj} :: gleichgültig; teilnahmslos
@@ -8417,7 +8417,7 @@ inmigrar {v} :: einwandern
 inmoderado; inmoderada {adj} :: unmäßig
 inmoral {adj} :: unmoralisch
 inmoralidad {f} :: Unmoral {f}; Unsittlichkeit {f}
-inmortal {adj} :: unsterblich \Religion 
+inmortal {adj} :: unsterblich \Religion
 inmortalidad {f} :: Unsterblichkeit {f} \Religion
 inmortalizar {v} :: verewigen
 inmóvil {adj} :: bewegungslos; still
@@ -8754,7 +8754,7 @@ inundación {f} :: Überschwemmung {f}
 inundar {v} :: überschwemmen
 inusual {adj} :: ungewöhnlich
 inútil {adj} :: nutzlos; unnütz
-inútil {m} :: Nichtsnutz {m} 
+inútil {m} :: Nichtsnutz {m}
 invadir {v} :: einbrechen; eindringen
 invadir {v} :: überfallen
 invalidar {v} :: entkräften
@@ -9061,48 +9061,48 @@ juzgado {m} :: Gericht {n}
 juzgar {v} :: beurteilen
 juzgar {v} :: urteilen
 juzgar {v} :: verurteilen; richten
-laberinto {m} :: Labyrinth {n} 
+laberinto {m} :: Labyrinth {n}
 labio {m} :: Lippe {f} \Körper
 laboral {adj} :: Arbeits-; Berufs-
 labor {f} :: Werk {n}
 laborista {adj} :: Labour- \Politik
-labor {m} :: Arbeit {f} 
+labor {m} :: Arbeit {f}
 labrador {m} :: Feldarbeiter {m} \Berufe \Landwirtschaft
 labrador {m} :: Landwirt {m} \Berufe \Landwirtschaft
 labranza {f} :: Feldarbeit {f} \Landwirtschaft
 labrar {v} :: bearbeiten (Feld)
 labrar {v} :: pflügen \Landwirtschaft
-lacado {m} :: Lackierung {f} \Technik 
+lacado {m} :: Lackierung {f} \Technik
 laca {f} :: Haarlack {m}
 laca {f} :: Lack {m} \Technik
 lacar {v} :: lackieren
-laceración {f} :: Schädigung {f} 
-lacho {m} [Chile]  :: Frauenheld {m} 
-lacho {m} [Chile]  :: Liebhaber {m} 
-lacio {adj} :: kraftlos 
-lacio {adj} :: schlaff [ugs.] 
+laceración {f} :: Schädigung {f}
+lacho {m} [Chile]  :: Frauenheld {m}
+lacho {m} [Chile]  :: Liebhaber {m}
+lacio {adj} :: kraftlos
+lacio {adj} :: schlaff [ugs.]
 lacio {adj} :: welk
-lacrimógeno {adj} :: Tränen- 
+lacrimógeno {adj} :: Tränen-
 lactante {adj} :: stillend
-lactante {m} :: Säugling {m} 
+lactante {m} :: Säugling {m}
 lácteo {adj} :: Milch-
 ladeado {adj} :: geneigt
 ladearse {v} :: sich neigen
-ladear {v} :: neigen 
+ladear {v} :: neigen
 la :: die (weiblicher bestimmter Artikel, Singular)
 ladilla {f} ::  Filzlaus {f} \Tiere \Medizin
 lado {m} :: Seite {f}
-ladrido {m} :: Bellen {n}; Gebell {n}  
-ladrillo {m} :: Ziegel {m}; Ziegelstein {m} 
+ladrido {m} :: Bellen {n}; Gebell {n}
+ladrillo {m} :: Ziegel {m}; Ziegelstein {m}
 ladrona {f} :: Diebin {f} \Verbrechen
 ladrón {m} :: Dieb {m} \Verbrechen
 la :: es (sächliches Akkusativpronomen in bestimmten Ausdrücken, z.B. la sabe, la sufre la caga)
 lagaña {f} :: Schlaf {m} (getrocknetes Augensekret)
 lagartija {f} :: Eidechse {f} \Tiere
 lagarto {m} :: Echse {f} \Tiere
-lago {m} :: See {m} 
+lago {m} :: See {m}
 lagrimear {v} :: tränen
-laguna {f} :: Lagune {f} 
+laguna {f} :: Lagune {f}
 laguna {f} :: Lücke {f}
 laguna {f} :: Teich {m}
 la lealtad :: die Ehrlichkeit {f}
@@ -9115,42 +9115,42 @@ lamer {v} :: ablecken
 lamer {v} :: lecken
 lamido {adj} :: geleckt
 lamido {adj} :: glatt
-lamido {m} :: Lecken {n} 
+lamido {m} :: Lecken {n}
 laminado {adj} :: in Scheiben
 laminado {adj} :: laminiert
 lámina {f} :: Blatt {n}
-lámina {f} :: Folie {f} 
+lámina {f} :: Folie {f}
 lámina {f} :: Platte {f}
 laminar {v} :: in Scheiben schneiden
 laminar {v} :: laminieren
 lampiño {adj} :: bartlos \Personenbeschreibung
 lampiño {adj} :: haarlos; unbehaart \Personenbeschreibung
 lancha {f} :: Barkasse {f}
-lancha {f} :: Kutter {m} 
+lancha {f} :: Kutter {m}
 langosta {f} :: Heuschrecke {f} \Tiere
 langostino {m} :: Garnele {f} \Tiere \Essen
 lánguido {adj} :: schlaff; matt
 lanzado {adj} :: draufgängerisch; tatkräftig
-lanza {f} :: Speer {m}; Lanze {f} 
-lanzamiento {m} :: Abwurf {m}; Wurf {m} 
-lanzamiento {m} :: Markteinführung {f} 
+lanza {f} :: Speer {m}; Lanze {f}
+lanzamiento {m} :: Abwurf {m}; Wurf {m}
+lanzamiento {m} :: Markteinführung {f}
 lanzamiento {m} :: Start {m} (Rakete)
 lanzarse {v} :: sich werfen (auf)
 lanzar {v}  :: lancieren; einführen; auf den Markt bringen
-lanzar {v} :: werfen; schleudern; schmeißen [ugs.] 
+lanzar {v} :: werfen; schleudern; schmeißen [ugs.]
 lapa {f} :: Napfschnecke {f} \Tiere \Essen
 lápida {f} :: Grabstein {m} \Tod
 lápiz pasta {m} :: Kugelschreiber {m}; Kuli {m}
-lapso {m} :: Zeitspanne {f}; Zeitraum {m}  
+lapso {m} :: Zeitspanne {f}; Zeitraum {m}
 la que :: diejenige; die
-largarse {v} :: weggehen; abhauen [ugs.] 
+largarse {v} :: weggehen; abhauen [ugs.]
 largar {v} :: entfernen
 largar {v} :: losmachen; loslassen
 largar {v} :: verraten (Geheimnis)
 largo {adj} :: lang; Lang-
 largo {adj} :: weit (Entfernung)
 ¡largo!; ¡largo de aquí! :: weg!; geh weg!
-largo {m} :: Länge {f} 
+largo {m} :: Länge {f}
 laringe {f} :: Kehlkopf {m} \Körper
 laringitis {f} :: Kehlkopfentzündung {f} \Medizin
 larva {f} :: Brut {f} (frischgeschlüpftes Tier) \Tiere
@@ -9161,20 +9161,20 @@ la :: sie (weibliches Akkusativpronomen)
 lastimarse {v} :: sich verletzen
 lastimarse {v} :: sich weh tun [ugs.]
 lastimar {v} :: verletzen
-lastimar {v} :: weh tun [ugs.] 
+lastimar {v} :: weh tun [ugs.]
 las :: (weiblicher bestimmter Artikel, Plural) die (Nominativ, Akkusativ); der (Genitiv); den (Dativ)
-lata {f} :: Blech {n} 
+lata {f} :: Blech {n}
 latente {f} :: verborgen; latent
 lateral {adj} :: seitlich; Seiten-
 latido {m} :: Pochen {n} (Schmerz)
-latido {m} :: Pulsieren {n} 
+latido {m} :: Pulsieren {n}
 latido {m} :: Schlagen {n}; Schlag {m} (Herz)
-latifundio {m} :: Großgrundbesitz {m} 
+latifundio {m} :: Großgrundbesitz {m}
 latigazo {m} :: Peitschenhieb {m}
 látigo {m} :: Peitsche {f}
 latiguillo {m} :: Ableger {m} (Pflanzen)
 latina {f} :: Lateinamerikanerin {f}
-latín {m} :: Latein {n} 
+latín {m} :: Latein {n}
 latino {adj} :: lateinisch
 latinoamericana {f} :: Lateinamerikanerin {f}
 latinoamericano {adj} :: lateinamerikanisch
@@ -9184,60 +9184,60 @@ latir {v} :: pochen (Schmerz)
 latir {v} :: pulsieren
 latir {v} :: schlagen (Herz)
 latitud {f} :: Breite {f}; Ausdehnung {f}
-latitud {f} :: Breitengrad {m} 
+latitud {f} :: Breitengrad {m}
 latoso {adj} :: langweilig
 latoso {adj} :: langwierig
 latoso {adj} :: lästig; leidig
-latoso {adj} :: nervig [ugs.]	
-latoso {m} [coloq.] :: Nervensäge {f} [ugs.] 
+latoso {adj} :: nervig [ugs.]
+latoso {m} [coloq.] :: Nervensäge {f} [ugs.]
 laureada {f} :: Ausgezeichnete {f}; Preisträgerin {f}
 laureado {m} :: Ausgezeichnete {m}; Preisträger {m}
 laurel {m} :: Lorbeerblätter {n} {pl} \Essen
-lavado {m} :: Wäsche {f} 
-lavamanos {m} :: Waschbecken {n} 
-lavanda {f} :: Lavendel {m} 
+lavado {m} :: Wäsche {f}
+lavamanos {m} :: Waschbecken {n}
+lavanda {f} :: Lavendel {m}
 lavandera {f} :: Wäscherin {f}
-lavandería {f} :: Wäscherei {f} 
-lavaplatos {m} :: Geschirrspülmaschine {f} 
+lavandería {f} :: Wäscherei {f}
+lavaplatos {m} :: Geschirrspülmaschine {f}
 lavaplatos {m} :: Tellerwäscher
 lavar {v} :: abwaschen
-lavavajillas {m} :: Geschirrspülmaschine {f} 
-laxante {m} :: Abführmittel {n} 
-lazo {m} :: Bindung {f} 
-lazo {m} :: Lasso {n} 
-lazo {m} :: Schlaufe {f}; Schlinge {f} 
+lavavajillas {m} :: Geschirrspülmaschine {f}
+laxante {m} :: Abführmittel {n}
+lazo {m} :: Bindung {f}
+lazo {m} :: Lasso {n}
+lazo {m} :: Schlaufe {f}; Schlinge {f}
 leal {adj} :: aufrichtig; ehrlich
 leal {adj} :: loyal
 leal {adj} :: treu; getreu
-lealtad {f} :: Loyalität {f} 
-lección {f} :: Belehrung {f} 
-lección {f} :: Lehre {f} 
-lección {f} :: Lektion {f} 
-lección {f} :: Unterrichtsstunde {f} 
+lealtad {f} :: Loyalität {f}
+lección {f} :: Belehrung {f}
+lección {f} :: Lehre {f}
+lección {f} :: Lektion {f}
+lección {f} :: Unterrichtsstunde {f}
 ¡leche! [coloq.] [Esp.] :: Mist!; verdammt!; Scheiße!
 leche descremada {f} :: entrahmte Milch {f} \Trinken
-leche {f} [Esp.] [vulg.] :: Wichse {f} [vulg.] 
-lechera {f} :: Milchkanne {f} 
-lechero {adj} :: Milch-
-lechero {m} :: Milchmann {m} 
+leche {f} [Esp.] [vulg.] :: Wichse {f} [vulg.]
+lechera {f} :: Milchkanne {f}
+lechero, lechera {adj} :: Milch-
+lechero {m} :: Milchmann {m}
 lecho {m} :: Grund {m} (Fluss, See, Meer)
-lecho {m} :: Lager {m}; Bett {n}  
-lecho {m} :: Lagerstätte {f} 
+lecho {m} :: Lager {m}; Bett {n}
+lecho {m} :: Lagerstätte {f}
 lechón {m} :: Ferkel {n} \Tiere
 lechón {m} :: Spanferkel {n} \Essen
 lechoso {adj} :: milchig
-lechuga {f} :: Salat {f}; Blattsalat {m}; Kopfsalat {m}   
-lechuza {f} :: Kauz {m}; Eule {f}  
+lechuga {f} :: Salat {f}; Blattsalat {m}; Kopfsalat {m}
+lechuza {f} :: Kauz {m}; Eule {f}
 lechuza {f} [pey.] :: hässliche Frau {f} \Schimpfwörter
 lectora {f} :: Lektorin {f}
-lector {m} :: Lektor {m} 
+lector {m} :: Lektor {m}
 lectura {f} :: Lektüre {f}
-lectura {f} :: Lesen {n} 
-lectura {f} :: Lesung {f} 
+lectura {f} :: Lesen {n}
+lectura {f} :: Lesung {f}
 leer {v} :: ablesen
 leer {v} :: lesen
 leer {v} :: vorlesen
-legado {adj} :: anvertraut 
+legado {adj} :: anvertraut
 legado {m} :: Vermächtnis {n}; Hinterlassenschaft {f}
 legal {adj} :: gesetzlich
 legal {adj} :: legal; gesetzmäßig; rechtmäßig
@@ -9248,33 +9248,33 @@ legendario {adj} :: legendär
 legible {adj} :: lesbar
 legionela {f} :: Legionelle {f} \Medizin
 legislativo {adj} :: gesetzgebend; legislativ \Politik
-legislatura {f} :: Legislative {f} \Politik 
+legislatura {f} :: Legislative {f} \Politik
 legislatura {f} :: Legislaturperiode {f} \Politik
-legista {m} :: Rechtsgelehrte {m} 
+legista {m} :: Rechtsgelehrte {m}
 legitimar {v} :: legitimieren
-legitimidad {f} :: Legitimität {f} 
+legitimidad {f} :: Legitimität {f}
 legítimo {adj} :: legitim
 legua {f} :: spanische Meile {f} (5,57 km)
 legumbre {m} :: Hülsenfrucht {f} \Essen
 lejanía {f} :: Entfernung {f}; Ferne {f}
 lejano {adj} :: fern; weit entfernt
-lejía {f} :: Bleichmittel {n} 
+lejía {f} :: Bleichmittel {n}
 lejía {f} :: Lauge {f}
 lejos {adv} :: entfernt; weit; weit weg
 lejos {adv} :: weit entfernt
 lema {m} :: Grundsatz {m}; Leitsatz {m}; Motto {n}; Wahlspruch {m}
 lema {m} :: Kennwort {n}
 leñador {m} :: Holzfäller {m}
-leña {f} :: Brennholz {n} 
-leña {f} :: Holz {n} 
+leña {f} :: Brennholz {n}
+leña {f} :: Holz {n}
 lencería {f} :: Wäsche {f}; Unterwäsche {f} (für Frauen)
 lengua {f} :: Zunge {f} \Körper
 lengua nativa {f} :: Muttersprache {f} \Sprachen
 lentamente {adv} :: langsam
-lenteja {f} :: Linsen {f} {pl} \Essen 
+lenteja {f} :: Linsen {f} {pl} \Essen
 lente {m} :: Linse {f}
-lentes {m} {pl} :: Brille {f} 
-lentitud {f} :: Langsamkeit {f}; Gemächlichkeit {f} 
+lentes {m} {pl} :: Brille {f}
+lentitud {f} :: Langsamkeit {f}; Gemächlichkeit {f}
 lento; lenta {adj} :: langsam
 leona {f} :: Löwin {f} \Tiere
 león {m} :: Löwe {m} \Tiere
@@ -9285,10 +9285,10 @@ le salió el tiro por la culata :: der Schuss ist nach hinten losgegangen \Redew
 lesbiana {adj} :: lesbisch \Sexualität
 lesionado {adj} :: geschädigt
 lesionado {adj} :: verletzt
-lesionar {v} :: verletzen; schädigen 
-lesión {f} :: Schaden {m}; Fehler {m} 
+lesionar {v} :: verletzen; schädigen
+lesión {f} :: Schaden {m}; Fehler {m}
 lesión {f} :: Wunde {f}
-leso {adj} [coloq.] [Chile] :: blöd [ugs.]; bekloppt [ugs.] 
+leso {adj} [coloq.] [Chile] :: blöd [ugs.]; bekloppt [ugs.]
 letal {adj} :: tödlich
 letárgico {adj} :: lethargisch
 letrado {adj} :: gebildet
@@ -9297,27 +9297,27 @@ letrado {m} :: Schriftgelehrter {m} \Berufe
 letra {f} :: Buchstabe {m}
 letra {f} :: Liedtext {m}
 letra {f} :: Rate {f}
-letra {f} :: Wechsel {m}; Schuldschein {m} 
+letra {f} :: Wechsel {m}; Schuldschein {m}
 letrero {m} :: Etikett {n}
 letrero {m} :: Schild {n}
 letrero {m} :: Wegweiser {m}
 leucemia {f} :: Leukämie {f} \Medizin
 levadura {f} :: Hefe {f} \Essen \Trinken
 levantamiento {m} :: Aufstand {m} \Politik
-levantamiento {m} :: Erhebung {f} 
+levantamiento {m} :: Erhebung {f}
 levantar {v} :: anheben
 levantar {v} :: aufbauen; errichten
 levantar {v} :: aufheben
 levantar {v} :: aufwirbeln (Staub)
 levantar {v} :: hoch heben
 levantar {v} :: verursachen
-levante {m} :: Morgenland {n} 
+levante {m} :: Morgenland {n}
 levante {m} :: Sonnenaufgang {m}
 leve {adj} :: harmlos
 leve {adj} :: leicht; gering; geringfügig
 levemente {adv} :: leicht
-leyenda {f} :: Legende {f} 
-ley {f} :: Gesetz {n} 
+leyenda {f} :: Legende {f}
+ley {f} :: Gesetz {n}
 liado; liada {adj} :: liiert; gebunden
 liar {v} :: binden; liieren
 liar {v} :: einwickeln
@@ -9329,7 +9329,7 @@ liberar {v} :: befreien
 liberar {v} :: frei lassen
 libertinaje {m} :: Ausschweifung {f}
 libertino; libertina {adj} :: zügellos
-libertino {m} :: Lustmolch [pey.] [ugs.] {m}
+libertino {m} [pey.] :: Lustmolch {m} [ugs.]
 libra {f} :: Pfund {n} (Währung und Gewicht)
 libra {f} :: Wage {f}
 librar {v} :: befreien
@@ -10004,7 +10004,7 @@ mayormente {adv} :: hauptsächlich
 mayúscula {f} :: Großbuchstabe {m}
 mayúsculo {adj} :: groß; riesig
 mazmorra {f} :: Kerker {m}; Verlies {n}
-mazo {m} :: Fleischerhammer {m} \Werkzeug 
+mazo {m} :: Fleischerhammer {m} \Werkzeug
 mazo {m} :: Holzhammer {m} \Werkzeug
 mazorca {f} :: Gemüsemais {m} \Essen
 meada {f} :: Pisse {f} [ugs.]
@@ -10054,7 +10054,7 @@ medicar {v} :: (Arznei) verordnen \Medizin
 medicina {f} :: Medizin {f}; Arzneimittel {n} \Medizin
 medicinal {adj} :: medizinisch; Heil- \Medizin
 medición {f} :: Vermessung {f} \Technik
-médico legista {adj} :: Amtsarzt {m} 
+médico legista {adj} :: Amtsarzt {m}
 medicucho {m} [coloq.] [pey.] :: Quacksalber {m}
 medida {f} :: Maßnahme {f}
 medida {f} :: Maß {n}; Größe {f}
@@ -10703,8 +10703,7 @@ nazi {m} | nazi {f} :: Nazi {m} | Nazi {f} \Politik \Geschichte
 nazismo {m} :: Nazismus {m} \Politik \Geschichte
 neblina {f} :: Dunst {m}; leichter Nebel {m} \Wetter
 nebuloso; nebulosa {adj} :: neblig \Wetter
-nebuloso; nebulosa {adj} :: nebulös 
-nebuloso; nebulosa {adj} :: verschwommen
+nebuloso; nebulosa {adj} :: nebulös; verschwommen
 necedad {f} :: Albernheit {f}
 necesariamente {adv} :: zwangsläufig; notwendigerweise
 necesario; necesaria {adj} :: nötig; erforderlich
@@ -11952,7 +11951,7 @@ pecador {m} | pecadora {f} :: Sünder {m} | Sünderin {f} \Religion
 peca {f} :: Sommersprosse {f} \Personenbeschreibung \Körper
 pecaminoso {adj} :: sündig \Religion
 pecar {v} :: sündigen \Religion
-pecera {f} :: Aquarium {n} 
+pecera {f} :: Aquarium {n}
 pecho {m} :: Brust {f} \Körper
 pecho {m} :: Busen {m} \Körper
 pechuga {f} :: Brust {f} (Fleisch) \Essen
@@ -13231,7 +13230,7 @@ prenda {f} :: Pfand {n}
 prendar {v} :: pfänden
 prendedor {m} :: Brosche {f} \Schmuck
 prender fuego {v} :: anzünden; entflammen
-prender {v} :: anschalten \Technik 
+prender {v} :: anschalten \Technik
 prender {v} :: anzünden
 prender {v} :: ergreifen
 prender {v} :: nehmen
@@ -14053,8 +14052,8 @@ que sí :: doch
 quesillo {m} :: Frischkäse {m} \Essen
 quicio {m} :: Angel {f} (Tür, Fenster)
 quiebra {f} :: Bankrott {m}
-quiebra {f} :: Pleite {f} 
-quiebra {f} :: Schlucht {f} 
+quiebra {f} :: Pleite {f}
+quiebra {f} :: Schlucht {f}
 quienquiera {pron} :: irgendjemand; wer auch immer
 quieto {adj} :: ruhig; still
 quietud {f} :: Ruhe {f}
@@ -14169,20 +14168,20 @@ raíl {m} :: Schiene {f}; Eisenbahnschiene {f} \Verkehr \Technik
 raíz {f} :: Zahnwurzel {f} \Medizin
 raja {f} [coloq.] :: Arsch {m} \Körper
 raja {f} :: Riss {m}
-raja {f} :: Schlitz {m} 
+raja {f} :: Schlitz {m}
 raja {f} :: Sprung {m}
 rajarse {v} :: aufreißen
 rajarse {v} [coloq.] :: einen ausgeben; einladen
 rajarse {v} :: reißen
 rajarse {v} :: springen; zerspringen
 rajar {v} :: aufschlitzen
-raja [vulg.] {f} :: Fotze [vulg.] {f}
+raja [vulg.] {f} :: Fotze {f} [vulg.]
 rallador {m} :: Reibe {f}; Reibeisen {n} \Küche
 rallar {v} :: aufreiben
 rama {f} :: Branche {f} \Wirtschaft
 rama {f} :: Sektor {m}
 rama {f} :: Sparte {f}
-ramera {f} [vulg.] :: Nutte {f}
+ramera {f} [vulg.] :: Nutte {f} [vulg.]
 ramo {m} :: Ast {m}; Zweig {m} \Pflanzen
 ramo {m} :: Blumenstrauß {m}
 ramo {m} :: Branche {f}; Fach {n}; Gebiet {n}
@@ -15230,7 +15229,7 @@ reportar {v} :: berichten
 reportar {v} :: melden
 reporte {m} :: Bericht {m}
 reporte {m} :: Zeugnis {n}
-reportero {m} :: Berichterstatter {m}; Reporter {m} 
+reportero {m} :: Berichterstatter {m}; Reporter {m}
 reposado {adj} :: abgelagert
 reposar {v} :: ablagern
 reposar {v} :: ausruhen
@@ -15954,7 +15953,7 @@ roce {m} :: Berührung {f}
 roce {m} :: Reibung {f}
 rociado {adj} :: besprüht
 rociador {m} :: Düse {f}
-rociar {v} :: benetzen 
+rociar {v} :: benetzen
 rociar {v} :: bespritzen
 rociar {v} :: besprühen
 rociar {v} :: sprengen (Pflanzen)
@@ -16074,8 +16073,8 @@ rotar {v} :: rotieren
 rotativo {adj} :: Dreh-; drehbar
 rotatorio {adj} :: drehbar
 rotatorio {adj} :: drehend; rotierend
-roto {adj} :: kaputt [coloq.] 
-roto {adj} :: zerbrochen; gebrochen
+roto, rota {adj} :: kaputt [coloq.]
+roto, rota {adj} :: zerbrochen; gebrochen
 rotonda {f} :: Kreisverkehr {m}
 rotonda {f} :: Rotunde {f} \Technik
 rotor {m} :: Rotor {m}
@@ -16089,11 +16088,11 @@ rotular {v} :: etikettieren
 rótulo {m} :: Etikett {n}
 rótulo {m} :: Schild {n}
 rotundidad {f} :: Bestimmtheit {f}
-rotundo {adj} :: bestimmt; entschieden
-rotundo {adj} :: ganz; vollständig; kategorisch
-rotundo; rotunda {adj} :: entschieden; kategorisch
-rotundo; rotunda {adj} :: rund
-rotundo; rotunda {adj} :: völlig
+rotundo, {adj} :: bestimmt; entschieden
+rotundo, rotunda {adj} :: ganz; vollständig; kategorisch
+rotundo, rotunda {adj} :: entschieden; kategorisch
+rotundo, rotunda {adj} :: rund
+rotundo, rotunda {adj} :: völlig
 rotura {f} :: Brechen {n}
 rotura {f} :: Bruch {m}
 rozadura {f} :: Schrammen {n}; Kratzer {m}
@@ -16120,13 +16119,13 @@ ruboroso {adj} :: schamrot; errötet
 rúbrica {f} :: Rubrik {f}
 rúbrica {f} :: Überschrift {f}
 rubro {m} :: Fach {n}; Gebiet {n}
-rudeza {f} :: Rauheit {f}; Derbheit {f} 
+rudeza {f} :: Rauheit {f}; Derbheit {f}
 rudimentario {adj} :: primitiv; rudimentär
 rudimento {m} :: Grundbegriff {m}
-rudo {adj} :: harsch; rüde
-rudo {adj} :: plump
-rudo {adj} :: rau; roh; grob
-rudo {adj} :: ungebildet
+rudo, ruda {adj} :: harsch; rüde
+rudo, ruda {adj} :: plump
+rudo, ruda {adj} :: rau; roh; grob
+rudo, ruda {adj} :: ungebildet
 rueca {f} :: Spinnrad {n}
 rueda de prensa {f} :: Pressekonferenz {f}
 rueda {f} :: Runde {f}
@@ -16526,7 +16525,7 @@ sarna {f} :: Krätze {f} \Medizin
 sarna {f} :: Räude {f} \Tiere
 sarnoso {adj} :: räudig \Tiere
 sarpullido {m} :: Ausschlag {m} \Medizin
-sarro {m} :: Belag {m}; Zahnbelag {m} \Medizin \Körper 
+sarro {m} :: Belag {m}; Zahnbelag {m} \Medizin \Körper
 sarroso {adj} :: belegt (Zähne, Zunge) \Medizin
 sarta {f} :: Schnur {f}
 sastre {m} | sastra {f} :: Schneider {m} | Schneiderin {f} \Berufe
