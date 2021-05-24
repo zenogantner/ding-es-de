@@ -32,7 +32,7 @@ Argentina {f} :: Argentinien {n}
 Aries {m} :: Widder {m} [Astronomie]
 Armenia :: Armenien
 Asia :: Asien
-Asia Menor :: Kleinasien; Vorderasien
+Asia Menor :: Kleinasien
 Así de pronto ... :: So auf die Schnelle ...
 Atenas :: Athen
 Augsburgo :: Augsburg
@@ -167,6 +167,10 @@ Estrasburgo :: Straßburg
 Etiopía :: Äthiopien
 Eurocopa {f} :: Fußball-Europameisterschaft {f}
 Europa Central {f} :: Mitteleuropa {n}
+Europa Meridional {f}; Europa del Sur {f} :: Südeuropa {n} 
+Europa Occidental {f} :: Westeuropa {n}
+Europa Oriental {f}; Europa del Este {f} :: Osteuropa
+Europa Septentrional {f}; Europa del Norte {f} :: Nordeuropa {n} 
 Europa {f} :: Europa {n}
 Filipinas {f} {pl} :: Philippinen {f} {pl}
 Finlandia :: Finnland
@@ -214,6 +218,7 @@ JJ OO : Juegos Olímpicos {m} {pl} :: - : Olympische Spiele {n} {pl}
 Japón :: Japan
 Jesús :: Jesus
 Júpiter {m} :: Jupiter {m} [Astronomie]
+Kirguistán; Kirguizistán; Kirguisia :: Kirgisistan; Kirgistan; Kirgisien
 Krimhilda {f} :: Kriemhild {f}
 La Haya :: Den Haag
 Lago Balatón {m} :: Plattensee {m}
@@ -321,7 +326,7 @@ Pascua de Pentecostés {f} :: Pfingsten
 Pascua judía {f} :: Passahfest {n}
 Pascua {f} :: Ostern {f}
 Patagonia :: Patagonien
-Países Bajos :: Niederlande
+Países Bajos {m} {pl} :: Niederlande {n} {pl}
 Pekín :: Peking
 Peloponeso :: Peloponnes
 Pensilvania :: Pennsylvanien; Pennsylvania
@@ -15944,7 +15949,9 @@ perímetro {m} :: Umkreis {m}
 período {m}; periodo {m} :: Abschnitt {m}; Zeitraum {f}; Periode {f}
 período {m}; periodo {m} :: Menstruation {f}; Periode {f}
 período {m}; periodo {m} :: Periode {f}
+pesa rusa {f} :: Kettlebell {f}; Kugelhantel {f}
 pesa {f} :: Gewicht {n}; Wägestück {n}
+pesa {f} :: Hantel {f}
 pesa {f} :: Waage {f}
 pesadez {f}; pesantez {f} :: Schwere {f}
 pesadez {f}; pesantez {f} :: Unfreundlichkeit {f}
@@ -18294,6 +18301,7 @@ rebotar {v} :: zurückstoßen
 rebote {m} :: Rebound {m} [Basketball]
 rebozar {v} :: panieren
 rebozar {v} :: verhüllen
+rebozuelo {m} :: Pfifferling {m}
 rebullir {v} :: aufsprudeln
 rebuscar {v} :: durchforsten; durchsuchen
 rebuznar {v} :: iahen (Esel)
@@ -20820,6 +20828,7 @@ soberanía {f} :: Souveränität {f}
 sobornar :: bestechen; schmieren
 sobornar {v} :: bestechen
 soborno {m} :: Bestechung {f}
+soborno {m} :: Bestechungsgeld {n}
 sobrante {adj} :: übrig
 sobrar {v} :: übrig bleiben
 sobre :: auf; über; außer; gegen; ungefähr
@@ -21205,6 +21214,7 @@ tropas aerotransportado {f} {pl} :: Luftlandetruppen {f} {pl}
 trozo {m} :: Stück {n}
 trucha {f} :: Forelle {f}
 truco {m} :: Trick {m}
+trufa {f} :: Trüffel {m}
 trémulo; trémula {adj} :: zitternd
 tu :: dein; deine
 turismo {m} :: Fremdenverkehr {m}; Tourismus {m}
@@ -21590,6 +21600,7 @@ zángano {m} :: Drohne {f}
 ¿que onda? [Am.] [coloq.] :: Was ist los ?
 ¿quién? :: wer?
 ¿qué? :: was?
+África del Norte {f}; África Septentrional {f} :: Nordafrika {n}
 África {f} :: Afrika {n}
 ácaro {m} :: Milbe {f}
 ácido {m} :: Säure {f}
