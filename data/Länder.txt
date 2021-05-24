@@ -1,4 +1,4 @@
-# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2003, 2004, 2005, 2006, 2021 Zeno Gantner
 #
 # This file is part of ding-es-de
 #
@@ -31,16 +31,9 @@
 # or send a letter to
 # Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
 
-
-# Länder, Erdteile, Regionen
-# zu tun: - Flüsse, Meere usw. in eigene Datei
-#         - Artikel einfügen wo nötig/sinnvoll
-#         - Genus-Informationen einfügen
-#         - Dateien mit Kantonen, Bundesländern, autonomen Regionen
-
-
 Afganistán :: Afghanistan {n}
 África {f} :: Afrika {n}
+África del Norte {f}; África Septentrional {f} :: Nordafrika {n}
 africano; africana {adj} :: afrikanisch
 albanés; albanesa {adj} :: albanisch; aus Albanien
 albano; albana {adj} :: albanisch
@@ -80,14 +73,12 @@ Armenia :: Armenien
 armenio; armenia {adj} :: armenisch; aus Armenien
 ártico; ártica {adj} :: arktisch
 Asia :: Asien
-Asia Menor :: Kleinasien; Vorderasien
-# ähem, da gibt es doch einen Unterschied, oder? Lieber mal nachprüfen
+Asia Menor :: Kleinasien
 asiático; asiática {adj} :: asiatisch
 Australia :: Australien
 australiano; australiana {adj} :: australisch
 Austria :: Österreich
 austriaco; austriaca {adj} :: österreichisch
-
 Baden-Wurtemberg {m} :: Baden-Württemberg {n}
 Bahréin :: Bahrain
 Baja Baviera {f} :: Niederbayern {n}
@@ -173,7 +164,10 @@ estoniano; estoniana {adj} :: estnisch
 Etiopía :: Äthiopien
 Europa {f} :: Europa {n}
 Europa Central {f} :: Mitteleuropa {n}
-
+Europa Meridional {f}; Europa del Sur {f} :: Südeuropa {n}
+Europa Occidental {f} :: Westeuropa {n}
+Europa Oriental {f}; Europa del Este {f} :: Osteuropa
+Europa Septentrional {f}; Europa del Norte {f} :: Nordeuropa {n}
 Filipinas {f} {pl} :: Philippinen {f} {pl}
 filipino; filipina {adj} :: philippinisch
 Finlandia :: Finnland
@@ -204,8 +198,7 @@ Japón :: Japan
 japonés; japonesa {adj} :: japanisch
 japonés {m} :: Japaner {m}
 japonesa {f} :: Japanerin {f}
-#Kirguizia				Kirgisien
-#Kirguizistán				Kirgisien
+Kirguistán; Kirguizistán; Kirguisia :: Kirgisistan; Kirgistan; Kirgisien
 Letonia :: Lettland
 Levante {m} :: spanische Ostküste {f}
 levantino; levantina {adj} :: von der spanischen Ostküste; levantinisch
@@ -245,17 +238,14 @@ Nicaragua :: Nicaragua {n}
 Normandía :: Normandie {f}
 norteamericano; norteamericana {adj} :: nordamerikanisch
 norteuropeo; norteuropea {adj} :: nordeuropäisch
-# TODO: ee? e?
 Noruega :: Norwegen {n}
 Nueva Guinea :: Neuguinea
 Nueva Zelanda :: Neuseeland {n}
 Nuevo Méjico {m}; Nuevo México {m} :: New Mexiko {n}
-
 Oceanía :: Ozeanien
 Omán :: Oman
 otomano; otomana {adj} :: türkisch; osmanisch
-
-Países Bajos :: Niederlande
+Países Bajos {m} {pl} :: Niederlande {n} {pl}
 Palatinado :: Pfalz
 Panamá :: Panama
 Pakistán; Paquistán :: Pakistan
@@ -278,9 +268,7 @@ portugués :: portugiesisch
 Provenza {f} :: Provence {f}
 Puerto Rico :: Puerto Rico
 Punjab :: Pandschab
-
 Qatar :: Katar
-
 Rajastán :: Rajastan
 Reino Unido {m} :: Vereinigtes Königreich {n}
 Reino Unido de Gran Bretaña e Irlanda del Norte {m} :: Vereinigtes Königreich von Großbritannien und Nordirland {n}
@@ -294,7 +282,6 @@ Ródano {m} :: Rhône {f}
 Rodas :: Rhodos
 Rumania :: Rumänien
 Rusia :: Russland
-
 Saboya :: Savoyen
 Sahara {f} :: Sahara {f}
 Sajonia {f} :: Sachsen {n}
@@ -314,7 +301,6 @@ Sudán :: Sudan
 Suecia :: Schweden
 sueco; sueca {adj} :: schwedisch
 Suiza {f} :: Schweiz {f}
-
 tailandés; tailandesa {adj} :: thailändisch; aus Thailand
 Tailandia :: Thailand
 Tayikistán :: Tadschikistan {n}
@@ -326,16 +312,13 @@ Tesino {m} :: Tessin {n}; Kanton Tessin {m}
 Tibet :: Tibet {n}
 Tirol :: Tirol {n}
 Transilvania :: Siebenbürgen {n}; Transsylvanien {n}
-#Túnez; Tunicia				Tunesien
 Túnez :: Tunesien
 Turingia {f} :: Thüringen {n}
 Turquía {f} :: Türkei {f}
-
 Ucrania :: Ukraine
 UE : Unión Europea {f} :: EU : Europäische Union {f}
 Montes Urales :: Ural
 Uruguay :: Uruguay
-
 vasco; vasca {adj} :: baskisch
 venezolano; venezolana {adj} :: venezolanisch; aus Venezuela
 Venezuela :: Venezuela
