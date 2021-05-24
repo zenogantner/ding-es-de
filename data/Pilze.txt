@@ -1,4 +1,4 @@
-# Copyright (C) 2005 Zeno Gantner
+# Copyright (C) 2005, 2021 Zeno Gantner
 #
 # This file is part of ding-es-de
 #
@@ -36,5 +36,6 @@ boleto comestible {m} :: Steinpilz {m}
 champiñón {m} :: Champignon {m}
 hongo {m} :: Pilz {m}
 moho {m} :: Schimmel {m}; Schimmelpilz {m}
+rebozuelo {m} :: Pfifferling {m}
 seta {f} :: Pilz {m}
-
+trufa {f} :: Trüffel {m}

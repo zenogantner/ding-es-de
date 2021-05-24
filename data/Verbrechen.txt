@@ -1,4 +1,4 @@
-# Copyright (C) 2003, 2004, 2005 Zeno Gantner
+# Copyright (C) 2003, 2004, 2005, 2021 Zeno Gantner
 # Copyright (C) 2004 Simon Kmiecik
 #
 # This file is part of ding-es-de
@@ -155,6 +155,7 @@ secuestrar :: entführen
 secuestro {m} :: Entführung {f}
 sobornar :: bestechen; schmieren
 soborno {m} :: Bestechung {f}
+soborno {m} :: Bestechungsgeld {n}
 sospecha {f} :: Verdacht {m}; Verdächtigung {f}; Misstrauen {n}
 sospechoso {m} :: Verdächtige {m}
 terrorismo {m} :: Terrorismus {m}

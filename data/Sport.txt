@@ -1,4 +1,4 @@
-# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2003, 2004, 2005, 2006, 2021 Zeno Gantner
 #
 # This file is part of ding-es-de
 #
@@ -33,7 +33,6 @@
 
 
 abdominal {f} :: Situp {f}; Sit-Up {f} [Sport]
-# TODO: Genus prüfen
 aficionada {f} :: Fan {m} [Sport]
 aficionado {m} :: Fan {m} [Sport]
 ala {f} :: Außenstürmer {m}; Außenstürmerin {f}
@@ -143,6 +142,8 @@ parapente {m} :: Gleitschirmfliegen {n}
 partido {m} :: Spiel {n}; Partie {f}
 pelota {f} :: Ball {m} [Sport]
 penalty {m} :: Elfmeter {m}; Strafstoß {m}; Penalty {m} [Österreich]
+pesa {f} :: Hantel {f}
+pesa rusa {f} :: Kettlebell {f}; Kugelhantel {f}
 perdedor {m} :: Verlierer {m}
 perder con alguien :: gegen jemanden verlieren
 portería {f} :: Tor {n} [Ballsport]
