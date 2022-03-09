@@ -1,5 +1,5 @@
 # Copyright (C) 2006, 2007, 2008, 2009, 2010, 2011, 2012 Matthias Buchmeier
-# Copyright (C) 2003, 2004, 2005, 2006, 2021 Zeno Gantner
+# Copyright (C) 2003, 2004, 2005, 2006, 2021, 2022 Zeno Gantner
 # Copyright (C) 2006 Klaus Meinke
 # Copyright (C) 2004 Simon Kmiecik
 #
@@ -2500,6 +2500,7 @@ carbonera {f} :: Kohlenkeller {m}
 carbónico {adj} :: Kohlen-
 carbonizar :: verkohlen
 carbón {m} :: Kohle {f}
+carbón de leña {f} :: Holzkohle {f}
 carbono {m} :: Kohlenstoff {m} \Elemente
 carburador {m} :: Vergaser {m}
 carcajada {f} :: lautes Gelächter {n}
@@ -9270,6 +9271,7 @@ leña {f} :: Holz {n}
 lencería {f} :: Wäsche {f}; Unterwäsche {f} (für Frauen)
 lengua {f} :: Zunge {f} \Körper
 lengua nativa {f} :: Muttersprache {f} \Sprachen
+leño {f} :: Holzscheit {n}
 lentamente {adv} :: langsam
 lenteja {f} :: Linsen {f} {pl} \Essen
 lente {m} :: Linse {f}
@@ -9648,8 +9650,9 @@ madeja {f} :: Bündel {n}
 madre {adj} :: Mutter-
 madre {adj} :: toll
 madrugada {f} :: Morgengrauen {n}; früher Morgen {m}
-madrugar {v} :: die Nacht durchmachen
+madrugar {v} :: die Nacht durchmachen; durchmachen
 madurar {v} :: reifen
+maduro {m} :: Holz {n}
 maestra {f} :: Handwerkerin {f} \Berufe
 maestra {f} :: Meisterin {f} \Berufe
 maestral {adj} :: Meister-; meisterlich
@@ -9822,6 +9825,7 @@ manso {adj} :: zahm; sanft; friedlich
 manso; mansa {adj} :: zahm; weich; sanft
 manta {f}; mantarraya {f} :: Manta {m}; Mantarochen {m} \Tiere
 manteca {f} :: Schmalz {m} \Essen
+mentaca de cerdo {f} :: Schweineschmalz {m} \Essen
 mantecoso {adj} :: fettig
 mantel {m} :: Tischdecke {f}
 mantención {f} :: Unterhalt {m}; Versorgung {f}; Unterhaltung {f}
@@ -11728,6 +11732,7 @@ partir {v} :: aufschneiden
 partir {v} :: aufteilen
 partir {v} :: zerbrechen
 partir {v} :: zerlegen; zertrennen
+partir leña :: Holz hacken
 parto {m} :: Geburt {f}
 parvo {adj} :: klein; gering
 parvularia {f} :: Kindergärtnerin {f} \Berufe
@@ -11749,7 +11754,7 @@ pasaje {m} :: Passage {f}; Einkaufspassage {f}
 pasaje {m} :: Passage {f}; Textstelle {f}
 pasaje {m} :: Übergang {m}
 pasajero {adj} :: vorübergehend
-pasajero {m}| pasajera {f} :: Beifahrer {m}| Beifahrerin {f} \Verkehr
+pasajero {m} | pasajera {f} :: Beifahrer {m}| Beifahrerin {f} \Verkehr
 pasajero {m} | pasajera {f} :: Passagier {m} | Passagierin {f} \Verkehr
 pasamano {m} :: Geländer {n}; Handlauf {m}
 pasante {m} :: Praktikant {m} \Arbeit
@@ -16622,6 +16627,8 @@ tamaño {m} :: Format {n}; Größe {f}
 también {adv} :: ebenfalls; auch
 tampoco {adv} :: auch nicht
 tan {adv} :: so
+tela {f} :: Leintuch {n}; Leinentuch {f}
+tela {f} :: Stoff {m}; Tuch {n}
 tela adhesiva {f} :: Klebeband {n}
 tener celos :: eifersüchtig sein \Gefühle
 tener flojera {v} :: keine Lust haben; faul sein

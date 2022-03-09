@@ -167,10 +167,10 @@ Estrasburgo :: Straßburg
 Etiopía :: Äthiopien
 Eurocopa {f} :: Fußball-Europameisterschaft {f}
 Europa Central {f} :: Mitteleuropa {n}
-Europa Meridional {f}; Europa del Sur {f} :: Südeuropa {n} 
+Europa Meridional {f}; Europa del Sur {f} :: Südeuropa {n}
 Europa Occidental {f} :: Westeuropa {n}
 Europa Oriental {f}; Europa del Este {f} :: Osteuropa
-Europa Septentrional {f}; Europa del Norte {f} :: Nordeuropa {n} 
+Europa Septentrional {f}; Europa del Norte {f} :: Nordeuropa {n}
 Europa {f} :: Europa {n}
 Filipinas {f} {pl} :: Philippinen {f} {pl}
 Finlandia :: Finnland
@@ -796,6 +796,7 @@ acordarse de {v} :: sich erinnern an
 acordarse {v} :: sich erinnern
 acordeón {m} :: Akkordeon {n}
 acordonar {v} :: festbinden
+acornoque {m} :: Korkeiche {f}
 acorralar {v} :: einzäunen; einsperren (Tiere)
 acortar {v} :: kürzen
 acosar :: belästigen; drangsalieren
@@ -1261,7 +1262,11 @@ alcantarilla {f} :: Abfluss {m}
 alcantarillado {m} :: Abwassersystem {n}
 alcanzable {adj} :: erreichbar
 alcanzar {v} :: erreichen
-alcatraz {f} [Am.] :: Pelikan {m}
+alcatraz atlántico {m} :: Basstölpel {m}
+alcatraz común {m} :: Basstölpel {m}
+alcatraz patiazul {m} :: Blaufußtölpel {m}
+alcatraz {m} :: Basstölpel {m}; Tölpel {m}
+alcatraz {m} [Am.] :: Pelikan {m}
 alcazuz {m} :: Süßholz {n}
 alce {m} :: Elch {m}
 alcohol de quemar {m} :: Brennspiritus {m}
@@ -3758,6 +3763,7 @@ carbonera {f} :: Kohlenkeller {m}
 carbonizar :: verkohlen
 carbono {m} :: Kohlenstoff {m}
 carburador {m} :: Vergaser {m}
+carbón de leña {f} :: Holzkohle {f}
 carbón {m} :: Kohle {f}
 carbónico {adj} :: Kohlen-
 carcajada {f} :: lautes Gelächter {n}
@@ -12130,6 +12136,7 @@ leyenda {f} :: Legende {f}
 leña {f} :: Brennholz {n}
 leña {f} :: Holz {n}
 leñador {m} :: Holzfäller {m}
+leño {f} :: Holzscheit {n}
 león marino {m} :: Seelöwe {m}
 león {m} :: Löwe {m}
 liado; liada {adj} :: liiert; gebunden
@@ -12557,6 +12564,7 @@ macizo {m} :: Massiv {n}
 macrodiscoteca {f} :: Großraumdisko {f}
 macroscópico {adj} :: makroskopisch
 madeja {f} :: Bündel {n}
+madera de roble {f} :: Eichenholz {n}
 madera {f} :: Holz {n}
 madrastra {f} :: Stiefmutter {f}
 madre {adj} :: Mutter-
@@ -12566,11 +12574,12 @@ madrileño; madrileña :: aus Madrid; Madrider
 madrina {f} :: Taufpatin {f}; Patentante {f}; Patin {f}
 madrugada {f} :: Morgengrauen {n}; früher Morgen {m}
 madrugada {f} :: früher Morgen {m}; frühe Morgenstunden {f} {pl}
-madrugar {v} :: die Nacht durchmachen
+madrugar {v} :: die Nacht durchmachen; durchmachen
 madrugar {v} :: früh aufstehen
 madurar {v} :: reifen
 madurez {f} :: Erwachsensein {f}; Reife {f}
 madurez {f} :: Reife {f}
+maduro {m} :: Holz {n}
 maduro; madura {adj} :: reif
 maestra {f} :: Handwerkerin {f}
 maestra {f} :: Lehrerin {f}; Grundschullehrerin {f}
@@ -13193,6 +13202,7 @@ mensualidad {f} :: Monatslohn {m}; Monatsgehalt {n}; Monatsrate {f}
 mensualidad {f} :: Monatsrate {f}; monatliche Zahlung {f}
 mensualmente {adv} :: monatlich
 menta {f} :: Minze {f}; Pfefferminze {f}
+mentaca de cerdo {f} :: Schweineschmalz {m}
 mental {adj} :: geistig
 mentalidad {f} :: Mentalität {f}
 mentalizar {v} :: verinnerlichen
@@ -15170,6 +15180,7 @@ partido político {m} :: Partei {f}; politische Partei {f}
 partido {m} :: Partei {f}; politische Partei {f}
 partido {m} :: Spiel {n}; Partie {f}
 partido {m} :: Spiel {n}; Partie {f}; Match {n} [Tennis]
+partir leña :: Holz hacken
 partir {v} :: abfahren
 partir {v} :: aufbrechen
 partir {v} :: aufschneiden
@@ -15212,8 +15223,8 @@ pasaje {m} :: Passage {f}; Einkaufspassage {f}
 pasaje {m} :: Passage {f}; Textstelle {f}
 pasaje {m} :: Übergang {m}
 pasajero {adj} :: vorübergehend
+pasajero {m} | pasajera {f} :: Beifahrer {m}| Beifahrerin {f}
 pasajero {m} | pasajera {f} :: Passagier {m} | Passagierin {f}
-pasajero {m}| pasajera {f} :: Beifahrer {m}| Beifahrerin {f}
 pasamano {m} :: Geländer {n}; Handlauf {m}
 pasante {m} :: Praktikant {m}
 pasantía {f} :: Praktikum {n}
@@ -16205,6 +16216,10 @@ pionero {m} :: Pionier {m}
 pipa {f} :: Pfeife {f}
 pipa {f} :: Weinfässchen {n}
 pique {m} :: Pik {n}
+piquero camanay {m} :: Blaufußtölpel {m}
+piquero patiazul {m} :: Blaufußtölpel {m}
+piquero patirrojo {m} :: Rotfußtölpel {m}
+piquero {m} :: Tölpel {m}
 pirado {adj} :: verrückt
 piragua {f} :: Einbaum {m}
 piragua {f} :: Kanu {n}
@@ -21005,6 +21020,8 @@ tejido {m} :: Stoff {m}
 tejidos {m} {pl} :: Textilien {n} {pl}
 tejo {m} :: Eibe {f}
 tela adhesiva {f} :: Klebeband {n}
+tela {f} :: Leintuch {n}; Leinentuch {f}
+tela {f} :: Stoff {m}; Tuch {n}
 tele {f} :: Fernsehen {n}
 televisión {f} :: Fernsehen {n}
 televisor {m} :: Fernsehgerät {n}; Fernseher {m}
@@ -21300,7 +21317,7 @@ vaso {m} :: Glas {n}
 vecina {f} :: Nachbarin {f}
 vecino {m} :: Nachbar {m}
 vecino; vecina {adj} :: benachbart
-vegetal :: pflanzlich
+vegetal {adj} :: pflanzlich
 vehículo {m} :: Fahrzeug {n}; Gefährt {n}; Vehikel {n}
 veinte :: zwanzig
 veintena :: zwanzig Stück

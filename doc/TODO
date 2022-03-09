@@ -15,7 +15,6 @@ Nächste Schritte:
  - [coloquial] --> [coloq.], [Medizin] --> [med.], [Zoologie] --> [zool.]
  - Korrekturvorschläge
  - check_entry.pl ab 'X' ausführen
- - Wörter_e.txt aufsplitten
  
  - Wortfelder automatisch generieren; nur noch alphabetisch geordnete Wortliste.
  - Genau prüfen ab 'an' (Tags, fehlende weibliche Formen)
@@ -38,8 +37,6 @@ Nächste Schritte:
 
 Irgendwann:
  - Eintrag.txt klar strukturieren, damit die Regeln einfach verständlich sind.
- - kleine Homepage (wurde bereits auf openfacts.berlios.de begonnen)
- - Bestimmte Wörter an aspell-Maintainer weitergeben.
  - doc/THANKS
  - Kurzen Text zur Motivation schreiben.
  - FIX bin/anmerkungen.pl

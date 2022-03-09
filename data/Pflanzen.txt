@@ -1,4 +1,4 @@
-# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2003, 2004, 2005, 2006, 2022 Zeno Gantner
 # Copyright (C) 2005 Nikolai Löwen
 #
 # This file is part of ding-es-de
@@ -39,7 +39,7 @@ botánica {f} :: Botanikerin {f}
 botánico; botánica :: botanisch
 flora {f} :: Flora {f}; Pflanzenwelt {f}
 planta {f} :: Pflanze {f}
-vegetal :: pflanzlich
+vegetal {adj} :: pflanzlich
 
 abedul {m} :: Birke {f}
 abedul {m} :: Birkenholz {n}
@@ -48,6 +48,7 @@ abeto blanco {m} :: Silbertanne {f}; Edeltanne {f}
 abeto rojo {m} :: Fichte {f}
 acacia {f} :: Akazie {f}
 aceituno {m} :: Olivenbaum {m}; Ölbaum {m}
+acornoque {m} :: Korkeiche {f}
 ajo {m} :: Knoblauch {m}
 álamo {m} :: Pappel {f}
 albaricoquero {m} :: Aprikosenbaum {m}
@@ -130,10 +131,9 @@ violeta {f} :: Veilchen {n}
 yedra {f} :: Efeu {m}
 yerba {f} :: Gras {n}
 yerbecilla {f} :: Gräschen {n}
-#prüfen
 zarza {f} :: Brombeere {f}; Brombeerstrauch {m}
 
-#Teile
+# Teile
 aceite esencial {m} :: ätherisches Öl {n}
 bellota {f} :: Eichel {f} [Botanik]
 cáscara {f} :: Schale {f}
@@ -143,6 +143,7 @@ espina {f} :: Dorn {m}; Stachel {m}
 flor {f} :: Blüte {f}
 hueso {m} :: Stein {m} (Olive)
 madera {f} :: Holz {n}
+madera de roble {f} :: Eichenholz {n}
 palma {f}; hoja de palma {f} :: Palmenblatt {n}; Palmblatt {n}
 piña {f} :: Zapfen {m}; Tannenzapfen {m}; Kiefernzapfen {m}; Pinienzapfen {m}
 pinocha {f} :: Piniennadel {f}; Kiefernnadel {f}

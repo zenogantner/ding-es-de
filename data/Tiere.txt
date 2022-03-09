@@ -1,4 +1,4 @@
-# Copyright (C) 2003, 2004, 2005, 2006, 2021 Zeno Gantner
+# Copyright (C) 2003, 2004, 2005, 2006, 2021, 2022 Zeno Gantner
 # Copyright (C) 2004 Simon Kmiecik
 #
 # This file is part of ding-es-de
@@ -41,7 +41,11 @@ abubilla {f} :: Wiedehopf {m} [Zoologie]
 águila {m} :: Adler {m}
 alacrán {m} :: Skorpion {m}
 albatros {m} :: Albatros {m}
-alcatraz {f} [Am.] :: Pelikan {m}
+alcatraz {m} :: Basstölpel {m}; Tölpel {m}
+alcatraz {m} [Am.] :: Pelikan {m}
+alcatraz atlántico {m} :: Basstölpel {m}
+alcatraz común {m} :: Basstölpel {m}
+alcatraz patiazul {m} :: Blaufußtölpel {m}
 alce {m} :: Elch {m}
 alpaca {f} :: Alpaka {n}
 alondra {f} :: Lerche {f}
@@ -181,6 +185,10 @@ pinzón {m} :: Buchfink {m}
 pinzón vulgar {m} :: Buchfink {m}
 pinzón real {m} :: Bergfink {m}
 piojo {m} :: Laus {f}
+piquero {m} :: Tölpel {m}
+piquero camanay {m} :: Blaufußtölpel {m}
+piquero patiazul {m} :: Blaufußtölpel {m}
+piquero patirrojo {m} :: Rotfußtölpel {m}
 pollito {m} :: Küken {n}
 polluelo {m} :: Küken {n}
 poni {m}; poney {m} :: Pony {n}
