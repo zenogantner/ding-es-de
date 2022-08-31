@@ -61,6 +61,8 @@ Andorra :: Andorra
 Angola :: Angola
 Antártida {f} :: Antarktis {f}
 antártico; antártica {adj} :: antarktisch
+árabe {adj} :: arabisch
+árabe {m} {f} :: Araber {m}; Araberin {f}
 Arabia :: Arabien
 Arabia Saudita; Arabia Saudí :: Saudi-Arabien
 Argelia {f} :: Algerien {n}
@@ -94,7 +96,7 @@ Birmania :: Birma; Burma
 Bolivia :: Bolivien
 Bósforo {m} :: Bosporus {m}
 Bosnia :: Bosnien
-Brandeburgo {m} :: Brandenburg {n}
+Brandeburgo {m}; Brandemburgo {m} :: Brandenburg {n}
 Brasil {m} :: Brasilien {n}
 británica; británico {adj} :: britisch
 Bulgaria :: Bulgarien

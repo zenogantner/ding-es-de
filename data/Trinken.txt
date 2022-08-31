@@ -1,4 +1,4 @@
-# Copyright (C) 2003, 2004, 2005, 2006 Zeno Gantner
+# Copyright (C) 2003, 2004, 2005, 2006, 2022 Zeno Gantner
 #
 # This file is part of ding-es-de
 #
@@ -124,6 +124,8 @@ taza {f} :: Tasse {f}
 abridor {m}; abridora {f} :: Öffner {m}; Flaschenöffner {m}
 
 leche {f} :: Milch {f}
+leche de vaca {f} :: Kuhmilch {f}
+leche entera {f} :: Vollmilch {f}
 nata {f} :: Sahne {f}
 té {m} :: Tee {m}
 tetera {f} :: Teekanne {f}

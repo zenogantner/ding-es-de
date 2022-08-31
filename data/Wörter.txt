@@ -9238,8 +9238,8 @@ lectura {f} :: Lesung {f}
 leer {v} :: ablesen
 leer {v} :: lesen
 leer {v} :: vorlesen
-legado {adj} :: anvertraut
-legado {m} :: Vermächtnis {n}; Hinterlassenschaft {f}
+legado, legada {adj} :: anvertraut
+legado {m} :: Vermächtnis {n}; Hinterlassenschaft {f}; Erbe {n}
 legal {adj} :: gesetzlich
 legal {adj} :: legal; gesetzmäßig; rechtmäßig
 legalidad {f} :: Legalität {f}; Rechtmäßigkeit {f}
@@ -12226,8 +12226,8 @@ perdón {m} :: Vergebung {f}
 perdón {m} :: Verzeihung {f}
 ¡perdón! :: Pardon!; Entschuldigung!: Verzeihung!
 perdurable {adj} :: dauerhaft
-perdurar {v} :: bestehen; bestehen bleiben
-perdurar {v} :: dauern
+perdurar {v} :: bestehen; bestehen bleiben; Bestand haben
+perdurar {v} :: dauern; andauern
 perdurar {v} :: fortbestehen; fortwähren
 perdurar {v} :: währen
 perecer {v} :: sterben; umkommen
